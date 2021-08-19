@@ -90,3 +90,35 @@ jobs:
 
       - name: push results
         uses: ./.github/actions/pull_rebase_push_retry
+
+  update_summaries:
+    needs: search
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+
+      - name: summarize the year
+        uses: ./.github/actions/generate_summaries
+        with:
+          ymd_option: '--year'
+          ymd_value: ${{ github.event.inputs.year }}
+          extras: '--recursive'
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ github.workflow }} for year ${{ github.event.inputs.year }}
+
+      - name: push results
+        uses: ./.github/actions/pull_rebase_push_retry
