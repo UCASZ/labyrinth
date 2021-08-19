@@ -1,0 +1,11 @@
+
+# Summary for results/2016/03/09
+    
+4 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| AuScope/VEGL-Portal | The Virtual Geophysics Laboratory (VGL) is a scientific workflow portal that provides Geophysicists with access to an integrated environment that exploits eResearch tools and Cloud computing technology. | https://github.com/AuScope/VEGL-Portal | ['exploit'] | 1 | 2016-03-09 14:27:51+00:00 | 30241 | 2 | JavaScript | 7 |
+| ywag/DeserializationVulnerabilityExploit | None | https://github.com/ywag/DeserializationVulnerabilityExploit | ['exploit'] | 1 | 2016-03-09 21:04:02+00:00 | 0 | 0 | Java | 0 |
+| snuchycovich/youpubers | Projet tutoré - Collecte et exploitation de données GPS - PHP, Angular.js, Leaflet.js, Json | https://github.com/snuchycovich/youpubers | ['exploit'] | 1 | 2016-03-09 20:55:29+00:00 | 839 | 0 | JavaScript | 1 |
+| pratik-pato/CS_shellcode_boe | Cyber Security | https://github.com/pratik-pato/CS_shellcode_boe | ['shellcode'] | 1 | 2016-03-09 11:43:13+00:00 | 0 | 0 | nan | 0 |

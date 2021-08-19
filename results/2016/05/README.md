@@ -1,0 +1,113 @@
+
+# Summary for results/2016/05
+    
+106 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| zcutlip/exploit-poc | Proof-of-Concept code for exploits | https://github.com/zcutlip/exploit-poc | ['exploit'] | 1 | 2016-05-05 03:10:35+00:00 | 11015 | 81 | Python | 29 |
+| omnipotentuser/vri-webrtc | Engine that powers the OpenVRI which exploits peerconnection implementation as a module | https://github.com/omnipotentuser/vri-webrtc | ['exploit'] | 1 | 2016-05-23 02:09:16+00:00 | 36 | 0 | JavaScript | 0 |
+| hexx0r/CVE-2015-6132 | Microsoft Office / COM Object DLL Planting | https://github.com/hexx0r/CVE-2015-6132 | ['cve-2'] | 1 | 2016-05-14 14:31:23+00:00 | 29 | 14 | nan | 12 |
+| takukawasaki/some_shellcode | nan | https://github.com/takukawasaki/some_shellcode | ['shellcode'] | 1 | 2016-05-14 13:38:59+00:00 | 341 | 0 | Assembly | 0 |
+| blackdebian/study_case_exploit_socket | study case exploit socket linux | https://github.com/blackdebian/study_case_exploit_socket | ['exploit'] | 1 | 2016-05-13 20:19:50+00:00 | 0 | 0 | nan | 0 |
+| chango77747/ReverseShell | Simple C# reverse shell with shellcode and process injection | https://github.com/chango77747/ReverseShell | ['shellcode'] | 1 | 2016-05-13 18:21:09+00:00 | 97 | 38 | C# | 19 |
+| KbaHaxor/cbcExploit | Padding Oracle and bit flipping attacks | https://github.com/KbaHaxor/cbcExploit | ['exploit'] | 1 | 2016-05-04 20:39:08+00:00 | 7 | 1 | Python | 1 |
+| servalan0x7c2/crysknife | A CTF framework and exploit development library. | https://github.com/servalan0x7c2/crysknife | ['exploit'] | 1 | 2016-05-12 21:28:05+00:00 | 2 | 0 | Ruby | 0 |
+| vinayaksuresh/QuantumComputers | A seminar on the latest computing technique which exploits the amazing laws of Quantum Computers. | https://github.com/vinayaksuresh/QuantumComputers | ['exploit'] | 1 | 2016-05-12 15:39:19+00:00 | 0 | 0 | | 0 |
+| abhi195/Tiny-Shell | Tiny Shell with basic job control. It will execute basic linux commands of JOB controls like FG,BG and JOBS. | https://github.com/abhi195/Tiny-Shell | ['shellcode'] | 1 | 2016-05-11 12:18:01+00:00 | 12 | 1 | C | 1 |
+| margusmartsepp/Rce | Renting construction equipment. | https://github.com/margusmartsepp/Rce | ['rce'] | 1 | 2016-05-12 03:09:35+00:00 | 19 | 0 | C# | 0 |
+| abdsec/CVE-2016-0801 | nan | https://github.com/abdsec/CVE-2016-0801 | ['cve-2'] | 1 | 2016-05-13 11:36:17+00:00 | 6 | 83 | C | 36 |
+| daanhenkek/ExploitLauncher | None | https://github.com/daanhenkek/ExploitLauncher | ['exploit'] | 1 | 2016-05-11 16:41:14+00:00 | 612 | 0 | JavaScript | 0 |
+| paraply/ExploitPermissions | None | https://github.com/paraply/ExploitPermissions | ['exploit'] | 1 | 2016-05-11 11:59:37+00:00 | 91 | 0 | Java | 0 |
+| FloatingGuy/ebpf_mapfd_doubleput_exploit | UAF-Root, ubuntu 16.04 (kernel 4.4) | https://github.com/FloatingGuy/ebpf_mapfd_doubleput_exploit | ['exploit'] | 1 | 2016-05-10 07:39:55+00:00 | 3 | 1 | C | 1 |
+| rajatgl17/rcew | nan | https://github.com/rajatgl17/rcew | ['rce'] | 1 | 2016-05-09 12:30:16+00:00 | 3561 | 0 | Java | 0 |
+| Sorvigolova/vitasploit | PlayStation Vita native exploitation framework | https://github.com/Sorvigolova/vitasploit | ['exploit'] | 1 | 2016-05-08 20:11:03+00:00 | 116 | 5 | JavaScript | 0 |
+| adelashraf/upnp | upnp exploits for malware and broke firewall | https://github.com/adelashraf/upnp | ['exploit'] | 1 | 2016-05-11 14:19:15+00:00 | 22 | 4 | Python | 0 |
+| hexx0r/CVE-2016-0051 | nan | https://github.com/hexx0r/CVE-2016-0051 | ['cve-2'] | 1 | 2016-05-10 22:41:12+00:00 | 10417 | 39 | nan | 16 |
+| kr1shn4murt1/exploit_Information_Disclosure_Multiproceso | Exploit contra vulnerabilidad de information disclosure en dos versiones: un solo hilo y multiproceso (Muy rapido) | https://github.com/kr1shn4murt1/exploit_Information_Disclosure_Multiproceso | ['exploit'] | 1 | 2016-05-07 18:22:47+00:00 | 19 | 0 | Python | 0 |
+| styx00/DNN_CVE-2015-2794 | NSE plugin for Nmap that scans a DotNetNuke (DNN) web application for an Administration Authentication Bypass vulnerability (CVE-2015-2794, EDB-ID: 39777). | https://github.com/styx00/DNN_CVE-2015-2794 | ['cve-2'] | 1 | 2016-05-07 12:35:47+00:00 | 5 | 0 | Lua | 2 |
+| Hood3dRob1n/CVE-2016-3714 | ImaegMagick Code Execution (CVE-2016-3714) | https://github.com/Hood3dRob1n/CVE-2016-3714 | ['cve-2'] | 1 | 2016-05-07 17:26:47+00:00 | 11 | 63 | Python | 39 |
+| kr1shn4murt1/exploit_Drupal_7 | Exploit contra vulnerabilidades de drupal 6 y 7 (Information Disclosure - Authenticacion bypass) | https://github.com/kr1shn4murt1/exploit_Drupal_7 | ['exploit'] | 1 | 2016-05-07 05:49:08+00:00 | 18 | 1 | Python | 0 |
+| shuangjj/owl4droid-models | Learning based Android abnormality detection. It exploits the sensor data on Android phones as features to learn user preference on using apps. | https://github.com/shuangjj/owl4droid-models | ['exploit'] | 1 | 2016-05-06 15:13:26+00:00 | 29 | 0 | Python | 0 |
+| adamnoakes/exploits | None | https://github.com/adamnoakes/exploits | ['exploit'] | 1 | 2016-05-06 09:09:42+00:00 | 0 | 0 | Shell | 0 |
+| zsaurus/CVE-2016-0801-test | Test modified buggy poc | https://github.com/zsaurus/CVE-2016-0801-test | ['cve poc', 'cve-2'] | 2 | 2016-05-15 04:16:14+00:00 | 11 | 0 | C | 1 |
+| ronenpi18/overflow_exploit_and | None | https://github.com/ronenpi18/overflow_exploit_and | ['exploit'] | 1 | 2016-05-15 21:19:36+00:00 | 2897 | 0 | Python | 1 |
+| CERT-Polska/hsn2-swf-cve | nan | https://github.com/CERT-Polska/hsn2-swf-cve | ['cve-2'] | 1 | 2016-05-04 11:25:37+00:00 | 78 | 1 | Java | 1 |
+| fireworm0/tplink | exploit TP LINK | https://github.com/fireworm0/tplink | ['exploit'] | 1 | 2016-05-17 06:11:39+00:00 | 15 | 1 | | 4 |
+| 26597925/cve_data | collect some poc about cve | https://github.com/26597925/cve_data | ['cve poc'] | 1 | 2016-05-26 10:17:53+00:00 | 1694 | 0 | C | 0 |
+| gitcollect/Aleph1_SmashStack | Implementation of the programs and exploits taken from the article "Smashing The Stack For Fun And Profit" by Aleph1 | https://github.com/gitcollect/Aleph1_SmashStack | ['exploit'] | 1 | 2016-05-11 17:42:44+00:00 | 791 | 0 | C | 0 |
+| KbaHaxor/exploits | All kinds of exploit code | https://github.com/KbaHaxor/exploits | ['exploit'] | 1 | 2016-05-29 13:11:39+00:00 | 3 | 0 | Ruby | 0 |
+| summitt/sploits-default | Default sploit definitions to be uses with the sploits burpsuite plugin | https://github.com/summitt/sploits-default | ['sploit'] | 1 | 2016-05-31 16:38:38+00:00 | 15 | 1 | nan | 2 |
+| your-favorite-hacker/shellcode | Shellcode Workshops | https://github.com/your-favorite-hacker/shellcode | ['shellcode'] | 1 | 2016-05-30 07:11:25+00:00 | 251 | 0 | Assembly | 0 |
+| OsandaMalith/CVE-2015-4870 | MySQL DoS in the Procedure Analyse Function – CVE-2015-4870 | https://github.com/OsandaMalith/CVE-2015-4870 | ['cve-2'] | 1 | 2016-05-30 04:42:13+00:00 | 2 | 2 | Python | 2 |
+| buffet-time/minorGmodAntiLennyScriptsScript | A small little script that will kick people if they use the Lenny Scripts addon for Gmod. (A popular server exploiting addon) | https://github.com/buffet-time/minorGmodAntiLennyScriptsScript | ['exploit'] | 1 | 2016-05-29 03:04:32+00:00 | 1 | 0 | Lua | 0 |
+| siberas/arpwn | Analysis tools and exploit sample scripts for Adobe Reader 10/11 and Acrobat Reader DC | https://github.com/siberas/arpwn | ['exploit'] | 1 | 2016-05-28 15:28:48+00:00 | 5558 | 68 | Python | 28 |
+| dalofeco/OSX-Pineapple-Backdoor | A collection of python-based scripts that exploit a privilege escalation vulnerability in OS X versions 10.10.2 - 10.10.5 and sets up a listening client that allows custom backdoor activities. | https://github.com/dalofeco/OSX-Pineapple-Backdoor | ['exploit'] | 1 | 2016-05-27 00:16:53+00:00 | 14 | 2 | Python | 1 |
+| sidheshenator/Remote-Exec-Shellcode | nan | https://github.com/sidheshenator/Remote-Exec-Shellcode | ['shellcode'] | 1 | 2016-05-26 21:17:25+00:00 | 0 | 0 | nan | 0 |
+| gregdhill/gsplayer1.83aExploit | Example Buffer Overflow Exploit | https://github.com/gregdhill/gsplayer1.83aExploit | ['exploit'] | 1 | 2016-05-25 20:01:05+00:00 | 793 | 0 | Perl | 0 |
+| mohanad-mw3/Pastejacking | Pastejacking Exploit | https://github.com/mohanad-mw3/Pastejacking | ['exploit'] | 1 | 2016-05-25 15:56:32+00:00 | 1 | 0 | HTML | 0 |
+| shura35/exploit | None | https://github.com/shura35/exploit | ['exploit'] | 1 | 2016-05-25 12:50:18+00:00 | 0 | 0 | | 0 |
+| brianwrf/Magento-CVE-2016-4010 | Magento Unauthorized Remote Code Execution (CVE-2016-4010) | https://github.com/brianwrf/Magento-CVE-2016-4010 | ['cve-2', 'remote code execution'] | 2 | 2016-05-25 08:03:20+00:00 | 51 | 4 | nan | 4 |
+| h0ng10/powerfolder-exploit-poc | PoC exploit for Java deserialization vulnerability in Powerfolder server | https://github.com/h0ng10/powerfolder-exploit-poc | ['exploit', 'vulnerability poc'] | 2 | 2016-05-24 07:57:01+00:00 | 12492 | 0 | Java | 0 |
+| LuaxY/XSSRF | Fake image upload - XSS & CSRF exploit manager | https://github.com/LuaxY/XSSRF | ['exploit'] | 1 | 2016-05-25 18:58:43+00:00 | 119 | 1 | PHP | 0 |
+| theavi41/k-toolkit | This is a kali linux based toolkit for making exploits easily, with this user can easily create exploit and attack on traget, | https://github.com/theavi41/k-toolkit | ['exploit'] | 1 | 2016-05-21 14:57:34+00:00 | 0 | 0 | nan | 0 |
+| lookuga/FireFoxOSRemoteInformationDumpSyncExploit | None | https://github.com/lookuga/FireFoxOSRemoteInformationDumpSyncExploit | ['exploit'] | 1 | 2016-05-20 19:46:34+00:00 | 8 | 0 | C# | 0 |
+| ManyFace/AndroidHeap | Some exercises to understand Android heap exploit | https://github.com/ManyFace/AndroidHeap | ['exploit'] | 1 | 2016-05-20 02:43:12+00:00 | 4801 | 6 | Python | 6 |
+| dbagno/Musical-Space-Invaders | Musical Space Invaders 2011 User Manual and Methodology r3 HISTORY Musical Space Invaders was first released in 1997. Since then it has been the premier musical arcade game for learning to read music. I first started developing musical education software i | https://github.com/dbagno/Musical-Space-Invaders | ['exploit'] | 1 | 2016-05-18 23:39:46+00:00 | 15142 | 2 | nan | 1 |
+| jasondellaluce/arm9loaderhax-keyfinder | AES Key Bruteforcer, used to disclose proper keys for Arm9LoaderHax exploit | https://github.com/jasondellaluce/arm9loaderhax-keyfinder | ['exploit'] | 1 | 2016-05-19 13:24:44+00:00 | 46 | 9 | C | 3 |
+| elhack/elhack_sploit | nan | https://github.com/elhack/elhack_sploit | ['sploit'] | 1 | 2016-05-17 20:09:14+00:00 | 6 | 0 | nan | 0 |
+| jb-networks/Pligg-2.0.2-RCE-Proof-Of-Concept | Pligg 2.0.2 - Remote Code Execution - Proof of Concept | https://github.com/jb-networks/Pligg-2.0.2-RCE-Proof-Of-Concept | ['rce', 'remote code execution'] | 2 | 2016-05-17 09:47:18+00:00 | 1 | 1 | PHP | 0 |
+| bjh7242/wp-emailing-subscription-rce-poc | RCE PoC through stored XSS for emailing subscription wp plugin. This PoC was tested against version 1.4.1 of the plugin. Plugin: https://wordpress.org/plugins/email-suscripcion/ | https://github.com/bjh7242/wp-emailing-subscription-rce-poc | ['rce', 'rce poc'] | 2 | 2016-05-06 06:29:05+00:00 | 8 | 0 | Python | 0 |
+| laginimaineb/WarOfTheWorlds | QSEE Shellcode to directly hijack the "Normal World" Linux Kernel | https://github.com/laginimaineb/WarOfTheWorlds | ['shellcode'] | 1 | 2016-05-05 19:10:29+00:00 | 24 | 44 | C | 16 |
+| jpeanut/ImageTragick-CVE-2016-3714-RShell | nan | https://github.com/jpeanut/ImageTragick-CVE-2016-3714-RShell | ['cve-2'] | 1 | 2016-05-29 17:27:10+00:00 | 10 | 16 | nan | 4 |
+| chusiang/CVE-2016-3714.ansible.role | Fix ImageMagick Command Injection (CVE-2016-3714) with Ansible. | https://github.com/chusiang/CVE-2016-3714.ansible.role | ['command injection', 'cve-2'] | 2 | 2016-05-11 11:02:57+00:00 | 22 | 1 | Makefile | 2 |
+| ufrisk/shellcode64 | A minimal tool to extract shellcode from 64-bit PE binaries. | https://github.com/ufrisk/shellcode64 | ['shellcode'] | 1 | 2016-05-05 08:44:53+00:00 | 67 | 34 | C | 10 |
+| MarieAurelle/Systeme-exploit | Projet | https://github.com/MarieAurelle/Systeme-exploit | ['exploit'] | 1 | 2016-05-04 13:06:41+00:00 | 336 | 0 | C | 0 |
+| Matir/pwnpattern | Create patterns for binary exploitation. | https://github.com/Matir/pwnpattern | ['exploit'] | 1 | 2016-05-15 03:21:24+00:00 | 1 | 4 | Python | 2 |
+| Invertex/WiiU-BIN2MP4 | Converts code.bin files to the .mp4 exploit similar to the PHP launching method | https://github.com/Invertex/WiiU-BIN2MP4 | ['exploit'] | 1 | 2016-05-05 10:40:13+00:00 | 232 | 2 | C# | 1 |
+| sno0ose/Old-Invoke--Shellcode | nan | https://github.com/sno0ose/Old-Invoke--Shellcode | ['shellcode'] | 1 | 2016-05-29 17:19:56+00:00 | 8 | 1 | PowerShell | 1 |
+| RutgersCyberKnights/BinaryExploitation | None | https://github.com/RutgersCyberKnights/BinaryExploitation | ['exploit'] | 1 | 2016-05-20 20:50:34+00:00 | 25 | 12 | C | 2 |
+| martinmocko/zerodayexploit.github.io | FIIT student, big data enthusiast | https://github.com/martinmocko/zerodayexploit.github.io | ['zeroday'] | 1 | 2016-05-12 10:27:17+00:00 | 22 | 0 | HTML | 0 |
+| Kienen/rcevent | nan | https://github.com/Kienen/rcevent | ['rce'] | 1 | 2016-05-07 01:23:29+00:00 | 2362 | 1 | Python | 0 |
+| koczkatamas/CVE-2016-0051 | EoP (Win7) & BSoD (Win10) PoC for CVE-2016-0051 (MS-016) | https://github.com/koczkatamas/CVE-2016-0051 | ['cve poc', 'cve-2'] | 2 | 2016-05-09 17:53:48+00:00 | 2429 | 328 | C# | 151 |
+| galeone/Rods | Visual inspection of motorcycle connecting rods. Improves the result of the watershed algorithm exploiting the domain knowledge | https://github.com/galeone/Rods | ['exploit'] | 1 | 2016-05-28 12:44:06+00:00 | 552 | 0 | C++ | 1 |
+| dfmadrid/reversingwin64 | Examples used in the series of articles about reversing and exploiting in Windows 64 bits platforms published at www.sidertia.com | https://github.com/dfmadrid/reversingwin64 | ['exploit'] | 1 | 2016-05-21 22:46:29+00:00 | 31 | 1 | nan | 0 |
+| okabsd/mtd | Just-in-time dependency injection of command line options for executable contexts in Node.js | https://github.com/okabsd/mtd | ['command injection'] | 1 | 2016-05-25 23:28:36+00:00 | 50 | 0 | TypeScript | 0 |
+| 0xcc-labs/Exploit-POCs | nan | https://github.com/0xcc-labs/Exploit-POCs | ['exploit'] | 1 | 2016-05-09 14:53:16+00:00 | 5 | 17 | Python | 11 |
+| concise/logjam-attack-poc | An implementation of the concepts behind the Logjam attack | https://github.com/concise/logjam-attack-poc | ['attack poc'] | 1 | 2016-05-01 08:23:16+00:00 | 1976 | 10 | C | 2 |
+| TangentFoxy/TiddlyNomic | (FINISHED) Exploiting TiddlyWiki to run a game of Nomic. | https://github.com/TangentFoxy/TiddlyNomic | ['exploit'] | 1 | 2016-05-12 04:37:21+00:00 | 1186 | 1 | HTML | 1 |
+| 0ang3el/Hibernate-Injection-Study | Study about HQL injection exploitation. | https://github.com/0ang3el/Hibernate-Injection-Study | ['exploit'] | 1 | 2016-05-15 16:40:51+00:00 | 11 | 43 | Perl | 16 |
+| atone/ReviewSummarizer | source and data for Product Review Summarization by Exploiting Phrase Properties | https://github.com/atone/ReviewSummarizer | ['exploit'] | 1 | 2016-05-23 07:13:37+00:00 | 22008 | 0 | Java | 3 |
+| brianlechthaler/mintypwn | a pocket-sized, teensy-based HID emulator used to exploit the targeted computer's trust of USB keyboards and mice. | https://github.com/brianlechthaler/mintypwn | ['exploit'] | 1 | 2016-05-30 16:35:30+00:00 | 18855 | 6 | Arduino | 3 |
+| InterGenStudios/exBOMBER | A linux server hack/exploit-finder suite | https://github.com/InterGenStudios/exBOMBER | ['exploit'] | 1 | 2016-05-27 03:36:43+00:00 | 150 | 8 | Shell | 3 |
+| vadimkotov/runsc | Run shellcode in a debugger | https://github.com/vadimkotov/runsc | ['shellcode'] | 1 | 2016-05-03 07:10:41+00:00 | 1 | 1 | C | 0 |
+| snarlysodboxer/sploitinator | Run Metasploit modules against known hosts and ports, notify of vulnerabilities. | https://github.com/snarlysodboxer/sploitinator | ['sploit'] | 1 | 2016-05-07 06:55:51+00:00 | 236 | 5 | Go | 2 |
+| vperpl/Lsharp | Exploits | https://github.com/vperpl/Lsharp | ['exploit'] | 1 | 2016-05-11 12:56:58+00:00 | 61 | 5 | C# | 12 |
+| dyjakan/fusion | exploit-exercises.com | https://github.com/dyjakan/fusion | ['exploit'] | 1 | 2016-05-19 20:16:07+00:00 | 6 | 1 | Python | 1 |
+| davidsilveiro/TweetSploit | TweetSploit - Is a twitter Marketing Suite allowing for a nice and simple interface, from which you can access and automate Twitter marketing with ease. | https://github.com/davidsilveiro/TweetSploit | ['sploit'] | 1 | 2016-05-18 01:36:52+00:00 | 22 | 20 | Python | 5 |
+| theRegex/Audio-Security-JS | Exploiting a way to create stream audio without an audio tag . | https://github.com/theRegex/Audio-Security-JS | ['exploit'] | 1 | 2016-05-03 19:33:25+00:00 | 3006 | 1 | JavaScript | 0 |
+| whu-enjoy/CVE-2015-8660 | 这个代码包含了CVE-2015-8660漏洞的利用代码，还有注释，出现问题的源代码，打了补丁后的代码 | https://github.com/whu-enjoy/CVE-2015-8660 | ['cve-2'] | 1 | 2016-05-17 12:52:40+00:00 | 1255 | 3 | C | 1 |
+| WickedDevice/MotorShieldServoRCExample | nan | https://github.com/WickedDevice/MotorShieldServoRCExample | ['rce'] | 1 | 2016-05-03 02:08:42+00:00 | 1 | 0 | Arduino | 2 |
+| saka8490/SSL-Checker | Using exploits to make SSL Checker Automate tasks | https://github.com/saka8490/SSL-Checker | ['exploit'] | 1 | 2016-05-05 03:43:14+00:00 | 0 | 0 | | 0 |
+| jmetzman/MemoryExploitsLab | None | https://github.com/jmetzman/MemoryExploitsLab | ['exploit'] | 1 | 2016-05-17 17:17:59+00:00 | 73 | 1 | C | 0 |
+| fabiosammy/seg-exploit | Exemplo de docker com php para testes de exploits | https://github.com/fabiosammy/seg-exploit | ['exploit'] | 1 | 2016-05-05 00:19:28+00:00 | 0 | 0 | | 0 |
+| tmfink/brain-repl-ctf-problem | Binary exploitation CTF problem/solution | https://github.com/tmfink/brain-repl-ctf-problem | ['exploit'] | 1 | 2016-05-07 20:05:35+00:00 | 13 | 3 | Python | 1 |
+| tommiionfire/CVE-2016-3714 | nan | https://github.com/tommiionfire/CVE-2016-3714 | ['cve-2'] | 1 | 2016-05-04 10:32:33+00:00 | 1 | 0 | Shell | 1 |
+| PriyenMunien/shellcodeMikeGeig | nan | https://github.com/PriyenMunien/shellcodeMikeGeig | ['shellcode'] | 1 | 2016-05-04 09:41:53+00:00 | 0 | 0 | nan | 0 |
+| xpn/MoarExploits | A collection of developed exploits | https://github.com/xpn/MoarExploits | ['exploit'] | 1 | 2016-05-03 21:56:29+00:00 | 2 | 3 | C | 3 |
+| jerrylemonwontstop/dockerAgro | playing with docker exploits | https://github.com/jerrylemonwontstop/dockerAgro | ['exploit'] | 1 | 2016-05-03 15:50:46+00:00 | 0 | 0 | | 0 |
+| E-Fensive/Ransack | Ransack Post Exploitation Tool | https://github.com/E-Fensive/Ransack | ['exploit'] | 1 | 2016-05-03 14:17:30+00:00 | 17 | 18 | Shell | 6 |
+| ImageTragick/PoCs | Proof of Concepts for CVE-2016–3714 | https://github.com/ImageTragick/PoCs | ['cve poc'] | 1 | 2016-05-23 17:45:55+00:00 | 23 | 474 | Shell | 161 |
+| helloitu/PS4-Playground-PT-BR-Remake | Complete Tests of experiments using CTurt Webkit Exploit | https://github.com/helloitu/PS4-Playground-PT-BR-Remake | ['exploit'] | 1 | 2016-05-02 21:09:31+00:00 | 56 | 1 | JavaScript | 0 |
+| julianmunoz/Rails-Dynamic-Render-vuln | POC for CVE 2016-0752 | https://github.com/julianmunoz/Rails-Dynamic-Render-vuln | ['cve poc'] | 1 | 2016-05-20 23:52:34+00:00 | 2 | 0 | Python | 0 |
+| jmetzman/exploits-lab | None | https://github.com/jmetzman/exploits-lab | ['exploit'] | 1 | 2016-05-02 18:35:06+00:00 | 5 | 0 | C | 0 |
+| securifera/CVE-2015-8277-Exploit | None | https://github.com/securifera/CVE-2015-8277-Exploit | ['cve-2', 'exploit'] | 2 | 2016-05-02 13:48:14+00:00 | 5 | 4 | Python | 4 |
+| dzonerzy/acunetix_0day | Acunetix 0day RCE | https://github.com/dzonerzy/acunetix_0day | ['0day', 'rce'] | 2 | 2016-05-02 13:38:23+00:00 | 14 | 174 | Python | 60 |
+| GilbertoParedes/Blog_Exploit | Comunidad/Desarrollo | https://github.com/GilbertoParedes/Blog_Exploit | ['exploit'] | 1 | 2016-05-02 01:28:55+00:00 | 0 | 0 | | 0 |
+| sin4ts/CVE2014-3153 | None | https://github.com/sin4ts/CVE2014-3153 | ['cve-2'] | 1 | 2016-05-15 12:36:01+00:00 | 10 | 1 | C | 1 |
+| shinyquagsire23/v_hax | 3DS Userland Exploit for VVVVVV v1.0 | https://github.com/shinyquagsire23/v_hax | ['exploit'] | 1 | 2016-05-01 05:26:47+00:00 | 29 | 13 | C | 0 |
+| secfigo/exploit-dev-series | Exploit research series - Null Singapore workshop | https://github.com/secfigo/exploit-dev-series | ['exploit'] | 1 | 2016-05-03 07:10:49+00:00 | 26 | 7 | Python | 9 |
+| kringz/sploit-code | nan | https://github.com/kringz/sploit-code | ['sploit'] | 1 | 2016-05-12 20:32:56+00:00 | 32 | 0 | C | 0 |
+| cesarghali/hacking | Exercises from "Hacking: The Art of Exploitation" | https://github.com/cesarghali/hacking | ['exploit'] | 1 | 2016-05-04 01:16:53+00:00 | 6 | 1 | C | 2 |
+| comeste10/csc-791 | Software Exploitation | https://github.com/comeste10/csc-791 | ['exploit'] | 1 | 2016-05-08 00:05:46+00:00 | 16 | 0 | Python | 0 |
+| Tink2Hack/x86-Assembly-Language-and-Shellcoding-on-Linux | Shellcoding on Linux | https://github.com/Tink2Hack/x86-Assembly-Language-and-Shellcoding-on-Linux | ['shellcode'] | 1 | 2016-05-20 19:24:43+00:00 | 322 | 0 | Assembly | 14 |
