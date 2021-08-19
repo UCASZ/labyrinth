@@ -1,0 +1,17 @@
+
+# Summary for results/2017/11/23
+    
+10 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| tr3ee/docker-pwnbox | pwnbox is a docker image built for binary analysis e.g. reverse engineer, exploit, isolated execution. | https://github.com/tr3ee/docker-pwnbox | ['exploit'] | 1 | 2017-11-23 14:22:02+00:00 | 608 | 0 | Shell | 0 |
+| hackersatcambridge/binary-exploitation | None | https://github.com/hackersatcambridge/binary-exploitation | ['exploit'] | 1 | 2017-11-23 14:25:27+00:00 | 4131 | 4 | CSS | 2 |
+| The404Hacking/BruteSploit | BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and maybe can be used in CTF for manipulation,combine,transform and permutati | https://github.com/The404Hacking/BruteSploit | ['sploit'] | 1 | 2017-11-23 05:31:20+00:00 | 6893 | 25 | Shell | 13 |
+| omerlh/timing-attack-poc | nan | https://github.com/omerlh/timing-attack-poc | ['attack poc'] | 1 | 2017-11-23 19:57:52+00:00 | 5 | 1 | JavaScript | 0 |
+| shollybobs/Broadcast-Authentication | Public Key Cryptography (PKC) is widely used for broadcast authentication. Intensive use of PKC for broadcast authentication, however, is thought to be expensive to resource constrained sensor nodes. In this paper, we propose a novel PKC based broadcast au | https://github.com/shollybobs/Broadcast-Authentication | ['exploit'] | 1 | 2017-11-23 09:41:46+00:00 | 0 | 0 | | 0 |
+| shollybobs/BroadcastAuthentication | Public Key Cryptography (PKC) is widely used for broadcast authentication. Intensive use of PKC for broadcast authentication, however, is thought to be expensive to resource constrained sensor nodes. In this paper, we propose a novel PKC based broadcast au | https://github.com/shollybobs/BroadcastAuthentication | ['exploit'] | 1 | 2017-11-23 10:10:02+00:00 | 4042 | 0 | Java | 2 |
+| jpgonema/BilanROE | Exploitation, visualisation des résultats ROE s'appuyant sur javascript | https://github.com/jpgonema/BilanROE | ['exploit'] | 1 | 2017-11-23 10:41:17+00:00 | 0 | 0 | | 0 |
+| danbaragan/race-to-empty-with-invariants | ethereum race to empty exploit example bypassing certain combination of invariants and too early external effects | https://github.com/danbaragan/race-to-empty-with-invariants | ['exploit'] | 1 | 2017-11-23 15:23:07+00:00 | 5 | 0 | JavaScript | 0 |
+| 0x00-0x00/CVE-2014-6271 | Shellshock exploitation script that is able to upload and RCE using any vector due to its versatility. | https://github.com/0x00-0x00/CVE-2014-6271 | ['cve-2', 'exploit', 'rce'] | 3 | 2017-11-23 14:53:58+00:00 | 2 | 3 | Python | 2 |
+| AlexxNica/exploit-database-root-db | exploit-database-root-db | https://github.com/AlexxNica/exploit-database-root-db | ['exploit'] | 1 | 2017-11-23 18:55:55+00:00 | 0 | 0 | | 7 |

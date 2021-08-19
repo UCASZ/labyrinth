@@ -1,0 +1,14 @@
+
+# Summary for results/2017/12/25
+    
+7 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| Ethic41/c_codes | C codes from the book "hacking the art of exploitation" | https://github.com/Ethic41/c_codes | ['exploit'] | 1 | 2017-12-25 16:39:16+00:00 | 104 | 0 | C | 0 |
+| amandazhuyilan/Software-Security | Notes and exploit examples on computer security vulnerabilities. | https://github.com/amandazhuyilan/Software-Security | ['exploit'] | 1 | 2017-12-25 02:03:54+00:00 | 46280 | 0 | C | 1 |
+| Hax4us/androtoolkit | Androtoolkit can use in termux to create payload , install metasploit & ngrok also :) | https://github.com/Hax4us/androtoolkit | ['metasploit module OR metasploit payload'] | 1 | 2017-12-25 09:48:24+00:00 | 14 | 37 | Shell | 14 |
+| s3xy/CVE-2017-10271 | Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: WLS Security). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.1.0 and 12.2.1.2.0. Easily exploitable vulnerability allows unauthentica | https://github.com/s3xy/CVE-2017-10271 | ['cve-2', 'exploit'] | 2 | 2017-12-25 06:21:23+00:00 | 3 | 24 | Python | 9 |
+| ZH3FENG/PoCs-Weblogic_2017_10271 | Simplified PoC for Weblogic-CVE-2017-10271 | https://github.com/ZH3FENG/PoCs-Weblogic_2017_10271 | ['cve poc'] | 1 | 2017-12-25 13:23:32+00:00 | 227 | 3 | Java | 2 |
+| sreelekshmyselvin/STOCK-PRICE-PREDICTION-FOR-NSE-USING-DEEP-LEARNING-MODELS | Financial time series analysis and prediction have become an important area of re- search in today's world. Designing and pricing securities, construction of portfolios and other risk management strategies depends on the prediction of financial time se- ri | https://github.com/sreelekshmyselvin/STOCK-PRICE-PREDICTION-FOR-NSE-USING-DEEP-LEARNING-MODELS | ['exploit'] | 1 | 2017-12-25 15:59:01+00:00 | 1 | 10 | | 0 |
+| SeekingHearts/ExploitFixer-Bungeecord | Bungeecord | https://github.com/SeekingHearts/ExploitFixer-Bungeecord | ['exploit'] | 1 | 2017-12-25 23:02:03+00:00 | 4 | 0 | Java | 0 |
