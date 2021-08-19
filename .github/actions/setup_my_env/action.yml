@@ -1,0 +1,18 @@
+name: 'Setup My Env'
+description: 'Sets up git and installs python requirements'
+runs:
+  using: "composite"
+  steps:
+    - name: git config
+      run: |
+        git config --global user.name 'ahouseholder'
+        git config --global user.email 'ahouseholder@users.noreply.github.com'
+      shell: bash
+
+    - name: install packages
+      run: |
+        python --version
+        pip install -r requirements.txt
+        python setup.py install
+      shell: bash
+          

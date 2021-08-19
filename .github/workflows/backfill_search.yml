@@ -1,0 +1,89 @@
+name: Backfill Search
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+       start_date:
+         description: 'Start Date'
+         required: true
+         default: '1970-01-01'
+       end_date:
+         description: 'End Date'
+         required: true
+         default: '1970-01-01'
+       extras:
+         description: "Additional CLI args"
+         required: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+       search_str: 
+         # comments indicate a snapshot of how many results there were
+         # for a given search around the time it was added to the list
+         # 18176
+         - exploit
+         # 110
+         - heap overflow
+         # 126
+         - zeroday
+         # 191
+         - rce poc
+         # 219
+         - attack poc
+         # 253
+         - metasploit module OR metasploit payload
+         # 4626
+         - cve-2
+         # 279
+         - command injection
+         # 383
+         - 0day
+         # 441
+         - vulnerability poc
+         # 526
+         - remote code execution
+         # 960
+         - sploit
+         # 1114
+         - cve poc
+         # 2021
+         - shellcode
+         # 2267
+         - rce
+
+         
+    steps:
+      - uses: actions/checkout@v2
+    
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+        
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+      
+      - name: do search
+        uses: ./.github/actions/single_search
+        with:
+          start_date: ${{ github.event.inputs.start_date }}
+          end_date: ${{ github.event.inputs.end_date }}
+          search_str: ${{ matrix.search_str }}
+          extras: ${{ github.event.inputs.extras }}
+          token: ${{ secrets.SEARCH_TESTING }}
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ github.workflow }} search ${{ github.event.inputs.start_date }}..${{ github.event.inputs.end_date }} ${{ matrix.search_str }}
+
+      - name: push result
+        uses: ./.github/actions/pull_rebase_push_retry
+            

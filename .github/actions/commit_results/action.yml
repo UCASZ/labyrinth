@@ -1,0 +1,20 @@
+name: 'Commit results'
+description: 'Commits the results directory'
+inputs:
+      results_dir:
+        description: "The dir to git add"
+        default: results
+      commit_msg:
+        description: "The commit message"
+        required: true
+
+runs:
+  using: "composite"
+  steps:
+    - name: add
+      run: git add ${{ inputs.results_dir }}
+      shell: bash
+
+    - name: commit
+      run: git commit -m "${{ inputs.commit_msg }}" || echo "No changes to commit"
+      shell: bash

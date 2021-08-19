@@ -1,0 +1,95 @@
+name: SearchRepos
+
+# Controls when the workflow will run
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '26 * * * *'
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      matrix:
+       search_str: 
+         # comments indicate a snapshot of how many results there were 
+         # for a given search around the time it was added to the list  
+         # 110
+         - heap overflow
+         # 126
+         - zeroday
+         # 191
+         - rce poc
+         # 219
+         - attack poc
+         # 253
+         - metasploit module OR metasploit payload
+         # 279
+         - command injection
+         # 383
+         - 0day
+         # 441 
+         - vulnerability poc
+         # 526
+         - remote code execution
+         # 960
+         - sploit
+         # 1114
+         - cve poc
+         # 2021
+         - shellcode
+         # 2267
+         - rce 
+         # 4626
+         - cve-2
+         # 18176
+         - exploit
+#          # 2944
+#          - '"privilege escalation" OR privesc'
+#          # 1504
+#          - buffer overflow
+#          # 4383 (noisy)
+#          - zero-day
+#          # 21863 (very noisy)
+#          - 0-day
+#          # 502 (noisy)
+#          - 1day
+
+    steps:
+      - name: Get today and yesterday dates
+        id: date
+        run: |
+          echo "::set-output name=today::$(date +'%Y-%m-%d')"
+          echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
+    
+      - name: checkout
+        uses: actions/checkout@v2
+      
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+          
+      - name: search github
+        uses: ./.github/actions/single_search
+        with:
+          start_date: ${{ steps.date.outputs.yesterday }}
+          end_date: ${{ steps.date.outputs.today }}
+          search_str: ${{ matrix.search_str }}
+          token: ${{ secrets.GITHUB_TOKEN }}          
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ github.workflow }} search ${{ steps.date.outputs.yesterday }}..${{ steps.date.outputs.today }} ${{ matrix.search_str }}
+
+      - name: push results
+        uses: ./.github/actions/pull_rebase_push_retry

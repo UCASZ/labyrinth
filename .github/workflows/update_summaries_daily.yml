@@ -1,0 +1,46 @@
+name: Update Summaries Daily
+
+# Controls when the workflow will run
+on:
+  schedule:
+    cron: '7 0 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update_summaries:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get dates
+        id: date
+        run: |
+          echo "::set-output name=today::$(date +'%Y-%m-%d')"
+          echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
+          echo "::set-output name=this_month::$(date +'%Y-%m')"
+          echo "::set-output name=this_year::$(date +'%Y')"
+
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+
+      - name: summarize this year
+        uses: ./.github/actions/generate_summaries
+        with:
+          ymd_option: '--year'
+          ymd_value: ${{ steps.date.outputs.this_year }}
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ github.workflow }} for year ${{ steps.date.outputs.this_year }}
+
+      - name: push results
+        uses: ./.github/actions/pull_rebase_push_retry

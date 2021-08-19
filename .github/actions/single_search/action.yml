@@ -1,0 +1,25 @@
+name: 'Single Search'
+description: 'Searches github for something'
+inputs:
+      start_date:
+        description: "Start date, YYYY or YYYY-MM or YYYY-MM-DD"
+        required: true
+      end_date:
+        description: "End date, YYYY or YYYY-MM or YYYY-MM-DD"
+        required: true
+      search_str:
+        description: "String to search for"
+        required: true
+        default: "cve-2"
+      token:
+        description: "Github API token"
+        required: true
+      extras:
+        description: "Additional CLI args"
+        required: false
+runs:
+  using: "composite"
+  steps:
+    - name: search github
+      run: search_github --gh_token ${{ inputs.token }} --start_date ${{ inputs.start_date }} --end_date ${{ inputs.end_date }} ${{ inputs.extras }} ${{ inputs.search_str }}
+      shell: bash

@@ -1,0 +1,22 @@
+name: 'Generate summary'
+description: 'Generates summary json and markdown files'
+inputs:
+  results_dir:
+    description: "The dir to look in"
+    default: "results"
+  ymd_option:
+    description: "--year --month or --day"
+    required: true
+  ymd_value:
+    description: "YYYY or YYYY-mm or YYYY-mm-dd"
+    required: true
+  extras:
+    description: additional command line args
+    required: false
+
+runs:
+  using: "composite"
+  steps:
+    - name: generate_summary
+      run: generate_summaries --results_dir ${{ inputs.results_dir }} ${{ inputs.ymd_option }} ${{ inputs.ymd_value }} ${{ inputs.extras }}
+      shell: bash

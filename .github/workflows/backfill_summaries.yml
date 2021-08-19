@@ -1,0 +1,60 @@
+name: Backfill Summaries
+
+# Controls when the workflow will run
+on:
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  backfill_summaries:
+
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+#      max-parallel:
+      matrix:
+        year:
+          - 2007
+          - 2008
+          - 2009
+          - 2010
+          - 2011
+          - 2012
+          - 2013
+          - 2014
+          - 2015
+          - 2016
+          - 2017
+          - 2018
+          - 2019
+          - 2020
+          - 2021
+
+    steps:
+
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+
+      - name: summarize year
+        uses: ./.github/actions/generate_summaries
+        with:
+          ymd_option: '--year'
+          ymd_value: ${{ matrix.year }}
+          extras: '--recursive'
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ github.workflow }} for year ${{ matrix.year }}
+
+      - name: push results
+        uses: ./.github/actions/pull_rebase_push_retry

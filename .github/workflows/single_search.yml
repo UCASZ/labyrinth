@@ -1,0 +1,53 @@
+name: SingleSearch
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: "Start date, YYYY or YYYY-MM or YYYY-MM-DD"
+        required: true
+      end_date:
+        description: "End date, YYYY or YYYY-MM or YYYY-MM-DD"
+        required: true
+      search_str:
+        description: "String to search for"
+        required: true
+        default: "cve-2"
+      extras:
+        description: "Additional CLI args (optional)"
+        required: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+       
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+      
+      - name: do_search
+        uses: ./.github/actions/single_search
+        with:
+          start_date: ${{ github.event.inputs.start_date }}
+          end_date: ${{ github.event.inputs.end_date }}
+          search_str: ${{ github.event.inputs.search_str }}
+          extras: ${{ github.event.inputs.extras }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ github.workflow }} search ${{ github.event.inputs.start_date }}..${{ github.event.inputs.end_date }} ${{ github.event.inputs.search_str }}
+          
+      - name: push result
+        uses: ./.github/actions/pull_rebase_push_retry
