@@ -1,0 +1,11 @@
+
+# Summary for results/2015/05/13
+    
+4 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| medidhaRamakrishna/socialnet | One fundamental issue in today’s Online Social Networks (OSNs) is to give users the ability to control the messages posted on their own private space to avoid that unwanted content is displayed. Up to now, OSNs provide little support to this requirement. T | https://github.com/medidhaRamakrishna/socialnet | ['exploit'] | 1 | 2015-05-13 07:27:06+00:00 | 0 | 0 | | 0 |
+| medidhaRamakrishna/A-System-to-filter-Unwanted-Messages-from-Online-Social-Network-User-Walls | One fundamental issue in today’s Online Social Networks (OSNs) is to give users the ability to control the messages posted on their own private space to avoid that unwanted content is displayed. Up to now, OSNs provide little support to this requirement. T | https://github.com/medidhaRamakrishna/A-System-to-filter-Unwanted-Messages-from-Online-Social-Network-User-Walls | ['exploit'] | 1 | 2015-05-13 07:33:17+00:00 | 140 | 0 | Java | 1 |
+| thomaspatzke/POODLEAttack | PoC implementation of the POODLE attack | https://github.com/thomaspatzke/POODLEAttack | ['attack poc'] | 1 | 2015-05-13 19:28:03+00:00 | 125 | 52 | Python | 16 |
+| dtipson/request-desktop-site | Exploit how "request a desktop site" works on mobile browsers to let them break out of responsive viewports | https://github.com/dtipson/request-desktop-site | ['exploit'] | 1 | 2015-05-13 21:06:40+00:00 | 136 | 5 | JavaScript | 1 |
