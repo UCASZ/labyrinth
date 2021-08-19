@@ -1,7 +1,7 @@
 
 # Summary for results/2021/08
     
-170 records found after deduplication
+171 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
@@ -48,7 +48,7 @@
 | Udyz/proxyshell-auto | Automatic ProxyShell Exploit | https://github.com/Udyz/proxyshell-auto | ['exploit'] | 1 | 2021-08-19 10:17:38+00:00 | 87 | 27 | Python | 9 |
 | artsking/curl-7.64.1_CVE-2020-8284_WithPatch | None | https://github.com/artsking/curl-7.64.1_CVE-2020-8284_WithPatch | ['cve-2'] | 1 | 2021-08-18 10:42:12+00:00 | 4634 | 0 | C | 0 |
 | murataydemir/CVE-2021-22123 | [CVE-2021-22123] Fortinet FortiWeb Authenticated OS Command Injection | https://github.com/murataydemir/CVE-2021-22123 | ['command injection', 'cve-2'] | 2 | 2021-08-18 13:19:38+00:00 | 3 | 1 | | 2 |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-19 05:06:39+00:00 | 207462 | 6358 | C | 1773 |
+| AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-19 02:56:12+00:00 | 33 | 0 | Haskell | 0 |
 | bernardofsr/CVEs-With-PoC | CVE's found during research by me | https://github.com/bernardofsr/CVEs-With-PoC | ['cve poc'] | 1 | 2021-08-19 10:25:17+00:00 | 1 | 0 | | 0 |
 | sparky23172/BinaryExploitation | Programs for my journey to getting the OSEE | https://github.com/sparky23172/BinaryExploitation | ['exploit'] | 1 | 2021-08-19 17:26:35+00:00 | 44 | 1 | Python | 0 |
 | An0ny-m0us/Fortinet-FortiWeb-OS-Command-Injection | An OS command injection vulnerability in FortiWeb's management interface (version 6.3.11 and prior) can allow a remote, authenticated attacker to execute arbitrary commands on the system, via the SAML server configuration page. | https://github.com/An0ny-m0us/Fortinet-FortiWeb-OS-Command-Injection | ['command injection'] | 1 | 2021-08-19 04:00:17+00:00 | 2 | 1 | | 0 |
@@ -90,9 +90,10 @@
 | xyu3xx/exploit | None | https://github.com/xyu3xx/exploit | ['exploit'] | 1 | 2021-08-19 00:40:51+00:00 | 0 | 0 | | 0 |
 | prem-coder/exploit_host | This repo is for host the exploits | https://github.com/prem-coder/exploit_host | ['exploit'] | 1 | 2021-08-19 00:44:28+00:00 | 0 | 0 | HTML | 0 |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-08-18 08:24:21+00:00 | 93 | 1 | Python | 0 |
-| AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-19 02:56:12+00:00 | 33 | 0 | Haskell | 0 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-19 11:19:55+00:00 | 5191 | 2 | Python | 0 |
-| bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2021-08-19 05:58:13+00:00 | 2924 | 365 | C | 93 |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-19 05:06:39+00:00 | 207462 | 6358 | C | 1773 |
+| gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2021-08-18 03:10:23+00:00 | 111170 | 234 | | 41 |
+| oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2021-08-18 04:07:32+00:00 | 983 | 6 | C | 2 |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-08-18 13:23:34+00:00 | 1176949 | 3337 | PowerShell | 1165 |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-08-18 09:52:20+00:00 | 60298 | 1098 | JavaScript | 226 |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-08-18 23:07:29+00:00 | 961 | 207 | Rust | 12 |
@@ -100,9 +101,9 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-19 15:03:18+00:00 | 16631 | 20 | | 12 |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-08-19 06:01:56+00:00 | 17567 | 538 | Go | 108 |
 | 0xb0bb/karkinos | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | ['exploit'] | 1 | 2021-08-18 15:13:39+00:00 | 544143 | 177 | Python | 16 |
-| gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2021-08-18 03:10:23+00:00 | 111170 | 234 | | 41 |
+| bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2021-08-19 05:58:13+00:00 | 2924 | 365 | C | 93 |
+| mjwhitta/runsc | Simple shellcode injector | https://github.com/mjwhitta/runsc | ['shellcode'] | 1 | 2021-08-18 13:17:06+00:00 | 40 | 3 | Go | 4 |
 | TheCruZ/kdmapper | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | ['exploit'] | 1 | 2021-08-19 13:19:15+00:00 | 306 | 362 | C++ | 131 |
-| DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-08-19 16:21:40+00:00 | 2695 | 5 | Java | 0 |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-08-19 09:56:20+00:00 | 2890485 | 2 | Batchfile | 0 |
 | dotqwerty/ImageSnatcher | Exploiting prnt.sc and its poor image hosting URLs. | https://github.com/dotqwerty/ImageSnatcher | ['exploit'] | 1 | 2021-08-18 11:01:21+00:00 | 237 | 0 | Python | 0 |
 | tanmaysingha/FANet | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segm | https://github.com/tanmaysingha/FANet | ['exploit'] | 1 | 2021-08-19 04:07:36+00:00 | 4098 | 2 | Python | 1 |
@@ -110,11 +111,10 @@
 | KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2021-08-19 16:33:05+00:00 | 723 | 2319 | | 394 |
 | figbux/kernel-notlari | Linux kernel exploitation notları | https://github.com/figbux/kernel-notlari | ['exploit'] | 1 | 2021-08-18 16:25:58+00:00 | 121 | 3 | | 1 |
 | ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-08-19 18:40:53+00:00 | 4040 | 1 | | 0 |
-| gege-circle/home | 这里是戈戈圈爱好者的交流地，也是Github的草场，主要讨论一些关于二次元虚拟主播、动漫、游戏、搞笑、知识等有趣的内容，你可以在这里向大家分享你的趣事，欢迎在此畅所欲言~ This is a place for fans to communicate with, and it's also GitHub grassland, it mainly discusses some interesting contents such as VTuber, funny and knowledge, you can s | https://github.com/gege-circle/home | ['attack poc', 'exploit'] | 2 | 2021-08-18 13:46:46+00:00 | 1693 | 76 | | 22 |
-| oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2021-08-18 04:07:32+00:00 | 983 | 6 | C | 2 |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-18 05:42:15+00:00 | 35678 | 5676 | Vue | 1184 |
 | master-of-servers/mose | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | ['exploit'] | 1 | 2021-08-19 17:08:06+00:00 | 30641 | 69 | Go | 15 |
 | in-exploit/in-exploit.github.io | None | https://github.com/in-exploit/in-exploit.github.io | ['exploit'] | 1 | 2021-08-18 05:05:33+00:00 | 3808 | 0 | JavaScript | 0 |
+| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-08-19 08:57:28+00:00 | 3747 | 1927 | Python | 550 |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR metasploit payload'] | 1 | 2021-08-18 14:21:15+00:00 | 60456 | 1081 | C | 536 |
 | frohoff/ysoserial | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | https://github.com/frohoff/ysoserial | ['exploit', 'vulnerability poc'] | 2 | 2021-08-18 01:54:56+00:00 | 334 | 4397 | Java | 1269 |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-08-18 14:14:47+00:00 | 7450 | 3882 | Python | 560 |
@@ -130,12 +130,13 @@
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-08-19 15:20:21+00:00 | 290488 | 76 | Python | 13 |
 | RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2021-08-18 17:18:33+00:00 | 26643 | 2257 | Python | 412 |
 | AdrianVollmer/PowerHub | A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting | https://github.com/AdrianVollmer/PowerHub | ['exploit'] | 1 | 2021-08-18 10:54:06+00:00 | 2002 | 462 | Python | 82 |
+| vulsio/go-exploitdb | None | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-08-19 22:26:22+00:00 | 661 | 118 | Go | 35 |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-08-18 19:57:04+00:00 | 61842 | 2443 | Python | 378 |
-| knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-08-19 08:57:28+00:00 | 3747 | 1927 | Python | 550 |
-| mjwhitta/runsc | Simple shellcode injector | https://github.com/mjwhitta/runsc | ['shellcode'] | 1 | 2021-08-18 13:17:06+00:00 | 40 | 3 | Go | 4 |
+| gege-circle/home | 这里是戈戈圈爱好者的交流地，也是Github的草场，主要讨论一些关于二次元虚拟主播、动漫、游戏、搞笑、知识等有趣的内容，你可以在这里向大家分享你的趣事，欢迎在此畅所欲言~ This is a place for fans to communicate with, and it's also GitHub grassland, it mainly discusses some interesting contents such as VTuber, funny and knowledge, you can s | https://github.com/gege-circle/home | ['attack poc', 'exploit'] | 2 | 2021-08-18 13:46:46+00:00 | 1693 | 76 | | 22 |
 | pomo-mondreganto/neo | Exploit distribution system for A&D competitions | https://github.com/pomo-mondreganto/neo | ['exploit'] | 1 | 2021-08-19 17:53:09+00:00 | 496 | 2 | Go | 1 |
-| RETIREglitch/Pokemon-Research | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | ['exploit'] | 1 | 2021-08-19 13:59:43+00:00 | 24484 | 4 | Lua | 2 |
-| Night-King-Host/75XV3b3 | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | ['exploit'] | 1 | 2021-08-18 21:50:19+00:00 | 3242 | 0 | JavaScript | 0 |
+| DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-08-19 16:21:40+00:00 | 2695 | 5 | Java | 0 |
+| thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-08-18 16:36:55+00:00 | 30 | 0 | PowerShell | 0 |
+| TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-08-19 18:59:39+00:00 | 3286 | 0 | Python | 1 |
 | Night-King-Host/75XV3b6 | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | ['exploit'] | 1 | 2021-08-18 22:13:39+00:00 | 3072 | 0 | JavaScript | 0 |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-08-19 01:51:39+00:00 | 98566 | 0 | JavaScript | 0 |
 | Night-King-Host/75XV3b2 | PS4 7.5X Host Exploit (Reduce sleeps in jb.c to speed up) | https://github.com/Night-King-Host/75XV3b2 | ['exploit'] | 1 | 2021-08-18 21:45:59+00:00 | 2793 | 0 | JavaScript | 0 |
@@ -143,8 +144,8 @@
 | duowen1/Container-escape-exps | Container (Docker) escape exploits | https://github.com/duowen1/Container-escape-exps | ['exploit'] | 1 | 2021-08-18 12:05:31+00:00 | 1319 | 2 | C | 1 |
 | EtcAug10/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | ['exploit'] | 1 | 2021-08-19 08:48:53+00:00 | 186 | 4 | Python | 3 |
 | th3r4ven/Bifrost | Bifrost C2. Open-source post-exploitation using Discord API | https://github.com/th3r4ven/Bifrost | ['exploit'] | 1 | 2021-08-18 03:14:37+00:00 | 112 | 21 | Python | 3 |
-| thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-08-18 16:36:55+00:00 | 30 | 0 | PowerShell | 0 |
 | Blakley/Binary-Exploitation | Binary Game & Tutorial on how to use Python to brute force and exploit input in a binary. | https://github.com/Blakley/Binary-Exploitation | ['exploit'] | 1 | 2021-08-18 21:09:01+00:00 | 766 | 0 | C | 0 |
+| RETIREglitch/Pokemon-Research | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | ['exploit'] | 1 | 2021-08-19 13:59:43+00:00 | 24484 | 4 | Lua | 2 |
 | lilmond/AExploit | Easy-to-use Roblox exploit written in C#. | https://github.com/lilmond/AExploit | ['exploit'] | 1 | 2021-08-18 06:19:41+00:00 | 3 | 0 | | 0 |
 | xwuyi/seeyon-exploit | 致远OA漏洞检测 | https://github.com/xwuyi/seeyon-exploit | ['exploit'] | 1 | 2021-08-18 12:28:12+00:00 | 4958 | 5 | Go | 1 |
 | SigmaEG/RBXExploits | Repository For RBX Exploits Created By SigmaTech | https://github.com/SigmaEG/RBXExploits | ['exploit'] | 1 | 2021-08-18 01:57:03+00:00 | 276 | 0 | Lua | 0 |
@@ -153,10 +154,11 @@
 | KazutoKashima/Project-Key-Breaker | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | ['exploit'] | 1 | 2021-08-19 03:19:08+00:00 | 1717 | 2 | JavaScript | 1 |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-19 13:26:29+00:00 | 2639 | 5 | HTML | 4 |
 | Night-King-Host/75XV3b7 | 7.5x Host Exploit, July 21th,2021 Release (add post-exploit cleanup spray) | https://github.com/Night-King-Host/75XV3b7 | ['exploit'] | 1 | 2021-08-18 22:17:11+00:00 | 2421 | 0 | JavaScript | 0 |
-| TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-08-19 18:59:39+00:00 | 3286 | 0 | Python | 1 |
+| Night-King-Host/75XV3b3 | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | ['exploit'] | 1 | 2021-08-18 21:50:19+00:00 | 3242 | 0 | JavaScript | 0 |
 | Night-King-Host/75XV3b5 | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | ['exploit'] | 1 | 2021-08-18 22:09:29+00:00 | 4008 | 0 | JavaScript | 0 |
-| ptef/CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | ['cve-2', 'exploit'] | 2 | 2021-08-18 15:53:57+00:00 | 18 | 0 | C | 0 |
 | Night-King-Host/Night-King-Host.github.io | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | ['exploit'] | 1 | 2021-08-18 06:00:13+00:00 | 2014 | 4 | HTML | 2 |
+| damianbrowne/ECS4TIME | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | ['exploit'] | 1 | 2021-08-19 05:31:29+00:00 | 9723 | 0 | Python | 0 |
+| ptef/CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | ['cve-2', 'exploit'] | 2 | 2021-08-19 21:40:51+00:00 | 18 | 0 | C | 0 |
 | dfsantamaria/CLARA | CLARA - A domotic assistant exploiting OASIS | https://github.com/dfsantamaria/CLARA | ['exploit'] | 1 | 2021-08-19 08:28:08+00:00 | 1798 | 0 | HTML | 0 |
 | Manoj983/protostar_exploits | None | https://github.com/Manoj983/protostar_exploits | ['exploit'] | 1 | 2021-08-19 14:36:47+00:00 | 59 | 1 | Python | 0 |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-19 18:03:18+00:00 | 411605 | 29 | | 15 |
@@ -173,5 +175,4 @@
 | spencer-burke/Exploit-Education-Writeups | This is the repository for all of the Exploit Education challenges I complete. | https://github.com/spencer-burke/Exploit-Education-Writeups | ['exploit'] | 1 | 2021-08-19 04:27:43+00:00 | 32 | 0 | Python | 0 |
 | febnug/shellcode | Exploit payload | https://github.com/febnug/shellcode | ['exploit', 'shellcode'] | 2 | 2021-08-18 10:06:00+00:00 | 7 | 1 | C | 0 |
 | JasonDerulo1259/Sexeca-FreeVersion | A tool for senecalearning, that gets the answers for the questions, coded in c# | https://github.com/JasonDerulo1259/Sexeca-FreeVersion | ['exploit'] | 1 | 2021-08-18 17:57:02+00:00 | 425 | 2 | | 0 |
-| damianbrowne/ECS4TIME | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | ['exploit'] | 1 | 2021-08-19 05:31:29+00:00 | 9723 | 0 | Python | 0 |
 | REDSCRIPT3R/RedSploit-X | RedSploit X is a FULL lua c Executor, whit 9 pages (5 ad pages - 4 Official pages) can execute Big Scripts Like owl Hub! | https://github.com/REDSCRIPT3R/RedSploit-X | ['sploit'] | 1 | 2021-08-19 20:24:53+00:00 | 0 | 0 | | 0 |
