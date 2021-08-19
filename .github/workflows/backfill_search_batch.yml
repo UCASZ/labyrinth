@@ -107,6 +107,10 @@ jobs:
 
       - name: setup env
         uses: ./.github/actions/setup_my_env
+        
+      - name: git pull
+        run: |
+          git pull
 
       - name: summarize the year
         uses: ./.github/actions/generate_summaries
