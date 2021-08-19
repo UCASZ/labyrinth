@@ -1,12 +1,12 @@
 
 # Summary for results/2021/08/19
     
-90 records found after deduplication
+92 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-08-19 13:17:52+00:00 | 21982 | 5879 | JavaScript | 1389 |
-| wangjing4research/LDL-LDM | Code for our TNNLS'21 paper titled Label Distribution Learning by Exploiting Label Distribution Manifold | https://github.com/wangjing4research/LDL-LDM | ['exploit'] | 1 | 2021-08-19 01:31:06+00:00 | 0 | 0 | | 0 |
+| ahrixia/flask-memcached-rce | Remote Code Execute on the Flask App with session stored in Memcached. | https://github.com/ahrixia/flask-memcached-rce | ['rce'] | 1 | 2021-08-19 03:40:38+00:00 | 5 | 0 | Python | 0 |
 | xyu3xx/exploit | None | https://github.com/xyu3xx/exploit | ['exploit'] | 1 | 2021-08-19 00:40:51+00:00 | 0 | 0 | | 0 |
 | JayaByu/exploit-dev | None | https://github.com/JayaByu/exploit-dev | ['exploit'] | 1 | 2021-08-19 11:10:27+00:00 | 2 | 0 | | 0 |
 | lesliekahler/Red-Vs-Blue-Project | In this Red Team vs. Blue Team project, I played the role of both penetration tester and SOC analyst. As the Red Team, I attacked a vulnerable VM within my environment, ultimately gaining root access to the machine. As Blue Team, I used Kibana to review lo | https://github.com/lesliekahler/Red-Vs-Blue-Project | ['exploit'] | 1 | 2021-08-19 00:04:14+00:00 | 13049 | 0 | | 0 |
@@ -16,8 +16,8 @@
 | Stakcery/phpfuck-6characters | only 5 characters to rce | https://github.com/Stakcery/phpfuck-6characters | ['rce'] | 1 | 2021-08-19 02:40:28+00:00 | 52 | 4 | PHP | 1 |
 | aesth1/WiiUBrowserExploit | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-08-19 07:29:53+00:00 | 33 | 0 | HTML | 0 |
 | mr-r3bot/Proxyshell-Exchange | Poc script for ProxyShell exploit chain in Exchange Server | https://github.com/mr-r3bot/Proxyshell-Exchange | ['exploit'] | 1 | 2021-08-19 11:09:04+00:00 | 56 | 0 | Python | 2 |
-| ahrixia/flask-memcached-rce | Remote Code Execute on the Flask App with session stored in Memcached. | https://github.com/ahrixia/flask-memcached-rce | ['rce'] | 1 | 2021-08-19 03:40:38+00:00 | 5 | 0 | Python | 0 |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-08-19 12:05:18+00:00 | 10 | 0 | | 0 |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-19 05:06:39+00:00 | 207462 | 6358 | C | 1773 |
 | Fearless523/CVE-2021-39287-Stored-XSS | CVE-TBD Stored XSS in TastyIgniter v3.0.7 Restaurtant CMS | https://github.com/Fearless523/CVE-2021-39287-Stored-XSS | ['cve-2'] | 1 | 2021-08-19 01:36:20+00:00 | 5 | 6 | | 0 |
 | Udyz/proxyshell-auto | Automatic ProxyShell Exploit | https://github.com/Udyz/proxyshell-auto | ['exploit'] | 1 | 2021-08-19 10:17:38+00:00 | 87 | 27 | Python | 9 |
 | hupe1980/gopwn | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | ['exploit'] | 1 | 2021-08-19 10:35:41+00:00 | 104 | 0 | Go | 0 |
@@ -26,9 +26,10 @@
 | Bleepooo/BleeposExploitFixer | Fix exploits in your server! | https://github.com/Bleepooo/BleeposExploitFixer | ['exploit'] | 1 | 2021-08-19 06:06:52+00:00 | 20 | 3 | Java | 0 |
 | im403/sudo-exploit | None | https://github.com/im403/sudo-exploit | ['exploit'] | 1 | 2021-08-19 18:20:25+00:00 | 3 | 0 | | 0 |
 | kozmer/ctfs | Just a collection of writeup/exploits for ctfs that I have done. | https://github.com/kozmer/ctfs | ['exploit'] | 1 | 2021-08-19 14:36:09+00:00 | 1 | 0 | Python | 0 |
+| collinkleest/rce | Remote Code Executor WebApp developed with Socket.io, React, Dockerode. | https://github.com/collinkleest/rce | ['rce'] | 1 | 2021-08-19 18:20:19+00:00 | 572 | 0 | TypeScript | 0 |
 | prem-coder/exploit_host | This repo is for host the exploits | https://github.com/prem-coder/exploit_host | ['exploit'] | 1 | 2021-08-19 00:44:28+00:00 | 0 | 0 | HTML | 0 |
+| wangjing4research/LDL-LDM | Code for our TNNLS'21 paper titled Label Distribution Learning by Exploiting Label Distribution Manifold | https://github.com/wangjing4research/LDL-LDM | ['exploit'] | 1 | 2021-08-19 01:31:06+00:00 | 0 | 0 | | 0 |
 | albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-08-19 15:05:21+00:00 | 12 | 0 | Python | 0 |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-19 05:06:39+00:00 | 207462 | 6358 | C | 1773 |
 | artsking/curl-7.64.1_CVE-2020-8286_WithPatch | None | https://github.com/artsking/curl-7.64.1_CVE-2020-8286_WithPatch | ['cve-2'] | 1 | 2021-08-19 03:28:11+00:00 | 4656 | 0 | C | 0 |
 | cqmba/rl-networkattack | Uni project implementing reinforcement learning (QLearning) as an attacker trying to find the most optimal way to exploit and advance in a target network. | https://github.com/cqmba/rl-networkattack | ['exploit'] | 1 | 2021-08-19 19:33:22+00:00 | 0 | 0 | Java | 0 |
 | cqmba/hwseclab | Hardware security lab consisting of Verilog exercises for reversing UART communication as well as exploiting a PIN login. | https://github.com/cqmba/hwseclab | ['exploit'] | 1 | 2021-08-19 19:18:36+00:00 | 0 | 0 | Verilog | 0 |
@@ -49,11 +50,10 @@
 | An0ny-m0us/Fortinet-FortiWeb-OS-Command-Injection | An OS command injection vulnerability in FortiWeb's management interface (version 6.3.11 and prior) can allow a remote, authenticated attacker to execute arbitrary commands on the system, via the SAML server configuration page. | https://github.com/An0ny-m0us/Fortinet-FortiWeb-OS-Command-Injection | ['command injection'] | 1 | 2021-08-19 04:00:17+00:00 | 2 | 1 | | 0 |
 | sparky23172/BinaryExploitation | Programs for my journey to getting the OSEE | https://github.com/sparky23172/BinaryExploitation | ['exploit'] | 1 | 2021-08-19 17:26:35+00:00 | 44 | 1 | Python | 0 |
 | zNuggetIsCool/PulseInternal | Are you tired of your old roblox script executor ui? Well this script is right for you! Simply execute this script in your crappy designed exploit and boom! You now have an internal executor with other functions all in your hands. Just press RightControl t | https://github.com/zNuggetIsCool/PulseInternal | ['exploit'] | 1 | 2021-08-19 03:30:29+00:00 | 340 | 0 | | 0 |
-| collinkleest/rce | Remote Code Executor WebApp developed with Socket.io, React, Dockerode. | https://github.com/collinkleest/rce | ['rce'] | 1 | 2021-08-19 18:20:19+00:00 | 572 | 0 | TypeScript | 0 |
 | wfs/cloud-architect-aws-project-3-security | In this project, you will: (1) Deploy and assess a simple web application environment’s security posture (2) Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities (3) Implement monitoring to | https://github.com/wfs/cloud-architect-aws-project-3-security | ['exploit'] | 1 | 2021-08-19 05:09:34+00:00 | 6557 | 0 | | 0 |
 | git3345678git/0day-security-software-vulnerability-analysis-technology | nan | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-19 12:13:04+00:00 | 100 | 0 | nan | 0 |
 | AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-19 02:56:12+00:00 | 33 | 0 | Haskell | 0 |
-| ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-08-19 18:40:53+00:00 | 4040 | 1 | | 0 |
+| pomo-mondreganto/neo | Exploit distribution system for A&D competitions | https://github.com/pomo-mondreganto/neo | ['exploit'] | 1 | 2021-08-19 17:53:09+00:00 | 496 | 2 | Go | 1 |
 | KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2021-08-19 16:33:05+00:00 | 723 | 2319 | | 394 |
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-08-19 14:29:11+00:00 | 2803 | 0 | JavaScript | 1 |
 | tanmaysingha/FANet | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segm | https://github.com/tanmaysingha/FANet | ['exploit'] | 1 | 2021-08-19 04:07:36+00:00 | 4098 | 2 | Python | 1 |
@@ -65,6 +65,7 @@
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-08-19 19:13:26+00:00 | 961 | 207 | Rust | 12 |
 | master-of-servers/mose | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | ['exploit'] | 1 | 2021-08-19 17:08:06+00:00 | 30641 | 69 | Go | 15 |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-08-19 08:57:28+00:00 | 3747 | 1927 | Python | 550 |
+| vulsio/go-exploitdb | None | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-08-19 22:26:22+00:00 | 661 | 118 | Go | 35 |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-08-19 15:20:21+00:00 | 290488 | 76 | Python | 13 |
 | tmenochet/WinUtils | Random PowerShell scripts mainly focused on post-exploitation capabilities | https://github.com/tmenochet/WinUtils | ['exploit'] | 1 | 2021-08-19 15:48:24+00:00 | 266 | 3 | PowerShell | 0 |
 | EXtremeExploit/EXtremeExploit.github.io | None | https://github.com/EXtremeExploit/EXtremeExploit.github.io | ['exploit'] | 1 | 2021-08-19 12:45:25+00:00 | 2353 | 0 | HTML | 0 |
@@ -72,11 +73,10 @@
 | cirosantilli/china-dictatorship | Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police mi | https://github.com/cirosantilli/china-dictatorship | ['attack poc', 'exploit'] | 2 | 2021-08-19 11:36:37+00:00 | 42331 | 542 | HTML | 82 |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-08-19 15:41:12+00:00 | 5224 | 2820 | Python | 626 |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-19 00:04:57+00:00 | 1534754 | 1491 | Python | 514 |
-| pomo-mondreganto/neo | Exploit distribution system for A&D competitions | https://github.com/pomo-mondreganto/neo | ['exploit'] | 1 | 2021-08-19 17:53:09+00:00 | 496 | 2 | Go | 1 |
+| ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-08-19 18:40:53+00:00 | 4040 | 1 | | 0 |
 | RETIREglitch/Pokemon-Research | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | ['exploit'] | 1 | 2021-08-19 13:59:43+00:00 | 24484 | 4 | Lua | 2 |
-| dfsantamaria/CLARA | CLARA - A domotic assistant exploiting OASIS | https://github.com/dfsantamaria/CLARA | ['exploit'] | 1 | 2021-08-19 08:28:08+00:00 | 1798 | 0 | HTML | 0 |
-| damianbrowne/ECS4TIME | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | ['exploit'] | 1 | 2021-08-19 05:31:29+00:00 | 9723 | 0 | Python | 0 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-19 11:19:55+00:00 | 5191 | 2 | Python | 0 |
+| ptef/CVE-2020-9273 | Analysis and exploitation of an use-after-free in ProFTPd | https://github.com/ptef/CVE-2020-9273 | ['cve-2', 'exploit'] | 2 | 2021-08-19 21:40:51+00:00 | 18 | 0 | C | 0 |
 | DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-08-19 16:21:40+00:00 | 2695 | 5 | Java | 0 |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-19 13:26:29+00:00 | 2639 | 5 | HTML | 4 |
 | KazutoKashima/Project-Key-Breaker | Key-Breaker is a public tool (OSS) used to currently retrieve, cipher, and exploit the weak security standards of Chrome. It also comes with a built-in demo of worms 🪱 | https://github.com/KazutoKashima/Project-Key-Breaker | ['exploit'] | 1 | 2021-08-19 03:19:08+00:00 | 1717 | 2 | JavaScript | 1 |
@@ -84,8 +84,8 @@
 | EtcAug10/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | ['exploit'] | 1 | 2021-08-19 08:48:53+00:00 | 186 | 4 | Python | 3 |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-08-19 01:51:39+00:00 | 98566 | 0 | JavaScript | 0 |
 | TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-08-19 18:59:39+00:00 | 3286 | 0 | Python | 1 |
+| damianbrowne/ECS4TIME | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | ['exploit'] | 1 | 2021-08-19 05:31:29+00:00 | 9723 | 0 | Python | 0 |
 | spencer-burke/Exploit-Education-Writeups | This is the repository for all of the Exploit Education challenges I complete. | https://github.com/spencer-burke/Exploit-Education-Writeups | ['exploit'] | 1 | 2021-08-19 04:27:43+00:00 | 32 | 0 | Python | 0 |
-| Manoj983/protostar_exploits | None | https://github.com/Manoj983/protostar_exploits | ['exploit'] | 1 | 2021-08-19 14:36:47+00:00 | 59 | 1 | Python | 0 |
 | zYan666/Demon-Exploit | None | https://github.com/zYan666/Demon-Exploit | ['exploit'] | 1 | 2021-08-19 18:43:49+00:00 | 1287 | 0 | | 0 |
 | ZephrFish/CVE-2021-22893 | Proof-of-Concept (PoC) script to exploit Pulse Secure CVE-2021-22893. | https://github.com/ZephrFish/CVE-2021-22893 | ['cve poc', 'cve-2', 'exploit'] | 3 | 2021-08-19 15:09:16+00:00 | 25 | 42 | Shell | 16 |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-08-19 18:20:45+00:00 | 45842 | 106 | Python | 26 |
@@ -94,4 +94,6 @@
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'rce', 'sploit'] | 3 | 2021-08-19 17:25:11+00:00 | 5167 | 81 | Python | 32 |
 | arcsyi/HDXploit | Exploit scripts for HD Admin. Meant to be private for my Discord Server, but if you found them, Enjoy i guess. | https://github.com/arcsyi/HDXploit | ['exploit'] | 1 | 2021-08-19 18:26:48+00:00 | 173 | 0 | Lua | 0 |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-19 18:03:18+00:00 | 411605 | 29 | | 15 |
+| Manoj983/protostar_exploits | None | https://github.com/Manoj983/protostar_exploits | ['exploit'] | 1 | 2021-08-19 14:36:47+00:00 | 59 | 1 | Python | 0 |
+| dfsantamaria/CLARA | CLARA - A domotic assistant exploiting OASIS | https://github.com/dfsantamaria/CLARA | ['exploit'] | 1 | 2021-08-19 08:28:08+00:00 | 1798 | 0 | HTML | 0 |
 | REDSCRIPT3R/RedSploit-X | RedSploit X is a FULL lua c Executor, whit 9 pages (5 ad pages - 4 Official pages) can execute Big Scripts Like owl Hub! | https://github.com/REDSCRIPT3R/RedSploit-X | ['sploit'] | 1 | 2021-08-19 20:24:53+00:00 | 0 | 0 | | 0 |
