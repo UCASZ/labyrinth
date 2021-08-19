@@ -1,0 +1,202 @@
+#!/usr/bin/env python
+"""
+file: search_github
+author: adh
+created_at: 7/20/21 1:16 PM
+"""
+import pandas as pd
+import os
+import re
+import argparse
+
+from labyrinth.date_helpers import fixup_start_date, fixup_end_date
+
+from labyrinth.dir_helpers import setup_daily_output_dirs, setup_output_dirs
+from labyrinth.search import do_search
+
+try:
+    from labyrinth.secrets import GITHUB_TOKEN as token
+except ImportError as e:
+    token = None
+
+
+# cols to generate markdown summary table output
+keep_cols = [
+    "name",
+    "owner_login",
+    "html_url",
+    "description",
+    "stargazers_count",
+    "watchers_count",
+    "forks",
+    "language",
+    "size",
+    "created_at",
+    "updated_at",
+    "pushed_at",
+    "matched_at",
+    "matched_on",
+]
+
+
+def main(token, query, start_date=None, end_date=None, overwrite=False):
+    # get rid of url encoded chars
+    q_safe = re.sub("\%\d+", "_", query)
+    # get rid of anything not alphanumeric
+    q_safe = re.sub("\W+", "_", q_safe)
+
+    # do queries
+    data = do_search(query, token, start_date, end_date)
+
+    if not len(data):
+        print("No results found, exiting", flush=True)
+        return
+
+    data_home = setup_output_dirs()
+
+    # data is a list of Github.Repository objects
+    df = pd.DataFrame(data)
+
+    # add owner details to main dataframe
+    owner_details = df["owner"].apply(pd.Series).add_prefix("owner_")
+    df = pd.concat([df.drop(["owner"], axis=1), owner_details], axis=1)
+
+    # convert pushed_at to actual timestamp for sorting
+    df["pushed_dt"] = pd.to_datetime(df["pushed_at"], utc=True, errors="coerce")
+    print(f"df has {len(df)} rows")
+    # drop anything that failed to convert
+    df = df.dropna(
+        subset=[
+            "pushed_dt",
+        ]
+    )
+    print(f"df has {len(df)} rows after dropna")
+
+    # sometimes our search returns results out of range
+    # we need to ignore them to avoid clobbering data for dates we weren't
+    # searching for
+    start_date = fixup_start_date(start_date)
+    end_date = fixup_end_date(end_date)
+
+    day_after_end_date = pd.to_datetime(end_date, utc=True) + pd.DateOffset(days=1)
+
+    after_start_date = df["pushed_dt"] >= start_date
+    before_end_date = df["pushed_dt"] < day_after_end_date
+    in_date_range = after_start_date & before_end_date
+    df = df[in_date_range]
+    print(f"df has {len(df)} rows after drop out of range dates")
+
+    if not len(df):
+        print("No valid timestamps found, exiting", flush=True)
+        return
+
+    df = df.sort_values(by="pushed_dt")
+
+    # group results by days
+    for _dt, group in df.groupby(pd.Grouper(key="pushed_dt", freq="D")):
+        dt_dir = _dt.strftime("%Y/%m/%d")  # used in paths
+        dt_pfx = _dt.strftime("%Y-%m-%d")  # used in file names
+
+        # skip ahead over empty days
+        if len(group) == 0:
+            print(f"No results for day {dt_pfx}", flush=True)
+            continue
+
+        print(f"Search found {len(group)} results for {dt_pfx}", flush=True)
+
+        # make a copy so we're not messing with a slice of df
+        group_df = pd.DataFrame(group)
+        # get rid of the timestamp column(s) we added
+        group_df = group_df.drop(
+            columns=[
+                "pushed_dt",
+                "matched_dt",
+            ],
+            errors="ignore",
+        )
+
+        data_dir = setup_daily_output_dirs(data_home, dt_dir)
+
+        # figure out json file name
+        fname = f"{dt_pfx}_{q_safe}.json"
+        json_file = os.path.join(data_dir, fname)
+
+        old_len = 0
+
+        if overwrite or not os.path.exists(json_file):
+            out_df = group_df
+        else:
+            # we are not in overwrite mode
+            # and the file exists
+            # if so, load it and merge before writing it back out
+            json_df = pd.read_json(json_file)
+            old_len = len(json_df)
+            print(f"Read {old_len} records from {json_file}.", flush=True)
+
+            # but we only want to add the ones we didn't already have
+            new_df = pd.DataFrame(group_df[~group_df["id"].isin(json_df["id"])])
+
+            if len(new_df):
+                # append new rows to existing
+                out_df = json_df.append(new_df, ignore_index=True)
+            else:
+                # we can skip to the next day if new_df is empty
+                print(f"No new results for {dt_pfx}, skipping ahead", flush=True)
+                continue
+
+        # convert date columns to proper datetimes
+        date_cols = [c for c in out_df.columns if c.endswith("_at")]
+        for c in date_cols:
+            out_df[c] = pd.to_datetime(out_df[c], utc=True, errors="coerce")
+
+        # sort them by push times
+        out_df = out_df.sort_values(
+            by=["pushed_at", "matched_at"], ascending=True, ignore_index=True
+        )
+        # keep only the first result for each repo
+        # because we don't want to change every output line
+        # on every single run
+        out_df = out_df.drop_duplicates(
+            subset=["id"],
+            keep="first",
+            ignore_index=True,
+        )
+
+        delta = len(out_df) - old_len
+        print(
+            f"Writing {len(out_df)} lines to {json_file}, {delta} are new.", flush=True
+        )
+        # write full results to json
+        out_df.to_json(
+            json_file, orient="records", indent=2, date_format="iso", date_unit="s"
+        )
+        with open(json_file, "a") as fp:
+            fp.write("\n")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Search Github Repositories for recent changes."
+    )
+    parser.add_argument("--gh_token", action="store", type=str, default=token)
+    parser.add_argument(
+        "search_str",
+        nargs="+",
+        action="store",
+        type=str,
+        default=[
+            "cve-2",
+        ],
+    )
+    parser.add_argument("--start_date", action="store", type=str, default=None)
+    parser.add_argument("--end_date", action="store", type=str, default=None)
+    parser.add_argument("--overwrite", action="store_true", default=False)
+
+    args = parser.parse_args()
+
+    gh_token = args.gh_token
+    # search_str will be a list of args even if it's only one
+    # so we need to join them together to make it one string
+    search_str = " ".join(args.search_str)
+
+    main(gh_token, search_str, args.start_date, args.end_date, args.overwrite)

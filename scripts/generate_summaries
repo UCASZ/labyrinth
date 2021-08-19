@@ -1,0 +1,272 @@
+#!/usr/bin/env python
+"""
+file: generate_summaries
+author: adh
+created_at: 8/18/21 10:14 AM
+"""
+import datetime
+import glob
+import os
+import pandas as pd
+import numpy as np
+import argparse
+import re
+
+from labyrinth.date_helpers import day_type, month_type, year_type
+
+keep_cols = [
+    # "id",
+    # "node_id",
+    # "name",
+    "full_name",
+    "description",
+    "html_url",
+    "matched_list",
+    "matched_count",
+    # "fork",
+    # "url",
+    # "created_at",
+    # "updated_at",
+    "pushed_at",
+    # "clone_url",
+    # "homepage",
+    "size",
+    "stargazers_count",
+    # "watchers_count",
+    "language",
+    "forks_count",
+    # "archived",
+    # "open_issues_count",
+    # "license",
+    # "forks",
+    # "open_issues",
+    # "watchers",
+    # "default_branch",
+    # "network_count",
+    # "subscribers_count",
+    # "matched_on",
+    # "matched_at",
+    # "organization",
+    # "owner_login",
+    # "owner_id",
+    # "owner_url",
+]
+
+jsonfile_suffix = "_summary.json"
+
+
+def summarize_dir(basedir):
+    df = aggregate_results(basedir)
+
+    dump_json(basedir, df)
+    dump_markdown(basedir, df)
+
+
+def get_name_pfx_from_path(p):
+    parts = []
+    while not p.endswith("results"):
+        (p, basename) = os.path.split(p)
+        parts.append(basename)
+    parts.reverse()
+    pfx = "-".join(parts)
+    return pfx
+
+
+def dump_json(basedir, df):
+    pfx = get_name_pfx_from_path(basedir)
+    outfile = os.path.join(basedir, f"{pfx}{jsonfile_suffix}")
+    print(f"Writing {outfile}", flush=True)
+    df.to_json(
+        path_or_buf=outfile,
+        indent=2,
+        orient="records",
+        date_format="iso",
+        date_unit="s",
+    )
+
+
+def dump_markdown(basedir, df):
+    df = rank_sort(df)
+
+    outfile = os.path.join(basedir, "README.md")
+    preamble = f"""
+# Summary for {basedir}
+    
+{len(df)} records found after deduplication
+
+"""
+    print(f"Writing {outfile}", flush=True)
+
+    with open(outfile, "w") as fp:
+        fp.write(preamble)
+    df = df[keep_cols]
+
+    md = df.to_markdown(tablefmt="github", index=False)
+    # github won't display markdown files over 5MB
+    # so we can squeeze out the extraneous whitespace from
+    # our table before writing it out
+    # len(content)
+    # Out[50]: 5514594
+    # len(re.sub(' +', ' ', content))
+    # Out[51]: 1551856
+    # note: don't use \s because it clobbers \n too
+    md = re.sub(" +", " ", md)
+
+    with open(outfile, "a") as fp:
+        fp.write(md)
+        fp.write("\n")
+
+
+def aggregate_results(basedir):
+    glob_str = os.path.join(basedir, "**", "*.json")
+    print(f"Searching for files matching {glob_str}")
+    file_list = glob.glob(glob_str, recursive=True)
+
+    # we need to ignore our own output
+    file_list = [f for f in file_list if not f.endswith(jsonfile_suffix)]
+
+    print(f"Found {len(file_list)} files")
+    df = pd.DataFrame()
+    for f in file_list:
+        _df = pd.read_json(f)
+        # print(f"Adding {len(_df)} lines from {f}")
+        df = df.append(_df)
+
+    df = df.set_index("id")
+    df = df.sort_index()
+
+    # clean matches (we don't care about the push dates here)
+    df["matched"] = df["matched_on"].replace("\s+pushed:.+", "", regex=True)
+
+    # aggregate matches into a list
+    df["matched_list"] = (
+        df.reset_index().groupby("id")["matched"].apply(set).apply(list).apply(sorted)
+    )
+
+    # count the number of matches
+    df["matched_count"] = df["matched_list"].apply(len)
+
+    # deduplicate, keeping only one row for each github id
+    df = df.reset_index().drop_duplicates(subset="id")
+
+    # get rid of cols we no longer need
+    df = df.drop(columns=["matched_on", "matched"])
+
+    # truncate descriptions
+    df["description"] = df["description"].astype(str)
+    df["description"] = df["description"].str.slice(0, 256)
+    # pipe chars mess up our tables
+    df["description"] = df["description"].str.replace("|", "_", regex=False)
+
+    df = df.sort_values(by="id")
+
+    return df
+
+
+def rank_sort(df):
+    # importance ranking
+    # if it matched a lot, is popular, small, and new, put it higher
+    a = df["matched_count"].rank(pct=True)
+    b = df["stargazers_count"].rank(pct=True)
+    c = df["forks_count"].rank(pct=True)
+    # scale age of everything to 0 = oldest, 1 = newest
+    now = datetime.datetime.utcnow().astimezone(datetime.timezone.utc)
+    df["age"] = now - pd.to_datetime(df["pushed_at"], utc=True, errors="coerce")
+    df["age"] = df["age"].apply(lambda ts: ts.total_seconds())
+    d = df["age"].rank(pct=True, ascending=False)
+    # larger repos tend to be large collections or tools
+    # rather than individual exploits
+    # but this is a coarse metric, so we really just want small/med/large
+    e = pd.cut(
+        df["size"].rank(pct=True, ascending=False),
+        bins=[0, 0.33, 0.66, 1],
+        labels=[0.166, 0.5, 0.833],
+    ).astype(float)
+
+    # d = df["subscribers_count"].rank(pct=True)
+    df["rank"] = np.sqrt(np.sum([x ** 2 for x in (a, b, c, d, e)]))
+    df = df.sort_values(by="rank", ascending=False)
+    # we don't need this anymore
+    df = df.drop(columns=["rank", "age"])
+    return df
+
+
+def summarize_day(day, md):
+    d_str = f"{day:02d}"
+    dd = os.path.join(md, d_str)
+    if os.path.exists(dd):
+        summarize_dir(dd)
+
+
+def summarize_month(month, yd, days=False):
+    m_str = f"{month:02d}"
+    md = os.path.join(yd, m_str)
+    if days:
+        for day in range(1, 32):
+            summarize_day(day, md)
+    if os.path.exists(md):
+        summarize_dir(md)
+
+
+def summarize_year(year, months=False):
+    y_str = f"{year:04d}"
+    yd = os.path.join(results_dir, y_str)
+    if months:
+        for month in range(1, 13):
+            summarize_month(month, yd, days=True)
+    if os.path.exists(yd):
+        summarize_dir(yd)
+
+
+if __name__ == "__main__":
+    _results_dir = "results"
+
+    parser = argparse.ArgumentParser(
+        description="Generate Summaries of Github Search Results"
+    )
+    parser.add_argument("--results_dir", action="store", type=str, default=_results_dir)
+
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument(
+        "--year", action="store", type=year_type, default=None, help="YYYY"
+    )
+    group.add_argument(
+        "--month", action="store", type=month_type, default=None, help="YYYY-mm"
+    )
+    group.add_argument(
+        "--day", action="store", type=day_type, default=None, help="YYYY-mm-dd"
+    )
+
+    parser.add_argument(
+        "--recursive",
+        action="store_true",
+        default=False,
+        help="Generate year, month, and day summaries for --year or month and day summaries for --month",
+    )
+
+    args = parser.parse_args()
+
+    results_dir = args.results_dir
+
+    if args.year is not None:
+        yd = os.path.join(results_dir, args.year)
+        if os.path.exists(yd):
+            year = int(args.year)
+            summarize_year(year, args.recursive)
+    elif args.month is not None:
+        y, m = args.month.split("-")
+
+        md = os.path.join(results_dir, y, m)
+        if os.path.exists(md):
+            yd, m = os.path.split(md)
+            month = int(m)
+            summarize_month(month, yd, args.recursive)
+    elif args.day is not None:
+        y, m, d = args.day.split("-")
+
+        dd = os.path.join(results_dir, y, m, d)
+        if os.path.exists(dd):
+            md, d = os.path.split(dd)
+            day = int(d)
+            print(dd, md, d, day)
+            summarize_day(day, md)
