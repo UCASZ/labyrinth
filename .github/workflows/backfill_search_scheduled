@@ -1,0 +1,136 @@
+name: Backfill Search Scheduled
+
+# Controls when the workflow will run
+# only for hours that correspond to 
+on:
+  schedule:
+    - cron: '8 9-16,18-21 19,20 8 *'
+    
+jobs:
+  date:
+    runs-on: ubuntu-latest
+    outputs:
+      year: 20${{ steps.date.outputs.hour_as_year }}
+    steps:
+      - name: Get dates
+        id: date
+        run: |
+          echo "::set-output name=today::$(date +'%Y-%m-%d')"
+          echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
+          echo "::set-output name=this_month::$(date +'%Y-%m')"
+          echo "::set-output name=this_year::$(date +'%Y')"
+          echo "::set-output name=hour_as_year::${date +'20%H')"
+
+  search:
+    runs-on: ubuntu-latest
+    needs: date
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        timeslice:
+         - start_date: ${{ needs.date.outputs.year }}-01
+           end_date: ${{ needs.date.outputs.year }}-03
+         - start_date: ${{ needs.date.outputs.year }}-04
+           end_date: ${{ needs.date.outputs.year }}-06
+         - start_date: ${{ needs.date.outputs.year }}-07
+           end_date: ${{ needs.date.outputs.year }}-09
+         - start_date: ${{ needs.date.outputs.year }}-10
+           end_date: ${{ needs.date.outputs.year }}-12
+        search_str:
+          # comments indicate a snapshot of how many results there were
+          # for a given search around the time it was added to the list
+          # 18176
+          - exploit
+          # 110
+          - heap overflow
+          # 126
+          - zeroday
+          # 191
+          - rce poc
+          # 219
+          - attack poc
+          # 253
+          - metasploit module OR metasploit payload
+          # 4626
+          - cve-2
+          # 279
+          - command injection
+          # 383
+          - 0day
+          # 441
+          - vulnerability poc
+          # 526
+          - remote code execution
+          # 960
+          - sploit
+          # 1114
+          - cve poc
+          # 2021
+          - shellcode
+          # 2267
+          - rce
+          
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+      
+      - name: do search
+        uses: ./.github/actions/single_search
+        with:
+          start_date: ${{ matrix.timeslice.start_date }}
+          end_date: ${{ matrix.timeslice.end_date }}
+          search_str: ${{ matrix.search_str }}
+          extras: '--overwrite'
+          token: ${{ secrets.SEARCH_TESTING }}
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ github.workflow }} search ${{ matrix.timeslice.start_date }}..${{ matrix.timeslice.end_date }} ${{ matrix.search_str }}
+
+
+      - name: push results
+        uses: ./.github/actions/pull_rebase_push_retry
+
+  update_summaries:
+    needs: 
+      - date
+      - search
+      
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+
+      - name: summarize the year
+        uses: ./.github/actions/generate_summaries
+        with:
+          ymd_option: '--year'
+          ymd_value: ${{ needs.date.outputs.year }}
+          extras: '--recursive'
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ github.workflow }} for year ${{ needs.date.outputs.year }}
+
+      - name: push results
+        uses: ./.github/actions/pull_rebase_push_retry
