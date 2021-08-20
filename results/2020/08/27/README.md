@@ -1,0 +1,24 @@
+
+# Summary for results/2020/08/27
+    
+17 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| enjoiz/XXEinjector | Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods. | https://github.com/enjoiz/XXEinjector | ['exploit'] | 1 | 2020-08-27 12:33:26+00:00 | 98 | 1090 | Ruby | 281 |
+| mridulkthomas/gleaner-exploiter-tradeoff-fast-slow-continuum | These scripts reproduce all analyses in the paper "Heterotrophic eukaryotes show a fast-slow continuum, not a gleaner-exploiter trade-off". Data files needed as inputs for these scripts can be found at: https://doi.org/10.5281/zenodo.4002028 | https://github.com/mridulkthomas/gleaner-exploiter-tradeoff-fast-slow-continuum | ['exploit'] | 1 | 2020-08-27 09:45:14+00:00 | 28 | 0 | R | 0 |
+| maxpl0it/CVE-2019-17026-Exploit | An exploit for CVE-2019-17026. It pops xcalc and was tested on Ubuntu (x64). | https://github.com/maxpl0it/CVE-2019-17026-Exploit | ['cve-2', 'exploit'] | 2 | 2020-08-27 19:33:42+00:00 | 3 | 43 | HTML | 16 |
+| eventloan/RCMP-Uniform | ROBLOX Exploit Script for https://www.roblox.com/games/3289567924/City-of-Winnipeg | https://github.com/eventloan/RCMP-Uniform | ['exploit'] | 1 | 2020-08-27 18:33:52+00:00 | 0 | 0 | | 0 |
+| severnake/OWASP-Xenotix-XSS-Exploit-Framework | None | https://github.com/severnake/OWASP-Xenotix-XSS-Exploit-Framework | ['exploit'] | 1 | 2020-08-27 12:10:28+00:00 | 190477 | 0 | Python | 0 |
+| vinayak1998/crime-poc | A proof of concept for the CRIME attack for the course COL759-Cryptography (Spring 2020), IIT Delhi | https://github.com/vinayak1998/crime-poc | ['attack poc'] | 1 | 2020-08-27 12:26:44+00:00 | 1225 | 0 | Python | 0 |
+| lagatwayne/git-clone-https-www.github.com-Zucccs-PhoneSploit- | nan | https://github.com/lagatwayne/git-clone-https-www.github.com-Zucccs-PhoneSploit- | ['sploit'] | 1 | 2020-08-27 08:27:33+00:00 | 0 | 0 | nan | 0 |
+| united36/BIG-IP-RCE | [+] Find if domain/ip is having Big IP RCE vulnerable or not. | https://github.com/united36/BIG-IP-RCE | ['rce'] | 1 | 2020-08-27 12:53:32+00:00 | 10 | 0 | Python | 0 |
+| kallydev/poc | Proof of Concept. | https://github.com/kallydev/poc | ['cve poc'] | 1 | 2020-08-27 06:30:30+00:00 | 4 | 1 | Python | 0 |
+| NhatNam-Kyoto/Exploit_Code_ctf | mYCODE | https://github.com/NhatNam-Kyoto/Exploit_Code_ctf | ['exploit'] | 1 | 2020-08-27 17:19:31+00:00 | 8 | 0 | Python | 0 |
+| HowkMii/Ghub_App | THE GRADUATION PROJECTS IDEAS MANAGER"💡🙇 a website as we spoke ,inspiration and projects , Its about students and teachers who are searching for an idea or want to share their ideas with others, And if all of these ideas can be captured and exploited easi | https://github.com/HowkMii/Ghub_App | ['exploit'] | 1 | 2020-08-27 09:16:23+00:00 | 9327 | 4 | HTML | 0 |
+| aaaddress1/moska | Tiny Windows x86 Assembly Compiler in C++ and Keystone Engine | https://github.com/aaaddress1/moska | ['shellcode'] | 1 | 2020-08-27 11:14:42+00:00 | 1112 | 3 | C | 0 |
+| maxdevos49/ProtoCommander | Frontend framework for building complex web applications with a CLUI design. Features a spotlight like command search, dependency injection, and a service oriented code structure. | https://github.com/maxdevos49/ProtoCommander | ['command injection'] | 1 | 2020-08-27 05:17:06+00:00 | 36 | 0 | TypeScript | 0 |
+| Ordered-Chaos/Pwnfolio | History of my exploits | https://github.com/Ordered-Chaos/Pwnfolio | ['exploit'] | 1 | 2020-08-27 17:12:35+00:00 | 4052 | 0 | Python | 0 |
+| zeroaceee/EDMapper | A documented Windows x64 bit Usermode Injector that works via hooking IAT and hijacking its threads to execute shellcode. | https://github.com/zeroaceee/EDMapper | ['shellcode'] | 1 | 2020-08-27 15:32:25+00:00 | 145 | 39 | C++ | 20 |
+| alanvivona/pwnshop | Exploit Development, Reverse Engineering & Cryptography | https://github.com/alanvivona/pwnshop | ['exploit', 'shellcode'] | 2 | 2020-08-27 12:00:02+00:00 | 4754 | 183 | Python | 47 |
+| eliza3c23/Windows-Exploitation-Stack-Overflow | None | https://github.com/eliza3c23/Windows-Exploitation-Stack-Overflow | ['exploit'] | 1 | 2020-08-27 23:04:18+00:00 | 4 | 0 | Python | 0 |

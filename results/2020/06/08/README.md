@@ -1,0 +1,26 @@
+
+# Summary for results/2020/06/08
+    
+19 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| UndeadSec/HeraKeylogger | Chrome Keylogger Extension _ Post Exploitation Tool | https://github.com/UndeadSec/HeraKeylogger | ['exploit'] | 1 | 2020-06-08 18:34:37+00:00 | 2457 | 165 | Python | 82 |
+| gscamelo/OSEE | All efforts for the AWE course and preparation for the Offensive Security Exploitation Expert (OSEE) exam. | https://github.com/gscamelo/OSEE | ['exploit'] | 1 | 2020-06-08 18:33:59+00:00 | 4 | 5 | Python | 2 |
+| yatna/Exploiting-Vulnerable-Code | Exploit a vulnerable program and launched stack overflow attack, return-to-libc attack, injected code attack. Implement a format string attack to inject attacker code. Exploit a heap overflow vulnerability in the free routine of a custom heap allocator and | https://github.com/yatna/Exploiting-Vulnerable-Code | ['exploit', 'heap overflow'] | 2 | 2020-06-08 22:45:46+00:00 | 472 | 0 | C | 0 |
+| Wahnks/Drex-Hub | for my exploit :D | https://github.com/Wahnks/Drex-Hub | ['exploit'] | 1 | 2020-06-08 20:30:18+00:00 | 1 | 0 | Lua | 0 |
+| RichardBaczur00/Cryptohack-DH-MITM-PI-writeup | A write-up for the Diffie Hellman man in the middle exploit on cryptohack | https://github.com/RichardBaczur00/Cryptohack-DH-MITM-PI-writeup | ['exploit'] | 1 | 2020-06-08 20:28:17+00:00 | 3 | 0 | Python | 0 |
+| cxzczxzc/sudo-exploit-mitre-attack-poc | POC for MITRE ATT&CK Privilege Escalation Tactic - Sudo Technique | https://github.com/cxzczxzc/sudo-exploit-mitre-attack-poc | ['attack poc', 'exploit'] | 2 | 2020-06-08 17:03:03+00:00 | 32 | 2 | Python | 0 |
+| 4x8Matrix/Anti-Exploit | An whitelist/blacklist for my anti exploit. | https://github.com/4x8Matrix/Anti-Exploit | ['exploit'] | 1 | 2020-06-08 15:53:06+00:00 | 0 | 0 | | 0 |
+| jjc224/Exploits | Findings, exploits and PoCs, CVEs, etc. | https://github.com/jjc224/Exploits | ['cve poc', 'exploit'] | 2 | 2020-06-08 14:53:59+00:00 | 0 | 0 | | 0 |
+| GiacomoCocozziello/Report-Penetration-Testing-on-virtual-machine-Troll1- | The project activity contains two documents: the first one presents all the phases of the penetration test process (Target Scoping, Information Gathering, Target Discovery, Vulnerability Mapping, Target Exploitation, Post Exploitation) and the second one p | https://github.com/GiacomoCocozziello/Report-Penetration-Testing-on-virtual-machine-Troll1- | ['exploit'] | 1 | 2020-06-08 07:49:59+00:00 | 2734 | 0 | | 0 |
+| SamuelFX/Example-Print-Exploit | Simple print and warn exploit | https://github.com/SamuelFX/Example-Print-Exploit | ['exploit'] | 1 | 2020-06-08 01:50:26+00:00 | 7 | 0 | C++ | 0 |
+| sp3Shree/Playground_projects | Exploratory projects exploiting ML capabilities | https://github.com/sp3Shree/Playground_projects | ['exploit'] | 1 | 2020-06-08 22:22:35+00:00 | 13279 | 0 | Jupyter Notebook | 0 |
+| Eilowangfang/ExploitNVMPIM | None | https://github.com/Eilowangfang/ExploitNVMPIM | ['exploit'] | 1 | 2020-06-08 08:04:50+00:00 | 982 | 0 | C | 0 |
+| justinsteven/CVE-2020-10759-poc | Proof of Concept for CVE-2020-10759 (fwupd signature validation bypass) | https://github.com/justinsteven/CVE-2020-10759-poc | ['cve poc', 'cve-2'] | 2 | 2020-06-08 22:09:07+00:00 | 4 | 0 | Python | 0 |
+| neelpatel05/rooted-crossfire | Spawns root shell by exploiting the buffer overflow vulnerability prevailing in the CROSSFIRE game server. | https://github.com/neelpatel05/rooted-crossfire | ['exploit'] | 1 | 2020-06-08 15:33:07+00:00 | 14795 | 0 | C | 0 |
+| brompwnie/CVE-2020-9283 | Exploit for CVE-2020-9283 based on Go | https://github.com/brompwnie/CVE-2020-9283 | ['cve poc', 'cve-2', 'exploit'] | 3 | 2020-06-08 13:16:06+00:00 | 24 | 2 | Go | 1 |
+| mzfr/go-gtfo | gtfo, now with the speed of golang | https://github.com/mzfr/go-gtfo | ['exploit'] | 1 | 2020-06-08 15:33:19+00:00 | 258 | 57 | Go | 9 |
+| RedyOpsResearchLabs/-CVE-2020-8103-Bitdefender-Antivirus-Free-EoP | CVE-2020-8103 Link Resolution Privilege Escalation Vulnerability in Bitdefender Antivirus Free | https://github.com/RedyOpsResearchLabs/-CVE-2020-8103-Bitdefender-Antivirus-Free-EoP | ['cve-2'] | 1 | 2020-06-08 20:23:53+00:00 | 15610 | 13 | C++ | 4 |
+| EnricoMassone/grid-placement-algorithm | An example of a CSS grid template built by loosely defining the grid itself and by exploiting the grid placement algorithm | https://github.com/EnricoMassone/grid-placement-algorithm | ['exploit'] | 1 | 2020-06-08 00:34:18+00:00 | 5525 | 0 | HTML | 0 |
+| yuanxiangyua/exe2shellcode | nan | https://github.com/yuanxiangyua/exe2shellcode | ['shellcode'] | 1 | 2020-06-08 18:05:12+00:00 | 5 | 0 | nan | 0 |

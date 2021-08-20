@@ -1,0 +1,30 @@
+
+# Summary for results/2020/05/10
+    
+23 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|--------|--------------------|-------------------|---------------|
+| ohjeongwook/REPack | Reverse engineering toolkit for exploit/malware analysis | https://github.com/ohjeongwook/REPack | ['exploit'] | 1 | 2020-05-10 23:52:43+00:00 | 84 | 36 | | 10 |
+| Mrnmap/ShellCode | None | https://github.com/Mrnmap/ShellCode | ['shellcode'] | 1 | 2020-05-10 06:17:37+00:00 | 356 | 3 | Python | 3 |
+| MarioFfm81/explore-exploit-dilemma | Side-by-side comparison of three approaches to solve the explore-exploit -dilemma | https://github.com/MarioFfm81/explore-exploit-dilemma | ['exploit'] | 1 | 2020-05-10 20:11:31+00:00 | 324 | 0 | Python | 0 |
+| jgpstuart/InfoSec-Workshops | A collection of materials created to teach workshops for the Information Security Club, primarily focused on binary exploitation and reverse engineering | https://github.com/jgpstuart/InfoSec-Workshops | ['exploit'] | 1 | 2020-05-10 19:33:56+00:00 | 10539 | 0 | C | 0 |
+| havoc3-3/edb_pull.py | Exploit downloader | https://github.com/havoc3-3/edb_pull.py | ['exploit'] | 1 | 2020-05-10 19:16:44+00:00 | 1521 | 0 | Python | 0 |
+| ProjectorBUg/WEB-EXPLOITER | None | https://github.com/ProjectorBUg/WEB-EXPLOITER | ['exploit'] | 1 | 2020-05-10 17:32:27+00:00 | 5 | 1 | Python | 2 |
+| ProjectorBUg/whatsapp-rce-patched | None | https://github.com/ProjectorBUg/whatsapp-rce-patched | ['rce'] | 1 | 2020-05-10 15:35:45+00:00 | 2755 | 2 | C | 5 |
+| ProjectorBUg/CVE-2020-11932 | Double-Free BUG in WhatsApp exploit poc. | https://github.com/ProjectorBUg/CVE-2020-11932 | ['cve poc', 'cve-2', 'exploit'] | 3 | 2020-05-10 15:32:54+00:00 | 18 | 82 | C | 35 |
+| ProjectorBUg/Mr.Link | Silent Screenshot Capture _ Post Exploitation Payload _ VB.NET | https://github.com/ProjectorBUg/Mr.Link | ['exploit', 'metasploit module OR metasploit payload'] | 2 | 2020-05-10 14:49:20+00:00 | 395 | 10 | Visual Basic .NET | 5 |
+| Y4er/CVE-2020-2883 | Weblogic coherence.jar RCE | https://github.com/Y4er/CVE-2020-2883 | ['cve-2', 'rce'] | 2 | 2020-05-10 09:29:36+00:00 | 319 | 168 | Java | 35 |
+| vexelisproductions/legionsploit | LegionSploit is a Roblox Exploit, Our pre-made scripts will be here. | https://github.com/vexelisproductions/legionsploit | ['exploit'] | 1 | 2020-05-10 08:26:08+00:00 | 25 | 0 | | 0 |
+| pbr94/Shellshock-Bash-Remote-Code-Execution-Vulnerability-and-Exploitation | None | https://github.com/pbr94/Shellshock-Bash-Remote-Code-Execution-Vulnerability-and-Exploitation | ['exploit', 'remote code execution'] | 2 | 2020-05-10 04:17:02+00:00 | 577 | 0 | | 0 |
+| acaglayan/exploitCNN-RNN | Exploiting Multi-Layer Features Using a CNN-RNN Approach for RGB-D Object Recognition | https://github.com/acaglayan/exploitCNN-RNN | ['exploit'] | 1 | 2020-05-10 23:25:28+00:00 | 1014 | 11 | MATLAB | 1 |
+| GCJohnsonChev/iPhone_6s_LineageOS | Lineage OS Port To iPhone Models Vulnerable To The CheckM8 Exploit. | https://github.com/GCJohnsonChev/iPhone_6s_LineageOS | ['exploit'] | 1 | 2020-05-10 02:33:49+00:00 | 0 | 0 | | 0 |
+| NatMk/Pen_Testing-Vulnerability_Assement | This repository provides a fundamental understanding of penetration (pen) testing and "ethical hacking", including requirements and reporting. It also address the examination of the business impact of testing and conducting security testing (including netw | https://github.com/NatMk/Pen_Testing-Vulnerability_Assement | ['exploit'] | 1 | 2020-05-10 02:17:58+00:00 | 27568 | 0 | HTML | 0 |
+| AndreyRainchik/CVE-2020-8816 | A Python script to exploit CVE-2020-8816, a remote code execution vulnerability on the Pi-hole | https://github.com/AndreyRainchik/CVE-2020-8816 | ['cve-2', 'exploit', 'remote code execution'] | 3 | 2020-05-10 19:34:43+00:00 | 710 | 5 | Python | 5 |
+| takabaya-shi/LFI2RCE | LFI to RCE tool. | https://github.com/takabaya-shi/LFI2RCE | ['rce'] | 1 | 2020-05-10 08:21:06+00:00 | 22 | 5 | Python | 0 |
+| 0xx7/SQLi-knife | An SQL injection engine to detect and exploit SQLi vulnerability | https://github.com/0xx7/SQLi-knife | ['exploit'] | 1 | 2020-05-10 00:01:22+00:00 | 124 | 0 | Python | 1 |
+| Frichetten/CVE-2020-11108-PoC | PoCs for CVE-2020-11108; an RCE and priv esc in Pi-hole | https://github.com/Frichetten/CVE-2020-11108-PoC | ['cve poc', 'cve-2', 'rce', 'rce poc'] | 4 | 2020-05-10 22:35:46+00:00 | 9 | 24 | Python | 9 |
+| sahad-mk/AWS-Sec | Demo for exploiting SSRF in AWS ec2 instance. | https://github.com/sahad-mk/AWS-Sec | ['exploit'] | 1 | 2020-05-10 06:46:56+00:00 | 460 | 1 | CSS | 2 |
+| n1J6nay/exps | awesome exploits about network protocol and file format. | https://github.com/n1J6nay/exps | ['exploit'] | 1 | 2020-05-10 05:22:01+00:00 | 1 | 0 | | 0 |
+| desword/shellcode_tools | Useful tools for writing shellcode | https://github.com/desword/shellcode_tools | ['shellcode'] | 1 | 2020-05-10 03:01:55+00:00 | 2821 | 52 | Python | 24 |
+| cephurs/GOback | GOback is a backdoor written in GO that use shellcode injection technique for achiving its task. | https://github.com/cephurs/GOback | ['shellcode'] | 1 | 2020-05-10 23:26:51+00:00 | 83 | 4 | | 15 |

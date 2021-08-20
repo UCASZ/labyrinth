@@ -1,0 +1,29 @@
+
+# Summary for results/2020/06/05
+    
+22 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| sweetchipsw/Sweetmon_legacy | 'SWEETMON' is a fuzzer monitoring service based python3 + django. User can check their fuzzers and crashes on the web. It can reduce repetitive work for fuzz testers. This is a legacy sweetmon. The new sweetmon is now being developed https://github.com/swe | https://github.com/sweetchipsw/Sweetmon_legacy | ['exploit'] | 1 | 2020-06-05 17:36:43+00:00 | 3041 | 16 | CSS | 4 |
+| hayj/WebCrawler | The WebCrawler class exploit the WebBrowser lib (which use Selenium and requests) to crawl URLs in parallel. This lib is "callback oriented". | https://github.com/hayj/WebCrawler | ['exploit'] | 1 | 2020-06-05 10:52:01+00:00 | 79964 | 3 | Python | 4 |
+| justinmoon/exploit | None | https://github.com/justinmoon/exploit | ['exploit'] | 1 | 2020-06-05 22:39:30+00:00 | 5 | 0 | Python | 0 |
+| osamahamad/CVE-2020-9484-Mass-Scan | CVE-2020-9484 Mass Scanner, Scan a list of urls for Apache Tomcat deserialization (CVE-2020-9484) which could lead to RCE | https://github.com/osamahamad/CVE-2020-9484-Mass-Scan | ['cve-2', 'rce'] | 2 | 2020-06-05 21:04:43+00:00 | 2 | 30 | Shell | 13 |
+| IberioYT/scripts | Sollaris Exploit Script Hub scripts | https://github.com/IberioYT/scripts | ['exploit'] | 1 | 2020-06-05 17:02:18+00:00 | 1 | 0 | | 0 |
+| DontGiveAFuck/Insomnia | Scripts for a private exploit with Script Hub, Insomnia. DGAF#9711 | https://github.com/DontGiveAFuck/Insomnia | ['exploit'] | 1 | 2020-06-05 18:13:32+00:00 | 45 | 0 | | 0 |
+| neelpatel05/rooted-StreamRipper | Exploits the buffer overflow vulnerability prevailing in the StreamRipper that records internet radio to mp3 for Windows system. Uses "jmp esp" assembly instruction to leverage the execution of payload. | https://github.com/neelpatel05/rooted-StreamRipper | ['exploit'] | 1 | 2020-06-05 14:41:57+00:00 | 1335 | 0 | Python | 0 |
+| WilliamOtieno/QR_BarCode_scanner | Exploiting Python's Open-CV library to timker around with computer vision | https://github.com/WilliamOtieno/QR_BarCode_scanner | ['exploit'] | 1 | 2020-06-05 16:28:09+00:00 | 2 | 0 | Python | 0 |
+| mrhacker51/BufferOverFlow-2 | Pcman FTP Server Exploit | https://github.com/mrhacker51/BufferOverFlow-2 | ['exploit'] | 1 | 2020-06-05 11:12:48+00:00 | 8 | 1 | Python | 2 |
+| wyu0hop/CVE-2020-0096 | None | https://github.com/wyu0hop/CVE-2020-0096 | ['cve-2'] | 1 | 2020-06-05 08:26:27+00:00 | 0 | 0 | | 0 |
+| Tengfei1010/CVE-POC-EXP | None | https://github.com/Tengfei1010/CVE-POC-EXP | ['cve poc'] | 1 | 2020-06-05 07:44:50+00:00 | 24887 | 0 | C# | 0 |
+| snix0/custom-metasploit-modules | My custom Metasploit aux/exploit/post modules. | https://github.com/snix0/custom-metasploit-modules | ['exploit'] | 1 | 2020-06-05 06:52:31+00:00 | 0 | 0 | | 0 |
+| niirmaaltwaatii/TechnologyExploitsIntro | Intro - Technology Exploits | https://github.com/niirmaaltwaatii/TechnologyExploitsIntro | ['exploit'] | 1 | 2020-06-05 02:28:43+00:00 | 2 | 2 | Shell | 0 |
+| Blyth0He/CVE-2020-8840 | jackson jndi injection | https://github.com/Blyth0He/CVE-2020-8840 | ['cve-2'] | 1 | 2020-06-05 02:23:55+00:00 | 60 | 0 | Java | 0 |
+| praneethweerawardana/Linux-Exploitation---Nebula | None | https://github.com/praneethweerawardana/Linux-Exploitation---Nebula | ['exploit'] | 1 | 2020-06-05 02:02:58+00:00 | 2 | 0 | | 0 |
+| cybervaca/CVE-2019-16113 | CVE-2019-16113 - bludit >= 3.9.2 RCE authenticate | https://github.com/cybervaca/CVE-2019-16113 | ['cve-2', 'rce'] | 2 | 2020-06-05 09:43:08+00:00 | 38 | 11 | Python | 6 |
+| SolomonSklash/SyscallPOC | Shellcode injection POC using syscalls. | https://github.com/SolomonSklash/SyscallPOC | ['shellcode'] | 1 | 2020-06-05 15:51:42+00:00 | 58 | 78 | C# | 23 |
+| LeonaMc/ZeroDayAs3 | nan | https://github.com/LeonaMc/ZeroDayAs3 | ['zeroday'] | 1 | 2020-06-05 11:03:51+00:00 | 40824 | 0 | Java | 0 |
+| thelostworldFree/CVE-2020-0796 | PoC RCE Reverse Shell for CVE-2020-0796 (SMBGhost) | https://github.com/thelostworldFree/CVE-2020-0796 | ['cve poc', 'cve-2', 'rce', 'rce poc'] | 4 | 2020-06-05 16:21:55+00:00 | 24 | 10 | | 15 |
+| hibernator11/notebook-iiif-images | The jupyter notebooks provided in this project while being based on IIIF repositories, extract metadata and images, creating a CSV file representing the dataset as a result. These are examples of exploitation that can serve as a basis for further developme | https://github.com/hibernator11/notebook-iiif-images | ['exploit'] | 1 | 2020-06-05 10:11:13+00:00 | 78058 | 2 | Jupyter Notebook | 1 |
+| apbassett/shellcode-tool | Automated Shellcode Extractor and Tester | https://github.com/apbassett/shellcode-tool | ['shellcode'] | 1 | 2020-06-05 14:05:15+00:00 | 45 | 0 | Python | 0 |
+| dplastico/exploiting-principiantes | Rep para el curso "exploiting para principiantes en Convid.cl, Jun 2020 | https://github.com/dplastico/exploiting-principiantes | ['exploit'] | 1 | 2020-06-05 23:03:55+00:00 | 5 | 4 | C | 0 |

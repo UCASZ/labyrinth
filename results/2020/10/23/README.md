@@ -1,0 +1,23 @@
+
+# Summary for results/2020/10/23
+    
+16 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| r3dxpl0it/CVE-2018-15473 | OpenSSH 7.7 - Username Enumeration | https://github.com/r3dxpl0it/CVE-2018-15473 | ['cve-2'] | 1 | 2020-10-23 17:03:06+00:00 | 8 | 11 | Python | 15 |
+| peiyunh/wysiwyg | WYSIWYG: Exploiting Visibility for 3D Object Detection, CVPR 2020 (Oral) | https://github.com/peiyunh/wysiwyg | ['exploit'] | 1 | 2020-10-23 20:57:46+00:00 | 1445 | 74 | Python | 15 |
+| cisagov/check-cve-2019-19781 | Test a host for susceptibility to CVE-2019-19781 | https://github.com/cisagov/check-cve-2019-19781 | ['cve-2'] | 1 | 2020-10-23 19:35:42+00:00 | 367 | 102 | Python | 29 |
+| TylerWilson61/Binary-Bomb-Attack-Lab | These are two projects I completed that really dive deep into assembly code and c. The Binary Bomb the assembly code to figure out what is happening in the c code to difuse the bomb, while the attack lab is using exploits to make the program behave a certa | https://github.com/TylerWilson61/Binary-Bomb-Attack-Lab | ['exploit'] | 1 | 2020-10-23 18:18:25+00:00 | 2888 | 0 | C | 0 |
+| musyoka101/Injection-TryHackMe-exploit-script | musyoka101/Injection-TryHackMe-exploit-script | https://github.com/musyoka101/Injection-TryHackMe-exploit-script | ['exploit'] | 1 | 2020-10-23 13:47:44+00:00 | 11 | 6 | Python | 2 |
+| pslib-cz/2020l4web-typography-css-library-DanCvejn | 2020l4web-typography-css-library-DanCvejn created by GitHub Classroom | https://github.com/pslib-cz/2020l4web-typography-css-library-DanCvejn | ['cve-2'] | 1 | 2020-10-23 08:17:16+00:00 | 3859 | 0 | CSS | 0 |
+| Mellonyt/Auto-Updating-Identity-Offsets-For-Roblox | This is just a sample from my external address dumper (Documentation in main.h) (MUST HAVE EYECRAWL FOR THIS TO WORK) https://github.com/DocorDerank/EyeCrawl (credits to who ever made eyecrawl) | https://github.com/Mellonyt/Auto-Updating-Identity-Offsets-For-Roblox | ['exploit'] | 1 | 2020-10-23 04:34:19+00:00 | 7 | 1 | C | 0 |
+| brightonsbox/xss-csp-exploit-example | A demo of how a bad Content Security Policy (CSP) can exacerbate a XSS vulnerability | https://github.com/brightonsbox/xss-csp-exploit-example | ['exploit'] | 1 | 2020-10-23 09:45:58+00:00 | 249 | 0 | TypeScript | 1 |
+| ghtwf01/td_rce | 通达OA未授权文件上传&任意文件包含RCE | https://github.com/ghtwf01/td_rce | ['rce'] | 1 | 2020-10-23 15:46:10+00:00 | 9 | 0 | Python | 2 |
+| weaknesspy/WeaknesSploit | Android Sploit framework | https://github.com/weaknesspy/WeaknesSploit | ['sploit'] | 1 | 2020-10-23 02:40:54+00:00 | 1 | 1 | Python | 0 |
+| f-imp/Engagement-Classification-exploiting-Facial-Emotion-s-Temporal-Sequences | f-imp/Project_Intelligent_Interfaces | https://github.com/f-imp/Engagement-Classification-exploiting-Facial-Emotion-s-Temporal-Sequences | ['exploit'] | 1 | 2020-10-23 13:35:36+00:00 | 34636 | 2 | Jupyter Notebook | 0 |
+| rayeki1/roblox-exploit-pack | gui and custom spec on ABD | https://github.com/rayeki1/roblox-exploit-pack | ['exploit'] | 1 | 2020-10-23 12:29:13+00:00 | 0 | 0 | | 0 |
+| 0xNaif/PermissionsFiles-Exploit | None | https://github.com/0xNaif/PermissionsFiles-Exploit | ['exploit'] | 1 | 2020-10-23 14:16:36+00:00 | 0 | 0 | | 0 |
+| ghtwf01/tdv11.6_rce | 通达OA任意文件删除&文件上传RCE(2020年hw 8月0day) | https://github.com/ghtwf01/tdv11.6_rce | ['0day', 'rce'] | 2 | 2020-10-23 15:48:06+00:00 | 4 | 4 | Python | 3 |
+| matteosantama/statarb | Trading algorithm that identifies and exploits stationary relationships between equities | https://github.com/matteosantama/statarb | ['exploit'] | 1 | 2020-10-23 14:50:56+00:00 | 37 | 1 | Python | 0 |
+| kursataker/cve303_fall_2020 | None | https://github.com/kursataker/cve303_fall_2020 | ['cve-2'] | 1 | 2020-10-23 16:01:45+00:00 | 0 | 0 | | 0 |

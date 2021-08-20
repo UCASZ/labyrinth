@@ -1,0 +1,21 @@
+
+# Summary for results/2020/06/07
+    
+14 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework | OWASP Xenotix XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework. | https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework | ['exploit'] | 1 | 2020-06-07 23:53:18+00:00 | 196525 | 438 | Python | 176 |
+| leandrocamposcardoso/CVE-2017-5638-Mass-Exploit | None | https://github.com/leandrocamposcardoso/CVE-2017-5638-Mass-Exploit | ['cve-2', 'exploit'] | 2 | 2020-06-07 07:06:32+00:00 | 11 | 0 | Python | 1 |
+| meetparekh09/automatic-stopwords | Experiment to exploit methods for automatically generating stop words list for multiple languages | https://github.com/meetparekh09/automatic-stopwords | ['exploit'] | 1 | 2020-06-07 21:16:45+00:00 | 2 | 0 | Python | 0 |
+| MartiGJ/LearningBinExp | Compilation of exploits I created for learning purposes | https://github.com/MartiGJ/LearningBinExp | ['exploit'] | 1 | 2020-06-07 15:16:25+00:00 | 220 | 0 | Python | 0 |
+| ChickenHook/StartFlagExploit | A local Android DoS Exploit for API 29 and API 30 | https://github.com/ChickenHook/StartFlagExploit | ['exploit'] | 1 | 2020-06-07 22:06:53+00:00 | 292 | 47 | Kotlin | 8 |
+| darkwhirlwind/FASTRIDDLER | An exploitation framework in development as a hobby | https://github.com/darkwhirlwind/FASTRIDDLER | ['exploit'] | 1 | 2020-06-07 20:39:13+00:00 | 29 | 0 | Python | 0 |
+| marcinguy/CVE-2020-10135-BIAS | CVE 2020-10135 a.k.a BIAS (Bluetooth Impersonation Attack) | https://github.com/marcinguy/CVE-2020-10135-BIAS | ['cve-2'] | 1 | 2020-06-07 08:59:47+00:00 | 102 | 21 | | 5 |
+| mathieu-lechine/sirenisation_insee | Exploitation de la base SIRENE de l'INSEE (text-mining, reconnaissance d'entités nommées, désambiguisation) | https://github.com/mathieu-lechine/sirenisation_insee | ['exploit'] | 1 | 2020-06-07 07:54:10+00:00 | 7276 | 1 | Python | 1 |
+| Obey7/Obey-expliot-V1.00 | this is a free but op exploit made by obey 7 do not scam people and start selling this program by obey 7 like sub to obey 7 or u gay | https://github.com/Obey7/Obey-expliot-V1.00 | ['exploit'] | 1 | 2020-06-07 11:12:01+00:00 | 7231 | 0 | | 0 |
+| MichaelJHodge/Hacking-The-Art-of-Exploitation | None | https://github.com/MichaelJHodge/Hacking-The-Art-of-Exploitation | ['exploit'] | 1 | 2020-06-07 14:29:28+00:00 | 11 | 0 | C | 0 |
+| gop4sch4/Hiawatha | Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL i | https://github.com/gop4sch4/Hiawatha | ['exploit'] | 1 | 2020-06-07 15:59:21+00:00 | 1696 | 3 | Shell | 0 |
+| danpalmer/django-cve-2020-13254 | Vulnerability demonstration for Django CVE-2020-13254 | https://github.com/danpalmer/django-cve-2020-13254 | ['cve-2'] | 1 | 2020-06-07 18:07:46+00:00 | 9 | 1 | | 0 |
+| ChongHunYu/Exploiting-SDN | This project describes how Software Defined Networking (SDN) can be implemented in a real life scenario, how there can be serious threats to the SDN and what kind of tools currently exist to support network security forensics and diagnosis. | https://github.com/ChongHunYu/Exploiting-SDN | ['exploit'] | 1 | 2020-06-07 17:32:59+00:00 | 3755 | 0 | | 0 |
+| CrackerCat/andron | Andron Framework is an Android post-exploitation framework that explois Android MMS vulnerability to provide shell-like connection. | https://github.com/CrackerCat/andron | ['exploit'] | 1 | 2020-06-07 13:40:37+00:00 | 75 | 0 | | 0 |

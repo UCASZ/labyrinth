@@ -1,0 +1,25 @@
+
+# Summary for results/2020/10/28
+    
+18 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| xmycroftx/tisploit | tisploit is a collection of timing attack exploits. They are, by their very nature, fickle and subject to many environmental conditions. | https://github.com/xmycroftx/tisploit | ['exploit'] | 1 | 2020-10-28 16:46:23+00:00 | 26 | 0 | Python | 0 |
+| UserExistsError/DllLoaderShellcode | Shellcode to load an appended Dll | https://github.com/UserExistsError/DllLoaderShellcode | ['shellcode'] | 1 | 2020-10-28 22:26:20+00:00 | 23 | 58 | C++ | 32 |
+| zal-ghiffari/xitami-exploit-reverse-shell-buffer-overflow | A Documentation about my little exploitation, hope you enjoy the code | https://github.com/zal-ghiffari/xitami-exploit-reverse-shell-buffer-overflow | ['exploit'] | 1 | 2020-10-28 19:01:22+00:00 | 4 | 0 | Python | 0 |
+| learn-exploits/SLIMS-Auto-Upload | File Attachment Auto Exploiter | https://github.com/learn-exploits/SLIMS-Auto-Upload | ['exploit'] | 1 | 2020-10-28 17:01:14+00:00 | 2 | 1 | PHP | 0 |
+| swapUniba/Diachronic-Engine | Diachronic Engine is a web-framework for the diachronic analysis of corpora lexical features. Diachronic Engine computes word frequency, concordances and collocations taking into account the temporal dimension. It is also able to compute temporal word embe | https://github.com/swapUniba/Diachronic-Engine | ['exploit'] | 1 | 2020-10-28 18:29:55+00:00 | 787 | 0 | Java | 0 |
+| jakobtsmith/Shellcode | Linux based shellcode group project developed in Systems Programming. My portion was the cd command, piping, the main parser for the command prompt, and the batch mode. | https://github.com/jakobtsmith/Shellcode | ['shellcode'] | 1 | 2020-10-28 14:34:28+00:00 | 4 | 0 | C | 0 |
+| JawadMahdiBD/JexExploit | It is an Automated tool | https://github.com/JawadMahdiBD/JexExploit | ['exploit'] | 1 | 2020-10-28 12:31:06+00:00 | 0 | 0 | | 0 |
+| komomon/CVE-2020-16898--EXP-POC | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898--EXP-POC | ['cve poc', 'cve-2'] | 2 | 2020-10-28 11:27:17+00:00 | 33 | 7 | Python | 6 |
+| Snowming04/inject_shellcode_message_hook | inject shellcode into remote process via message hook | https://github.com/Snowming04/inject_shellcode_message_hook | ['shellcode'] | 1 | 2020-10-28 02:24:52+00:00 | 12 | 16 | C++ | 2 |
+| Graham382/CVE-2020-1054 | Windows 7 LPE | https://github.com/Graham382/CVE-2020-1054 | ['cve-2'] | 1 | 2020-10-28 00:57:05+00:00 | 141 | 0 | C | 4 |
+| nalonal/ghdb | Web dorking by Google Hacking Database Issue [Exploit-DB] | https://github.com/nalonal/ghdb | ['exploit'] | 1 | 2020-10-28 05:10:25+00:00 | 205 | 6 | Python | 5 |
+| shanx48/exploit | An exploit is a piece of software, a chunk of data, or a sequence of commands that takes advantage of a bug or vulnerability to cause unintended or unanticipated behavior to occur on computer software, hardware, or something electronic | https://github.com/shanx48/exploit | ['exploit'] | 1 | 2020-10-28 15:49:43+00:00 | 5 | 0 | Python | 1 |
+| anmolsagarwal/cs6332-assignment-2 | x86 and ARM Buffer Overflow and ROP Exploits - Assignment 2 for Systems Security and Malicious Code Analysis Course | https://github.com/anmolsagarwal/cs6332-assignment-2 | ['exploit'] | 1 | 2020-10-28 15:05:10+00:00 | 3914 | 0 | Python | 0 |
+| komomon/CVE-2020-16898-EXP-POC | CVE-2020-16898 Windows TCP/IP远程代码执行漏洞 EXP&POC | https://github.com/komomon/CVE-2020-16898-EXP-POC | ['cve poc', 'cve-2'] | 2 | 2020-10-28 11:21:00+00:00 | 43 | 4 | Python | 0 |
+| Jiehuishun/CVExp-XDU-2020-CS5201 | All five experiments of computer vision courses opened at Xidian University. CV XDU | https://github.com/Jiehuishun/CVExp-XDU-2020-CS5201 | ['cve-2'] | 1 | 2020-10-28 15:09:25+00:00 | 38496 | 1 | Python | 0 |
+| martin3lli/backdoor-script | 👨🏼‍💻 RCE script made in python, using Mr. Clown backdoor. | https://github.com/martin3lli/backdoor-script | ['rce'] | 1 | 2020-10-28 14:31:41+00:00 | 4 | 1 | Python | 0 |
+| shagunattri/0x00 | Binary Exploitation resources | https://github.com/shagunattri/0x00 | ['exploit'] | 1 | 2020-10-28 11:53:08+00:00 | 13674 | 0 | C | 0 |
+| bvm7x/Joomla-exploi | Joomla com jumi Remote SQL Injection Exploit | https://github.com/bvm7x/Joomla-exploi | ['exploit'] | 1 | 2020-10-28 18:52:20+00:00 | 3 | 1 | Perl | 0 |

@@ -1,0 +1,28 @@
+
+# Summary for results/2020/06/24
+    
+21 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| theriley106/Wolf_of_Investopedia | Investopedia Bot that is able to generate consistent positive returns by exploiting a small timing discrepancy between Google Finance stock data and the Investopedia stock simulator site. | https://github.com/theriley106/Wolf_of_Investopedia | ['exploit'] | 1 | 2020-06-24 00:35:56+00:00 | 30684 | 19 | Python | 6 |
+| Keramas/WindowsKernelExploits | Repository for Windows 10 x64 kernel research, exploitation learning, and reference/supplementary code. | https://github.com/Keramas/WindowsKernelExploits | ['exploit', 'shellcode'] | 2 | 2020-06-24 10:21:47+00:00 | 5 | 9 | C++ | 1 |
+| LucaReggiannini/Bludit-3-9-2-bb | Bludit 3.9.2 - bruteforce bypass - CVE-2019-17240 | https://github.com/LucaReggiannini/Bludit-3-9-2-bb | ['cve-2'] | 1 | 2020-06-24 23:00:37+00:00 | 23 | 0 | Python | 0 |
+| sr-crypsis/JetAudio-jetCast-Server-2.0-Buffer-Overflow | This is a write-up for the Hands-On Fuzzing and Exploit Development course | https://github.com/sr-crypsis/JetAudio-jetCast-Server-2.0-Buffer-Overflow | ['exploit'] | 1 | 2020-06-24 19:40:58+00:00 | 31 | 0 | | 0 |
+| KashaMalaga/cve2020-8835 | cve2020-8835 PoC armv7 | https://github.com/KashaMalaga/cve2020-8835 | ['cve poc', 'cve-2'] | 2 | 2020-06-24 15:57:47+00:00 | 138 | 1 | C++ | 0 |
+| FuocomanSap/ExploitableMachine | This repo contains ExploitableVms with their relative reports, we hope this will be useful to practice your hacking skills | https://github.com/FuocomanSap/ExploitableMachine | ['exploit'] | 1 | 2020-06-24 13:36:18+00:00 | 3097 | 1 | | 2 |
+| cyberharsh/Php-unit-CVE-2017-9841 | None | https://github.com/cyberharsh/Php-unit-CVE-2017-9841 | ['cve-2'] | 1 | 2020-06-24 11:59:15+00:00 | 45 | 0 | Dockerfile | 0 |
+| hcninja/scfmt | Shellcode formatter | https://github.com/hcninja/scfmt | ['shellcode'] | 1 | 2020-06-24 08:43:14+00:00 | 8 | 0 | Go | 1 |
+| cyberharsh/Oracle-mysql-CVE-2012-2122 | None | https://github.com/cyberharsh/Oracle-mysql-CVE-2012-2122 | ['cve-2'] | 1 | 2020-06-24 06:33:23+00:00 | 35 | 0 | Dockerfile | 0 |
+| flowwin4k/LuxuryExploit | Hello! in this program exploiting habbo servers official, and retro servers. | https://github.com/flowwin4k/LuxuryExploit | ['exploit'] | 1 | 2020-06-24 03:30:47+00:00 | 0 | 0 | | 0 |
+| cyberharsh/Groovy-scripting-engine-CVE-2015-1427 | None | https://github.com/cyberharsh/Groovy-scripting-engine-CVE-2015-1427 | ['cve-2'] | 1 | 2020-06-24 05:47:46+00:00 | 42 | 0 | Dockerfile | 0 |
+| mustafadalga/code-injector | Aynı ağ içerisinde , ARP Spoofing saldırısı yapılmış hedef bilgisayarın ziyaret ettiği , HTTP protokolünü kullanan web sitelerine kod enjekte ederek manipüle etmenize yarayan bir script. | https://github.com/mustafadalga/code-injector | ['exploit'] | 1 | 2020-06-24 10:39:32+00:00 | 21 | 6 | Python | 2 |
+| jenaye/aapanel | aapanel 6.6.6 - (Authenticated) Remote Code Execution | https://github.com/jenaye/aapanel | ['remote code execution'] | 1 | 2020-06-24 14:37:13+00:00 | 591 | 2 | nan | 6 |
+| mickdec/ATTINY85-Exploit | None | https://github.com/mickdec/ATTINY85-Exploit | ['exploit'] | 1 | 2020-06-24 13:18:46+00:00 | 6 | 0 | C++ | 0 |
+| tokonuulu/image-search | Application for image query that exploits latest architecture design patterns | https://github.com/tokonuulu/image-search | ['exploit'] | 1 | 2020-06-24 16:36:07+00:00 | 167 | 0 | Kotlin | 0 |
+| xkeyscore007/Threat_Analysis | Hands on practice with Malware analysis and Exploit Development | https://github.com/xkeyscore007/Threat_Analysis | ['exploit'] | 1 | 2020-06-24 11:17:30+00:00 | 17 | 0 | Python | 0 |
+| joshmalek/c-exploits | Undetectable exploits for Windows 10 built in C. | https://github.com/joshmalek/c-exploits | ['exploit'] | 1 | 2020-06-24 06:00:05+00:00 | 335 | 0 | C | 0 |
+| CrafterPika/Wii-Host-U | A discontinued wiiu exploit selfhosting tool... | https://github.com/CrafterPika/Wii-Host-U | ['exploit'] | 1 | 2020-06-24 14:46:55+00:00 | 138 | 0 | HTML | 0 |
+| ProtocoleData/Refere_Chasse | Étude sur l'efficacité du référé suspension en matière de chasse à partir d'une revue systématique de la jurisprudence récente. (Traitement et exploitation des données) | https://github.com/ProtocoleData/Refere_Chasse | ['exploit'] | 1 | 2020-06-24 22:03:21+00:00 | 21455 | 0 | HTML | 0 |
+| Starwarsfan2099/PyWinDbg | Python based 32-bit Windows debugger built for learning purposes. Currently includes breakpoint setting, register modification, process monitoring and inspection, file monitoring and hooking, DLL injection, shellcode injection, and crash detection. | https://github.com/Starwarsfan2099/PyWinDbg | ['shellcode'] | 1 | 2020-06-24 16:07:39+00:00 | 49904 | 10 | Python | 1 |
+| phosphorylation/TCP_buffer_overflow | exploit an old TCP vulnerability which splited messages get aggregated to be larger than the expected maximum size thus resulting in buffer overflow. | https://github.com/phosphorylation/TCP_buffer_overflow | ['exploit'] | 1 | 2020-06-24 22:45:10+00:00 | 2 | 0 | Python | 0 |

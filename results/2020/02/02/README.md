@@ -1,0 +1,22 @@
+
+# Summary for results/2020/02/02
+    
+15 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| surajraghuvanshi/WPExploiter | Exploit wordpress plugins. Automatically identify the word press plugins used in application. scan for vulnerability and exploit the vulnerability. The WPExploiter initially use WPScanner to scan the application and based on the results by the WPScanner we | https://github.com/surajraghuvanshi/WPExploiter | ['exploit'] | 1 | 2020-02-02 11:43:38+00:00 | 8 | 0 | | 0 |
+| mez-0/MS17-010-Python | MS17-010: Python and Meterpreter | https://github.com/mez-0/MS17-010-Python | ['metasploit module OR metasploit payload'] | 1 | 2020-02-02 16:18:43+00:00 | 140 | 319 | Python | 103 |
+| p3pperp0tts/PoC_FrenchyShellcode | nan | https://github.com/p3pperp0tts/PoC_FrenchyShellcode | ['shellcode'] | 1 | 2020-02-02 10:53:25+00:00 | 6 | 4 | Python | 3 |
+| compleng/Exploits | None | https://github.com/compleng/Exploits | ['exploit'] | 1 | 2020-02-02 17:17:27+00:00 | 1631 | 0 | Python | 1 |
+| Adelittle/Wordpressz_Dos_CVE_2018_6389 | None | https://github.com/Adelittle/Wordpressz_Dos_CVE_2018_6389 | ['cve-2'] | 1 | 2020-02-02 05:25:45+00:00 | 4 | 0 | Shell | 3 |
+| jdgregson/Windows-10-Exploit-Protection-Settings | None | https://github.com/jdgregson/Windows-10-Exploit-Protection-Settings | ['exploit'] | 1 | 2020-02-02 04:07:21+00:00 | 17 | 5 | PowerShell | 0 |
+| RrUZi/Awesome-CVE-2020-0601 | 😂An awesome curated list of repos for CVE-2020-0601. | https://github.com/RrUZi/Awesome-CVE-2020-0601 | ['cve-2'] | 1 | 2020-02-02 02:29:23+00:00 | 11 | 3 | | 1 |
+| FukkitMC/CrapFukkit | the exploit and mechanic breaking parts of craftbukkit | https://github.com/FukkitMC/CrapFukkit | ['exploit'] | 1 | 2020-02-02 19:30:54+00:00 | 70 | 1 | Java | 0 |
+| pwncone/CVE-2004-2271-MiniShare-1.4.1-BOF | A python implementation of CVE-2004-2271 targeting MiniShare 1.4.1. | https://github.com/pwncone/CVE-2004-2271-MiniShare-1.4.1-BOF | ['cve-2'] | 1 | 2020-02-02 12:04:20+00:00 | 4 | 0 | Python | 0 |
+| namratapoojary/Analysis-and-Prediction-of-Crime-Against-Women | The main purpose of this project is to analyze the crimes occurring district wise and predict the further crime trends using the past twelve years of crime records. The data is released by the National Crime Records Bureau (NCRB) and is made available on t | https://github.com/namratapoojary/Analysis-and-Prediction-of-Crime-Against-Women | ['exploit'] | 1 | 2020-02-02 15:20:49+00:00 | 6919 | 1 | Jupyter Notebook | 1 |
+| bideeen/Building-A-Trading-Strategy-With-Python | trading strategy is a fixed plan to go long or short in markets, there are two common trading strategies: the momentum strategy and the reversion strategy. Firstly, the momentum strategy is also called divergence or trend trading. When you follow this str | https://github.com/bideeen/Building-A-Trading-Strategy-With-Python | ['exploit'] | 1 | 2020-02-02 15:12:39+00:00 | 88 | 14 | Jupyter Notebook | 11 |
+| xfinest/linux-kernel-exploits | None | https://github.com/xfinest/linux-kernel-exploits | ['exploit'] | 1 | 2020-02-02 15:07:59+00:00 | 8972 | 0 | C | 0 |
+| xfinest/windows-kernel-exploits | None | https://github.com/xfinest/windows-kernel-exploits | ['exploit'] | 1 | 2020-02-02 15:16:34+00:00 | 230162 | 0 | C | 0 |
+| SpiderMate/phplist_authbypass_exploit | None | https://github.com/SpiderMate/phplist_authbypass_exploit | ['exploit'] | 1 | 2020-02-02 18:04:25+00:00 | 4 | 0 | | 0 |
+| easymoney89/Bad-Robot-Framework | hello hackers here i will created a framework like metasploit-framework which is specially made for exploiting linux like popular distros (kalilinux , parrotsec , blackarch , linux mint etc......) i will created each exploit which is manually tested for ev | https://github.com/easymoney89/Bad-Robot-Framework | ['exploit'] | 1 | 2020-02-02 15:21:25+00:00 | 6 | 0 | | 0 |

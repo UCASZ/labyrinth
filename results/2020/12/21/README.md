@@ -1,0 +1,23 @@
+
+# Summary for results/2020/12/21
+    
+16 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| Beijaflore-Security-LAB/cveexposer | Shell script searching for known CVE & Exploit associated with a product name/version | https://github.com/Beijaflore-Security-LAB/cveexposer | ['exploit'] | 1 | 2020-12-21 10:31:48+00:00 | 24 | 1 | Shell | 0 |
+| administra1tor/CVE-2019-17234b-Exploit | Wordpress IgniteUp plugin < 3.4.1 allows unauthenticated users to arbitrarily delete files on the webserver possibly causing DoS. | https://github.com/administra1tor/CVE-2019-17234b-Exploit | ['cve-2', 'exploit'] | 2 | 2020-12-21 16:31:29+00:00 | 53 | 0 | | 0 |
+| Ismael-Safadi/Cysec-explits | This repo will contains some exploits for the Boxes in the cysec ctf | https://github.com/Ismael-Safadi/Cysec-explits | ['exploit'] | 1 | 2020-12-21 21:10:47+00:00 | 4 | 0 | Ruby | 0 |
+| klinix5/WinDefend_ZeroDay | lol MS | https://github.com/klinix5/WinDefend_ZeroDay | ['zeroday'] | 1 | 2020-12-21 21:49:29+00:00 | 66 | 20 | C++ | 9 |
+| elostora/phonenumber_sploit | cute and love youfgrth | https://github.com/elostora/phonenumber_sploit | ['sploit'] | 1 | 2020-12-21 08:15:32+00:00 | 6 | 1 | Shell | 0 |
+| eugenebmx/CVE-2020-13942 | CVE-2020-13942 unauthenticated RCE POC through MVEL and OGNL injection | https://github.com/eugenebmx/CVE-2020-13942 | ['cve poc', 'cve-2', 'rce', 'rce poc'] | 4 | 2020-12-21 12:48:48+00:00 | 28 | 23 | nan | 11 |
+| RatMyLaptop/discord-stomper.py | this script is what seems to be a discord token gen that checks the tokens as it gens but you would be wrong because it is really a token logger with a python meterpreter payload inside so you can use this with metasploit to infect somones device and steal | https://github.com/RatMyLaptop/discord-stomper.py | ['metasploit module OR metasploit payload'] | 1 | 2020-12-21 01:37:31+00:00 | 18 | 1 | Python | 1 |
+| nohomo9/exploit | k | https://github.com/nohomo9/exploit | ['exploit'] | 1 | 2020-12-21 03:09:16+00:00 | 0 | 0 | | 0 |
+| shadofren/CVE-2018-6574 | None | https://github.com/shadofren/CVE-2018-6574 | ['cve-2'] | 1 | 2020-12-21 14:05:28+00:00 | 2 | 0 | Go | 0 |
+| GodlyHyper/MinuSploit---Open-Source | an open source for a basic exploit | https://github.com/GodlyHyper/MinuSploit---Open-Source | ['exploit', 'sploit'] | 2 | 2020-12-21 14:44:32+00:00 | 9 | 0 | C# | 0 |
+| h3inzzz/cve2015_1427 | PoC for CVE-2015_1427 | https://github.com/h3inzzz/cve2015_1427 | ['cve poc', 'cve-2'] | 2 | 2020-12-21 15:03:40+00:00 | 1 | 0 | Python | 0 |
+| sonukumarbaske/PhoneSploit | None | https://github.com/sonukumarbaske/PhoneSploit | ['sploit'] | 1 | 2020-12-21 16:08:54+00:00 | 0 | 0 | | 0 |
+| MostafaFiroozi/HAND-GESTURE-CLASSIFICATION-BASED-ON-SURFACE-EMG-SIGNALS-FOR-ONLINE-HAND-PROSTHETICS-CONTROL. | We implemented 5 classical classifiers and a CNN to classify 8 different hand gestures. The classical classifiers we chose are the one in the picture and for each of them we extracted 4 time domain features, that showed to be effective in literature. This | https://github.com/MostafaFiroozi/HAND-GESTURE-CLASSIFICATION-BASED-ON-SURFACE-EMG-SIGNALS-FOR-ONLINE-HAND-PROSTHETICS-CONTROL. | ['exploit'] | 1 | 2020-12-21 19:40:59+00:00 | 254 | 1 | | 0 |
+| IoT-security-lab/OpenDS | OpenDS for the paper “ExHPD: Exploiting Human, Physical and Driving Behaviors to Detect Vehicle Cyber Attacks” | https://github.com/IoT-security-lab/OpenDS | ['exploit'] | 1 | 2020-12-21 20:47:56+00:00 | 18 | 0 | | 0 |
+| Ko-kn3t/CVE-2020-29156 | woocommerce wordpress plugin - Affected Version: V 4.5.2 [CVE-2020-29156] | https://github.com/Ko-kn3t/CVE-2020-29156 | ['cve-2'] | 1 | 2020-12-21 20:48:21+00:00 | 1 | 2 | | 0 |
+| phanbuiminhtu/Guessing-game-1-picoCTF-pwn-challenge | This is the exploit code for Guessing game 1, the pwn challenge from pico CTF | https://github.com/phanbuiminhtu/Guessing-game-1-picoCTF-pwn-challenge | ['exploit'] | 1 | 2020-12-21 21:13:23+00:00 | 4 | 0 | Python | 0 |

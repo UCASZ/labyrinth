@@ -1,0 +1,29 @@
+
+# Summary for results/2020/09/09
+    
+22 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| temptemp3/ba.sh | public bash scripts used in around the web | https://github.com/temptemp3/ba.sh | ['shellcode'] | 1 | 2020-09-09 13:32:54+00:00 | 56 | 4 | Shell | 0 |
+| bigb0sss/OSCE | Public Exploits + Extra-curriculum for OSCE Exam Preparation | https://github.com/bigb0sss/OSCE | ['exploit'] | 1 | 2020-09-09 15:56:24+00:00 | 47772 | 58 | Python | 18 |
+| cranelab/exploit-development | esoteric | https://github.com/cranelab/exploit-development | ['exploit'] | 1 | 2020-09-09 20:48:00+00:00 | 96 | 25 | | 4 |
+| abdessalamking/jwt_exploit | None | https://github.com/abdessalamking/jwt_exploit | ['exploit'] | 1 | 2020-09-09 18:00:07+00:00 | 3 | 0 | Python | 0 |
+| EashanKaushik/-Asynchronous-Advantage-Actor-Critic-with-Random-Exploration-Exploitation-A3C-REE-Breakout-Game | None | https://github.com/EashanKaushik/-Asynchronous-Advantage-Actor-Critic-with-Random-Exploration-Exploitation-A3C-REE-Breakout-Game | ['exploit'] | 1 | 2020-09-09 15:12:54+00:00 | 379 | 0 | Python | 0 |
+| thechincheachilla/S.U.C.R.O.S.E | The "Surely Unsecured Candy Receiving Operational Silly Exploit". A button built into a marshmallow that randomly orders candy from my Amazon account. | https://github.com/thechincheachilla/S.U.C.R.O.S.E | ['exploit'] | 1 | 2020-09-09 14:21:21+00:00 | 0 | 0 | | 0 |
+| iamhellaweiri/meethack | exploiting meet classes | https://github.com/iamhellaweiri/meethack | ['exploit'] | 1 | 2020-09-09 06:56:37+00:00 | 82 | 0 | Python | 0 |
+| cripton666/H.toolkit | BETA H.toolkit es una herramienta programada en bash que nos permite de manera automatica llevar a cabo tareas de hacking, tal como DESCRIPTAR SERVIDOR FTP, ATAQUE A WIFI TROYANOS, EXPLOIT, ESCANER,INYECCION SQL, Y EL SMB RELAY solo con los datos de la vic | https://github.com/cripton666/H.toolkit | ['exploit'] | 1 | 2020-09-09 19:03:09+00:00 | 10 | 3 | Shell | 2 |
+| fr0stby73/Vulnerability-analysis-with-nmap | This repo contains a script to perform nmap scans and vulnerability exploitation of a Wordpress and a MySQL virtual machine in VirtualBox | https://github.com/fr0stby73/Vulnerability-analysis-with-nmap | ['exploit'] | 1 | 2020-09-09 03:25:04+00:00 | 9 | 1 | Shell | 0 |
+| Cyber-Root0/ZenSploit | ZENSPLOIT - " FERRAMENTA DE AUTOMAÇÃO E PENTEST MOBILE " | https://github.com/Cyber-Root0/ZenSploit | ['sploit'] | 1 | 2020-09-09 14:54:44+00:00 | 47731 | 3 | Batchfile | 1 |
+| RandomRobbieBF/wp-file-manager | wp-file-manager RCE | https://github.com/RandomRobbieBF/wp-file-manager | ['rce'] | 1 | 2020-09-09 12:35:38+00:00 | 16 | 10 | Python | 8 |
+| carpetdev/exploits | None | https://github.com/carpetdev/exploits | ['exploit'] | 1 | 2020-09-09 21:28:18+00:00 | 1 | 0 | Go | 0 |
+| g-rubert/CVE-2020-14965 | TP-LINK Multiple HTML Injection Vulnerabilities | https://github.com/g-rubert/CVE-2020-14965 | ['cve-2'] | 1 | 2020-09-09 17:36:53+00:00 | 12 | 0 | | 0 |
+| vedharshita/Multiclass-Classification-on-Human-Activity-Dataset | Automatic activity recognition systems aim to capture the state of the user and its environment by exploiting heterogeneous sensors, and permit continuous monitoring of numerous physiological signals, where these sensors are attached to the subject's body. | https://github.com/vedharshita/Multiclass-Classification-on-Human-Activity-Dataset | ['exploit'] | 1 | 2020-09-09 16:48:45+00:00 | 812 | 0 | Jupyter Notebook | 1 |
+| g-rubert/CVE-2020-12696 | Stored Cross Site Scripting - Iframe Plugin - WordPress | https://github.com/g-rubert/CVE-2020-12696 | ['cve-2'] | 1 | 2020-09-09 17:42:10+00:00 | 19 | 0 | | 0 |
+| Rvn0xsy/CVE_2020_0796_CNA | Cobalt Strike AggressorScripts CVE-2020-0796 | https://github.com/Rvn0xsy/CVE_2020_0796_CNA | ['cve-2'] | 1 | 2020-09-09 09:42:22+00:00 | 80 | 73 | C | 19 |
+| layro01/dotnet-api-goat | A simple ASP.NET REST API sample showing some common .NET OWASP Top 10 exploits. | https://github.com/layro01/dotnet-api-goat | ['exploit'] | 1 | 2020-09-09 19:58:39+00:00 | 41 | 1 | C# | 5 |
+| g-rubert/CVE-2020-9461 | Stored Cross Site Scripting - Oempro | https://github.com/g-rubert/CVE-2020-9461 | ['cve-2'] | 1 | 2020-09-09 17:52:41+00:00 | 9 | 0 | | 0 |
+| g-rubert/CVE-2020-9460 | Stored Cross Site Scripting - Oempro | https://github.com/g-rubert/CVE-2020-9460 | ['cve-2'] | 1 | 2020-09-09 17:54:14+00:00 | 17 | 0 | | 0 |
+| ohjeongwook/ShellCodeEmulator | Shellcode emulator written with Unicorn Framework With Process Dump Emulation Environment | https://github.com/ohjeongwook/ShellCodeEmulator | ['shellcode'] | 1 | 2020-09-09 17:13:05+00:00 | 169 | 108 | Python | 35 |
+| Blazz3/cve2018-13379-nmap-script | CVE-2018-13379 Script for Nmap NSE. | https://github.com/Blazz3/cve2018-13379-nmap-script | ['cve-2'] | 1 | 2020-09-09 05:06:05+00:00 | 283 | 10 | Lua | 2 |
+| mdfi683/PS4-Exploit-Menu-Ghost-of-Tsushima-Version- | PS4 Exploit Menu for 5.05 and 6.72 FW | https://github.com/mdfi683/PS4-Exploit-Menu-Ghost-of-Tsushima-Version- | ['exploit'] | 1 | 2020-09-09 22:18:22+00:00 | 5731 | 1 | | 0 |

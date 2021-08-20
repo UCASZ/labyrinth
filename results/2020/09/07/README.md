@@ -1,0 +1,28 @@
+
+# Summary for results/2020/09/07
+    
+21 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| abatchy17/WindowsExploits | Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead. | https://github.com/abatchy17/WindowsExploits | ['exploit'] | 1 | 2020-09-07 04:17:23+00:00 | 46824 | 1351 | Python | 529 |
+| tea9/CVE-2020-0014-Toast | CVE-2020-0014-Toast-复现 | https://github.com/tea9/CVE-2020-0014-Toast | ['cve-2'] | 1 | 2020-09-07 06:34:42+00:00 | 1540 | 4 | Java | 4 |
+| 0xZDH/imgect | Inject shellcode into a valid BMP/GIF image. | https://github.com/0xZDH/imgect | ['shellcode'] | 1 | 2020-09-07 21:57:05+00:00 | 5 | 4 | Python | 1 |
+| besteseymen/go-get-rce | None | https://github.com/besteseymen/go-get-rce | ['rce'] | 1 | 2020-09-07 20:44:48+00:00 | 5 | 0 | Go | 0 |
+| sam5051/COVID-19-Pandemic-Impact-on-Clinical-Laboratory-Services-MARKET-SIZE-ANALYTICAL-OVERVIEW-GROWTH-FA | "This report gives a significant enumerating and intensive systematic investigation of the global Clinical Laboratory Services Market taking into account the growth factors, recent trends, developments, opportunities, and competitive landscape. The market | https://github.com/sam5051/COVID-19-Pandemic-Impact-on-Clinical-Laboratory-Services-MARKET-SIZE-ANALYTICAL-OVERVIEW-GROWTH-FA | ['exploit'] | 1 | 2020-09-07 12:40:25+00:00 | 3 | 0 | | 0 |
+| sam5051/Latest-Research-and-Study-on-Stem-Cell-Therapy-MARKET-INCLINATIONS-DEVELOPMENT-STATUS-HIGHLIGHTED- | "This report gives a significant enumerating and intensive systematic investigation of the global Stem Cell Therapy Market taking into account the growth factors, recent trends, developments, opportunities, and competitive landscape. The market analysts an | https://github.com/sam5051/Latest-Research-and-Study-on-Stem-Cell-Therapy-MARKET-INCLINATIONS-DEVELOPMENT-STATUS-HIGHLIGHTED- | ['exploit'] | 1 | 2020-09-07 12:38:16+00:00 | 3 | 0 | | 0 |
+| AravGarg/pwnable.kr | My exploits for challenges on pwnable.kr | https://github.com/AravGarg/pwnable.kr | ['exploit'] | 1 | 2020-09-07 11:51:46+00:00 | 1984 | 0 | C | 1 |
+| davbro17/exploit | None | https://github.com/davbro17/exploit | ['exploit'] | 1 | 2020-09-07 01:34:28+00:00 | 2 | 0 | Python | 0 |
+| maladi17/cryptosploit | A crypto exploitation tool | https://github.com/maladi17/cryptosploit | ['exploit'] | 1 | 2020-09-07 05:20:35+00:00 | 7 | 0 | C++ | 0 |
+| kalidor/wp-file-manager_6.8 | Exploit for wp-file-manager_6.8 wordpress plugin | https://github.com/kalidor/wp-file-manager_6.8 | ['exploit'] | 1 | 2020-09-07 14:12:19+00:00 | 2 | 0 | Python | 0 |
+| 0xkami/cve-2020-24616-poc | cve-2020-24616 poc | https://github.com/0xkami/cve-2020-24616-poc | ['cve poc', 'cve-2'] | 2 | 2020-09-07 06:22:50+00:00 | 3434 | 1 | Java | 3 |
+| iai-group/irj-types | Identifying and Exploiting Target Entity Type Information for Ad Hoc Entity Retrieval | https://github.com/iai-group/irj-types | ['exploit'] | 1 | 2020-09-07 13:48:50+00:00 | 158061 | 4 | Python | 0 |
+| tea9/CVE-2017-13156-Janus | CVE-2017-13156-Janus复现 | https://github.com/tea9/CVE-2017-13156-Janus | ['cve-2'] | 1 | 2020-09-07 07:06:50+00:00 | 7933 | 2 | Smali | 1 |
+| zhzhdoai/Motan-rce | None | https://github.com/zhzhdoai/Motan-rce | ['rce'] | 1 | 2020-09-07 11:33:23+00:00 | 19184 | 5 | Java | 0 |
+| Ahanmr/Reinforcement-Learning | Learnings and custom code-template written for different algorithms such as Q-Learning, Deep-Q Learning, exploration and exploitation. | https://github.com/Ahanmr/Reinforcement-Learning | ['exploit'] | 1 | 2020-09-07 19:17:04+00:00 | 1835 | 0 | Jupyter Notebook | 0 |
+| lebaoworks/Exploiting | Exploiting Resources | https://github.com/lebaoworks/Exploiting | ['exploit'] | 1 | 2020-09-07 02:45:47+00:00 | 4 | 0 | Assembly | 0 |
+| Vishvesh-rao/Crypto-Exploits-Attacks | This repo contains all the known RSA attacks to be used in CTF challenges | https://github.com/Vishvesh-rao/Crypto-Exploits-Attacks | ['exploit'] | 1 | 2020-09-07 14:35:01+00:00 | 16 | 0 | Python | 0 |
+| AshishKumar4/CTF_Writeups | A Few Writeups and solutions/exploits I feel good enough to share with the world. Don't judge me, These things just work. Also, I don't have this habit of writing writeups and stuffs so it would be RARE that I update this repo. | https://github.com/AshishKumar4/CTF_Writeups | ['exploit'] | 1 | 2020-09-07 18:31:13+00:00 | 36669 | 1 | HTML | 0 |
+| chipik/SAP_GW_RCE_exploit | SAP Gateway RCE exploits | https://github.com/chipik/SAP_GW_RCE_exploit | ['exploit', 'rce'] | 2 | 2020-09-07 13:46:04+00:00 | 24 | 127 | Python | 45 |
+| SteffeyDev/poodle | Working exploit code for the POODLE attack on SSLv3 | https://github.com/SteffeyDev/poodle | ['exploit'] | 1 | 2020-09-07 00:27:13+00:00 | 172 | 8 | Python | 4 |
+| theoem/Exploit-Scenarios | None | https://github.com/theoem/Exploit-Scenarios | ['exploit'] | 1 | 2020-09-07 20:17:31+00:00 | 12 | 0 | Python | 0 |

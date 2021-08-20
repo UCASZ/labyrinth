@@ -1,0 +1,25 @@
+
+# Summary for results/2020/09/26
+    
+18 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| jinglou/p2019-cns-sod | Jing Lou*, Huan Wang, Longtao Chen, Fenglei Xu, Qingyuan Xia, Wei Zhu, Mingwu Ren*, "Exploiting Color Name Space for Salient Object Detection," Multimedia Tools and Applications, vol. 79, no. 15, pp. 10873-10897, 2020. doi:10.1007/s11042-019-07970-x | https://github.com/jinglou/p2019-cns-sod | ['exploit'] | 1 | 2020-09-26 04:12:53+00:00 | 296642 | 1 | MATLAB | 0 |
+| A2nkF/RWCTF-FastStructureCache | My heavily commented analysis/reimplementation of the exploit for the FastStructureCache WebKit 1day Challenge from 2019's RealWorld CTF finals | https://github.com/A2nkF/RWCTF-FastStructureCache | ['exploit'] | 1 | 2020-09-26 15:58:16+00:00 | 4049 | 3 | JavaScript | 0 |
+| Code-Sploit/code-sploit.github.io | Code-Sploit website | https://github.com/Code-Sploit/code-sploit.github.io | ['sploit'] | 1 | 2020-09-26 16:52:39+00:00 | 4 | 0 | HTML | 0 |
+| Elysionx/elysionx | Elysionx Exploit! Discord: https://discord.gg/kGK4PYw | https://github.com/Elysionx/elysionx | ['exploit'] | 1 | 2020-09-26 12:46:35+00:00 | 0 | 0 | | 0 |
+| sizet0x80/Usermode-Exploit-Development | Windows Usermode Exploitation | https://github.com/sizet0x80/Usermode-Exploit-Development | ['exploit'] | 1 | 2020-09-26 13:57:13+00:00 | 12 | 1 | Python | 0 |
+| realxnesia/UDP | Python Exploit | https://github.com/realxnesia/UDP | ['exploit'] | 1 | 2020-09-26 12:27:37+00:00 | 0 | 0 | Python | 0 |
+| striveben/CVE-2020-1472 | None | https://github.com/striveben/CVE-2020-1472 | ['cve-2'] | 1 | 2020-09-26 08:44:42+00:00 | 1686 | 4 | Python | 0 |
+| devil2531/cve20177529 | None | https://github.com/devil2531/cve20177529 | ['cve-2'] | 1 | 2020-09-26 07:47:49+00:00 | 2 | 0 | Python | 0 |
+| anadr/binc | binc is a basic tool that converts raw binary shellcode into different formats for easy plug+play into template files | https://github.com/anadr/binc | ['shellcode'] | 1 | 2020-09-26 02:10:15+00:00 | 2 | 0 | Python | 0 |
+| Iamisen/Exploitation-donn-es-classe | None | https://github.com/Iamisen/Exploitation-donn-es-classe | ['exploit'] | 1 | 2020-09-26 00:00:04+00:00 | 4 | 0 | Python | 0 |
+| Ko-kn3t/CVE-2020-25273 | Online Bus Booking System 1.0, there is Authentication bypass on the Admin Login screen in admin.php via username or password SQL injection. | https://github.com/Ko-kn3t/CVE-2020-25273 | ['cve-2'] | 1 | 2020-09-26 03:43:18+00:00 | 3 | 1 | | 0 |
+| fahrishb/Exploits | This repository will hold POCs or exploits for learning purpose | https://github.com/fahrishb/Exploits | ['exploit'] | 1 | 2020-09-26 13:52:07+00:00 | 627 | 0 | Python | 0 |
+| 6uv/vanity-exploit | This is a vanity url exploit a recently made. The py is the source code and the exe is if you dont got py and your a lazy mf. dont skid this or imma skid ur face into a curb | https://github.com/6uv/vanity-exploit | ['exploit'] | 1 | 2020-09-26 00:12:58+00:00 | 5050 | 5 | Python | 5 |
+| sschoenith/shellshock | Python3 Shellshock exploit script made for OSCP and HTB | https://github.com/sschoenith/shellshock | ['exploit'] | 1 | 2020-09-26 03:39:23+00:00 | 7 | 1 | Python | 0 |
+| botlabsDev/CVE-2020-11881 | CVE-2020-11881: unauthenticated remote DoS for MikroTik SMB service. | https://github.com/botlabsDev/CVE-2020-11881 | ['cve-2'] | 1 | 2020-09-26 13:33:27+00:00 | 18 | 6 | Python | 2 |
+| aliasgharheidaricom/Slime-Mould-Algorithm-A-New-Method-for-Stochastic-Optimization- | In this paper, a new stochastic optimizer, which is called slime mould algorithm (SMA), is proposed based upon the oscillation mode of slime mould in nature. The proposed SMA has several new features with a unique mathematical model that uses adaptive weig | https://github.com/aliasgharheidaricom/Slime-Mould-Algorithm-A-New-Method-for-Stochastic-Optimization- | ['exploit'] | 1 | 2020-09-26 11:37:04+00:00 | 177 | 10 | MATLAB | 5 |
+| guptabless/Clickjacker | A tool which checks click-jacking vulnerability and generates the POC for it . | https://github.com/guptabless/Clickjacker | ['vulnerability poc'] | 1 | 2020-09-26 16:22:17+00:00 | 16 | 3 | Python | 0 |
+| chabaier123/ExploitFb | None | https://github.com/chabaier123/ExploitFb | ['exploit'] | 1 | 2020-09-26 23:24:42+00:00 | 15 | 0 | | 0 |

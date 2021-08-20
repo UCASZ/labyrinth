@@ -1,0 +1,31 @@
+
+# Summary for results/2020/10/29
+    
+24 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| DoctorEenot/Dos-Progs | Dos exploits for different targets | https://github.com/DoctorEenot/Dos-Progs | ['exploit'] | 1 | 2020-10-29 11:05:37+00:00 | 34 | 0 | Python | 0 |
+| V1NKe/Browser-Exploit | My browser learning. | https://github.com/V1NKe/Browser-Exploit | ['exploit'] | 1 | 2020-10-29 03:02:17+00:00 | 34633 | 0 | Shell | 0 |
+| heysama/DiscordArchive | An archive of discord exploits I have found and other discord stuff ig? | https://github.com/heysama/DiscordArchive | ['exploit'] | 1 | 2020-10-29 09:09:47+00:00 | 8 | 0 | | 0 |
+| mcastro05/rce-api | rce-api | https://github.com/mcastro05/rce-api | ['rce'] | 1 | 2020-10-29 22:21:44+00:00 | 1 | 0 | JavaScript | 0 |
+| RepublicR0K/CVE-2019-10779 | GCHQ Stroom is vulnerable to Cross-Site Scripting due to the ability to load the Stroom dashboard on another site and insufficient protection against window event origins. | https://github.com/RepublicR0K/CVE-2019-10779 | ['cve-2'] | 1 | 2020-10-29 21:57:00+00:00 | 1 | 2 | HTML | 1 |
+| RepublicR0K/password_vault_exploit.js | XSS Exploit code for retrieving passwords stored in a Password Vault | https://github.com/RepublicR0K/password_vault_exploit.js | ['exploit'] | 1 | 2020-10-29 21:36:02+00:00 | 2 | 3 | JavaScript | 1 |
+| RepublicR0K/email_change_exploit_xss.js | This is a sample exploit for exploiting an XSS vulnerability that changes the user email. This bypasses some CSRF protections as the page was revoking the CSRF protections when refreshed. | https://github.com/RepublicR0K/email_change_exploit_xss.js | ['exploit'] | 1 | 2020-10-29 21:24:52+00:00 | 2 | 3 | JavaScript | 0 |
+| RepublicR0K/XSS_Privilege_Escalation.js | Privilege escalation exploit code for XSS vulnerability | https://github.com/RepublicR0K/XSS_Privilege_Escalation.js | ['exploit'] | 1 | 2020-10-29 21:22:40+00:00 | 16 | 3 | JavaScript | 1 |
+| antony-jr/AppImageUpdate-Exploit-001-POC | A Possible exploit POC | https://github.com/antony-jr/AppImageUpdate-Exploit-001-POC | ['exploit'] | 1 | 2020-10-29 19:29:38+00:00 | 6 | 0 | | 0 |
+| SLSteff/CVE-2020-0688-Scanner | Scans for Microsoft Exchange Versions with masscan | https://github.com/SLSteff/CVE-2020-0688-Scanner | ['cve-2'] | 1 | 2020-10-29 20:06:25+00:00 | 143 | 2 | Shell | 0 |
+| kapilraajP/OAuth2-Test | Exploiting OAuth2 protected API | https://github.com/kapilraajP/OAuth2-Test | ['exploit'] | 1 | 2020-10-29 11:13:04+00:00 | 2 | 0 | Ballerina | 0 |
+| bu6hunt3r/chita.el | x86/x86_64 exploit helpers integrated into emacs | https://github.com/bu6hunt3r/chita.el | ['exploit'] | 1 | 2020-10-29 11:25:24+00:00 | 3 | 0 | Emacs Lisp | 0 |
+| 0xAbhinavKumar/Binary_Exploits | Notes while learning Binary Exploitation | https://github.com/0xAbhinavKumar/Binary_Exploits | ['exploit'] | 1 | 2020-10-29 09:48:40+00:00 | 0 | 0 | | 0 |
+| jet-pentest/CVE-2020-27747 | Possible Account Takeover _ Brute Force Ability | https://github.com/jet-pentest/CVE-2020-27747 | ['cve-2'] | 1 | 2020-10-29 09:23:47+00:00 | 147 | 1 | | 0 |
+| RedTeamWing/CVE-2020-14882 | CVE-2020-14882 Weblogic-Exp | https://github.com/RedTeamWing/CVE-2020-14882 | ['cve-2'] | 1 | 2020-10-29 06:36:01+00:00 | 7 | 13 | Python | 8 |
+| ychenatsinca/RCEC_LU | This R-script convert the land cover reconstruction to WRF simulation domain USGS 24 land types. | https://github.com/ychenatsinca/RCEC_LU | ['rce'] | 1 | 2020-10-29 06:30:24+00:00 | 12856 | 0 | R | 0 |
+| billchaison/Mac-Trix | Exploit techniques for Macintosh | https://github.com/billchaison/Mac-Trix | ['exploit'] | 1 | 2020-10-29 00:57:26+00:00 | 1 | 1 | | 0 |
+| s1kr10s/CVE-2020-14882 | CVE-2020–14882 by Jang | https://github.com/s1kr10s/CVE-2020-14882 | ['cve-2'] | 1 | 2020-10-29 03:57:09+00:00 | 1412 | 29 | Python | 19 |
+| pr0fg/handbook | A handbook of useful web & infrastructure exploitation tips & tricks. | https://github.com/pr0fg/handbook | ['exploit'] | 1 | 2020-10-29 01:48:40+00:00 | 20 | 2 | HTML | 1 |
+| V4bel/kernel-exploit-technique | This is a space to organize techniques related to linux kernel exploit. | https://github.com/V4bel/kernel-exploit-technique | ['exploit'] | 1 | 2020-10-29 17:10:27+00:00 | 4 | 2 | C | 1 |
+| bmezaris/fractional_step_discriminant_pruning_dcnn | In this work, a novel pruning framework is introduced to compress noisy or less discriminant filters in small fractional steps, in deep convolutional networks. The proposed framework utilizes a class-separability criterion that can exploit effectively the | https://github.com/bmezaris/fractional_step_discriminant_pruning_dcnn | ['exploit'] | 1 | 2020-10-29 14:52:17+00:00 | 219 | 2 | Python | 2 |
+| RoqueNight/BoF-Buffer-Overflow---Exploitation | Simple BoF program written in C that demonstrates the difference between secure and unsecure code that makes a buffer overflow possible | https://github.com/RoqueNight/BoF-Buffer-Overflow---Exploitation | ['exploit'] | 1 | 2020-10-29 09:11:42+00:00 | 153 | 0 | Python | 0 |
+| inspiringz/Shiro-721 | Shiro-721 RCE Via RememberMe Padding Oracle Attack | https://github.com/inspiringz/Shiro-721 | ['rce'] | 1 | 2020-10-29 09:32:09+00:00 | 3884 | 188 | Python | 45 |
+| fengjixuchui/CVEAC-2020-0002 | EasyAntiCheat minifilter, thread and image callback bypass | https://github.com/fengjixuchui/CVEAC-2020-0002 | ['cve-2'] | 1 | 2020-10-29 08:23:55+00:00 | 63 | 0 | | 4 |

@@ -1,0 +1,22 @@
+
+# Summary for results/2020/05/24
+    
+15 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| 0xfml/scripts | collection of exploit scripts and whatever. | https://github.com/0xfml/scripts | ['exploit'] | 1 | 2020-05-24 12:53:43+00:00 | 44 | 0 | Python | 0 |
+| lyshark/Windows-exploits | 🎯 Windows 平台提权漏洞大合集（收集） | https://github.com/lyshark/Windows-exploits | ['exploit'] | 1 | 2020-05-24 05:00:18+00:00 | 168542 | 414 | | 182 |
+| PPPy290351/Rank2Pwn | MD with exploit flow | https://github.com/PPPy290351/Rank2Pwn | ['exploit'] | 1 | 2020-05-24 10:39:34+00:00 | 30 | 0 | Python | 0 |
+| datapoint-corporation/datapoint-cqrs | Go for asynchronous Command Query Responsability Segregation with Mediator, supporting Dependency Injection, notifications, and extensible middleware based pipelines. | https://github.com/datapoint-corporation/datapoint-cqrs | ['command injection'] | 1 | 2020-05-24 16:00:01+00:00 | 14 | 1 | C# | 0 |
+| DSU-Projects/CSC-748-Software-Exploitation-Spring-2020 | This course is designed to expose students to advanced exploitation techniques. Topics include the use of automated exploitation tools as well as the process of exploitation discovery and development. Vulnerability analysis, debugging, fuzzing, shellcode | https://github.com/DSU-Projects/CSC-748-Software-Exploitation-Spring-2020 | ['exploit', 'shellcode'] | 2 | 2020-05-24 12:09:26+00:00 | 17 | 12 | | 2 |
+| t0-n1/exploits | None | https://github.com/t0-n1/exploits | ['exploit'] | 1 | 2020-05-24 10:32:50+00:00 | 34 | 1 | C# | 0 |
+| vernjan/exploit-exercises | My solutions for https://exploit-exercises.lains.space/ | https://github.com/vernjan/exploit-exercises | ['exploit'] | 1 | 2020-05-24 21:23:14+00:00 | 347 | 0 | | 1 |
+| Arowix69/XScriptsExploit | Updater for XScripts Exploit. | https://github.com/Arowix69/XScriptsExploit | ['exploit'] | 1 | 2020-05-24 20:58:30+00:00 | 99 | 0 | | 0 |
+| HarshVaragiya/Protostar-Writeup | Writeup of Protostar box found on exploit.education | https://github.com/HarshVaragiya/Protostar-Writeup | ['exploit'] | 1 | 2020-05-24 19:29:27+00:00 | 1484 | 0 | Python | 0 |
+| marcosrosario/exploit | None | https://github.com/marcosrosario/exploit | ['exploit'] | 1 | 2020-05-24 06:37:20+00:00 | 1 | 0 | PHP | 0 |
+| ajayn1997/Sequence-to-sequence-Video-Captioning-System | An implementation of a sequence-to-sequence video captioning system inspired by the paper "Sequence to Sequence – Video to Text" by Subhashini Et. Al. An end-to-end sequence-to-sequence model is used to generate captions for videos. For this we exploit rec | https://github.com/ajayn1997/Sequence-to-sequence-Video-Captioning-System | ['exploit'] | 1 | 2020-05-24 08:27:47+00:00 | 1470 | 0 | | 0 |
+| musyoka101/Peak-Hill-Box-Exploits-TryHackMe | None | https://github.com/musyoka101/Peak-Hill-Box-Exploits-TryHackMe | ['exploit'] | 1 | 2020-05-24 10:25:22+00:00 | 2 | 1 | Python | 0 |
+| th3gundy/CVE-2019-7192_QNAP_Exploit | QNAP pre-auth root RCE Exploit (CVE-2019-7192 ~ CVE-2019-7195) | https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit | ['cve-2', 'exploit', 'rce'] | 3 | 2020-05-24 16:28:46+00:00 | 58 | 55 | Python | 25 |
+| kjm5723/basicfuzzer | A basic Python fuzzer program that exploits the USER buffer flow vulnerability in the FreeFloat FTP server executable. Any machine IPs have been changed to the loopback IP. | https://github.com/kjm5723/basicfuzzer | ['exploit'] | 1 | 2020-05-24 17:23:10+00:00 | 3 | 0 | Python | 0 |
+| mobdk/NewShell | Reverse shell without Windows cmd.exe, using ReactOS cmd.dll as shellcode | https://github.com/mobdk/NewShell | ['shellcode'] | 1 | 2020-05-24 18:30:54+00:00 | 3729 | 11 | C++ | 6 |

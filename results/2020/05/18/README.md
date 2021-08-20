@@ -1,0 +1,21 @@
+
+# Summary for results/2020/05/18
+    
+14 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| felix-hellman/Exploitgen | Python execve Payload Generator for x86 *nix systems | https://github.com/felix-hellman/Exploitgen | ['exploit'] | 1 | 2020-05-18 15:42:53+00:00 | 6 | 0 | Python | 1 |
+| TaroballzChen/shecodject | shecodject is a autoscript for shellcode injection by Python3 programing | https://github.com/TaroballzChen/shecodject | ['shellcode'] | 1 | 2020-05-18 18:59:10+00:00 | 23855 | 111 | Python | 24 |
+| thatskriptkid/CVE-2017-11826 | Exploit for CVE-2017-11826 | https://github.com/thatskriptkid/CVE-2017-11826 | ['cve-2', 'exploit'] | 2 | 2020-05-18 20:53:40+00:00 | 69 | 8 | Python | 6 |
+| FiroSolutions/api.firosolutions.com | Vulnerability Management API search for exploits and CVEs in json | https://github.com/FiroSolutions/api.firosolutions.com | ['exploit'] | 1 | 2020-05-18 10:38:36+00:00 | 20 | 3 | Python | 1 |
+| modzero/MZ-20-02-NETGEAR-Orbi-Security | NETGEAR Orbi Pro Mesh WiFi System - Proof of Concept Exploits and additional information in security advisory MZ-20-02 | https://github.com/modzero/MZ-20-02-NETGEAR-Orbi-Security | ['exploit'] | 1 | 2020-05-18 13:05:21+00:00 | 11 | 3 | Python | 0 |
+| Emotional12/tuan | tuancmsSource code and vulnerability exploitation | https://github.com/Emotional12/tuan | ['exploit'] | 1 | 2020-05-18 03:28:39+00:00 | 14648 | 0 | | 0 |
+| yukar1z0e/CVE-2018-14847 | None | https://github.com/yukar1z0e/CVE-2018-14847 | ['cve-2'] | 1 | 2020-05-18 07:47:58+00:00 | 13 | 0 | Python | 2 |
+| ne0z/pwnlabs-vagrant | Vagrant machine lab for reverse engineering and exploit development | https://github.com/ne0z/pwnlabs-vagrant | ['exploit'] | 1 | 2020-05-18 18:58:40+00:00 | 10 | 0 | Ruby | 0 |
+| nullr3x/ExpoFire | A simple python script to exploit vulnerable Firebase Database. If the owner of the app have set the security rules as true for both "read" & "write" an attacker can probably dump database and write his own data to firebase db. | https://github.com/nullr3x/ExpoFire | ['exploit'] | 1 | 2020-05-18 20:04:07+00:00 | 85 | 10 | Python | 0 |
+| csyongdu/Exploiting-Global-Low-Rank-Structure-and-Local-Sparsity-Nature-for-Tensor-Completion | Exploiting Global Low-Rank Structure and Local Sparsity Nature for Tensor Completion (TCYB, 2019) | https://github.com/csyongdu/Exploiting-Global-Low-Rank-Structure-and-Local-Sparsity-Nature-for-Tensor-Completion | ['exploit'] | 1 | 2020-05-18 13:25:28+00:00 | 488770 | 1 | MATLAB | 3 |
+| sdhaduvai/Model-Inversion-On-Recommender-Systems | Item-Item Collaborative Systems leverage the similarity between items in a database to generate recommendations. In this project, we see if that similarity can be exploited and knowledge of recommendations can be used to get back the original items. | https://github.com/sdhaduvai/Model-Inversion-On-Recommender-Systems | ['exploit'] | 1 | 2020-05-18 15:40:52+00:00 | 23765 | 1 | Jupyter Notebook | 0 |
+| marianomilanesi/C2 | Simple C2 that uses ssl sockets to communicate with the github api in order to exfil data, run OS commands and upload/download 64bit shellcode in order to inject it using syscalls. | https://github.com/marianomilanesi/C2 | ['shellcode'] | 1 | 2020-05-18 19:55:20+00:00 | 0 | 2 | | 0 |
+| eax-hash/smrtguard-killer | Enables the injection of binaries into the game which is protected by this 'ac' | https://github.com/eax-hash/smrtguard-killer | ['exploit'] | 1 | 2020-05-18 21:28:01+00:00 | 4 | 9 | C | 9 |
+| archicz/strojarexploit | Garry's Mod Exploit | https://github.com/archicz/strojarexploit | ['exploit'] | 1 | 2020-05-18 23:14:31+00:00 | 521 | 4 | C++ | 2 |

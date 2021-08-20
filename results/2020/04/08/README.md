@@ -1,0 +1,26 @@
+
+# Summary for results/2020/04/08
+    
+19 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
+| hellman/libformatstr | Simplify format string exploitation. | https://github.com/hellman/libformatstr | ['exploit'] | 1 | 2020-04-08 13:46:23+00:00 | 19 | 325 | Python | 41 |
+| 0xeb-bp/cve-2020-0796 | CVE-2020-0796 (SMBGhost) LPE | https://github.com/0xeb-bp/cve-2020-0796 | ['cve-2'] | 1 | 2020-04-08 01:21:30+00:00 | 7 | 8 | Rust | 6 |
+| JJSO12/Werkzueg--Debug-Shell--RCE | None | https://github.com/JJSO12/Werkzueg--Debug-Shell--RCE | ['rce'] | 1 | 2020-04-08 15:50:19+00:00 | 1 | 0 | Python | 0 |
+| n0bele/shellcode | pe memory load shellcode | https://github.com/n0bele/shellcode | ['shellcode'] | 1 | 2020-04-08 12:35:20+00:00 | 18 | 6 | C++ | 1 |
+| Eugene24/CVE-2018-6574 | None | https://github.com/Eugene24/CVE-2018-6574 | ['cve-2'] | 1 | 2020-04-08 11:45:30+00:00 | 6 | 0 | Go | 0 |
+| fengjixuchui/mr0rbot | Mr. Orbot Post-Exploitation Framework | https://github.com/fengjixuchui/mr0rbot | ['exploit'] | 1 | 2020-04-08 10:36:47+00:00 | 0 | 0 | | 0 |
+| fdalvi/transfer-learning-pretrained-models | Exploiting Redundancy in Pre-trained Language Models for Efficient Transfer Learning | https://github.com/fdalvi/transfer-learning-pretrained-models | ['exploit'] | 1 | 2020-04-08 09:18:13+00:00 | 1 | 0 | | 0 |
+| krnick/hacking-the-art-of-exploitation | None | https://github.com/krnick/hacking-the-art-of-exploitation | ['exploit'] | 1 | 2020-04-08 01:22:03+00:00 | 105 | 0 | C | 0 |
+| MerolaTadros/BufferOverflowExploit | None | https://github.com/MerolaTadros/BufferOverflowExploit | ['exploit'] | 1 | 2020-04-08 00:57:02+00:00 | 478 | 0 | C | 0 |
+| idiotc4t/Mapping-injection | NO WriteProcessMemory CreateRemoteThread APIs call shellcode injection | https://github.com/idiotc4t/Mapping-injection | ['shellcode'] | 1 | 2020-04-08 08:35:23+00:00 | 8 | 17 | C++ | 7 |
+| anferico/wator | A biological system simulator written in C that exploits system programming facilities such as signals, locks, POSIX threads and sockets. | https://github.com/anferico/wator | ['exploit'] | 1 | 2020-04-08 15:11:55+00:00 | 852 | 0 | C | 0 |
+| bluefrostsecurity/CVE-2020-0041 | Exploits for Android Binder bug CVE-2020-0041 | https://github.com/bluefrostsecurity/CVE-2020-0041 | ['cve-2', 'exploit'] | 2 | 2020-04-08 08:55:30+00:00 | 76 | 167 | C | 53 |
+| truerandom/nmap_draytek_rce | nmap script to detect CVE-2020-8515 on Draytek Devices | https://github.com/truerandom/nmap_draytek_rce | ['rce'] | 1 | 2020-04-08 13:37:18+00:00 | 5 | 1 | Lua | 1 |
+| CosmaAlex/pu-re | Exploit Linked Data to create meaningful semantic models | https://github.com/CosmaAlex/pu-re | ['exploit'] | 1 | 2020-04-08 10:12:42+00:00 | 713 | 1 | Python | 1 |
+| vitorpy/defi-exploitator-contracts | The no code DeFi exploitator | https://github.com/vitorpy/defi-exploitator-contracts | ['exploit'] | 1 | 2020-04-08 11:18:48+00:00 | 69 | 0 | JavaScript | 1 |
+| vanoracai/Exploiting-Spatial-temporal-Relationships-for-3D-Pose-Estimation-via-Graph-Convolutional-Networks | code for ICCV 2019 Paper Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks | https://github.com/vanoracai/Exploiting-Spatial-temporal-Relationships-for-3D-Pose-Estimation-via-Graph-Convolutional-Networks | ['exploit'] | 1 | 2020-04-08 13:20:36+00:00 | 13852 | 67 | Python | 16 |
+| davidecoluzzi/Shape-and-action-unit-extraction-of-3D-human-face-meshes-by-multilinear-dimensionality-reduction | This work aims to create a model able to discern the parameters of shape and action units from 3D human face meshes. The adopted dataset was acquired by using Kinect and consist of 360 3D representation of human faces. More precisely, 20 different users pe | https://github.com/davidecoluzzi/Shape-and-action-unit-extraction-of-3D-human-face-meshes-by-multilinear-dimensionality-reduction | ['exploit'] | 1 | 2020-04-08 10:37:57+00:00 | 1470213 | 9 | Python | 5 |
+| anferico/simplesocial | A simple Social Network written in Java that exploits Java's TCP and UDP sockets as well as RMI (Remote Method Invocation). | https://github.com/anferico/simplesocial | ['exploit'] | 1 | 2020-04-08 15:06:11+00:00 | 58 | 0 | Java | 0 |
+| isailaandrei/attack-graphs | Tool to help network administrators reason about vulnerabilities in their system. This tool generates possible sequences of exploits that might compromise the security of the system. | https://github.com/isailaandrei/attack-graphs | ['exploit'] | 1 | 2020-04-08 20:26:57+00:00 | 3173 | 2 | Python | 0 |

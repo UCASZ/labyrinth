@@ -1,0 +1,26 @@
+
+# Summary for results/2020/04/06
+    
+19 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| tobymackenzie/sy-console | Symfony Console component with dependency injection, config handling, configurable command loading, and other niceties. | https://github.com/tobymackenzie/sy-console | ['command injection'] | 1 | 2020-04-06 05:30:03+00:00 | 32 | 0 | PHP | 0 |
+| 0xb1tByte/RaceConditions | This repository is intended for sharing exploits related to RaceConditions Vulnerability | https://github.com/0xb1tByte/RaceConditions | ['exploit'] | 1 | 2020-04-06 22:33:12+00:00 | 1 | 0 | C | 0 |
+| ahmadchen/Config-Exploiter | Config-Exploiter Dump config.php file from joomla and wordpress websites | https://github.com/ahmadchen/Config-Exploiter | ['exploit'] | 1 | 2020-04-06 16:07:31+00:00 | 6 | 4 | Shell | 2 |
+| ahmadchen/DVR-Exploiter | Hack Cctv Vuln 2020 | https://github.com/ahmadchen/DVR-Exploiter | ['exploit'] | 1 | 2020-04-06 14:57:52+00:00 | 4 | 25 | Shell | 8 |
+| snousias/avatree | This paper presents AVATREE, a computational modelling framework that generates Anatomically Valid Airway tree conformations and provides capabilities for simulation of broncho-constriction apparent in obstructive pulmonary conditions. Such conformations a | https://github.com/snousias/avatree | ['exploit'] | 1 | 2020-04-06 13:36:39+00:00 | 12923 | 4 | C++ | 3 |
+| cnsimo/CVE-2020-2551 | Use shell to build weblogic debug environment for CVE-2020-2551 | https://github.com/cnsimo/CVE-2020-2551 | ['cve-2'] | 1 | 2020-04-06 10:59:36+00:00 | 1593 | 14 | Shell | 1 |
+| mobdk/Shellcode | Alternative version | https://github.com/mobdk/Shellcode | ['shellcode'] | 1 | 2020-04-06 11:15:51+00:00 | 375 | 1 | | 0 |
+| pythonsploit/exploits | We try here to write python scripts for exploiting known vulnerabilities, for which exploits are already available in the open. This is purely for educational purposes only and to satisfy our curiosity to learn new skills. | https://github.com/pythonsploit/exploits | ['exploit'] | 1 | 2020-04-06 06:16:10+00:00 | 14 | 0 | Python | 0 |
+| kunyao1/test_exploit01 | None | https://github.com/kunyao1/test_exploit01 | ['exploit'] | 1 | 2020-04-06 10:30:53+00:00 | 1 | 0 | Python | 0 |
+| ran-sama/CVE-2020-0796 | Lightweight PoC and Scanner for CVE-2020-0796 without authentication. | https://github.com/ran-sama/CVE-2020-0796 | ['cve poc', 'cve-2'] | 2 | 2020-04-06 22:50:19+00:00 | 3 | 0 | Python | 1 |
+| Iansus/sploits | Miscellaneous exploits | https://github.com/Iansus/sploits | ['exploit', 'sploit'] | 2 | 2020-04-06 11:29:03+00:00 | 9 | 1 | Python | 0 |
+| AshwinChandlapur/MyLibrary | Creating a invasive library that exploits android permission model | https://github.com/AshwinChandlapur/MyLibrary | ['exploit'] | 1 | 2020-04-06 14:46:33+00:00 | 165 | 0 | Java | 0 |
+| Blizzard57/exploits-notebook | Notebook on Exploits | https://github.com/Blizzard57/exploits-notebook | ['exploit'] | 1 | 2020-04-06 11:51:40+00:00 | 13809 | 1 | TeX | 0 |
+| VoidSec/SLAE | SecurityTube Linux Assembly Expert x86 Exam | https://github.com/VoidSec/SLAE | ['exploit', 'shellcode'] | 2 | 2020-04-06 08:07:41+00:00 | 303 | 7 | Assembly | 1 |
+| Retro-Commodore/RCEU1505-1541-Parallel_Adapter | A Parallel adapter for the C= 1541(-II) diskettedrive | https://github.com/Retro-Commodore/RCEU1505-1541-Parallel_Adapter | ['rce'] | 1 | 2020-04-06 19:29:45+00:00 | 3881 | 1 | nan | 1 |
+| Retro-Commodore/RCEU2210-C64-Cartridge-Development-Board | Another Prototyping cartridge | https://github.com/Retro-Commodore/RCEU2210-C64-Cartridge-Development-Board | ['rce'] | 1 | 2020-04-06 19:51:18+00:00 | 190 | 2 | nan | 1 |
+| Retro-Commodore/RCEU2205-C64-Cartridge-Prototyping | A prototyping cartridge with cart connectors and/or header pins | https://github.com/Retro-Commodore/RCEU2205-C64-Cartridge-Prototyping | ['rce'] | 1 | 2020-04-06 19:51:00+00:00 | 736 | 1 | nan | 0 |
+| Retro-Commodore/RCEU2215-C64-Cartridge-Horizontal-Adapter | Cartrdige vertical to horizontal adapter, i.e. for C128DCR and 1541 Ultimate | https://github.com/Retro-Commodore/RCEU2215-C64-Cartridge-Horizontal-Adapter | ['rce'] | 1 | 2020-04-06 19:54:56+00:00 | 549 | 1 | nan | 1 |
+| Ashishkutchi/capstone-w2020-t2-g03-Time-Series-Forecasting-of-Bitcoin-Price | This is the Git repository for the Capstone Project by Ashish Kutchi, Fangyi Yu, Obie Udemezue and Yiqi Zhang, under the supervision of Marcos Bittencourt. Our project exploits time-series forecasting methods to predict the price of Bitcoin, using machine | https://github.com/Ashishkutchi/capstone-w2020-t2-g03-Time-Series-Forecasting-of-Bitcoin-Price | ['exploit'] | 1 | 2020-04-06 21:43:16+00:00 | 2285 | 0 | | 0 |
