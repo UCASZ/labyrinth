@@ -1,0 +1,18 @@
+
+# Summary for results/2019/08/01
+    
+11 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| EOEPCA/use-case-analysis-src | Definition and analysis of Exploitation Platform use cases | https://github.com/EOEPCA/use-case-analysis-src | ['exploit'] | 1 | 2019-08-01 16:59:24+00:00 | 10874 | 0 | CSS | 0 |
+| r0hack/RCE-in-Jira | Remote code execution in Atlassian Jira(CVE-2019–11581) through template engine FreeMaker | https://github.com/r0hack/RCE-in-Jira | ['rce', 'remote code execution'] | 2 | 2019-08-01 12:25:40+00:00 | 12 | 5 | nan | 0 |
+| error404-notfound/TCREATOR-WIN | Crear payloads para todo tipos de windows y tomar el control de ellos con una sesion meterpreter de Metasploit | https://github.com/error404-notfound/TCREATOR-WIN | ['metasploit module OR metasploit payload'] | 1 | 2019-08-01 17:07:03+00:00 | 1824 | 2 | Shell | 2 |
+| jas502n/CVE-2019-13272 | Linux 4.10 < 5.1.17 PTRACE_TRACEME local root | https://github.com/jas502n/CVE-2019-13272 | ['cve-2'] | 1 | 2019-08-01 16:02:59+00:00 | 171 | 260 | C | 96 |
+| 0xchase/shellcode-trainer | Training script to memorize opcodes for the purpose of reading shellcode | https://github.com/0xchase/shellcode-trainer | ['shellcode'] | 1 | 2019-08-01 18:44:57+00:00 | 8 | 0 | Python | 0 |
+| jas502n/CVE-2019-14439 | Jackson-databind RCE | https://github.com/jas502n/CVE-2019-14439 | ['cve-2', 'rce'] | 2 | 2019-08-01 05:33:07+00:00 | 0 | 4 | | 2 |
+| TomerGamerTV/Purple-Man | exploit for godlykillzzz pls dont delete the credits | https://github.com/TomerGamerTV/Purple-Man | ['exploit'] | 1 | 2019-08-01 14:39:33+00:00 | 1649 | 0 | C# | 0 |
+| nh0va/dvcw-eth-exploits | Smart contract attacks for https://gitlab.com/badbounty/dvcw | https://github.com/nh0va/dvcw-eth-exploits | ['exploit'] | 1 | 2019-08-01 20:02:17+00:00 | 7 | 0 | Solidity | 0 |
+| kumarprem02/Google-Play-Store | Google Play (previously Android Market) is a digital distribution service operated and developed by Google LLC. It serves as the official app store for the Android operating system, allowing users to browse and download applications developed with the Andr | https://github.com/kumarprem02/Google-Play-Store | ['exploit'] | 1 | 2019-08-01 15:11:47+00:00 | 11633 | 1 | Jupyter Notebook | 0 |
+| FalkoMatern/Exploiting-Visual-Artifacts | Implementation of "Exploiting Visual Artifacts to Expose Deepfakes and Face Manipulations" | https://github.com/FalkoMatern/Exploiting-Visual-Artifacts | ['exploit'] | 1 | 2019-08-01 15:58:19+00:00 | 1662 | 16 | Python | 7 |
+| vishav26/shellcodes_x64_x86 | Shellcodes for Intel x64 and x86 | https://github.com/vishav26/shellcodes_x64_x86 | ['shellcode'] | 1 | 2019-08-01 20:33:08+00:00 | 3 | 1 | Assembly | 0 |

@@ -1,0 +1,20 @@
+
+# Summary for results/2019/05/08
+    
+13 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| jmather/Shared-Hosting-Perl-Wrapper | Helps to keep your web hosting servers from being exploited. | https://github.com/jmather/Shared-Hosting-Perl-Wrapper | ['exploit'] | 1 | 2019-05-08 18:14:50+00:00 | 2 | 1 | C | 2 |
+| giantbranch/convert-c-javascript-shellcode | C与javascript格式的shellcode相互转换小工具 | https://github.com/giantbranch/convert-c-javascript-shellcode | ['shellcode'] | 1 | 2019-05-08 12:05:10+00:00 | 6210 | 6 | C++ | 2 |
+| Hack-Hut/CrabStick | Automatic remote/local file inclusion vulnerability analysis and exploit tool | https://github.com/Hack-Hut/CrabStick | ['exploit'] | 1 | 2019-05-08 23:04:18+00:00 | 2369 | 60 | Python | 23 |
+| dbhatt14/Awesome-Tool-for-CTF | This repo has a collection of scripts to attack/defend a network, find & exploit application and web vulnerabilities. It was designed for "Capture the Flag" competition for Software Security course. | https://github.com/dbhatt14/Awesome-Tool-for-CTF | ['exploit'] | 1 | 2019-05-08 18:01:41+00:00 | 451 | 0 | Python | 1 |
+| k8gege/ZimbraExploit | Zimbra邮件系统漏洞 XXE/RCE/SSRF/Upload GetShell Exploit 1. (CVE-2019-9621 Zimbra<8.8.11 XXE GetShell Exploit) | https://github.com/k8gege/ZimbraExploit | ['0day', 'cve poc', 'exploit', 'rce', 'rce poc'] | 5 | 2019-05-08 16:22:58+00:00 | 54 | 57 | Ruby | 37 |
+| jenniferrethi/autosploit | A hacking tool that automates and encapsulates scanning, exploiting and gaining access to machines over a network range to download a malicious file of your choosing on victim hosts. | https://github.com/jenniferrethi/autosploit | ['exploit'] | 1 | 2019-05-08 17:19:30+00:00 | 11 | 0 | | 1 |
+| paulnisbett/exploit | None | https://github.com/paulnisbett/exploit | ['exploit'] | 1 | 2019-05-08 10:44:09+00:00 | 13 | 0 | Shell | 0 |
+| KTN1990/Wordpress-W3-Total-Cache-SSRF-RCE | W3 Total Cache <= 0.9.7.3 - SSRF / RCE via phar | https://github.com/KTN1990/Wordpress-W3-Total-Cache-SSRF-RCE | ['rce'] | 1 | 2019-05-08 13:41:02+00:00 | 0 | 2 | | 3 |
+| AppTapp/Pusher-Exploit | Exploit for iPhone OS 2.X by iPhone Dev Team / Ripdev Wizdaz | https://github.com/AppTapp/Pusher-Exploit | ['exploit'] | 1 | 2019-05-08 18:38:11+00:00 | 27463 | 17 | C | 3 |
+| kiranjb9/Share-and-Save | Share And Save is a collective transportation model based on shared use of private cars. The objective of share and save is to reduce the number of cars in use by grouping people. By exploiting share and save model, it can significantly reduce congestion, | https://github.com/kiranjb9/Share-and-Save | ['exploit'] | 1 | 2019-05-08 17:01:02+00:00 | 3760 | 0 | Java | 0 |
+| Nihlander/Exploits | Exploitation Scripts Developed Along The Road of Learning | https://github.com/Nihlander/Exploits | ['exploit'] | 1 | 2019-05-08 20:03:35+00:00 | 6 | 0 | Python | 0 |
+| Hydra3evil/cve-2018-12386 | CVE-2018-12386 - Firefox Sandboxed RCE Exploit for Linux (Firefox <v62.0.3) | https://github.com/Hydra3evil/cve-2018-12386 | ['cve-2', 'exploit', 'rce'] | 3 | 2019-05-08 18:00:40+00:00 | 720 | 0 | JavaScript | 0 |
+| t-t-t-t-t/alcatel-router-exploit_sl | Program for exploiting MW40 Alcatel router. Written in PHP, needs a PHP server and a browser to run it. | https://github.com/t-t-t-t-t/alcatel-router-exploit_sl | ['exploit'] | 1 | 2019-05-08 22:03:41+00:00 | 11 | 0 | | 0 |

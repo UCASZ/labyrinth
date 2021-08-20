@@ -1,0 +1,22 @@
+
+# Summary for results/2019/07/16
+    
+15 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| lijiejie/GitHack | A `.git` folder disclosure exploit | https://github.com/lijiejie/GitHack | ['exploit'] | 1 | 2019-07-16 07:07:16+00:00 | 11 | 1966 | Python | 694 |
+| EgeBalci/SelfDefense | Several self-defense shellcodes | https://github.com/EgeBalci/SelfDefense | ['shellcode'] | 1 | 2019-07-16 09:57:47+00:00 | 29 | 18 | Assembly | 17 |
+| AV1080p/PoCorExp | PoC or Exp Of Vulnerability | https://github.com/AV1080p/PoCorExp | ['vulnerability poc'] | 1 | 2019-07-16 19:08:31+00:00 | 277 | 100 | Python | 38 |
+| norasec/scripts | some pentest scripts | https://github.com/norasec/scripts | ['exploit'] | 1 | 2019-07-16 07:47:41+00:00 | 66 | 1 | PowerShell | 1 |
+| nkuss/BufferOverflowExploiting | Script facilitating exploitation of buffer overflow | https://github.com/nkuss/BufferOverflowExploiting | ['exploit'] | 1 | 2019-07-16 22:53:26+00:00 | 1181 | 0 | Shell | 0 |
+| deepmind/Temporal-3D-Pose-Kinetics | Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset | https://github.com/deepmind/Temporal-3D-Pose-Kinetics | ['exploit'] | 1 | 2019-07-16 11:07:57+00:00 | 16 | 192 | Python | 23 |
+| coblax/Python-Exploit | None | https://github.com/coblax/Python-Exploit | ['exploit'] | 1 | 2019-07-16 13:37:07+00:00 | 6 | 0 | Python | 0 |
+| pr0cf5/pwn-training | labs for binary exploitation | https://github.com/pr0cf5/pwn-training | ['exploit'] | 1 | 2019-07-16 16:03:21+00:00 | 37 | 12 | C | 5 |
+| joocer/cve-exploit-predictor | None | https://github.com/joocer/cve-exploit-predictor | ['exploit'] | 1 | 2019-07-16 07:25:29+00:00 | 32169 | 0 | Jupyter Notebook | 0 |
+| ntiger1024/easy-android-pwn | A set of Android binary exploitation tasks for beginners. | https://github.com/ntiger1024/easy-android-pwn | ['exploit'] | 1 | 2019-07-16 15:39:00+00:00 | 1168 | 10 | Python | 1 |
+| 6egic/Introduction-To-Crypto-Community-Attacks | This repository contains an introduction to crypto community attacks. You'll learn about 3 components which makes up most present day attack vectors, namely payloads, exploits & social engineering. | https://github.com/6egic/Introduction-To-Crypto-Community-Attacks | ['exploit'] | 1 | 2019-07-16 22:16:49+00:00 | 24 | 0 | Go | 0 |
+| SaidGR/Banner-Said | Es ademas de un banner, permite desde que inicia termux abrir serveo con solo pulsar un numero o abrir la consola "msfconsole" o actualizar las herramientas con solo un click, además de crear payload's de metasploit con solo colocar el host, port, y el no | https://github.com/SaidGR/Banner-Said | ['metasploit module OR metasploit payload'] | 1 | 2019-07-16 03:22:51+00:00 | 0 | 0 | nan | 0 |
+| debifrank/Shell-To-UTF16 | Simple python script that takes in shellcode as hex and outputs shellcode in UTF16 encoding. | https://github.com/debifrank/Shell-To-UTF16 | ['shellcode'] | 1 | 2019-07-16 06:27:53+00:00 | 2 | 0 | Python | 0 |
+| abishekh07/Voice-Recognition-with-Chrome | A simple JavaScript application that exploits the Voice Recognition functionality of the Google Chrome Browser. | https://github.com/abishekh07/Voice-Recognition-with-Chrome | ['exploit'] | 1 | 2019-07-16 08:43:58+00:00 | 1 | 1 | JavaScript | 0 |
+| clks-wzz/PRNet-Depth-Generation | A implementaion of depth generation based on [PRNet](https://github.com/YadiraF/PRNet), which was used in the paper ***Exploiting Temporal and Depth Information for Multi-frame Face Anti-spoofing*** | https://github.com/clks-wzz/PRNet-Depth-Generation | ['exploit'] | 1 | 2019-07-16 15:35:37+00:00 | 2011 | 68 | Python | 25 |

@@ -1,0 +1,23 @@
+
+# Summary for results/2019/12/10
+    
+16 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| Dentrax/AMX_Manager | [AMX]: [A]dministrative [M]anager Tools for [X] Server (Linux Environment Only) | https://github.com/Dentrax/AMX_Manager | ['shellcode'] | 1 | 2019-12-10 09:51:57+00:00 | 48 | 2 | Shell | 0 |
+| aksh-ai/revshell-dev | A simple exploit programmed in C, Assembly and Python that uses crafted shellcode with multiple stages to understand the practices as well as the concepts of shellcodes, reverse shells and exploit development. | https://github.com/aksh-ai/revshell-dev | ['exploit', 'shellcode'] | 2 | 2019-12-10 16:06:11+00:00 | 13 | 3 | Assembly | 1 |
+| fuhao7i/BD1.0day | nan | https://github.com/fuhao7i/BD1.0day | ['0day'] | 1 | 2019-12-10 04:20:30+00:00 | 11 | 1 | Shell | 0 |
+| vbelus/falling-liquid-film-drl | The code used, and a docker image to run it, of the paper `Exploiting locality and physical invariants to design effective Deep Reinforcement Learning control of the unstable falling liquid film` | https://github.com/vbelus/falling-liquid-film-drl | ['exploit'] | 1 | 2019-12-10 16:00:30+00:00 | 4480 | 7 | Python | 2 |
+| N1ckDunn/Exploitivator | Automate Metasploit scanning and exploitation | https://github.com/N1ckDunn/Exploitivator | ['exploit'] | 1 | 2019-12-10 15:43:55+00:00 | 23 | 97 | Python | 26 |
+| milindhvijay/Buffer-Overflow-Exploits | None | https://github.com/milindhvijay/Buffer-Overflow-Exploits | ['exploit'] | 1 | 2019-12-10 21:05:42+00:00 | 11 | 0 | C | 0 |
+| SyedUmerHasan/Expoliting-Code-with-C-Reflection | In this tutorial, we will learn how to use Reflection to exploit dll, We will learn how to Load DLL/Assembly in Memory and create its instance Non-Parameterized and Parameterized. and call all of the methods of class. | https://github.com/SyedUmerHasan/Expoliting-Code-with-C-Reflection | ['exploit'] | 1 | 2019-12-10 07:59:09+00:00 | 29 | 0 | C# | 0 |
+| sgabe/CVE-2019-1476 | AppXSvc Arbitrary File Overwrite DoS | https://github.com/sgabe/CVE-2019-1476 | ['cve-2', 'exploit'] | 2 | 2019-12-10 18:12:43+00:00 | 558 | 3 | C++ | 0 |
+| antoninchafiol/HeRcest | A little IRC for training network system in C | https://github.com/antoninchafiol/HeRcest | ['rce'] | 1 | 2019-12-10 22:40:55+00:00 | 7 | 0 | C | 0 |
+| Darianek/kernel-exploitation | None | https://github.com/Darianek/kernel-exploitation | ['exploit'] | 1 | 2019-12-10 09:23:12+00:00 | 5 | 0 | C | 0 |
+| raymondpittman/IPC-Memory-Mac-OSX-Exploit | CVE-2014-1322 - IPC Local Security Bypass _ Mac OSX (Affected. >= 10.9.2) | https://github.com/raymondpittman/IPC-Memory-Mac-OSX-Exploit | ['cve-2', 'exploit'] | 2 | 2019-12-10 09:45:26+00:00 | 5 | 0 | C++ | 0 |
+| k8gege/KaliLadon | Ladon for Linux (Kali), Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password | https://github.com/k8gege/KaliLadon | ['exploit', 'vulnerability poc'] | 2 | 2019-12-10 14:21:45+00:00 | 286 | 28 | nan | 24 |
+| Cmulator/Cmulator | Cmulator is ( x86 - x64 ) Scriptable Reverse Engineering Sandbox Emulator for Shellcode and PE binaries . Based on Unicorn & Zydis Engine & quickjs | https://github.com/Cmulator/Cmulator | ['shellcode'] | 1 | 2019-12-10 14:25:07+00:00 | 14 | 10 | | 0 |
+| flowerlake/spring-jolokia-rce | jolokia _ spring boot acuator配置不当的漏洞复现 | https://github.com/flowerlake/spring-jolokia-rce | ['rce'] | 1 | 2019-12-10 15:02:21+00:00 | 38420 | 1 | Python | 0 |
+| 1xey/infosec | Notes and sample exploits I'm writing while learning about binary explotation | https://github.com/1xey/infosec | ['exploit'] | 1 | 2019-12-10 15:43:44+00:00 | 21 | 0 | | 0 |
+| GiovanniMet/Plesk-Juicy-Potato-Exploit-Patcher | A simple software to patch this security issue | https://github.com/GiovanniMet/Plesk-Juicy-Potato-Exploit-Patcher | ['exploit'] | 1 | 2019-12-10 17:12:38+00:00 | 2 | 0 | AutoIt | 0 |

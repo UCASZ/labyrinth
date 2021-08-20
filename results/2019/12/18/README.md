@@ -1,0 +1,20 @@
+
+# Summary for results/2019/12/18
+    
+13 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| mubix/post-exploitation-wiki | Post Exploitation Wiki | https://github.com/mubix/post-exploitation-wiki | ['exploit'] | 1 | 2019-12-18 18:47:34+00:00 | 401 | 452 | HTML | 118 |
+| jacob-baines/veralite_upnp_exploit_poc | A proof of concept exploit against the Veralite | https://github.com/jacob-baines/veralite_upnp_exploit_poc | ['exploit'] | 1 | 2019-12-18 21:23:12+00:00 | 6 | 5 | HTML | 2 |
+| jpdejavitecs/ExploitDevelopment | None | https://github.com/jpdejavitecs/ExploitDevelopment | ['exploit'] | 1 | 2019-12-18 13:18:29+00:00 | 50 | 0 | Python | 0 |
+| ROBHOFFICIALS/rce | RCE 2019 | https://github.com/ROBHOFFICIALS/rce | ['rce'] | 1 | 2019-12-18 16:39:55+00:00 | 3 | 0 | Python | 0 |
+| bhavuk0909/Upper_Confidence_Bound | The Upper Confidence Bound algorithm the kind of algorithm that helps us to perform exploitation and exploration together.At the start of the campaign, we don't know what is the best arm or ad. So we cannot distinguish or discriminate any arm or ad. So the | https://github.com/bhavuk0909/Upper_Confidence_Bound | ['exploit'] | 1 | 2019-12-18 09:22:33+00:00 | 54 | 1 | Python | 0 |
+| bhavuk0909/Thompson_Sampling | Thompson Sampling (Posterior Sampling or Probability Matching) is an algorithm for choosing the actions that address the exploration-exploitation dilemma in multi-armed bandit problem. Actions are performed several times and are called exploration. It uses | https://github.com/bhavuk0909/Thompson_Sampling | ['exploit'] | 1 | 2019-12-18 09:22:28+00:00 | 53 | 1 | Python | 0 |
+| N17e/WebsVEx | Web-security Vulnerability Exploit (WebsVEx) is an e-learning tool that aim for learning website vulnerabilities as well as how to secure the web application | https://github.com/N17e/WebsVEx | ['exploit'] | 1 | 2019-12-18 05:30:40+00:00 | 445 | 0 | CSS | 0 |
+| sbamohabbatchafjiri/Security-Operating-Center-The-Solution-of-the-Corporation-Level-Business | Firstly, I introduce the data breach exploited on MyFitnessPal, Under Armour’s fitness application in 2018. This data breach impacted 150 million customers’ account information including usernames and hashed passwords. I present the Security Operating Cent | https://github.com/sbamohabbatchafjiri/Security-Operating-Center-The-Solution-of-the-Corporation-Level-Business | ['exploit'] | 1 | 2019-12-18 09:40:04+00:00 | 906 | 0 | | 0 |
+| xNoBody12/RCE-Social-Warfer | None | https://github.com/xNoBody12/RCE-Social-Warfer | ['rce'] | 1 | 2019-12-18 10:06:52+00:00 | 3 | 0 | | 0 |
+| Moonpearl/S03-JBDC-E03-POO | Exploitation d'une base de données MariaDB à l'aide de programmation orientée objet | https://github.com/Moonpearl/S03-JBDC-E03-POO | ['exploit'] | 1 | 2019-12-18 12:39:48+00:00 | 3 | 0 | Java | 0 |
+| syousef73/s03-jbdc-e03-poo | exploitation | https://github.com/syousef73/s03-jbdc-e03-poo | ['exploit'] | 1 | 2019-12-18 12:40:05+00:00 | 2 | 0 | Java | 0 |
+| idrisBellahsen/S03-JDBC-E03-POO | Exploitation d'une base de données MariaDB a l'aide de programmation orientée objet | https://github.com/idrisBellahsen/S03-JDBC-E03-POO | ['exploit'] | 1 | 2019-12-18 12:40:36+00:00 | 3 | 0 | Java | 0 |
+| guywhataguy/ShellcodeUtility | compile, test, and execute shellcode (made specifically for CyberQueens lesson 11) | https://github.com/guywhataguy/ShellcodeUtility | ['shellcode'] | 1 | 2019-12-18 19:47:44+00:00 | 11 | 1 | C | 3 |
