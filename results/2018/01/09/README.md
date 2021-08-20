@@ -1,0 +1,23 @@
+
+# Summary for results/2018/01/09
+    
+16 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| hexageek1337/Calculator-Bash | Calculating number with Shell Script ( Bash ) | https://github.com/hexageek1337/Calculator-Bash | ['shellcode'] | 1 | 2018-01-09 23:44:11+00:00 | 16 | 1 | Shell | 0 |
+| mathfinder/Cross-domain-Human-Parsing-via-Adversarial-Feature-and-Label-Adaptation | we propose a novel and efficient cross-domain human parsing model to bridge the cross-domain differences in terms of visual appearance and environment conditions and fully exploit commonalities across domains. Our proposed model explicitly learns a feature | https://github.com/mathfinder/Cross-domain-Human-Parsing-via-Adversarial-Feature-and-Label-Adaptation | ['exploit'] | 1 | 2018-01-09 08:51:29+00:00 | 23 | 12 | Python | 4 |
+| droduit/petri-media | Engine to convert any multimedia scenarios described by a Petri network, into a web application exploiting HTML-CSS-JS. | https://github.com/droduit/petri-media | ['exploit'] | 1 | 2018-01-09 13:21:07+00:00 | 1401 | 0 | PHP | 0 |
+| bazad/gsscred-race | CVE-2018-4331: Exploit for a race condition in the GSSCred system service on iOS 11.2. | https://github.com/bazad/gsscred-race | ['cve-2', 'exploit'] | 2 | 2018-01-09 07:23:15+00:00 | 61 | 22 | C | 5 |
+| GitMirar/meltdown-poc | A PoC implementation of the meltdown attack described in https://meltdownattack.com/meltdown.pdf | https://github.com/GitMirar/meltdown-poc | ['attack poc'] | 1 | 2018-01-09 06:00:04+00:00 | 345 | 136 | C++ | 28 |
+| s1kr10s/ASCII-EXPLOIT-TOOLS | Exploit Unicode | https://github.com/s1kr10s/ASCII-EXPLOIT-TOOLS | ['exploit'] | 1 | 2018-01-09 20:00:13+00:00 | 681 | 1 | Python | 3 |
+| pbskumar/speech-denoising-using-LSTMs | Using LSTMs to exploit any temporal structure in noise. | https://github.com/pbskumar/speech-denoising-using-LSTMs | ['exploit'] | 1 | 2018-01-09 02:28:26+00:00 | 330 | 2 | Python | 2 |
+| opsxcq/exploit-cve-2017-5715 | Spectre exploit | https://github.com/opsxcq/exploit-cve-2017-5715 | ['cve-2', 'exploit'] | 2 | 2018-01-09 22:27:25+00:00 | 639 | 53 | C | 19 |
+| trzy/PeepingTomasulo | An example of using the Meltdown exploit to read arbitrary memory. | https://github.com/trzy/PeepingTomasulo | ['exploit'] | 1 | 2018-01-09 15:30:43+00:00 | 6 | 0 | C | 0 |
+| irsl/jackson-rce-via-spel | An example project that exploits the default typing issue in Jackson-databind via Spring application contexts and expressions | https://github.com/irsl/jackson-rce-via-spel | ['exploit', 'rce'] | 2 | 2018-01-09 08:14:04+00:00 | 19 | 112 | Java | 65 |
+| HyHend/spectre_test_from_paper | Implementation from "Spectre Attacks: Exploiting Speculative Execution." by Kocher et al. | https://github.com/HyHend/spectre_test_from_paper | ['exploit'] | 1 | 2018-01-09 11:42:02+00:00 | 1378 | 1 | C | 0 |
+| Mr817277377372/Help-us-secure-your-GitHub-account-by-verifying-your-email-address-godmasteroffire77-gmail.com-.-Th | Hello, i'm an Roblox exploit maker. | https://github.com/Mr817277377372/Help-us-secure-your-GitHub-account-by-verifying-your-email-address-godmasteroffire77-gmail.com-.-Th | ['exploit'] | 1 | 2018-01-09 13:22:53+00:00 | 0 | 0 | | 0 |
+| securelayer7/Tabnabbing | This is the exploit code of the Tabnabbing | https://github.com/securelayer7/Tabnabbing | ['exploit'] | 1 | 2018-01-09 14:38:26+00:00 | 6 | 3 | HTML | 2 |
+| rxwx/CVE-2017-8570 | Proof of Concept exploit for CVE-2017-8570 | https://github.com/rxwx/CVE-2017-8570 | ['cve-2', 'exploit'] | 2 | 2018-01-09 19:23:43+00:00 | 4 | 177 | Python | 103 |
+| Cn33liz/HackTheBox-Jail | HTB Jail Remote Exploit By Cneeliz - 2017 | https://github.com/Cn33liz/HackTheBox-Jail | ['exploit'] | 1 | 2018-01-09 19:35:46+00:00 | 2 | 14 | Python | 9 |
+| Tongzhongkai/Spectre-MeltDown- | Intel Processor Spectre & Meltdown Exploit Code | https://github.com/Tongzhongkai/Spectre-MeltDown- | ['exploit'] | 1 | 2018-01-09 18:38:04+00:00 | 54 | 0 | | 0 |

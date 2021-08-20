@@ -1,0 +1,25 @@
+
+# Summary for results/2018/02/09
+    
+18 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|--------|--------------------|--------------|---------------|
+| wizh/rop-chainer | static program analysis tool that generates return-oriented exploits for ELF binaries | https://github.com/wizh/rop-chainer | ['exploit'] | 1 | 2018-02-09 07:18:57+00:00 | 24 | 45 | Python | 16 |
+| team-shell/team-shell | Application Security Vulnerability Findings, Exploits & OWASP Contributions | https://github.com/team-shell/team-shell | ['exploit'] | 1 | 2018-02-09 10:22:51+00:00 | 16 | 0 | | 0 |
+| pandasanctuarydicord/https-discordapp.com-api-webhooks-411602117011439626--YhFTqzupfRCEKD9W-335qtsv8dmSREFJeLW2zwKhzQe8 | Dont forget to vote in the NSFW contest | https://github.com/pandasanctuarydicord/https-discordapp.com-api-webhooks-411602117011439626--YhFTqzupfRCEKD9W-335qtsv8dmSREFJeLW2zwKhzQe8 | ['rce'] | 1 | 2018-02-09 19:49:32+00:00 | 0 | 0 | nan | 0 |
+| 0x00-0x00/CVE-2016-2098 | Ruby On Rails unrestricted render() exploit | https://github.com/0x00-0x00/CVE-2016-2098 | ['cve-2', 'exploit'] | 2 | 2018-02-09 16:17:35+00:00 | 2017 | 16 | Go | 4 |
+| 0x00-0x00/CVE-2016-10033 | PHPMailer < 5.2.18 Remote Code Execution Exploit | https://github.com/0x00-0x00/CVE-2016-10033 | ['cve-2', 'exploit', 'remote code execution'] | 3 | 2018-02-09 14:59:02+00:00 | 2141 | 7 | Go | 1 |
+| dsfau/wordpress-CVE-2018-6389 | Metasploit module for WordPress DOS load-scripts.php CVE-2018-638 | https://github.com/dsfau/wordpress-CVE-2018-6389 | ['cve-2'] | 1 | 2018-02-09 19:40:28+00:00 | 5 | 2 | Ruby | 0 |
+| mdsecactivebreach/CVE-2018-4878 | None | https://github.com/mdsecactivebreach/CVE-2018-4878 | ['cve-2'] | 1 | 2018-02-09 14:38:27+00:00 | 14 | 21 | ActionScript | 19 |
+| aolazabal/Intelilamp | Conception d'une lampe intelligente imprimée en 3D avec exploitation des services cognitifs Azure Microsoft | https://github.com/aolazabal/Intelilamp | ['exploit'] | 1 | 2018-02-09 12:04:13+00:00 | 0 | 0 | | 0 |
+| Buzzkillhardball667/exploit-database | None | https://github.com/Buzzkillhardball667/exploit-database | ['exploit'] | 1 | 2018-02-09 11:57:55+00:00 | 60093 | 2 | C | 4 |
+| Bilelxdz/Exploit-joomla-com-b2jcontact | Shell upload exploit ^^ | https://github.com/Bilelxdz/Exploit-joomla-com-b2jcontact | ['exploit'] | 1 | 2018-02-09 10:22:17+00:00 | 21 | 1 | Python | 3 |
+| devcoinfet/CVE-2017-12617 | Code put together from a few peoples ideas credit given don't use maliciously please | https://github.com/devcoinfet/CVE-2017-12617 | ['cve-2'] | 1 | 2018-02-09 01:04:23+00:00 | 3 | 0 | Python | 0 |
+| Mark-Arias/CyberSecurity-Projects | Some exploits and hacks completed, developed, and implemented in a cyber security course taken at SMC. | https://github.com/Mark-Arias/CyberSecurity-Projects | ['exploit'] | 1 | 2018-02-09 06:18:28+00:00 | 1365 | 0 | | 0 |
+| srsklrboi/rocksploit | A GUI exploit that I created for Roblox. DISCLAIMER: You will need a script executor to run my GUI. | https://github.com/srsklrboi/rocksploit | ['exploit'] | 1 | 2018-02-09 01:43:19+00:00 | 555 | 0 | | 1 |
+| 0x00-0x00/CVE-2018-1000001 | glibc getcwd() local privilege escalation compiled binaries | https://github.com/0x00-0x00/CVE-2018-1000001 | ['cve-2'] | 1 | 2018-02-09 22:35:06+00:00 | 120 | 31 | C | 7 |
+| AndyLavr/lkrg-module | LKRG Exploit Detection kernel module (forked from https://bitbucket.org/Adam_pi3/lkrg-main) | https://github.com/AndyLavr/lkrg-module | ['exploit'] | 1 | 2018-02-09 10:44:44+00:00 | 148 | 2 | C | 2 |
+| SimpliField/ansible-spectre-meltdown-checker | 🤖 Detect spectre-meltdown vulnerabilities | https://github.com/SimpliField/ansible-spectre-meltdown-checker | ['exploit'] | 1 | 2018-02-09 10:54:27+00:00 | 30 | 2 | Shell | 0 |
+| kronosnhz/Bilbot | Design of an extensible chatbots cloud architecture for its application to the improvement of the consumption and the exploitation of public services and data. | https://github.com/kronosnhz/Bilbot | ['exploit'] | 1 | 2018-02-09 10:44:43+00:00 | 4988 | 0 | PHP | 1 |
+| hybridious/CVE-2018-4878 | Aggressor Script to just launch IE driveby for CVE-2018-4878 | https://github.com/hybridious/CVE-2018-4878 | ['cve-2'] | 1 | 2018-02-09 22:09:42+00:00 | 0 | 0 | | 5 |

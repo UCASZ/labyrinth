@@ -1,0 +1,21 @@
+
+# Summary for results/2018/08/11
+    
+14 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| proxyanon/BatSploit | Exploitation Tool For Windows Using Batch and Powershell | https://github.com/proxyanon/BatSploit | ['exploit', 'sploit'] | 2 | 2018-08-11 17:33:33+00:00 | 80 | 16 | Python | 13 |
+| eigenform/fgx-re | Tools and code for understanding F-Zero GX internals, plus tools for preparing save files with the garage data exploit demonstrated at SGDQ2018. | https://github.com/eigenform/fgx-re | ['exploit'] | 1 | 2018-08-11 17:27:56+00:00 | 62 | 4 | Python | 1 |
+| CiscoCXSecurity/tlsplayback | tlsplayback is a set of Proof of Concepts (PoC) showing real-world replay attacks against TLS 1.3 libraries and browsers by exploiting 0-RTT | https://github.com/CiscoCXSecurity/tlsplayback | ['attack poc', 'exploit'] | 2 | 2018-08-11 01:16:02+00:00 | 11 | 10 | Python | 3 |
+| tankmek/shellcode | Repository of mostly Linux shellcode for CTF challenges and plain old fun. | https://github.com/tankmek/shellcode | ['shellcode'] | 1 | 2018-08-11 23:10:18+00:00 | 19 | 1 | Assembly | 0 |
+| YourAnonMafia/glitch | The glitch framework is a pentesting and exploitation platform brought to you by the Mafia Project | https://github.com/YourAnonMafia/glitch | ['exploit'] | 1 | 2018-08-11 17:24:38+00:00 | 142 | 0 | Python | 0 |
+| yifengyou/learn-linux_exploit | Linux Exploit 学习笔记~ | https://github.com/yifengyou/learn-linux_exploit | ['exploit'] | 1 | 2018-08-11 03:20:02+00:00 | 86621 | 9 | C | 7 |
+| wildkindcc/Legacy-HP-Power-Manager-Software | Maybe you've stumbled across a <INSERT INFOSEC COURSE HERE> and you need to rewrite an exploit... these should help you setup your own environment to re-write as necessary! | https://github.com/wildkindcc/Legacy-HP-Power-Manager-Software | ['exploit'] | 1 | 2018-08-11 12:34:30+00:00 | 12185 | 0 | | 0 |
+| Moat3zKadd3chy/Th3_Monster | Th3_Monster Tool 2.5 ☣ Website Vulnerability Scanner & Auto Exploiter Bot ☣ . | https://github.com/Moat3zKadd3chy/Th3_Monster | ['exploit'] | 1 | 2018-08-11 12:45:38+00:00 | 146 | 7 | Perl | 5 |
+| yifengyou/analysis-cve | CVE Analysis and Exploit | https://github.com/yifengyou/analysis-cve | ['exploit'] | 1 | 2018-08-11 00:58:17+00:00 | 13057 | 3 | | 0 |
+| TheRipperJhon/Auto_Sploit | AutoSploit intenta automatizar la explotación de hosts remotos. | https://github.com/TheRipperJhon/Auto_Sploit | ['sploit'] | 1 | 2018-08-11 03:30:25+00:00 | 232 | 0 | Python | 1 |
+| yuyakanzaki/Payload-Web-Delivery-Metasploit-Framework | nan | https://github.com/yuyakanzaki/Payload-Web-Delivery-Metasploit-Framework | ['metasploit module OR metasploit payload'] | 1 | 2018-08-11 03:47:27+00:00 | 13 | 0 | Rust | 0 |
+| satriobintang1bersaudara/satriocyber | #!/bin/bash # Auto Install Tools v.2.1 # recoded By Satrio Kusbiyantoro # gausah ganti copyright kalo mau di hargai :) # Bersihkan Layar clear blue='\e[0;34' cyan='\e[0;36m' green='\e[0;34m' okegreen='\033[92m' lightgreen='\e[1;32m' white='\e[1;37m' red=' | https://github.com/satriobintang1bersaudara/satriocyber | ['exploit'] | 1 | 2018-08-11 07:29:51+00:00 | 4 | 30 | | 10 |
+| eneerge/eggdrop-sploit | None | https://github.com/eneerge/eggdrop-sploit | ['sploit'] | 1 | 2018-08-11 23:52:01+00:00 | 1 | 0 | | 0 |
+| InspectorDidi/exploits | Collection of exploits I've written. | https://github.com/InspectorDidi/exploits | ['exploit'] | 1 | 2018-08-11 01:40:45+00:00 | 17 | 0 | Python | 0 |

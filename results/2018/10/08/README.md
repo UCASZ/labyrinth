@@ -1,0 +1,19 @@
+
+# Summary for results/2018/10/08
+    
+10 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| GITenberg/Agent-Nine-Solves-His-First-CaseA-Story-of-the-Daring-Exploits-of-the-G-Men_44351 | Agent Nine Solves His First CaseA Story of the Daring Exploits of the G Men by Dean, Graham M.
+ is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Agent-Nine-Solves-His-First-CaseA-Story-of-the-Daring-Exploits-of-the-G-Men_44351 | ['exploit'] | 1 | 2018-10-08 14:58:46+00:00 | 232 | 0 | HTML | 0 |
+| GITenberg/Agent-Nine-and-the-Jewel-MysteryA-Story-of-Thrilling-Exploits-of-the-G-Men_44786 | Agent Nine and the Jewel MysteryA Story of Thrilling Exploits of the G-Men by Dean, Graham M.
+ is a Project Gutenberg book, now on Github. | https://github.com/GITenberg/Agent-Nine-and-the-Jewel-MysteryA-Story-of-Thrilling-Exploits-of-the-G-Men_44786 | ['exploit'] | 1 | 2018-10-08 16:11:44+00:00 | 274 | 0 | HTML | 0 |
+| m3ssap0/SpringBreakVulnerableApp | WARNING: This is a vulnerable application to test the exploit for the Spring Break vulnerability (CVE-2017-8046). Run it at your own risk! | https://github.com/m3ssap0/SpringBreakVulnerableApp | ['exploit'] | 1 | 2018-10-08 23:18:25+00:00 | 8 | 11 | Java | 7 |
+| smattin/securitypoc | Summary report of Security POC on ML analytics applied to application logs detecting SQL injection attacks. | https://github.com/smattin/securitypoc | ['attack poc'] | 1 | 2018-10-08 16:03:59+00:00 | 4 | 1 | Jupyter Notebook | 0 |
+| axgcoder/Detecting-Vulnerabilities-in-Mutillidae-2 | Report on exploitation of top 10 OWASP vulnerabilities on the Mutillidae II Website along with measures to fix it | https://github.com/axgcoder/Detecting-Vulnerabilities-in-Mutillidae-2 | ['exploit'] | 1 | 2018-10-08 07:07:17+00:00 | 3353 | 0 | | 0 |
+| ChandanKuchipudi/PowerPoint-Exploit | None | https://github.com/ChandanKuchipudi/PowerPoint-Exploit | ['exploit'] | 1 | 2018-10-08 10:00:41+00:00 | 0 | 0 | | 0 |
+| an4kein/Protostar-Solutions | My solutions to the Protostar exploitation exercises, updated as I complete them: https://exploit-exercises.com/protostar/. Note: a majority of the solutions were derived from the following tutorial-series: http://liveoverflow.com/binary_hacking/ | https://github.com/an4kein/Protostar-Solutions | ['exploit'] | 1 | 2018-10-08 15:02:06+00:00 | 55 | 0 | C | 0 |
+| kkirsche/QuickZip-seh-overflow | QuickZip 4.6.019 SEH Buffer Overflow Exploits | https://github.com/kkirsche/QuickZip-seh-overflow | ['exploit'] | 1 | 2018-10-08 23:50:21+00:00 | 60 | 0 | Python | 1 |
+| athumma60/goodman-exploit | This is a python script that must be ran from the pycharms environment. It allows a user to control a list of variables inside the thermostat as long as you have the IP address of it. | https://github.com/athumma60/goodman-exploit | ['exploit'] | 1 | 2018-10-08 15:07:19+00:00 | 1 | 1 | Python | 0 |
+| killvxk/AutoExploit-test | None | https://github.com/killvxk/AutoExploit-test | ['exploit'] | 1 | 2018-10-08 10:43:03+00:00 | 1988 | 0 | Python | 0 |
