@@ -83,9 +83,13 @@
       "maintain":false,
       "push":false,
       "triage":false,
-      "pull":false
+      "pull":true
     },
     "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_on":"zeroday pushed:2021-08-12..2021-08-18",
+    "matched_at":"2021-08-20T11:16:46Z",
     "organization":{
       "login":"zerodays",
       "id":13699010,
@@ -106,10 +110,6 @@
       "type":"Organization",
       "site_admin":false
     },
-    "network_count":0,
-    "subscribers_count":1,
-    "matched_on":"zeroday pushed:2021-08-18..2021-08-19",
-    "matched_at":"2021-08-19T18:51:42Z",
     "owner_login":"zerodays",
     "owner_id":13699010,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjEzNjk5MDEw",
