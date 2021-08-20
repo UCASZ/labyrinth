@@ -1,0 +1,46 @@
+
+# Summary for results/2021/03/24
+    
+39 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------|-----------------|---------------------------|--------|--------------------|-------------|---------------|
+| LinusDean/PoC-Bank | Focus on cybersecurity _ collection of PoC and Exploits | https://github.com/LinusDean/PoC-Bank | ['exploit'] | 1 | 2021-03-24 04:41:25+00:00 | 23839 | 72 | Python | 24 |
+| joshua17sc/proftpd-1.3.5-reverse-shell-exploit | None | https://github.com/joshua17sc/proftpd-1.3.5-reverse-shell-exploit | ['exploit'] | 1 | 2021-03-24 13:49:29+00:00 | 2 | 0 | Python | 0 |
+| cocomelonc/kukupy | simple RCE + LFI and SQLi scanner | https://github.com/cocomelonc/kukupy | ['rce'] | 1 | 2021-03-24 11:08:17+00:00 | 7 | 0 | Python | 0 |
+| rakjong/CVE-2021-26295-Apache-OFBiz | CVE-2021-26295 Apache OFBiz rmi反序列化POC | https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz | ['cve poc', 'cve-2'] | 2 | 2021-03-24 09:01:11+00:00 | 2 | 5 | Python | 2 |
+| k0nami/NapExploit | An exploit for NAP Lockdown Browser | https://github.com/k0nami/NapExploit | ['exploit'] | 1 | 2021-03-24 08:38:15+00:00 | 41607 | 0 | HTML | 0 |
+| cssxn/CVE-2017-0100 | CVE-2017-0100、MS17-012、Eop | https://github.com/cssxn/CVE-2017-0100 | ['cve-2', 'exploit'] | 2 | 2021-03-24 09:39:17+00:00 | 6 | 2 | C++ | 1 |
+| shdax/code-system-os | Bahasa pemrograman yang dapat menggunakan execute UNIX | https://github.com/shdax/code-system-os | ['rce'] | 1 | 2021-03-24 11:17:56+00:00 | 1 | 1 | | 0 |
+| CyberCommands/exploit-proxylogon | None | https://github.com/CyberCommands/exploit-proxylogon | ['exploit'] | 1 | 2021-03-24 12:49:20+00:00 | 4 | 0 | Python | 0 |
+| saig599/PentestingResources | This repo contains all the files needed for accessing the files needed for implementing the exploit | https://github.com/saig599/PentestingResources | ['exploit'] | 1 | 2021-03-24 17:34:05+00:00 | 229 | 0 | Shell | 0 |
+| Skillet-95/nideaExploit | None | https://github.com/Skillet-95/nideaExploit | ['exploit'] | 1 | 2021-03-24 13:52:58+00:00 | 0 | 0 | | 0 |
+| yupengjack/Mathematica-Homework | The third homework of Math experiment by exploiting Mathematica | https://github.com/yupengjack/Mathematica-Homework | ['exploit'] | 1 | 2021-03-24 02:37:51+00:00 | 48 | 0 | Mathematica | 0 |
+| lucadidomenico/ysoserial_payloads_generator | A bash script that generates base64-encoded payloads ready to use for exploitation of insecure deserialization vulnerabilites in Java applications. | https://github.com/lucadidomenico/ysoserial_payloads_generator | ['exploit'] | 1 | 2021-03-24 14:59:23+00:00 | 17 | 0 | Shell | 0 |
+| Tamim550/PhoneSploit | nan | https://github.com/Tamim550/PhoneSploit | ['sploit'] | 1 | 2021-03-24 16:13:35+00:00 | 2 | 0 | nan | 0 |
+| Zebulaun/zeb-hub-script | roblox exploit script | https://github.com/Zebulaun/zeb-hub-script | ['exploit'] | 1 | 2021-03-24 17:17:22+00:00 | 6 | 0 | | 0 |
+| Pedro9898/Ps4ExploitJb | None | https://github.com/Pedro9898/Ps4ExploitJb | ['exploit'] | 1 | 2021-03-24 17:39:35+00:00 | 1572 | 0 | JavaScript | 0 |
+| waleedbakhit/Implementation-of-an-IoT-architecture | The building facilities are permanent assets, and they need to be constantly maintained over time. Therefore, methods must be available to follow up on the facilities to provide preventive maintenance to maintain the facility in a proper condition. Over th | https://github.com/waleedbakhit/Implementation-of-an-IoT-architecture | ['exploit'] | 1 | 2021-03-24 18:02:01+00:00 | 15 | 0 | | 0 |
+| ps4-exploit/ps4-exploit.github.io | None | https://github.com/ps4-exploit/ps4-exploit.github.io | ['exploit'] | 1 | 2021-03-24 19:08:25+00:00 | 2 | 1 | HTML | 0 |
+| rodrigoafmelo/exploit.dtd | None | https://github.com/rodrigoafmelo/exploit.dtd | ['exploit'] | 1 | 2021-03-24 19:22:08+00:00 | 0 | 0 | | 0 |
+| colortr33/honktopia | Premier fully functional + meta balanced hyper-compressible meta-memeplex psycho-cultural-alchemic-memetic technology that uses neurolinguistics, hyper-juxtaposition, and other methods to circumvent synthetic epistemics while programming the players into | https://github.com/colortr33/honktopia | ['exploit'] | 1 | 2021-03-24 02:46:39+00:00 | 289779 | 1 | | 1 |
+| praetorian-inc/proxylogon-exploit | Proof-of-concept exploit for CVE-2021-26855 and CVE-2021-27065. Unauthenticated RCE in Exchange. | https://github.com/praetorian-inc/proxylogon-exploit | ['exploit', 'rce'] | 2 | 2021-03-24 01:25:05+00:00 | 8 | 23 | Python | 9 |
+| chrispetrou/FDsploit | File Inclusion & Directory Traversal fuzzing, enumeration & exploitation tool. | https://github.com/chrispetrou/FDsploit | ['exploit'] | 1 | 2021-03-24 10:29:02+00:00 | 1177 | 221 | Python | 69 |
+| Tortipouss/2021-MSC-IoT-Alex-Gallucci | Connexion d'un capteur de température sur le réseau IoT & exploitation des données sur une interface Web. | https://github.com/Tortipouss/2021-MSC-IoT-Alex-Gallucci | ['exploit'] | 1 | 2021-03-24 13:20:08+00:00 | 7521 | 0 | PHP | 0 |
+| scannells/exploits | Some exploits I have written to showcase and to share | https://github.com/scannells/exploits | ['exploit'] | 1 | 2021-03-24 14:27:09+00:00 | 58 | 41 | Python | 9 |
+| grmono/CVE2019-2017_POC | CVE2019-2017 POC | https://github.com/grmono/CVE2019-2017_POC | ['cve poc', 'cve-2'] | 2 | 2021-03-24 20:42:12+00:00 | 27 | 2 | | 0 |
+| cmayouma/S09-JDBC-E03-POO | Exploitation d'une base de données MariaDB à l'aide de programmation orientée objet | https://github.com/cmayouma/S09-JDBC-E03-POO | ['exploit'] | 1 | 2021-03-24 11:07:11+00:00 | 4 | 0 | Java | 0 |
+| dd-user/grapes-dd | GRAPES-DD is a parallel software for searching substructures into a graph collection by exploiting decision diagram data structures. | https://github.com/dd-user/grapes-dd | ['exploit'] | 1 | 2021-03-24 16:17:58+00:00 | 59889 | 0 | C++ | 0 |
+| noobone123/mySecPaperNotes | my paper notes of exploit/fuzz/malware and other interesting research | https://github.com/noobone123/mySecPaperNotes | ['exploit'] | 1 | 2021-03-24 09:01:51+00:00 | 962 | 0 | | 0 |
+| buuuuuuun3939/ROP-Emporium-Exploit | Python3によるROP Emplorium(32bit 版)のExploit | https://github.com/buuuuuuun3939/ROP-Emporium-Exploit | ['exploit'] | 1 | 2021-03-24 15:06:19+00:00 | 6 | 0 | Python | 0 |
+| 0xshellcode/Exploiting-Path | My journey to learn binary exploitation and memory corruption. | https://github.com/0xshellcode/Exploiting-Path | ['exploit'] | 1 | 2021-03-24 04:19:51+00:00 | 40 | 0 | Python | 0 |
+| 0xmanjoos/x86-x86_64 | i will put x86/x86_64 nasm assembly here maybe | https://github.com/0xmanjoos/x86-x86_64 | ['shellcode'] | 1 | 2021-03-24 03:20:57+00:00 | 40 | 1 | Assembly | 0 |
+| Udyz/CVE-2021-22986-SSRF2RCE | F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE | https://github.com/Udyz/CVE-2021-22986-SSRF2RCE | ['cve-2', 'rce'] | 2 | 2021-03-24 11:49:37+00:00 | 8 | 10 | Python | 6 |
+| iraizo/discord-ipc-poc | Reading out sensitive account data from discords IPC socket | https://github.com/iraizo/discord-ipc-poc | ['vulnerability poc'] | 1 | 2021-03-24 16:49:02+00:00 | 20 | 10 | Rust | 1 |
+| Trisna22/shellcode_practice | In this project I am learning how to write shellcode, I am able to inject the shellcode in a buffer and execute arbitrary code. | https://github.com/Trisna22/shellcode_practice | ['shellcode'] | 1 | 2021-03-24 12:53:59+00:00 | 681 | 0 | Assembly | 1 |
+| Kx1z0/netconenum | A tool to find out which user is running a specific network connection. Useful for privilege escalation, because if we can exploit that network connection, we will have shell as the user running that network connection. | https://github.com/Kx1z0/netconenum | ['exploit'] | 1 | 2021-03-24 21:22:10+00:00 | 10 | 1 | Shell | 0 |
+| ethereumvex/SushiMaker-bridge-exploit | Reconstruction of the SushiMaker bridge exploit | https://github.com/ethereumvex/SushiMaker-bridge-exploit | ['exploit'] | 1 | 2021-03-24 19:48:00+00:00 | 224 | 2 | Solidity | 1 |
+| BlackBatman1980/Linux-Privesc | This privesc exploits the systemctl service to allow you to gain root access without password or authentication. Just type "bash -p" to get root shell | https://github.com/BlackBatman1980/Linux-Privesc | ['exploit'] | 1 | 2021-03-24 01:18:01+00:00 | 2 | 0 | Shell | 1 |
+| DXY0411/CVE-2019-1020010 | None | https://github.com/DXY0411/CVE-2019-1020010 | ['cve-2'] | 1 | 2021-03-24 07:33:24+00:00 | 3591 | 0 | TypeScript | 0 |
+| r0ckysec/CVE-2021-26855_Exchange | Microsoft Exchange Proxylogon Exploit Chain EXP分析 | https://github.com/r0ckysec/CVE-2021-26855_Exchange | ['cve-2', 'exploit'] | 2 | 2021-03-24 10:39:34+00:00 | 187 | 5 | Python | 6 |
+| stroescustefan/Buffer-Overflow-Exploit | None | https://github.com/stroescustefan/Buffer-Overflow-Exploit | ['exploit'] | 1 | 2021-03-24 20:28:01+00:00 | 4 | 0 | | 0 |

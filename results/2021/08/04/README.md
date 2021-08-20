@@ -1,0 +1,48 @@
+
+# Summary for results/2021/08/04
+    
+41 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| Ne0nd0g/merlin | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang. | https://github.com/Ne0nd0g/merlin | ['exploit'] | 1 | 2021-08-04 14:42:06+00:00 | 20495 | 3376 | Go | 543 |
+| FULLSHADE/DrvLoader | A post exploitation utility for loading signed kernel drivers using both the undocumented NtLoadDriver function and by directly interfacing with the Windows Service Control Manager (SCM) | https://github.com/FULLSHADE/DrvLoader | ['exploit'] | 1 | 2021-08-04 00:33:39+00:00 | 58 | 0 | C++ | 0 |
+| omerfaruktuna/exploiting-epistemic-uncertainty | None | https://github.com/omerfaruktuna/exploiting-epistemic-uncertainty | ['exploit'] | 1 | 2021-08-04 05:45:44+00:00 | 7839 | 0 | Jupyter Notebook | 0 |
+| airp0dz/exploit-ui | Please read README.txt | https://github.com/airp0dz/exploit-ui | ['exploit'] | 1 | 2021-08-04 00:18:10+00:00 | 378 | 0 | C# | 1 |
+| benschreyer/ESP32_WAKE_ON_WAN | Use udp magic packets and an http server on ESP32 to boot computers remotely, dont use this for anything, it is easily exploitable | https://github.com/benschreyer/ESP32_WAKE_ON_WAN | ['exploit'] | 1 | 2021-08-04 01:06:38+00:00 | 19 | 0 | C | 0 |
+| Maka8ka/ProDiGol | Remote ShellCode Loader when inneed,Easy to be found,But high scalability and anonymity | https://github.com/Maka8ka/ProDiGol | ['shellcode'] | 1 | 2021-08-04 02:15:09+00:00 | 1 | 0 | | 0 |
+| vam-sin/CATH-T5 | Deep learning tool that exploits embeddings from state-of-the-art protein Language Models (pLMs) to detect remote homologs for CATH superfamilies | https://github.com/vam-sin/CATH-T5 | ['exploit'] | 1 | 2021-08-04 06:49:50+00:00 | 41 | 0 | Python | 0 |
+| s4dbrd/CVE-2020-9496 | None | https://github.com/s4dbrd/CVE-2020-9496 | ['cve-2'] | 1 | 2021-08-04 06:49:21+00:00 | 3 | 2 | Shell | 0 |
+| Bandokay-0001/CalyxUI | Roblox Exploit | https://github.com/Bandokay-0001/CalyxUI | ['exploit'] | 1 | 2021-08-04 17:51:40+00:00 | 12 | 0 | | 0 |
+| JinYiTong/xunruicms-RCE | None | https://github.com/JinYiTong/xunruicms-RCE | ['rce'] | 1 | 2021-08-04 10:50:06+00:00 | 1 | 0 | | 0 |
+| Hemanthraju02/PowerSploit | None | https://github.com/Hemanthraju02/PowerSploit | ['sploit'] | 1 | 2021-08-04 14:30:47+00:00 | 8365 | 0 | PowerShell | 0 |
+| NullSploit01/NullSploit01 | Config files for my GitHub profile. | https://github.com/NullSploit01/NullSploit01 | ['sploit'] | 1 | 2021-08-04 14:47:42+00:00 | 0 | 0 | | 0 |
+| Stefxtjuh/Aurora-X-Exploit | None | https://github.com/Stefxtjuh/Aurora-X-Exploit | ['exploit'] | 1 | 2021-08-04 17:57:09+00:00 | 5 | 0 | | 0 |
+| Oceane27/Exploitation | None | https://github.com/Oceane27/Exploitation | ['exploit'] | 1 | 2021-08-04 17:11:20+00:00 | 2 | 0 | Jupyter Notebook | 0 |
+| child1010/BetterExploits | None | https://github.com/child1010/BetterExploits | ['exploit'] | 1 | 2021-08-04 17:09:45+00:00 | 0 | 0 | | 0 |
+| SaifAlDeenSamehMahrous/C2-Framework | Command and Control Framework using python , flask & Power shell. C2F is a framework used to execute commands on the victims machine and is used by penetration testers and red teamers in the post exploitation phase in penetration testing. | https://github.com/SaifAlDeenSamehMahrous/C2-Framework | ['exploit'] | 1 | 2021-08-04 18:28:28+00:00 | 3436 | 0 | Python | 0 |
+| S1nEat3r/OSCP_BoF_Suite | A suite of 7 python scripts to gradually build your exploit, also helps remember the flow | https://github.com/S1nEat3r/OSCP_BoF_Suite | ['exploit'] | 1 | 2021-08-04 19:04:04+00:00 | 1 | 0 | Python | 0 |
+| Hassan-Al-Achek/TheArtOfExploitationSheetCheat | Here you can find my sheet cheats, x86 assambly, gdb and more | https://github.com/Hassan-Al-Achek/TheArtOfExploitationSheetCheat | ['exploit'] | 1 | 2021-08-04 20:03:59+00:00 | 16 | 2 | | 0 |
+| Ganesha2282882/rce | A bad PHP app. | https://github.com/Ganesha2282882/rce | ['rce'] | 1 | 2021-08-04 20:37:05+00:00 | 0 | 0 | PHP | 0 |
+| FULLSHADE/Jektor | A Windows user-mode shellcode execution tool [Archived] | https://github.com/FULLSHADE/Jektor | ['shellcode'] | 1 | 2021-08-04 00:19:00+00:00 | 22 | 0 | C++ | 0 |
+| FireFart/hivenightmare | Exploit for HiveNightmare - CVE-2021–36934 | https://github.com/FireFart/hivenightmare | ['exploit'] | 1 | 2021-08-04 11:45:06+00:00 | 2495 | 48 | Go | 6 |
+| instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2021-08-04 20:42:17+00:00 | 1220 | 12 | JavaScript | 19 |
+| roddas/vulnserver | This repository is intended to learn the common vulnerabilities in a website and to practice his exploitation . It's for CyberSecurity lovers . | https://github.com/roddas/vulnserver | ['exploit'] | 1 | 2021-08-04 21:34:39+00:00 | 18 | 0 | JavaScript | 0 |
+| TheWover/donut | Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters | https://github.com/TheWover/donut | ['shellcode'] | 1 | 2021-08-04 21:56:57+00:00 | 9770 | 1646 | C | 343 |
+| FULLSHADE/OSCE | Collection of Windows usermode exploits targeting various third-party software applications, these exploits were written in preparation for the Offsec CTP/OSCE certification | https://github.com/FULLSHADE/OSCE | ['exploit'] | 1 | 2021-08-04 00:20:15+00:00 | 356 | 136 | Python | 41 |
+| rcebrian/rcebrian | None | https://github.com/rcebrian/rcebrian | ['rce'] | 1 | 2021-08-04 12:30:46+00:00 | 126 | 0 | | 0 |
+| fahmifj/my-dirty-scripts | A collection of scripts and codes that I've written to solve CTF challenges/automate exploits and tasks. | https://github.com/fahmifj/my-dirty-scripts | ['exploit'] | 1 | 2021-08-04 15:59:15+00:00 | 24 | 0 | Python | 0 |
+| spicesouls/reosploit | A Tool that Finds, Enumerates, and Exploits Reolink Cameras. | https://github.com/spicesouls/reosploit | ['exploit'] | 1 | 2021-08-04 12:50:18+00:00 | 685 | 38 | Python | 9 |
+| noahmaranesi/Ultimate-Guitar-Hack | Download any Guitar Pro file, including 'Official' and blocked/removed tabs | https://github.com/noahmaranesi/Ultimate-Guitar-Hack | ['exploit'] | 1 | 2021-08-04 16:19:54+00:00 | 28 | 37 | | 1 |
+| zeetulsa/pke | passive keyless entry exploit research | https://github.com/zeetulsa/pke | ['exploit'] | 1 | 2021-08-04 14:44:26+00:00 | 341 | 6 | Python | 2 |
+| c0deblox/Scripts | All the Lua scripts I developed, including exploit scripts (please only use those for educational purposes) | https://github.com/c0deblox/Scripts | ['exploit'] | 1 | 2021-08-04 21:57:09+00:00 | 2626 | 0 | Lua | 0 |
+| MaherAzzouzi/BrowserExploitation | Browser exploitation v8 and sandbox escape challenges with solutions. | https://github.com/MaherAzzouzi/BrowserExploitation | ['exploit'] | 1 | 2021-08-04 20:41:22+00:00 | 91069 | 3 | JavaScript | 1 |
+| strawbberrys/LuaScripts | Some Lua scripts I make, some might be useful, some might be useless. Some of these scripts may be Roblox only, and may require a Roblox exploit. | https://github.com/strawbberrys/LuaScripts | ['exploit'] | 1 | 2021-08-04 09:14:14+00:00 | 40 | 1 | Lua | 1 |
+| prodseanb/reverseshell-rce | Remote code execution. Establish remote shell session. | https://github.com/prodseanb/reverseshell-rce | ['rce', 'remote code execution'] | 2 | 2021-08-04 16:36:27+00:00 | 17 | 9 | Python | 0 |
+| Xcatolin/jboss-deserialization | JBoss CVE-2017-12149 (Insecure Deserialization - RCE) Exploitation Lab. | https://github.com/Xcatolin/jboss-deserialization | ['exploit', 'rce'] | 2 | 2021-08-04 10:11:06+00:00 | 9 | 1 | Dockerfile | 0 |
+| k0rup710n/BinaryExploitation | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | ['exploit'] | 1 | 2021-08-04 13:12:38+00:00 | 13226 | 0 | C | 0 |
+| pywc/CVE-2019-0708 | None | https://github.com/pywc/CVE-2019-0708 | ['cve-2'] | 1 | 2021-08-04 18:47:18+00:00 | 6 | 0 | Python | 0 |
+| raul23/pyyaml-CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | ['cve poc', 'cve-2', 'vulnerability poc'] | 3 | 2021-08-04 01:33:03+00:00 | 1091 | 0 | Python | 0 |
+| SpartanMike/Technical-Capabilities | Graduate of the University of San Diego Cyber Bootcamp, San Diego, CA in July 2021. Instructed by Fullstack Academy, Certificate in Cyber Security ● Certifications: CompTIA CySA+ and Splunk; all pending early August 2021 ● Proficient: Kali Linux, HTML3, | https://github.com/SpartanMike/Technical-Capabilities | ['exploit'] | 1 | 2021-08-04 22:34:45+00:00 | 23832 | 0 | | 0 |
+| BYU-CTF-group/writeups-enowars5 | Exploits, Writeups and notes from the 2021 Enowars 5 Attack/Defense CTF | https://github.com/BYU-CTF-group/writeups-enowars5 | ['exploit'] | 1 | 2021-08-04 20:14:11+00:00 | 1040 | 0 | Python | 0 |
+| REW-sploit/REW-sploit_docs | Slides, Docs or anything for REW-sploit | https://github.com/REW-sploit/REW-sploit_docs | ['sploit'] | 1 | 2021-08-04 22:51:14+00:00 | 623 | 1 | | 0 |

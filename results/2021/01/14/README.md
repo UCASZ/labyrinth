@@ -1,0 +1,32 @@
+
+# Summary for results/2021/01/14
+    
+25 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| Xyntax/POC-T | 渗透测试插件化并发框架 / Open-sourced remote vulnerability PoC/EXP framework | https://github.com/Xyntax/POC-T | ['vulnerability poc'] | 1 | 2021-01-14 07:27:48+00:00 | 1936 | 1671 | Python | 759 |
+| techq4/Infrastructure-Exploitaion-Framework | Project | https://github.com/techq4/Infrastructure-Exploitaion-Framework | ['exploit'] | 1 | 2021-01-14 07:09:08+00:00 | 35 | 0 | Python | 0 |
+| SoumyaJas2324/https-gupta-bless.medium.com-exploiting-subdomain-takeover-on-s3-6115730d01d7 | Exploiting Subdomain Takeover on S3 | https://github.com/SoumyaJas2324/https-gupta-bless.medium.com-exploiting-subdomain-takeover-on-s3-6115730d01d7 | ['exploit'] | 1 | 2021-01-14 21:55:46+00:00 | 0 | 0 | | 0 |
+| SoumyaJas2324/https-medium.com-netscylla-exploiting-local-file-includes-5460ae416b52 | LFI writeups | https://github.com/SoumyaJas2324/https-medium.com-netscylla-exploiting-local-file-includes-5460ae416b52 | ['exploit'] | 1 | 2021-01-14 21:39:24+00:00 | 0 | 0 | | 0 |
+| kfiducia/kernel_exploits | None | https://github.com/kfiducia/kernel_exploits | ['exploit'] | 1 | 2021-01-14 17:53:25+00:00 | 6 | 0 | C | 0 |
+| x1234xx/Multi-Exploit-Builder-V1 | None | https://github.com/x1234xx/Multi-Exploit-Builder-V1 | ['exploit'] | 1 | 2021-01-14 15:53:30+00:00 | 1049 | 1 | | 3 |
+| x1234xx/CLOUD-9-JAVASCRIPT-BOTNET-VERSION-2.0 | I have heavily updated the Cloud 9 JavaScript BotNet Old features: FTP flood Cookie stealing Keylogging Send POST requests Flood POST requests Evaluate JavaScript Code Silently load webpages Clickjacking (iframe follow mou | https://github.com/x1234xx/CLOUD-9-JAVASCRIPT-BOTNET-VERSION-2.0 | ['exploit'] | 1 | 2021-01-14 14:31:02+00:00 | 114 | 10 | | 5 |
+| x1234xx/PDF-Exploit-Builder | None | https://github.com/x1234xx/PDF-Exploit-Builder | ['exploit'] | 1 | 2021-01-14 13:54:27+00:00 | 2114 | 2 | | 5 |
+| Ngafa-Pro/SocialSploit- | SocialSploit é uma estrutura de phishing | https://github.com/Ngafa-Pro/SocialSploit- | ['sploit'] | 1 | 2021-01-14 11:47:45+00:00 | 2 | 0 | nan | 0 |
+| radbsie/CVE-2020-17519-Exp | CVE-2020-17519 EXP | https://github.com/radbsie/CVE-2020-17519-Exp | ['cve-2'] | 1 | 2021-01-14 10:46:52+00:00 | 2 | 0 | Go | 0 |
+| Ngafa-Pro/FotoSploit- | Fotosploit, é uma técnica de phishing muito fácil e rápido de o fazer. Para mais informações aceeso o nosso canal do youtube: encurtador.com.br/luL39?sub_confirmation=1 | https://github.com/Ngafa-Pro/FotoSploit- | ['sploit'] | 1 | 2021-01-14 10:34:09+00:00 | 11 | 2 | nan | 0 |
+| liuxu54898/CVE-2021-3019 | lanproxy 目录遍历漏洞批量检测用户名密码POC (CVE-2021-3019) | https://github.com/liuxu54898/CVE-2021-3019 | ['cve poc', 'cve-2'] | 2 | 2021-01-14 07:52:31+00:00 | 129 | 1 | Python | 1 |
+| wszdhf/exploit | None | https://github.com/wszdhf/exploit | ['exploit'] | 1 | 2021-01-14 04:03:50+00:00 | 0 | 0 | | 0 |
+| PacktPublishing/Mobile-Device-Exploitation-Cookbook | Mobile Device Exploitation Cookbook by Packt Publishing | https://github.com/PacktPublishing/Mobile-Device-Exploitation-Cookbook | ['exploit'] | 1 | 2021-01-14 08:38:23+00:00 | 1 | 1 | | 2 |
+| Ifonly-go2019/EXPOChub | my exp and poc | https://github.com/Ifonly-go2019/EXPOChub | ['exploit'] | 1 | 2021-01-14 03:41:10+00:00 | 1 | 0 | | 0 |
+| mhsuab/ShellcodeLoader | None | https://github.com/mhsuab/ShellcodeLoader | ['shellcode'] | 1 | 2021-01-14 02:20:51+00:00 | 3 | 1 | C++ | 0 |
+| catuhub/dockerized-vms | Run virtual machines in docker using qemu and practice exploitation techniques overcoming containers limitations. | https://github.com/catuhub/dockerized-vms | ['exploit'] | 1 | 2021-01-14 18:18:25+00:00 | 11 | 5 | Shell | 2 |
+| 0x788/onion | Roblox Exploit (fuck you no source to see here just assets) | https://github.com/0x788/onion | ['exploit'] | 1 | 2021-01-14 20:11:36+00:00 | 10409 | 0 | | 0 |
+| honeybeehacker/Favorite-File-Transfer-Scripts | Some file transfer scripts that I found myself returning to over and over. All have been adapted from other sources and are credited where possible. These can be especially helpful during post-exploitation. | https://github.com/honeybeehacker/Favorite-File-Transfer-Scripts | ['exploit'] | 1 | 2021-01-14 20:06:57+00:00 | 14 | 0 | | 0 |
+| marioap7/Phasor_Estimation | This repository implements a phasor estimation algorithm using a DSP and exploiting the O-splines of the discrete-time Taylor-Fourier transform. | https://github.com/marioap7/Phasor_Estimation | ['exploit'] | 1 | 2021-01-14 20:07:42+00:00 | 428 | 0 | | 0 |
+| Snow-Crash/snn-iir | This repo contains the implementation of paper Exploiting Neuron and Synapse Filter Dynamics in Spatial Temporal Learning of Deep Spiking Neural Network. It trains spiking neural network to learn spatial temporal patterns. | https://github.com/Snow-Crash/snn-iir | ['exploit'] | 1 | 2021-01-14 21:20:14+00:00 | 47952 | 36 | Python | 3 |
+| megazone-syj/sewe-vector | Knowing how something works will make you better at it, you will know what to look for, what to avoid, and sometimes even what to exploit. | https://github.com/megazone-syj/sewe-vector | ['exploit'] | 1 | 2021-01-14 20:32:15+00:00 | 114 | 0 | C++ | 0 |
+| Escapingbug/awesome-browser-exploit | awesome list of browser exploitation tutorials | https://github.com/Escapingbug/awesome-browser-exploit | ['exploit'] | 1 | 2021-01-14 01:47:36+00:00 | 37 | 1333 | | 238 |
+| PacktPublishing/Penetration-Testing-with-Shellcode | Penetration Testing with Shellcode, published by Packt | https://github.com/PacktPublishing/Penetration-Testing-with-Shellcode | ['shellcode'] | 1 | 2021-01-14 14:50:48+00:00 | 22 | 18 | Python | 18 |
+| rodrigueza22/Exploits- | After school project | https://github.com/rodrigueza22/Exploits- | ['exploit'] | 1 | 2021-01-14 23:34:25+00:00 | 3 | 0 | | 0 |

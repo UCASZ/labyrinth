@@ -1,0 +1,42 @@
+
+# Summary for results/2021/04/06
+    
+35 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| jondonas/linux-exploit-suggester-2 | Next-Generation Linux Kernel Exploit Suggester | https://github.com/jondonas/linux-exploit-suggester-2 | ['exploit'] | 1 | 2021-04-06 18:59:38+00:00 | 32 | 1108 | Perl | 221 |
+| SmileSploit/SmileSploit | Config files for my GitHub profile. | https://github.com/SmileSploit/SmileSploit | ['sploit'] | 1 | 2021-04-06 12:31:53+00:00 | 0 | 0 | | 0 |
+| Snowming04/shellcode_generate-test_framework | nan | https://github.com/Snowming04/shellcode_generate-test_framework | ['shellcode'] | 1 | 2021-04-06 11:00:04+00:00 | 34 | 9 | C++ | 3 |
+| pwn3z/CVE-2019-19781-Citrix | None | https://github.com/pwn3z/CVE-2019-19781-Citrix | ['cve-2'] | 1 | 2021-04-06 05:25:52+00:00 | 0 | 0 | Shell | 1 |
+| extrasexxx/PhoneSploit | None | https://github.com/extrasexxx/PhoneSploit | ['sploit'] | 1 | 2021-04-06 07:06:07+00:00 | 0 | 0 | | 0 |
+| Darkmux/EvilIcon | EvilIcon es una herramienta que le permite cambiar el nombre y el ícono de los payload(s) generados por metasploit-framework con cualquier imágen de su elección transformando su formato a (.png) y por último firma el apk para que sea indetectable por el an | https://github.com/Darkmux/EvilIcon | ['metasploit module OR metasploit payload'] | 1 | 2021-04-06 09:02:55+00:00 | 17 | 1 | Shell | 1 |
+| Security-AVS/CVE-2021-30146 | Seafile 7.0.5 Persistent XSS | https://github.com/Security-AVS/CVE-2021-30146 | ['cve-2'] | 1 | 2021-04-06 09:19:48+00:00 | 45 | 1 | | 0 |
+| murataydemir/CVE-2021-21972 | [CVE-2021-21972] VMware vSphere Client Unauthorized File Upload to Remote Code Execution (RCE) | https://github.com/murataydemir/CVE-2021-21972 | ['cve-2', 'rce', 'remote code execution'] | 3 | 2021-04-06 16:15:56+00:00 | 12 | 1 | | 0 |
+| orionhridoy/CVE-2021-30149 | RCE 0day (Orion Hridoy) | https://github.com/orionhridoy/CVE-2021-30149 | ['0day', 'cve-2', 'rce'] | 3 | 2021-04-06 16:12:48+00:00 | 1 | 0 | nan | 0 |
+| Ari-Weinberg/CVE-2012-2982 | Exploit for CVE-2012-2982 | https://github.com/Ari-Weinberg/CVE-2012-2982 | ['cve-2', 'exploit'] | 2 | 2021-04-06 01:35:52+00:00 | 2 | 0 | Python | 0 |
+| teambounters/webhunting-101 | Web Hunting course is designed keeping in mind the hacker's mindset. The objective of this course is to train students to understand the basics and how to find and exploit vulnerabilities. Take a deep dive into different types of vulnerabilities and get ha | https://github.com/teambounters/webhunting-101 | ['exploit'] | 1 | 2021-04-06 16:32:20+00:00 | 7 | 0 | | 0 |
+| GianniDanese/protostar-stack-5 | Solution built to solve stack five (https://exploit.education/protostar/stack-five/) used for an exam | https://github.com/GianniDanese/protostar-stack-5 | ['exploit'] | 1 | 2021-04-06 17:00:59+00:00 | 4 | 0 | Python | 0 |
+| EternalB-1/DDoS-Exploit | None | https://github.com/EternalB-1/DDoS-Exploit | ['exploit'] | 1 | 2021-04-06 16:48:13+00:00 | 125 | 0 | Python | 0 |
+| abenki/house-prices-prediction | The goal of this project was to predict house prices. To do this, we exploited two approaches: one by regression on the exact price and another by classification on predefined price intervals. | https://github.com/abenki/house-prices-prediction | ['exploit'] | 1 | 2021-04-06 18:11:42+00:00 | 1360 | 0 | Jupyter Notebook | 0 |
+| NigMode230/BobRossSploit | roblox exploit inspired by bob ross best free exploit out there (can be compared to synapse | https://github.com/NigMode230/BobRossSploit | ['exploit', 'sploit'] | 2 | 2021-04-06 21:26:47+00:00 | 0 | 0 | | 0 |
+| NigMode230/BobRoss-sploit | A exploit thats comparable to synapse | https://github.com/NigMode230/BobRoss-sploit | ['exploit', 'sploit'] | 2 | 2021-04-06 21:30:53+00:00 | 8273 | 0 | Lua | 0 |
+| fengzhouc/CVE-2021-21300 | None | https://github.com/fengzhouc/CVE-2021-21300 | ['cve-2'] | 1 | 2021-04-06 02:14:29+00:00 | 9 | 0 | Shell | 0 |
+| tnomelly/exploits | None | https://github.com/tnomelly/exploits | ['exploit'] | 1 | 2021-04-06 22:25:45+00:00 | 78 | 0 | | 0 |
+| mrxrobotn/USBexploit | Steal all saved browser passwords within 6 seconds using an USB exploit | https://github.com/mrxrobotn/USBexploit | ['exploit'] | 1 | 2021-04-06 18:34:21+00:00 | 654 | 1 | Batchfile | 2 |
+| Ja4V8s28Ck/ROP-B1n-3xp | A very less information on what I learnt about ROP for the past days | https://github.com/Ja4V8s28Ck/ROP-B1n-3xp | ['exploit'] | 1 | 2021-04-06 11:51:53+00:00 | 113 | 0 | | 0 |
+| pyperanger/CVE-2018-15473_exploit | OpenSSH < 7.7 User Enumeration CVE-2018-15473 Exploit | https://github.com/pyperanger/CVE-2018-15473_exploit | ['cve-2', 'exploit'] | 2 | 2021-04-06 19:17:05+00:00 | 7 | 1 | Perl | 0 |
+| Coalfire-Research/DeathMetal | Red team & penetration testing tools to exploit the capabilities of Intel AMT | https://github.com/Coalfire-Research/DeathMetal | ['exploit'] | 1 | 2021-04-06 23:11:49+00:00 | 23 | 238 | Python | 31 |
+| Kitsun3Sec/exploits | Public Exploits | https://github.com/Kitsun3Sec/exploits | ['exploit'] | 1 | 2021-04-06 22:08:14+00:00 | 60 | 4 | Python | 1 |
+| jepa/FishForVisa | Main repository for project "Marine species do not need visas: the transboundary nature of the world’s exploited marine species" (FishForVisa) | https://github.com/jepa/FishForVisa | ['exploit'] | 1 | 2021-04-06 19:43:49+00:00 | 54987 | 1 | TeX | 0 |
+| memN0ps/CTF | Simple python exploits used in CTFs and other things | https://github.com/memN0ps/CTF | ['exploit'] | 1 | 2021-04-06 23:03:17+00:00 | 27 | 1 | Python | 1 |
+| Surreptitious-Coder/GVW | The purpose of this program is to help beginner and intermediate users to hone their web exploitation and development skills by mirroring a vunerable e-commerce application. | https://github.com/Surreptitious-Coder/GVW | ['exploit'] | 1 | 2021-04-06 18:05:48+00:00 | 46156 | 0 | PHP | 3 |
+| 1N53C/ExploitDBSearch | None | https://github.com/1N53C/ExploitDBSearch | ['exploit'] | 1 | 2021-04-06 08:14:37+00:00 | 145 | 0 | Python | 0 |
+| ayooo-glizzy/Exploit-Tools | None | https://github.com/ayooo-glizzy/Exploit-Tools | ['exploit'] | 1 | 2021-04-06 00:51:38+00:00 | 4131 | 0 | Python | 0 |
+| Malam-X/DragonMS | DragonMS is Tools for ddos, scanner, tracker, payload generator msfvenom and scraping | https://github.com/Malam-X/DragonMS | ['metasploit module OR metasploit payload'] | 1 | 2021-04-06 12:26:19+00:00 | 294 | 16 | Python | 7 |
+| panday1995/2021_RCEP_carbon_convergence | None | https://github.com/panday1995/2021_RCEP_carbon_convergence | ['rce'] | 1 | 2021-04-06 08:08:27+00:00 | 288 | 0 | Jupyter Notebook | 0 |
+| RENNAARENATA/CVE-ECSPLOITZ | Automated exploitation for the most common cves | https://github.com/RENNAARENATA/CVE-ECSPLOITZ | ['exploit'] | 1 | 2021-04-06 21:48:09+00:00 | 22 | 1 | | 0 |
+| Grubbslinger/How-Cybersecurity-Really-Works | This repository is used to share the files need to complete the exercises in the book How Cybersecurity Really Works: A Hands-On Guide for Total Beginners. NOTE: The file for Chapter 4: Malware uses some real exploit code but is rendered completely benign. | https://github.com/Grubbslinger/How-Cybersecurity-Really-Works | ['exploit'] | 1 | 2021-04-06 20:47:44+00:00 | 12 | 1 | | 0 |
+| CiscoCXSecurity/AMES | AMES is a tool to parse the new Nessus output files and autogenerate an easy to copy and paste command line exploit using Metasploit CLI | https://github.com/CiscoCXSecurity/AMES | ['exploit'] | 1 | 2021-04-06 20:18:21+00:00 | 2 | 0 | Python | 0 |
+| Hackdwerg/CVE-2021-30109 | Froala Persistent XSS | https://github.com/Hackdwerg/CVE-2021-30109 | ['cve-2'] | 1 | 2021-04-06 10:44:26+00:00 | 6 | 1 | | 0 |
+| Madonox/MadX-Anti-Exploit | An anti exploit engine made for Roblox. | https://github.com/Madonox/MadX-Anti-Exploit | ['exploit'] | 1 | 2021-04-06 23:06:10+00:00 | 4 | 0 | Lua | 0 |

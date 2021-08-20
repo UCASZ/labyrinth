@@ -1,0 +1,38 @@
+
+# Summary for results/2021/06/04
+    
+31 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| dzzie/VS_LIBEMU | Visual Studio 2008 port of the libemu library that includes scdbg.exe, a modification of the sctest project, that includes more hooks, interactive debugging, reporting features, and ability to work with file format exploit shellcode. Will run under WINE | https://github.com/dzzie/VS_LIBEMU | ['exploit', 'shellcode'] | 2 | 2021-06-04 01:06:30+00:00 | 89191 | 136 | C++ | 52 |
+| CsEnox/GitLab-Wiki-RCE | RCE Exploit for Gitlab < 13.9.4 | https://github.com/CsEnox/GitLab-Wiki-RCE | ['exploit', 'rce'] | 2 | 2021-06-04 00:23:29+00:00 | 12 | 4 | Python | 1 |
+| Arnaldgg7/SparkML_Distributed_Machine_Learning_Model | We exploit to the full the capabilities of distributed processing using a Distributed Linear Support Vector Machine to retrieve, train the model and predict a medical dataset. | https://github.com/Arnaldgg7/SparkML_Distributed_Machine_Learning_Model | ['exploit'] | 1 | 2021-06-04 22:27:13+00:00 | 549 | 0 | Java | 0 |
+| RafaelSantos025/js-ssrf | Server prepared for SSRF post exploitation, javascript exploits and open redirect. | https://github.com/RafaelSantos025/js-ssrf | ['exploit'] | 1 | 2021-06-04 18:33:07+00:00 | 10 | 2 | HTML | 0 |
+| Media-Bias-Analysis-Group/Exploiting-Transformer-based-Multitask-Learning-for-the-Detection-of-Media-Bias-in-News-Articles | None | https://github.com/Media-Bias-Analysis-Group/Exploiting-Transformer-based-Multitask-Learning-for-the-Detection-of-Media-Bias-in-News-Articles | ['exploit'] | 1 | 2021-06-04 14:18:25+00:00 | 784 | 0 | Jupyter Notebook | 0 |
+| z1un/NC-BeanShell-RCE | CNVD-2021-30167 用友NC BeanShell远程代码执行 | https://github.com/z1un/NC-BeanShell-RCE | ['rce'] | 1 | 2021-06-04 14:25:45+00:00 | 2 | 13 | Python | 4 |
+| xh3b4sd/exploit | collection of smart contract experiments | https://github.com/xh3b4sd/exploit | ['exploit'] | 1 | 2021-06-04 10:04:22+00:00 | 8515 | 0 | Solidity | 0 |
+| Kara-4search/Simple_ShellCodeLoader_CSharp | A Simple ShellcodeLoader | https://github.com/Kara-4search/Simple_ShellCodeLoader_CSharp | ['shellcode'] | 1 | 2021-06-04 08:39:15+00:00 | 10 | 6 | C# | 0 |
+| emad-almousa/CVE-2021-2173 | CVE-2021-2173 | https://github.com/emad-almousa/CVE-2021-2173 | ['cve-2'] | 1 | 2021-06-04 05:57:12+00:00 | 1 | 0 | | 0 |
+| jayd8029/router-sploit-is- | nan | https://github.com/jayd8029/router-sploit-is- | ['sploit'] | 1 | 2021-06-04 05:20:34+00:00 | 193 | 1 | Shell | 0 |
+| CsEnox/Gitlab-Exiftool-RCE | RCE Exploit for Gitlab < 13.10.3 | https://github.com/CsEnox/Gitlab-Exiftool-RCE | ['exploit', 'rce'] | 2 | 2021-06-04 10:11:31+00:00 | 6 | 5 | Python | 0 |
+| Ongyj888/RobloxExploits | This repository keeps all good scripts | https://github.com/Ongyj888/RobloxExploits | ['exploit'] | 1 | 2021-06-04 02:18:04+00:00 | 45 | 0 | Lua | 0 |
+| daedalus/CVE-2021-21985 | CVE-2021-21985 vmware 6.7-9.8 RCE | https://github.com/daedalus/CVE-2021-21985 | ['cve-2', 'rce'] | 2 | 2021-06-04 01:53:32+00:00 | 2 | 0 | Python | 0 |
+| Kakashiiiiy/CVE-2021-29155 | Proof of Concept CVE-2021-29155 | https://github.com/Kakashiiiiy/CVE-2021-29155 | ['cve-2'] | 1 | 2021-06-04 16:59:22+00:00 | 28 | 1 | C | 0 |
+| mr-r3bot/Buffer-Overflow-Exploit-Development | None | https://github.com/mr-r3bot/Buffer-Overflow-Exploit-Development | ['exploit'] | 1 | 2021-06-04 09:22:52+00:00 | 3 | 0 | C | 0 |
+| dasithsv/Year-of-the-Jellyfish-challenge-automatic-file-upload | Automatic file upload for Year of the Jellyfish challenge by exploiting file upload vulnerability with Monitorr 1.7.6m | https://github.com/dasithsv/Year-of-the-Jellyfish-challenge-automatic-file-upload | ['exploit'] | 1 | 2021-06-04 12:14:10+00:00 | 7 | 0 | Python | 0 |
+| JoyChou93/java-sec-code | Java web common vulnerabilities and security code which is base on springboot and spring security | https://github.com/JoyChou93/java-sec-code | ['rce'] | 1 | 2021-06-04 01:10:14+00:00 | 395 | 1201 | Java | 322 |
+| dnr6419/CVE-2021-29447 | Wordpress XXE injection 구축 자동화 및 PoC | https://github.com/dnr6419/CVE-2021-29447 | ['cve poc', 'cve-2'] | 2 | 2021-06-04 11:26:40+00:00 | 31 | 2 | Shell | 0 |
+| PlinBlin/Simple-Exploit | Simple Exploit | https://github.com/PlinBlin/Simple-Exploit | ['exploit'] | 1 | 2021-06-04 05:52:45+00:00 | 23340 | 1 | JavaScript | 0 |
+| vpractice/shellcode99 | shellcode99 | https://github.com/vpractice/shellcode99 | ['shellcode'] | 1 | 2021-06-04 17:22:53+00:00 | 4 | 0 | Shell | 0 |
+| vpractice/b4Shellcoderepo01 | b4Shellcoderepo01 | https://github.com/vpractice/b4Shellcoderepo01 | ['shellcode'] | 1 | 2021-06-04 18:33:19+00:00 | 9 | 0 | Shell | 0 |
+| tcbutler320/BananaCannon | BananaCannon is a series of exploit proof of concepts for MonkeyType.com, a popular typing test web application with a growing community. This repository contains XSS exploits and a python PoC to spoof leaderboard scores | https://github.com/tcbutler320/BananaCannon | ['exploit'] | 1 | 2021-06-04 21:55:56+00:00 | 53123 | 3 | | 1 |
+| joshikaa/Exploit_MeV2 | None | https://github.com/joshikaa/Exploit_MeV2 | ['exploit'] | 1 | 2021-06-04 05:07:41+00:00 | 3087 | 0 | C# | 0 |
+| AidenPearce369/ExploitDev | None | https://github.com/AidenPearce369/ExploitDev | ['exploit'] | 1 | 2021-06-04 09:48:01+00:00 | 5846 | 8 | C | 3 |
+| basedfir/detection-rules | Azure Sentinel intrusion detection rules, recent exploits and lolbas :) | https://github.com/basedfir/detection-rules | ['exploit'] | 1 | 2021-06-04 19:05:31+00:00 | 41 | 3 | | 0 |
+| potats0/CasExp | Apereo CAS exploit tool | https://github.com/potats0/CasExp | ['exploit'] | 1 | 2021-06-04 02:48:31+00:00 | 27 | 29 | Java | 6 |
+| feihong-cs/ShiroExploit-Deprecated | Shiro550/Shiro721 一键化利用工具，支持多种回显方式 | https://github.com/feihong-cs/ShiroExploit-Deprecated | ['exploit'] | 1 | 2021-06-04 02:26:30+00:00 | 3293 | 1168 | Java | 250 |
+| Diefunction/CVE-2019-10149 | CVE-2019-10149 : A flaw was found in Exim versions 4.87 to 4.91 (inclusive). Improper validation of recipient address in deliver_message() function in /src/deliver.c may lead to remote command execution. | https://github.com/Diefunction/CVE-2019-10149 | ['cve-2', 'exploit'] | 2 | 2021-06-04 18:15:44+00:00 | 1 | 13 | Python | 5 |
+| JayHoltslander/paths-of-exploits | List of common exploiter paths | https://github.com/JayHoltslander/paths-of-exploits | ['exploit'] | 1 | 2021-06-04 19:05:09+00:00 | 174 | 2 | | 0 |
+| m3ssap0/spring-break_cve-2017-8046 | This is a Java program that exploits Spring Break vulnerability (CVE-2017-8046). | https://github.com/m3ssap0/spring-break_cve-2017-8046 | ['cve-2', 'exploit'] | 2 | 2021-06-04 01:26:28+00:00 | 32 | 16 | Java | 8 |
+| bmdyy/ropz | Organizes rp++ output to make finding good gadgets faster | https://github.com/bmdyy/ropz | ['exploit'] | 1 | 2021-06-04 23:56:02+00:00 | 3 | 0 | Python | 0 |

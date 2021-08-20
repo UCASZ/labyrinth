@@ -1,0 +1,33 @@
+
+# Summary for results/2021/01/31
+    
+26 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| automaticdai/research-dual-period | MATLAB & Simulink code of paper “Exploiting a Dual-Mode Strategy for Performance-Maximization and Resource-Efficient CPS Design”, EMSOFT, 2019. | https://github.com/automaticdai/research-dual-period | ['exploit'] | 1 | 2021-01-31 09:13:26+00:00 | 1218 | 1 | MATLAB | 2 |
+| dotanraz/network-exploitation-detector | None | https://github.com/dotanraz/network-exploitation-detector | ['exploit'] | 1 | 2021-01-31 20:22:41+00:00 | 184 | 0 | Java | 0 |
+| apogiatzis/docker-CVE-2021-3156 | A docker environment to research CVE-2021-3156 | https://github.com/apogiatzis/docker-CVE-2021-3156 | ['cve-2'] | 1 | 2021-01-31 23:03:51+00:00 | 1 | 6 | Dockerfile | 3 |
+| mez-0/NTAPI-FNV | Resolve NTAPI Functions from the Export Table with FNV Hashing. | https://github.com/mez-0/NTAPI-FNV | ['shellcode'] | 1 | 2021-01-31 22:44:40+00:00 | 12 | 1 | C++ | 0 |
+| SmallOutside/Ideas | Discussions relating to Ideas that exploit technology for social good. | https://github.com/SmallOutside/Ideas | ['exploit'] | 1 | 2021-01-31 14:12:07+00:00 | 0 | 0 | | 0 |
+| SFYLL/damn-vulnerable-defi | My answers to these exploits. Please take a look only when you solved it on your own, or you'll defeat the learning purpose | https://github.com/SFYLL/damn-vulnerable-defi | ['exploit'] | 1 | 2021-01-31 14:00:50+00:00 | 252 | 0 | Solidity | 1 |
+| Olegkravec/rce-in-htaccess | Apache misconfiguration allows run PHP code inside of htaccess | https://github.com/Olegkravec/rce-in-htaccess | ['rce'] | 1 | 2021-01-31 11:34:45+00:00 | 1 | 0 | nan | 0 |
+| Derpythederp/network_pt_scapy | Network exploitation with Scapy and Python. | https://github.com/Derpythederp/network_pt_scapy | ['exploit'] | 1 | 2021-01-31 10:28:45+00:00 | 1 | 0 | Python | 0 |
+| VitNecha/Software-Vulnerability-Exploits | Various OS-based cyber attacks on different software mechanisms and vulnerabilities. | https://github.com/VitNecha/Software-Vulnerability-Exploits | ['exploit'] | 1 | 2021-01-31 17:50:56+00:00 | 3103 | 0 | Python | 0 |
+| Q4n/CVE-2021-3156 | 复现别人家的CVEs系列 | https://github.com/Q4n/CVE-2021-3156 | ['cve-2'] | 1 | 2021-01-31 07:02:44+00:00 | 2 | 2 | C | 3 |
+| chrisdaniel952/d | Exploit | https://github.com/chrisdaniel952/d | ['exploit'] | 1 | 2021-01-31 04:51:12+00:00 | 4 | 0 | | 0 |
+| teamtopkarl/CVE-2021-3156 | None | https://github.com/teamtopkarl/CVE-2021-3156 | ['cve-2'] | 1 | 2021-01-31 04:02:08+00:00 | 8 | 7 | C | 8 |
+| sec4us-training/web_api_exploitation | None | https://github.com/sec4us-training/web_api_exploitation | ['exploit'] | 1 | 2021-01-31 13:39:40+00:00 | 6706 | 8 | | 4 |
+| mbcrump/CVE-2021-3156 | Notes regarding CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | https://github.com/mbcrump/CVE-2021-3156 | ['cve-2', 'heap overflow'] | 2 | 2021-01-31 02:21:37+00:00 | 17 | 39 | nan | 5 |
+| Hainexx/An_NLP_algorithm_for_interactive_prediction | I designed a naive shiny web application which is intended to take a string of words and predict the next possible word based on the probability of occurrence exploiting Markov chains. | https://github.com/Hainexx/An_NLP_algorithm_for_interactive_prediction | ['exploit'] | 1 | 2021-01-31 22:23:24+00:00 | 1731 | 0 | R | 0 |
+| ymrsmns/CVE-2021-3156 | CVE-2021-3156 | https://github.com/ymrsmns/CVE-2021-3156 | ['cve-2'] | 1 | 2021-01-31 13:08:34+00:00 | 2 | 0 | | 1 |
+| reverse-ex/CVE-2021-3156 | CVE-2021-3156 | https://github.com/reverse-ex/CVE-2021-3156 | ['cve-2'] | 1 | 2021-01-31 04:56:56+00:00 | 18 | 110 | Shell | 44 |
+| Ign0r3dH4x0r/GenVirus | Generate Android Virus Sploit .APK Package Using Linux and Termux! | https://github.com/Ign0r3dH4x0r/GenVirus | ['sploit'] | 1 | 2021-01-31 12:27:21+00:00 | 70 | 36 | Shell | 4 |
+| 16kVixZ/VixSploit | None | https://github.com/16kVixZ/VixSploit | ['sploit'] | 1 | 2021-01-31 03:20:48+00:00 | 8 | 0 | | 0 |
+| 7Ragnarok7/PoC | This repository contains exploits created by me against various vulnerabilities | https://github.com/7Ragnarok7/PoC | ['exploit', 'vulnerability poc'] | 2 | 2021-01-31 09:14:29+00:00 | 27 | 2 | Python | 0 |
+| cornos/CTEC | Crafting table exploit mod for fabric | https://github.com/cornos/CTEC | ['exploit'] | 1 | 2021-01-31 13:05:28+00:00 | 114 | 3 | Java | 2 |
+| Hainexx/A_Brief_Time_Series_Analysis_of_German_Bund_Term_Structure_of_Interest_Rate | Testing the hyphotesis of cointegration of two term structures through Dickey-Fuller tests and Engle-Granger causality. Finally I exploit the VECM to infer the model and through the Cholesky decomposition I analyze SIRF and FEVD | https://github.com/Hainexx/A_Brief_Time_Series_Analysis_of_German_Bund_Term_Structure_of_Interest_Rate | ['exploit'] | 1 | 2021-01-31 22:24:46+00:00 | 1438 | 1 | TeX | 0 |
+| Hainexx/A_Panel_Data_Analysis_to_Forecast_US_Presidential_Elections | In this paper I will initially retrace the path marked by Ray C. Fair with his long lasting series of presidential elections forecasts exploiting the same variables he uses but enriching the model with panel data. Exploiting the Fixed Effects estimation I | https://github.com/Hainexx/A_Panel_Data_Analysis_to_Forecast_US_Presidential_Elections | ['exploit'] | 1 | 2021-01-31 22:25:53+00:00 | 2128 | 0 | Stata | 0 |
+| mbobiosio/KotlinMVVMRetrofitRoom | This project is designed to express how to use Android MVVM architecture while exploiting the right practices. Shows a list of all countries in the world with their details | https://github.com/mbobiosio/KotlinMVVMRetrofitRoom | ['exploit'] | 1 | 2021-01-31 11:09:02+00:00 | 467 | 1 | Kotlin | 1 |
+| doctorn/trait-eval | We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this??? | https://github.com/doctorn/trait-eval | ['exploit'] | 1 | 2021-01-31 22:09:34+00:00 | 25 | 326 | Rust | 9 |
+| SpaceBuddy231/SpaceSploit-v1.4 | None | https://github.com/SpaceBuddy231/SpaceSploit-v1.4 | ['sploit'] | 1 | 2021-01-31 23:47:33+00:00 | 0 | 0 | | 0 |

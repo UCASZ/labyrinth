@@ -1,0 +1,24 @@
+
+# Summary for results/2021/03/12
+    
+17 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| r0oth3x49/Xpath | A python based cross-platform tool that automates the process of detecting and exploiting error-based injection security flaws. | https://github.com/r0oth3x49/Xpath | ['exploit'] | 1 | 2021-03-12 09:24:41+00:00 | 6909 | 96 | Python | 46 |
+| alt3kx/CVE-2021-26855_PoC | None | https://github.com/alt3kx/CVE-2021-26855_PoC | ['cve poc', 'cve-2'] | 2 | 2021-03-12 16:19:50+00:00 | 1563 | 49 | Python | 28 |
+| djIsLucid/LearningPaths | This repository contains different learning paths for different disciplines such as Bug Bounty hunting and ARM Exploitation | https://github.com/djIsLucid/LearningPaths | ['exploit'] | 1 | 2021-03-12 22:44:18+00:00 | 2 | 0 | | 0 |
+| SrahSrah/ML-for-Trading-Martingale | Explore betting simulation as a means of exploiting stock market variations | https://github.com/SrahSrah/ML-for-Trading-Martingale | ['exploit'] | 1 | 2021-03-12 20:05:14+00:00 | 667 | 0 | Python | 0 |
+| aliasgharheidaricom/Hunger-Games-Search-Visions-Conception-Implementation-Deep-Analysis-and-Performance-Shifts | Visit: https://aliasgharheidari.com/HGS.html. HGS optimizer is a population-based method with stochastic switching elements that enrich its main exploratory and exploitative behaviors and flexibility of HGS in dealing with challenging problem landscapes. T | https://github.com/aliasgharheidaricom/Hunger-Games-Search-Visions-Conception-Implementation-Deep-Analysis-and-Performance-Shifts | ['exploit'] | 1 | 2021-03-12 18:31:01+00:00 | 24 | 2 | MATLAB | 0 |
+| KotSec/CVE-2021-26855-Scanner | Scanner and PoC for CVE-2021-26855 | https://github.com/KotSec/CVE-2021-26855-Scanner | ['cve poc', 'cve-2'] | 2 | 2021-03-12 12:55:57+00:00 | 9 | 3 | Go | 2 |
+| CppXL/CVE-2021-21300 | None | https://github.com/CppXL/CVE-2021-21300 | ['cve-2'] | 1 | 2021-03-12 07:20:20+00:00 | 21 | 0 | Shell | 0 |
+| dorianeSF/Backdoor_Simulation | This repository contains a detailed list of commands and instructions used to facilitate a backdoor exploitation through a controlled environment. | https://github.com/dorianeSF/Backdoor_Simulation | ['exploit'] | 1 | 2021-03-12 03:02:44+00:00 | 280 | 0 | Shell | 0 |
+| Ramoreik/quack | Very Simple lib to stylize i/o for prototypes or exploits | https://github.com/Ramoreik/quack | ['exploit'] | 1 | 2021-03-12 22:54:31+00:00 | 9 | 0 | Python | 0 |
+| cgplab/PAMES | Tool to estimate purity of tumor samples exploiting DNA Methylation data | https://github.com/cgplab/PAMES | ['exploit'] | 1 | 2021-03-12 09:09:31+00:00 | 135869 | 8 | R | 7 |
+| k0rup710n/Wordpress-XXE-DDoS-Exploit-XMLRPC | Small DDoS Script i made for Wordpress website that have XMLRPC enabled. | https://github.com/k0rup710n/Wordpress-XXE-DDoS-Exploit-XMLRPC | ['exploit'] | 1 | 2021-03-12 22:57:11+00:00 | 5 | 1 | Python | 0 |
+| gt-G2787/RCE-test-page | None | https://github.com/gt-G2787/RCE-test-page | ['rce'] | 1 | 2021-03-12 14:51:46+00:00 | 10 | 0 | HTML | 0 |
+| unai-d/lliurex-epoptes-exploit | Single Python file that exploits a LliureX's Epoptes vulnerability in order to gain access to any computer. | https://github.com/unai-d/lliurex-epoptes-exploit | ['exploit'] | 1 | 2021-03-12 11:21:30+00:00 | 4 | 0 | Python | 1 |
+| VitexExploits/CaveX | This is my new exploit | https://github.com/VitexExploits/CaveX | ['exploit'] | 1 | 2021-03-12 20:00:53+00:00 | 6 | 0 | | 0 |
+| cwi-dis/RCEA360VR-CHI2021 | CHI 2021 paper (RCEA-360VR) source code for our (a) Viewport-dependent annotation fusion method (b) Viewport-based fine-grained V-A video overlay generator | https://github.com/cwi-dis/RCEA360VR-CHI2021 | ['rce'] | 1 | 2021-03-12 12:43:06+00:00 | 26315 | 0 | Python | 2 |
+| dustinsilveri/exploit_dev | My research and exploit development | https://github.com/dustinsilveri/exploit_dev | ['exploit'] | 1 | 2021-03-12 23:28:25+00:00 | 81 | 0 | Python | 0 |
+| KameleonReloaded/PS4JB750 | Full Kernel Exploit and Webkit Exploit for PS4 FW.7.50. Netcat Payload on port 9020 | https://github.com/KameleonReloaded/PS4JB750 | ['exploit'] | 1 | 2021-03-12 22:48:36+00:00 | 723 | 0 | JavaScript | 0 |

@@ -1,0 +1,58 @@
+
+# Summary for results/2021/08/16
+    
+51 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| xsscx/Commodity-Injection-Signatures | Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT | https://github.com/xsscx/Commodity-Injection-Signatures | ['exploit', 'rce', 'rce poc'] | 3 | 2021-08-16 11:51:01+00:00 | 1142 | 285 | HTML | 106 |
+| knooob/Samba-3.0.20-Exploit | Code to exploit samba 3.0.20 vulnerability | https://github.com/knooob/Samba-3.0.20-Exploit | ['exploit'] | 1 | 2021-08-16 10:34:34+00:00 | 5 | 0 | Python | 0 |
+| vpdao/protostar_exploit | This repo contains solution for prostar exploit exercises | https://github.com/vpdao/protostar_exploit | ['exploit'] | 1 | 2021-08-16 07:39:43+00:00 | 405 | 0 | C | 0 |
+| lewisaarons/exploitation-colonies | None | https://github.com/lewisaarons/exploitation-colonies | ['exploit'] | 1 | 2021-08-16 12:10:09+00:00 | 313 | 0 | TypeScript | 0 |
+| TheMrExploit/TheMrExploit | Config files for my GitHub profile. | https://github.com/TheMrExploit/TheMrExploit | ['exploit'] | 1 | 2021-08-16 06:22:20+00:00 | 1 | 0 | | 0 |
+| sadamshr3be/payload-alsharabi | payload-alsharabi Binaries Payloads Web Payloads Scripting Payloads Shellcode | https://github.com/sadamshr3be/payload-alsharabi | ['shellcode'] | 1 | 2021-08-16 17:22:34+00:00 | 491 | 1 | Shell | 0 |
+| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2'] | 1 | 2021-08-16 09:07:15+00:00 | 34 | 0 | Python | 0 |
+| Improwised/docker-rce-base | Base image for remote code execution, where all the languages are pre installed | https://github.com/Improwised/docker-rce-base | ['rce', 'remote code execution'] | 2 | 2021-08-16 08:31:36+00:00 | 6 | 0 | Dockerfile | 0 |
+| security-n/CVE-2021-38710 | None | https://github.com/security-n/CVE-2021-38710 | ['cve-2'] | 1 | 2021-08-16 04:39:56+00:00 | 46 | 0 | | 0 |
+| inavedanjum/arp-spoofer | ARP Spoofing to intercept communication between network devices. | https://github.com/inavedanjum/arp-spoofer | ['exploit'] | 1 | 2021-08-16 07:15:45+00:00 | 18 | 0 | Python | 0 |
+| milan277/FuzzRCEList | None | https://github.com/milan277/FuzzRCEList | ['rce'] | 1 | 2021-08-16 07:27:44+00:00 | 3 | 0 | | 0 |
+| Peneter/BrXen-Framework | IG-Scanning-Exploiting-C2 | https://github.com/Peneter/BrXen-Framework | ['exploit'] | 1 | 2021-08-16 09:47:39+00:00 | 14 | 0 | Python | 0 |
+| naveedjan/social-tycoon | A persuasive game designed to help people feel empowered by social media rather than exploited | https://github.com/naveedjan/social-tycoon | ['exploit'] | 1 | 2021-08-16 10:23:33+00:00 | 3024 | 0 | JavaScript | 0 |
+| lz2y/CVE-2021-2394 | POC of CVE-2021-2394 | https://github.com/lz2y/CVE-2021-2394 | ['cve poc', 'cve-2'] | 2 | 2021-08-16 08:02:40+00:00 | 10 | 10 | Java | 3 |
+| MrCraniums/CVE-2021-25791-Multiple-Stored-XSS | Multiple Stored XSS Online Doctor Appointment System | https://github.com/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS | ['cve-2'] | 1 | 2021-08-16 11:47:48+00:00 | 3 | 1 | | 0 |
+| phamphuqui1998/CVE-2021-34473 | CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability | https://github.com/phamphuqui1998/CVE-2021-34473 | ['cve-2', 'remote code execution'] | 2 | 2021-08-16 09:00:06+00:00 | 11 | 5 | | 4 |
+| MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing | https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS | ['cve-2'] | 1 | 2021-08-16 11:50:36+00:00 | 2 | 1 | | 0 |
+| l3ouu4n9/CVE-2018-6574-POC | None | https://github.com/l3ouu4n9/CVE-2018-6574-POC | ['cve poc', 'cve-2'] | 2 | 2021-08-16 15:26:11+00:00 | 4 | 0 | Go | 0 |
+| FlashFinance/MCL_FlashloanExploit | None | https://github.com/FlashFinance/MCL_FlashloanExploit | ['exploit'] | 1 | 2021-08-16 15:16:45+00:00 | 3 | 0 | Solidity | 0 |
+| FlashFinance/MultipleChainExploit | None | https://github.com/FlashFinance/MultipleChainExploit | ['exploit'] | 1 | 2021-08-16 16:13:16+00:00 | 28 | 0 | Solidity | 0 |
+| inavedanjum/packet-sniffer | capture and filter data flowing through an interface. | https://github.com/inavedanjum/packet-sniffer | ['exploit'] | 1 | 2021-08-16 17:57:23+00:00 | 16 | 0 | Python | 0 |
+| WhiteTea1/NQN-exploit | None | https://github.com/WhiteTea1/NQN-exploit | ['exploit'] | 1 | 2021-08-16 19:14:51+00:00 | 7 | 1 | | 0 |
+| 0xJMP/Exploit-Framework | A Basic Exploit Frame-Work Written in C++ | https://github.com/0xJMP/Exploit-Framework | ['exploit'] | 1 | 2021-08-16 19:53:32+00:00 | 6 | 2 | C++ | 0 |
+| jtaubs1/Fuel-1.4.1-RCE-Updated | None | https://github.com/jtaubs1/Fuel-1.4.1-RCE-Updated | ['rce'] | 1 | 2021-08-16 22:32:55+00:00 | 9 | 0 | Python | 0 |
+| catvskid/boombx | crash/lag exploit | https://github.com/catvskid/boombx | ['exploit'] | 1 | 2021-08-16 03:14:28+00:00 | 95 | 1 | Lua | 0 |
+| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-08-16 09:03:52+00:00 | 2392 | 0 | Python | 0 |
+| slaclab/rce-gen3-fw-lib | Firmware Libraries for RCE Platform Development | https://github.com/slaclab/rce-gen3-fw-lib | ['rce'] | 1 | 2021-08-16 23:05:21+00:00 | 18185 | 1 | VHDL | 5 |
+| hvmi/hvmi | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | ['exploit'] | 1 | 2021-08-16 14:25:22+00:00 | 14274 | 474 | C | 39 |
+| malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-08-16 17:14:28+00:00 | 40104 | 6605 | Python | 1552 |
+| sjoleary/SFL_PopGen | Research compendium for "Disentangling spatial, environmental, and demographic signals in population genomics of an exploited, estuarine-dependent flatfish." | https://github.com/sjoleary/SFL_PopGen | ['exploit'] | 1 | 2021-08-16 14:39:50+00:00 | 34439 | 0 | HTML | 0 |
+| gobysec/Goby | Attack surface mapping | https://github.com/gobysec/Goby | ['exploit', 'rce'] | 2 | 2021-08-16 11:19:50+00:00 | 4554 | 637 | | 69 |
+| manstie/PokemonTowerExploit | Enabling and automating an exploit in Pokémon Tower Battle | https://github.com/manstie/PokemonTowerExploit | ['exploit'] | 1 | 2021-08-16 12:50:15+00:00 | 2070 | 1 | Python | 0 |
+| psc4re/NSE-scripts | NSE scripts to detect CVE-2020-1350 SIGRED and CVE-2020-0796 SMBGHOST, CVE-2021-21972, proxyshell, CVE-2021-34473 | https://github.com/psc4re/NSE-scripts | ['cve poc', 'vulnerability poc'] | 2 | 2021-08-16 18:16:20+00:00 | 22 | 76 | Lua | 19 |
+| timoschick/pet | This repository contains the code for "Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference" | https://github.com/timoschick/pet | ['exploit'] | 1 | 2021-08-16 15:54:45+00:00 | 72 | 1027 | Python | 162 |
+| MatthewZito/brutus | An educational exploitation framework shipped on a modular and highly extensible multi-tasking and multi-processing architecture. | https://github.com/MatthewZito/brutus | ['exploit'] | 1 | 2021-08-16 14:58:42+00:00 | 31200 | 28 | Python | 12 |
+| sukritisingh/Exploit-Payload-Generation-Using-Angr | In this project, we use the symbolic execution using angr to analyse x86 binaries which are vulnerable to buffer overflow. We have then used the same to generate a payload for us that will exploit the same. We then used a binary with stack canaries to gene | https://github.com/sukritisingh/Exploit-Payload-Generation-Using-Angr | ['exploit'] | 1 | 2021-08-16 19:38:04+00:00 | 1305 | 0 | Python | 0 |
+| ecriminal/PwnX.py | 🏴‍☠️ Pwn misconfigured sites running ShareX custom image uploader API | https://github.com/ecriminal/PwnX.py | ['exploit', 'rce'] | 2 | 2021-08-16 22:36:32+00:00 | 124 | 21 | Python | 4 |
+| bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2021-08-16 13:21:08+00:00 | 4227 | 599 | C | 77 |
+| ecriminal/Discord-Exploit-Collection | 👾 A collection of Discord bugs and exploits | https://github.com/ecriminal/Discord-Exploit-Collection | ['0day', 'exploit'] | 2 | 2021-08-16 22:24:20+00:00 | 80 | 243 | Python | 76 |
+| boku7/HOLLOW | EarlyBird process hollowing technique (BOF) - Spawns a process in a suspended state, inject shellcode, hijack main thread with APC, and execute shellcode | https://github.com/boku7/HOLLOW | ['shellcode'] | 1 | 2021-08-16 19:17:31+00:00 | 90 | 118 | C | 21 |
+| TamilHackz/i-make-exploits | The exploits i made for real life applications and ctf's :) | https://github.com/TamilHackz/i-make-exploits | ['exploit'] | 1 | 2021-08-16 04:22:43+00:00 | 4773 | 4 | Python | 4 |
+| binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2021-08-16 15:06:25+00:00 | 5945 | 4 | Go | 1 |
+| tavaresrodrigo/StackOverflow | A guide to demonstrate the operation of a buffer overflow exploit. | https://github.com/tavaresrodrigo/StackOverflow | ['exploit'] | 1 | 2021-08-16 21:17:30+00:00 | 259 | 0 | C | 0 |
+| Guezone/SECMON | SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface. | https://github.com/Guezone/SECMON | ['exploit'] | 1 | 2021-08-16 20:17:46+00:00 | 12723 | 96 | CSS | 21 |
+| boku7/winx64-InjectAllProcessesMeterpreter-Shellcode | 64bit Windows 10 shellcode that injects all processes with Meterpreter reverse shells. | https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode | ['shellcode'] | 1 | 2021-08-16 19:18:31+00:00 | 40 | 100 | Assembly | 27 |
+| TOG6-6/roblox-exploit | None | https://github.com/TOG6-6/roblox-exploit | ['exploit'] | 1 | 2021-08-16 12:08:15+00:00 | 7337 | 1 | Python | 0 |
+| florian9721/Exploit-Scripts | ROBLOX exploit scripts. | https://github.com/florian9721/Exploit-Scripts | ['exploit'] | 1 | 2021-08-16 03:17:37+00:00 | 377 | 0 | Lua | 0 |
+| ceat-ceat/ScriptPanelv2 | bad robox ui lib | https://github.com/ceat-ceat/ScriptPanelv2 | ['exploit'] | 1 | 2021-08-16 20:36:04+00:00 | 282 | 0 | Lua | 1 |
+| boku7/spawn | Cobalt Strike BOF that spawns a sacrificial process, injects it with shellcode, and executes payload. Built to evade EDR/UserLand hooks by spawning sacrificial process with Arbitrary Code Guard (ACG), BlockDll, and PPID spoofing. | https://github.com/boku7/spawn | ['shellcode'] | 1 | 2021-08-16 19:17:15+00:00 | 614 | 255 | C | 43 |
+| TheSquanch-147/Rugpulls-Hacks-Exploits-List | None | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | ['exploit'] | 1 | 2021-08-16 11:01:52+00:00 | 17 | 25 | | 0 |
+| Avancy3/EvoExploits | The Evo Exploits bought you New Experiences. | https://github.com/Avancy3/EvoExploits | ['exploit'] | 1 | 2021-08-16 23:17:20+00:00 | 0 | 0 | | 0 |

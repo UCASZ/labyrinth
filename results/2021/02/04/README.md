@@ -1,0 +1,30 @@
+
+# Summary for results/2021/02/04
+    
+23 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| CyberQueens/CyberQueens | CyberQueens lesson materials - learning resources and exercises for aspiring reverse engineers, exploit developers, and hackers 👩‍💻👨‍💻 | https://github.com/CyberQueens/CyberQueens | ['exploit'] | 1 | 2021-02-04 14:09:49+00:00 | 79421 | 22 | CSS | 8 |
+| aida-mynzhasova/Exploits | Exploit written during OSCE Preparation | https://github.com/aida-mynzhasova/Exploits | ['exploit'] | 1 | 2021-02-04 11:02:32+00:00 | 0 | 0 | | 0 |
+| Andrey-oss/FTP-Anonymous-User-Exploit | None | https://github.com/Andrey-oss/FTP-Anonymous-User-Exploit | ['exploit'] | 1 | 2021-02-04 19:46:57+00:00 | 0 | 0 | Python | 0 |
+| VioletJoker/DataSploit | None | https://github.com/VioletJoker/DataSploit | ['sploit'] | 1 | 2021-02-04 19:42:31+00:00 | 10704 | 0 | HTML | 0 |
+| jitu79/git-clone-https-github.com-Zucccs-PhoneSploit | None | https://github.com/jitu79/git-clone-https-github.com-Zucccs-PhoneSploit | ['sploit'] | 1 | 2021-02-04 18:06:18+00:00 | 5 | 0 | | 0 |
+| faisalfs10x/Cisco-CVE-2020-3452-shodan-scanner | simple bash script of CVE-2020-3452 Cisco ASA / Firepower Read-Only Path Traversal Vulnerability checker | https://github.com/faisalfs10x/Cisco-CVE-2020-3452-shodan-scanner | ['cve-2'] | 1 | 2021-02-04 17:38:25+00:00 | 344 | 0 | Shell | 0 |
+| faisalfs10x/F5-BIG-IP-CVE-2020-5902-shodan-scanner | simple bash script of F5 BIG-IP TMUI Vulnerability CVE-2020-5902 checker | https://github.com/faisalfs10x/F5-BIG-IP-CVE-2020-5902-shodan-scanner | ['cve-2'] | 1 | 2021-02-04 17:38:40+00:00 | 52 | 1 | Shell | 1 |
+| rcep/rcep | rcep | https://github.com/rcep/rcep | ['rce'] | 1 | 2021-02-04 14:33:45+00:00 | 0 | 0 | | 0 |
+| jenaih7/help-hacked-exploited | Please help exploited track me please help | https://github.com/jenaih7/help-hacked-exploited | ['exploit'] | 1 | 2021-02-04 14:22:56+00:00 | 5 | 0 | | 0 |
+| BakerWade/Parkinsons-predictive-model | Regression modeling was used to create a suitable model to predict if someone has Parkinson's based on pre-recorded voice data. The metrics was stored in an accessible data file. Citation: 'Exploiting Nonlinear Recurrence and Fractal Scaling Properties fo | https://github.com/BakerWade/Parkinsons-predictive-model | ['exploit'] | 1 | 2021-02-04 13:58:20+00:00 | 636 | 1 | Python | 0 |
+| voxtechX/CyExploit | None | https://github.com/voxtechX/CyExploit | ['exploit'] | 1 | 2021-02-04 15:24:23+00:00 | 1 | 0 | | 0 |
+| mohsenamjadi/Documentation-Browser-Exploitation-Attack-Hook-a-Browser-with-BeEF---Kali-Linux | In this Doc you see how we can Hook a Browser with the Browser Exploitation Framework BeEF on Kali Linux and the target is a browser on windows seven | https://github.com/mohsenamjadi/Documentation-Browser-Exploitation-Attack-Hook-a-Browser-with-BeEF---Kali-Linux | ['exploit'] | 1 | 2021-02-04 10:00:29+00:00 | 1 | 0 | | 0 |
+| zerodayZHOUXUTIAN/zerodayZHOUXUTIAN | nan | https://github.com/zerodayZHOUXUTIAN/zerodayZHOUXUTIAN | ['zeroday'] | 1 | 2021-02-04 09:02:56+00:00 | 8 | 0 | nan | 0 |
+| j-k4100/Python2to3-Exploit-code | Serves as collection for tested code conversion from python2 exploit to python3 | https://github.com/j-k4100/Python2to3-Exploit-code | ['exploit'] | 1 | 2021-02-04 06:31:06+00:00 | 3 | 0 | Python | 0 |
+| Crossieto/Vanity-Exploit-5.6 | Discord Vanity Exploit Legit - Working 2021 - Only works on discord or roblox - Extra Scripted by @Crossieto#9999 - Bonus: Rezizt. Thank You! ⚠️THIS IS FOR EDUCATIONAL PURPOSES ONLY! DON'T GO TERRORISING PEOPLE'S SERVERS!⚠️ ⚠️ Copyright Disclaimer Unde | https://github.com/Crossieto/Vanity-Exploit-5.6 | ['exploit'] | 1 | 2021-02-04 00:43:01+00:00 | 5051 | 1 | Python | 0 |
+| mariodamore/spectral_indexes_generation | Practical S6 activity during the Geology & Planetary Mapping Winter School Program: Exploiting spectral data to generate compositional indexes. | https://github.com/mariodamore/spectral_indexes_generation | ['exploit'] | 1 | 2021-02-04 15:03:49+00:00 | 102519 | 2 | Jupyter Notebook | 0 |
+| Dig2/laravel8_POP_RCE | laravel 8 rce pop chain | https://github.com/Dig2/laravel8_POP_RCE | ['rce'] | 1 | 2021-02-04 01:59:35+00:00 | 3 | 2 | PHP | 0 |
+| leterts/CVE-2021-3156-sudo-raising | None | https://github.com/leterts/CVE-2021-3156-sudo-raising | ['cve-2'] | 1 | 2021-02-04 06:12:23+00:00 | 5 | 0 | C | 0 |
+| yohanes/exploit_mt6873 | None | https://github.com/yohanes/exploit_mt6873 | ['exploit'] | 1 | 2021-02-04 12:09:58+00:00 | 1 | 2 | C | 0 |
+| 95ych/overthewire | exploit scripts for overthewire wargames | https://github.com/95ych/overthewire | ['exploit'] | 1 | 2021-02-04 01:44:20+00:00 | 8 | 0 | Python | 0 |
+| lyy289065406/CVE-2019-5475 | CVE-2019-5475 靶场： RCE 命令注入漏洞 | https://github.com/lyy289065406/CVE-2019-5475 | ['cve-2', 'rce'] | 2 | 2021-02-04 10:58:35+00:00 | 2547 | 1 | Java | 2 |
+| C-h4ck-0/Kubernetes-DNS-spoofing-POC | Proof-of-Concept python script that implements DNS spoofing attack in Kubernetes environment from a pod located on a Worker server | https://github.com/C-h4ck-0/Kubernetes-DNS-spoofing-POC | ['attack poc'] | 1 | 2021-02-04 19:56:00+00:00 | 29 | 11 | Python | 2 |
+| s4parke/sploits | Test repo for mandiant DFIR training | https://github.com/s4parke/sploits | ['sploit'] | 1 | 2021-02-04 21:45:19+00:00 | 5 | 0 | Shell | 0 |

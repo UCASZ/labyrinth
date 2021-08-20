@@ -1,0 +1,45 @@
+
+# Summary for results/2021/07/06
+    
+38 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| cgi-eoss/ftep | Forestry Thematic Exploitation Platform | https://github.com/cgi-eoss/ftep | ['exploit'] | 1 | 2021-07-06 15:29:21+00:00 | 70417 | 5 | Java | 0 |
+| unibaccit21/Exploit | None | https://github.com/unibaccit21/Exploit | ['exploit'] | 1 | 2021-07-06 08:50:43+00:00 | 0 | 0 | | 0 |
+| wahid987654321/hecker | KUMPULAN CODE TERMUX LENGKAP _ SPAM CHAT WHATSAPP __ nggk usah nyepam gw -_* atau hp lu gw ledakin!!#@vms $ pkg update && pkg upgrade Setelah mengupdate dan mengupgrade termux ketikan perintah berikut : $ pkg install python2 (y/n pilih y) $ pkg install | https://github.com/wahid987654321/hecker | ['exploit', 'vulnerability poc'] | 2 | 2021-07-06 06:24:11+00:00 | 21 | 3 | | 0 |
+| PanupongX/ew-kid | for o,l in pairs({(function(l,...)local _="This file was obfuscated using PSU Obfuscator 4.0.A _ https://www.psu.dev/ & discord.gg/psu";local J=l["hnHPWA"];local O=l[((488947000-#("Bunu yazan tosun... - federal")))];local D=l['okvhddGEG'];local N=l[(437362 | https://github.com/PanupongX/ew-kid | ['exploit'] | 1 | 2021-07-06 06:44:08+00:00 | 23 | 0 | | 0 |
+| DontExploitMe/DontExploitMe | Config files for my GitHub profile. | https://github.com/DontExploitMe/DontExploitMe | ['exploit'] | 1 | 2021-07-06 07:04:32+00:00 | 0 | 0 | | 0 |
+| 0x4F776C/Deeplink-Reverse-TCP | Deeplink exploit with MSword | https://github.com/0x4F776C/Deeplink-Reverse-TCP | ['exploit'] | 1 | 2021-07-06 08:47:55+00:00 | 19 | 0 | | 0 |
+| enzyro/polymorphic-shellcode | None | https://github.com/enzyro/polymorphic-shellcode | ['shellcode'] | 1 | 2021-07-06 08:45:11+00:00 | 182 | 0 | C | 0 |
+| AN0NIT/PHP-8.1.0-dev_RCE | A proof of concept script for the RCE found in PHP version 8.1.0-dev, by invoking "User-Agentt: zerodiumsystem" backdoor placed in the PHP source code. | https://github.com/AN0NIT/PHP-8.1.0-dev_RCE | ['rce'] | 1 | 2021-07-06 08:40:37+00:00 | 1 | 0 | Python | 0 |
+| 0xpr0N3rd/Exploit-Development-Tryouts | This repo contains the exploits that I've re-written for known vulnerable apps | https://github.com/0xpr0N3rd/Exploit-Development-Tryouts | ['exploit'] | 1 | 2021-07-06 08:49:40+00:00 | 0 | 1 | | 0 |
+| v0lck3r/Seeker | SUID & GUID Exploit Seeker | https://github.com/v0lck3r/Seeker | ['exploit'] | 1 | 2021-07-06 10:33:11+00:00 | 4 | 2 | Shell | 0 |
+| marioscrock/java-reasoning | A Java project exploiting Java Debug Interface and OWL API to reason on active instances of a running java application. | https://github.com/marioscrock/java-reasoning | ['exploit'] | 1 | 2021-07-06 07:31:22+00:00 | 4329 | 2 | Java | 1 |
+| smolakalaLoginsoft/RCE | None | https://github.com/smolakalaLoginsoft/RCE | ['rce'] | 1 | 2021-07-06 10:47:03+00:00 | 13 | 0 | Java | 0 |
+| anjojake/fog_project_1.5.9_exploit | Simple script to automate the exploit POC for Fog Project 1.5.9 | https://github.com/anjojake/fog_project_1.5.9_exploit | ['exploit'] | 1 | 2021-07-06 16:06:50+00:00 | 0 | 0 | Shell | 0 |
+| saurav2shukla/vulnerabilitiesPoC | I will create the PoCs for well known vulnerabilities discovered recently in popular Products./Vendors | https://github.com/saurav2shukla/vulnerabilitiesPoC | ['vulnerability poc'] | 1 | 2021-07-06 12:13:11+00:00 | 328 | 0 | nan | 0 |
+| diurs/exploiting_vulnerabilities | owasp top 10 | https://github.com/diurs/exploiting_vulnerabilities | ['exploit'] | 1 | 2021-07-06 13:30:00+00:00 | 3718 | 0 | | 0 |
+| Yash114Bansal/Automatic-RFI-Command-Injection-exploiter | This Python3 script give automatic reverse shell by exploiting RFI/Command injection vulnerability. | https://github.com/Yash114Bansal/Automatic-RFI-Command-Injection-exploiter | ['command injection', 'exploit'] | 2 | 2021-07-06 16:15:29+00:00 | 4 | 1 | Python | 0 |
+| daubanet/Exploit | None | https://github.com/daubanet/Exploit | ['exploit'] | 1 | 2021-07-06 21:57:31+00:00 | 903 | 0 | PHP | 0 |
+| dev-zyx/AstolfoV2 | Private roblox exploit gui | https://github.com/dev-zyx/AstolfoV2 | ['exploit'] | 1 | 2021-07-06 22:05:13+00:00 | 0 | 0 | | 0 |
+| blockiFi/LenderExploitCTFChallengeSolution | this is a smart contract exploit solution to a popular CFT challenge to exploit a lender. | https://github.com/blockiFi/LenderExploitCTFChallengeSolution | ['exploit'] | 1 | 2021-07-06 05:36:45+00:00 | 2 | 0 | Solidity | 0 |
+| King-Sign/Javascript-Exploitation | XSS | https://github.com/King-Sign/Javascript-Exploitation | ['exploit'] | 1 | 2021-07-06 05:31:05+00:00 | 2 | 0 | | 0 |
+| nat8badf00d/NExecutor | An exploit for executing Lua scripts | https://github.com/nat8badf00d/NExecutor | ['exploit'] | 1 | 2021-07-06 05:59:22+00:00 | 9 | 2 | C++ | 1 |
+| ruthvikvegunta/openCRX-CVE-2020-7378 | Exploits Password Reset Vulnerability in OpenCRX, CVE-2020-7378. Also maintains Stealth by deleting all the password reset mails created by the script | https://github.com/ruthvikvegunta/openCRX-CVE-2020-7378 | ['cve-2', 'exploit'] | 2 | 2021-07-06 01:06:56+00:00 | 719 | 1 | Python | 0 |
+| byt3bl33d3r/SILENTTRINITY | An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR | https://github.com/byt3bl33d3r/SILENTTRINITY | ['exploit'] | 1 | 2021-07-06 14:30:30+00:00 | 30550 | 1682 | Boo | 351 |
+| robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2'] | 1 | 2021-07-06 06:56:34+00:00 | 186 | 3 | | 1 |
+| soyum2222/inject-pe | inject to pe shellcode | https://github.com/soyum2222/inject-pe | ['shellcode'] | 1 | 2021-07-06 09:05:47+00:00 | 58 | 3 | C | 0 |
+| poorvi-vaish/rce-frontend | Front-end of the project Remote-Code-Executor | https://github.com/poorvi-vaish/rce-frontend | ['rce'] | 1 | 2021-07-06 14:56:16+00:00 | 248 | 2 | JavaScript | 0 |
+| BojMC/anti-lag-exploit-machine-plug-in | simple anti entity cram and anti lag machine plug in | https://github.com/BojMC/anti-lag-exploit-machine-plug-in | ['exploit'] | 1 | 2021-07-06 16:31:08+00:00 | 18 | 0 | | 0 |
+| agnath18K/eXploit | eXploit is designed to perform various social engineering attacks. | https://github.com/agnath18K/eXploit | ['exploit'] | 1 | 2021-07-06 19:22:53+00:00 | 2085 | 0 | C | 0 |
+| liangyuanhu/Variable-selection-w-missing-data | A general variable selection approach in the presence of missing data in both covariates and outcomes. This approach exploits the flexibility of machine learning modeling techniques and bootstrap imputation, which is amenable to nonparametric methods in wh | https://github.com/liangyuanhu/Variable-selection-w-missing-data | ['exploit'] | 1 | 2021-07-06 22:02:16+00:00 | 27 | 2 | R | 0 |
+| System00-Security/Git-Cve | Find Cve Exploits/POC from github | https://github.com/System00-Security/Git-Cve | ['cve poc', 'exploit'] | 2 | 2021-07-06 07:08:17+00:00 | 13 | 12 | Python | 2 |
+| alexfrancow/hack_deck | Hack Deck puts +15 LCD keys at your fingertips for ultimate PC control. Simply tap to switch shells, launch exploits, start a listener and more. | https://github.com/alexfrancow/hack_deck | ['exploit'] | 1 | 2021-07-06 21:11:18+00:00 | 15908 | 0 | C++ | 0 |
+| AnaCosteira/PostExploitTools | None | https://github.com/AnaCosteira/PostExploitTools | ['exploit'] | 1 | 2021-07-06 10:41:19+00:00 | 13736 | 0 | PowerShell | 0 |
+| eyal-gabay/open-redirect-exploit | simple script to find open redirect vulnerabilities | https://github.com/eyal-gabay/open-redirect-exploit | ['exploit'] | 1 | 2021-07-06 20:01:24+00:00 | 4 | 1 | Python | 0 |
+| BatsResearch/efsl | Extended Few-Shot Learning: Exploiting Existing Resources for Novel Tasks | https://github.com/BatsResearch/efsl | ['exploit'] | 1 | 2021-07-06 14:48:43+00:00 | 144 | 4 | Python | 0 |
+| Hawk2811/TigerSploit | Hacking Toolbox | https://github.com/Hawk2811/TigerSploit | ['sploit'] | 1 | 2021-07-06 23:40:39+00:00 | 1 | 0 | nan | 0 |
+| TheCrazyInsanity/Roblox-Exploit-Scripts | Scripts i made to be used in roblox exploits. | https://github.com/TheCrazyInsanity/Roblox-Exploit-Scripts | ['exploit'] | 1 | 2021-07-06 20:29:22+00:00 | 284 | 0 | Lua | 1 |
+| H3ctor-Official/H3ctor-X | Allows you to get a console in Roblox using an exploit. (Such as KRNL) | https://github.com/H3ctor-Official/H3ctor-X | ['exploit'] | 1 | 2021-07-06 11:45:53+00:00 | 263 | 0 | | 0 |
+| mcmahonr/cve-2019-6447 | Tool to take advantage of CVE-2019-6447 | https://github.com/mcmahonr/cve-2019-6447 | ['cve-2'] | 1 | 2021-07-06 23:26:33+00:00 | 16 | 0 | | 0 |

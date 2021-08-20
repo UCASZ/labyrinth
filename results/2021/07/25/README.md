@@ -1,0 +1,47 @@
+
+# Summary for results/2021/07/25
+    
+40 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| xenoscr/shellcode-learning | Working repository to store shellcode I am using to learn. | https://github.com/xenoscr/shellcode-learning | ['shellcode'] | 1 | 2021-07-25 14:33:28+00:00 | 129 | 1 | Assembly | 1 |
+| NHPT/CVE-Exploit-Script | None | https://github.com/NHPT/CVE-Exploit-Script | ['exploit'] | 1 | 2021-07-25 11:45:41+00:00 | 423 | 5 | C | 0 |
+| cube0x0/CVE-2021-36934 | C# PoC for CVE-2021-36934/HiveNightmare/SeriousSAM | https://github.com/cube0x0/CVE-2021-36934 | ['cve poc', 'cve-2'] | 2 | 2021-07-25 15:41:33+00:00 | 167 | 189 | C# | 42 |
+| MrEmpy/Digisploit | 「⚙️」Create automatic exploits for digispark | https://github.com/MrEmpy/Digisploit | ['exploit'] | 1 | 2021-07-25 14:49:49+00:00 | 91 | 5 | Python | 2 |
+| Sp00p64/PyNightmare | PoC for CVE-2021-36934 Aka HiveNightmare/SeriousSAM written in python3 | https://github.com/Sp00p64/PyNightmare | ['cve poc'] | 1 | 2021-07-25 01:19:31+00:00 | 8 | 1 | Python | 0 |
+| dragonismcode/robloxscripts | All of my ROBLOX exploiting scripts (only to be used in an executor) that I've posted to V3rmillion. This repo is to just so I can update the script without changing the link. | https://github.com/dragonismcode/robloxscripts | ['exploit'] | 1 | 2021-07-25 01:36:58+00:00 | 25 | 0 | Lua | 0 |
+| JohnHammond/CVE-2020-35846 | Python PoC for CVE-2020-35846 targeting Cockpit 0.11.1 | https://github.com/JohnHammond/CVE-2020-35846 | ['cve poc', 'cve-2'] | 2 | 2021-07-25 05:28:51+00:00 | 1 | 8 | Python | 2 |
+| DEMON-v2/virtualbox | virtualbox 0-day exploitation | https://github.com/DEMON-v2/virtualbox | ['exploit'] | 1 | 2021-07-25 10:20:00+00:00 | 38 | 0 | Python | 0 |
+| dkummkm120/Ats-Bouquet-Commercial-Project-Sector-132 | ATS Bouquet is strategically located at a very important location which is just adjacent to the Noida Expressway in Noida Sector 132. Where you can get easy access to many IT companies and metro avenues, highways and domestic societies. The workspace is vi | https://github.com/dkummkm120/Ats-Bouquet-Commercial-Project-Sector-132 | ['exploit'] | 1 | 2021-07-25 11:15:31+00:00 | 1 | 0 | | 0 |
+| georgewoodall82/GoodSk8r | Roblox exploit I decided to release. | https://github.com/georgewoodall82/GoodSk8r | ['exploit'] | 1 | 2021-07-25 11:51:27+00:00 | 101100 | 0 | C# | 0 |
+| WhiteSourceE/RCE | None | https://github.com/WhiteSourceE/RCE | ['rce'] | 1 | 2021-07-25 11:58:06+00:00 | 12 | 0 | Java | 0 |
+| WhiteSourceE/RCE-server | None | https://github.com/WhiteSourceE/RCE-server | ['rce'] | 1 | 2021-07-25 12:01:14+00:00 | 9 | 0 | Java | 3 |
+| Gotanetwork/check-key-images-ED25519 | A Python script written to check if the double spend bug (in ed25519 curve) has been exploited in Bytecoin-based coins. | https://github.com/Gotanetwork/check-key-images-ED25519 | ['exploit'] | 1 | 2021-07-25 14:19:13+00:00 | 6 | 0 | Python | 1 |
+| RyouYoo/PHP-8.1.0-dev-RCE | Script to exploit PHP-8.1.0-dev-RCE and gain reverse shell. | https://github.com/RyouYoo/PHP-8.1.0-dev-RCE | ['exploit', 'rce'] | 2 | 2021-07-25 14:06:43+00:00 | 0 | 1 | Shell | 0 |
+| hepaces89/httpInvokerServiceExporterRCE | None | https://github.com/hepaces89/httpInvokerServiceExporterRCE | ['rce'] | 1 | 2021-07-25 17:46:01+00:00 | 89 | 0 | Java | 0 |
+| huoji120/CobaltStrikeDetected | 40行代码检测到大部分CobaltStrike的shellcode | https://github.com/huoji120/CobaltStrikeDetected | ['shellcode'] | 1 | 2021-07-25 14:37:16+00:00 | 1905 | 168 | C++ | 22 |
+| wolf0x/HiveNightmare | CVE-2021–36934， Exploit allowing you to read any registry hives as non-admin. | https://github.com/wolf0x/HiveNightmare | ['exploit'] | 1 | 2021-07-25 15:09:01+00:00 | 9 | 0 | | 0 |
+| johngstephen/Exploit_Development | Report how to create and develop an exploit in Kali Linux | https://github.com/johngstephen/Exploit_Development | ['exploit'] | 1 | 2021-07-25 15:35:02+00:00 | 700 | 0 | | 0 |
+| alikaptanoglu/ssh-rce | None | https://github.com/alikaptanoglu/ssh-rce | ['rce'] | 1 | 2021-07-25 15:58:26+00:00 | 31 | 0 | | 0 |
+| HarrysExploit/Harrys-exploit-api-v2 | None | https://github.com/HarrysExploit/Harrys-exploit-api-v2 | ['exploit'] | 1 | 2021-07-25 01:59:03+00:00 | 20 | 0 | | 0 |
+| CyberSecurityUP/eCXD-Preparation | eLearnSecurity Certified Exploit Development | https://github.com/CyberSecurityUP/eCXD-Preparation | ['exploit'] | 1 | 2021-07-25 21:37:44+00:00 | 651 | 21 | | 3 |
+| baerwolf/cve-2021-33909 | This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime | https://github.com/baerwolf/cve-2021-33909 | ['cve-2'] | 1 | 2021-07-25 21:56:30+00:00 | 6 | 5 | C | 3 |
+| ro-per/Memory_Exploits_in_C | Excercises on memory exploits in C | https://github.com/ro-per/Memory_Exploits_in_C | ['exploit'] | 1 | 2021-07-25 12:20:56+00:00 | 1164 | 1 | Python | 0 |
+| AdamLBS/ChromecastAndGoogleHomeExploit | Script which can reset all Google Home / Chromecast based device using hidden REST API | https://github.com/AdamLBS/ChromecastAndGoogleHomeExploit | ['exploit'] | 1 | 2021-07-25 13:12:23+00:00 | 5 | 1 | Shell | 0 |
+| jamesmoriarty/gohack | Experimental Go language CSGO exploit proof-of-concept. | https://github.com/jamesmoriarty/gohack | ['exploit'] | 1 | 2021-07-25 03:08:55+00:00 | 3920 | 34 | Go | 7 |
+| brewsfab/WIPL-D-results-exporter | Exports WIPL-D Pro software's results to an exploitable format and is able to compute WPT efficiency. | https://github.com/brewsfab/WIPL-D-results-exporter | ['exploit'] | 1 | 2021-07-25 13:10:19+00:00 | 695 | 0 | Python | 0 |
+| JanZmyslowski/SouRCE | SoundingRocketControlEnvironment | https://github.com/JanZmyslowski/SouRCE | ['rce'] | 1 | 2021-07-25 17:58:03+00:00 | 5779 | 0 | Java | 1 |
+| Elpida993/Command_and_Control_Exploit | This is malware that is written in python. The idea is that once its installed on the victims machine it will look for a text file from a server and execute whatever command is in the file. | https://github.com/Elpida993/Command_and_Control_Exploit | ['exploit'] | 1 | 2021-07-25 14:29:48+00:00 | 7 | 3 | Python | 2 |
+| 0xedh/hichip-p2p-firmware-rce | Exploit development and reversing of Hichip's P2P camera firmware | https://github.com/0xedh/hichip-p2p-firmware-rce | ['exploit', 'rce'] | 2 | 2021-07-25 20:16:06+00:00 | 18 | 14 | Python | 1 |
+| Crystalware/HEVD-Exploits | Collection of exploits, mainly to see where I'm at. | https://github.com/Crystalware/HEVD-Exploits | ['exploit'] | 1 | 2021-07-25 05:07:58+00:00 | 31371 | 1 | C | 1 |
+| 0xedh/mistrastar-mips-exploit | Mitrastar MIPS router analysis and exploitation | https://github.com/0xedh/mistrastar-mips-exploit | ['exploit'] | 1 | 2021-07-25 19:57:57+00:00 | 18 | 5 | C | 2 |
+| aesophor/baphomet-old | Automatic Exploit Generation (AEG) engine using dynamic taint analysis | https://github.com/aesophor/baphomet-old | ['exploit'] | 1 | 2021-07-25 14:53:13+00:00 | 8 | 3 | C++ | 0 |
+| HarrysExploit/Harrys-exploit-setup | None | https://github.com/HarrysExploit/Harrys-exploit-setup | ['exploit'] | 1 | 2021-07-25 02:33:53+00:00 | 294136 | 0 | | 0 |
+| duckstroms/xss-reflector | XSS reflector vulnerabilities exploitation extended. | https://github.com/duckstroms/xss-reflector | ['exploit'] | 1 | 2021-07-25 08:02:48+00:00 | 4249 | 22 | Java | 3 |
+| anonymonline2020/PDF-EXPLOIT-BUILDER | PDF Exploit Builder, bin EXE to PDF | https://github.com/anonymonline2020/PDF-EXPLOIT-BUILDER | ['exploit'] | 1 | 2021-07-25 06:02:24+00:00 | 6 | 0 | | 0 |
+| duckstroms/poll-bcrypt | Bcrypt Cracker & Exploitation Toolkit. | https://github.com/duckstroms/poll-bcrypt | ['exploit'] | 1 | 2021-07-25 20:36:41+00:00 | 412 | 3 | PHP | 0 |
+| nerdsinspace/nocom-viewer | High memory usage reference implementation. | https://github.com/nerdsinspace/nocom-viewer | ['exploit'] | 1 | 2021-07-25 02:04:16+00:00 | 207 | 19 | JavaScript | 6 |
+| billythegoat356/Exploits | Une liste d'exploits, simples à utiliser. | https://github.com/billythegoat356/Exploits | ['exploit'] | 1 | 2021-07-25 13:30:58+00:00 | 17 | 6 | Python | 1 |
+| zhangzp9970/MIA | Unofficial pytorch implementation of paper: Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures | https://github.com/zhangzp9970/MIA | ['exploit'] | 1 | 2021-07-25 08:42:03+00:00 | 4142 | 1 | Python | 0 |
+| jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM | This PowerShell script will take the mitigation measures for CVE-2021-36934 described by Microsoft and the US CERT team. https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36934 https://kb.cert.org/vuls/id/506989 USE AT YOUR OWN RISK -- BACKU | https://github.com/jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM | ['cve-2'] | 1 | 2021-07-25 18:10:15+00:00 | 26 | 0 | PowerShell | 0 |

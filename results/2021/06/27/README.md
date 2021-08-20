@@ -1,0 +1,32 @@
+
+# Summary for results/2021/06/27
+    
+25 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| unkn0wnh4ckr/hackers-tool-kit | Its a framework filled with alot of options and hacking tools you use directly in the script from brute forcing to payload making im still adding more stuff i now have another tool out called htkl-lite its hackers-tool-kit just not as big and messy to see | https://github.com/unkn0wnh4ckr/hackers-tool-kit | ['exploit', 'metasploit module OR metasploit payload'] | 2 | 2021-06-27 21:11:15+00:00 | 1734 | 259 | Python | 104 |
+| spidy-idc/SqliExploiter | None | https://github.com/spidy-idc/SqliExploiter | ['exploit'] | 1 | 2021-06-27 08:07:39+00:00 | 3 | 0 | Python | 0 |
+| twos-sec/go-get-rce | nan | https://github.com/twos-sec/go-get-rce | ['rce'] | 1 | 2021-06-27 17:54:26+00:00 | 2 | 0 | Go | 0 |
+| merrychap/POC-onlyoffice | Research and Proof of Concept exploits for ONLYOFFICE | https://github.com/merrychap/POC-onlyoffice | ['exploit'] | 1 | 2021-06-27 17:19:18+00:00 | 17 | 3 | Python | 1 |
+| merrychap/POC-janus-webrtc | Research and Proof of Concept exploits for Janus WebRTC | https://github.com/merrychap/POC-janus-webrtc | ['exploit'] | 1 | 2021-06-27 17:20:01+00:00 | 9 | 1 | Python | 0 |
+| Powowowowo/DisSploit | A python3 library for abusing discords api | https://github.com/Powowowowo/DisSploit | ['sploit'] | 1 | 2021-06-27 13:35:06+00:00 | 16 | 0 | Python | 0 |
+| rjsu26/Exploit_dev_notes | None | https://github.com/rjsu26/Exploit_dev_notes | ['exploit'] | 1 | 2021-06-27 10:17:32+00:00 | 1 | 0 | | 0 |
+| jayngng/WebCalendarv1.2.3 | Web Calendar v1.2.3 Remote Code Execution | https://github.com/jayngng/WebCalendarv1.2.3 | ['remote code execution'] | 1 | 2021-06-27 09:25:31+00:00 | 30 | 0 | Python | 0 |
+| AmazingOut/Tesla-CVE-2020-10558 | TESLA MODEL 3 HACK | https://github.com/AmazingOut/Tesla-CVE-2020-10558 | ['cve-2'] | 1 | 2021-06-27 04:48:31+00:00 | 0 | 0 | HTML | 0 |
+| LegendsZ/Sploity | Gamehack made for assault cube with GUI. | https://github.com/LegendsZ/Sploity | ['sploit'] | 1 | 2021-06-27 01:26:56+00:00 | 4 | 0 | C++ | 0 |
+| eslamXxX156/exploit | None | https://github.com/eslamXxX156/exploit | ['exploit'] | 1 | 2021-06-27 00:46:03+00:00 | 2 | 0 | HTML | 0 |
+| AnikateSawhney/Pwning_Blue_From_HTB_Without_Metasploit | Windows 7 Professional 7601 Service Pack 1 is vulnerable to eternalblue exploit and while exploiting this myself i ran into a number of issues . So , now i will show you how to exploit it without using metasploit . | https://github.com/AnikateSawhney/Pwning_Blue_From_HTB_Without_Metasploit | ['exploit'] | 1 | 2021-06-27 05:52:31+00:00 | 27 | 0 | Python | 1 |
+| DH-AL/Dh-All | This is a package of all hacking tools., This tool contain over 300+ Advance and professional Hacking tools.it contain Phishing, Brute forcing, cloning, Vulnerability scanning, Information Gathering, Tracing and Tracking, Exploitation, Password cracking, W | https://github.com/DH-AL/Dh-All | ['exploit'] | 1 | 2021-06-27 18:02:05+00:00 | 560 | 4 | Python | 2 |
+| R00tS3c/DDOS-RootSec | DDOS Archive by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers) | https://github.com/R00tS3c/DDOS-RootSec | ['exploit'] | 1 | 2021-06-27 20:53:01+00:00 | 177102 | 99 | Python | 60 |
+| Seven-7Up/docker-exploitAutomation | Docker group permission escalation Automated, usually for pentesting. | https://github.com/Seven-7Up/docker-exploitAutomation | ['exploit'] | 1 | 2021-06-27 16:09:23+00:00 | 7 | 0 | Shell | 0 |
+| Seven-7Up/alpine-builder | Alpine Builder, usually for pentest. Exploit lxd and docker group permission. | https://github.com/Seven-7Up/alpine-builder | ['exploit'] | 1 | 2021-06-27 16:10:28+00:00 | 35 | 0 | Shell | 0 |
+| Lojacops/NET-FTP-Exploit.rb | Simple exploit in ruby for the NET::FTP vulnerability | https://github.com/Lojacops/NET-FTP-Exploit.rb | ['exploit'] | 1 | 2021-06-27 20:33:44+00:00 | 39 | 2 | Ruby | 0 |
+| North-West-Wind/FabricSurvivalSpectator | A little mod I made for my friends in my survival server and keep them from exploiting spectator mode. | https://github.com/North-West-Wind/FabricSurvivalSpectator | ['exploit'] | 1 | 2021-06-27 10:26:04+00:00 | 116 | 0 | Java | 0 |
+| Scorpio28-Oficial/RouterSploit | INSTRUCCIONES DE USO 1_show all Aparece un listado de todos los modulos para entrar a cualquier modulo, se escribe el comando ( use ) seguido del modulo a elejir. EJEMPLO use scanners_autopwn 2_show options 3_set target 192.168.1.1 o 192.168.1.0 E | https://github.com/Scorpio28-Oficial/RouterSploit | ['sploit'] | 1 | 2021-06-27 02:19:46+00:00 | 42 | 1 | Shell | 0 |
+| Passive/discord-exploits | A collection of great discord bugs and exploits. | https://github.com/Passive/discord-exploits | ['exploit'] | 1 | 2021-06-27 23:37:32+00:00 | 19 | 5 | Python | 0 |
+| alestrunda/XSHM | Example of XSHM exploit | https://github.com/alestrunda/XSHM | ['exploit'] | 1 | 2021-06-27 12:20:42+00:00 | 14 | 1 | HTML | 0 |
+| gomiero/bin2src | bin2src is a simple command line that embed binary data inside a source code file. | https://github.com/gomiero/bin2src | ['shellcode'] | 1 | 2021-06-27 07:23:14+00:00 | 40855 | 1 | Rust | 1 |
+| merrychap/POC-exploits | :unlock: Vulnerability Research and Proof of Concept exploits for various targets | https://github.com/merrychap/POC-exploits | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-06-27 17:23:59+00:00 | 42 | 9 | | 3 |
+| s1egesystems/ShellcodeFetcher | Antivirus evasion technique to execute shellcode in memory. | https://github.com/s1egesystems/ShellcodeFetcher | ['shellcode'] | 1 | 2021-06-27 12:58:10+00:00 | 74 | 63 | C++ | 28 |
+| SleepTheGod/Exploits | Random exploits | https://github.com/SleepTheGod/Exploits | ['exploit'] | 1 | 2021-06-27 19:14:36+00:00 | 0 | 0 | | 0 |

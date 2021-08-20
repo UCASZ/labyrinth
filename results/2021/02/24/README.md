@@ -1,0 +1,36 @@
+
+# Summary for results/2021/02/24
+    
+29 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| parrotgeek1/TI-Nspire | A collection of information, tools, and exploits for TI-Nspire calculators. | https://github.com/parrotgeek1/TI-Nspire | ['exploit'] | 1 | 2021-02-24 21:42:19+00:00 | 619 | 24 | C | 4 |
+| loc00z123/DarkSwordExploit | None | https://github.com/loc00z123/DarkSwordExploit | ['exploit'] | 1 | 2021-02-24 05:38:14+00:00 | 1 | 0 | | 0 |
+| PixelsDE/ExploitHandler | An Exploit Handler SocketServer still in beta by me | https://github.com/PixelsDE/ExploitHandler | ['exploit'] | 1 | 2021-02-24 23:11:18+00:00 | 502 | 0 | Java | 0 |
+| PixelsDE/ExploitClient | Exploit Client Project by me | https://github.com/PixelsDE/ExploitClient | ['exploit'] | 1 | 2021-02-24 23:11:40+00:00 | 5 | 0 | Java | 0 |
+| K78M/ms21913488 | Research Project - Vulnerabilities and exploits in VMware | https://github.com/K78M/ms21913488 | ['exploit'] | 1 | 2021-02-24 18:39:22+00:00 | 83 | 0 | | 0 |
+| SparTixBack/SparTix-Exploit | None | https://github.com/SparTixBack/SparTix-Exploit | ['exploit'] | 1 | 2021-02-24 17:45:48+00:00 | 0 | 0 | | 0 |
+| yaunsky/CVE-2021-21972 | None | https://github.com/yaunsky/CVE-2021-21972 | ['cve-2'] | 1 | 2021-02-24 13:36:28+00:00 | 2 | 5 | Python | 3 |
+| lsw29475/CVE-2019-17026 | None | https://github.com/lsw29475/CVE-2019-17026 | ['cve-2'] | 1 | 2021-02-24 13:19:13+00:00 | 8 | 0 | JavaScript | 0 |
+| lsw29475/CVE-2020-0022 | None | https://github.com/lsw29475/CVE-2020-0022 | ['cve-2'] | 1 | 2021-02-24 13:18:25+00:00 | 5 | 0 | Python | 0 |
+| Security-AVS/-CVE-2021-26904 | LMA ISIDA Retriever 5.2 allows SQL Injection | https://github.com/Security-AVS/-CVE-2021-26904 | ['cve-2'] | 1 | 2021-02-24 12:43:52+00:00 | 1 | 0 | | 0 |
+| Security-AVS/CVE-2021-26903 | ISIDA RETRIEVER v5.2" Reflected XSS | https://github.com/Security-AVS/CVE-2021-26903 | ['cve-2'] | 1 | 2021-02-24 12:40:07+00:00 | 2 | 0 | | 0 |
+| sandovska/Environmental-Sound-Classifications | Exploiting VAEs for compressed audio feature representation | https://github.com/sandovska/Environmental-Sound-Classifications | ['exploit'] | 1 | 2021-02-24 11:54:24+00:00 | 0 | 0 | | 0 |
+| fedim3ga/BlowFishPresta | BlowFish ECD Privilege Escalation Exploit | https://github.com/fedim3ga/BlowFishPresta | ['exploit'] | 1 | 2021-02-24 10:31:10+00:00 | 15 | 0 | Python | 0 |
+| Bunnyb97/Browser-exploit-using-BEef-and-NodeMCU | None | https://github.com/Bunnyb97/Browser-exploit-using-BEef-and-NodeMCU | ['exploit'] | 1 | 2021-02-24 08:09:58+00:00 | 1 | 0 | C++ | 0 |
+| melodied/AIT-Exploit | References: | https://github.com/melodied/AIT-Exploit | ['exploit'] | 1 | 2021-02-24 05:36:43+00:00 | 14 | 0 | Shell | 1 |
+| TheOfficialFloW/h-encore | Fully chained kernel exploit for the PS Vita on firmwares 3.65-3.68 | https://github.com/TheOfficialFloW/h-encore | ['exploit'] | 1 | 2021-02-24 21:46:55+00:00 | 121 | 973 | C | 97 |
+| akemery/cours_systeme_exploitation | None | https://github.com/akemery/cours_systeme_exploitation | ['exploit'] | 1 | 2021-02-24 09:45:55+00:00 | 8 | 0 | C | 4 |
+| homabakhtiarian/Ads_CTR_Optimisation | Rather than performing exploration by simply selecting an arbitrary action, chosen with a probability that remains constant, the UCB algorithm changes its exploration-exploitation balance as it gathers more knowledge of the environment. | https://github.com/homabakhtiarian/Ads_CTR_Optimisation | ['exploit'] | 1 | 2021-02-24 19:06:28+00:00 | 96 | 0 | Jupyter Notebook | 0 |
+| lorenzofamiglini/Irony-Sarcasm-Detection-Task | The detection of irony and sarcasm is one of the most insidious challenges in the field of Natural Language Processing. Over the years, several techniques have been studied to analyze these rhetorical figures, trying to identify the elements that discrimin | https://github.com/lorenzofamiglini/Irony-Sarcasm-Detection-Task | ['exploit'] | 1 | 2021-02-24 17:50:41+00:00 | 38121 | 6 | Jupyter Notebook | 1 |
+| michael-catanzaro/StackAttack | Python program to exploit stack-based buffer overflows. | https://github.com/michael-catanzaro/StackAttack | ['exploit'] | 1 | 2021-02-24 20:10:20+00:00 | 11812 | 21 | Python | 2 |
+| BigBoyKlem/Online-Game-Exploits | This is a collection of all my console exploits I've made for online games. | https://github.com/BigBoyKlem/Online-Game-Exploits | ['exploit'] | 1 | 2021-02-24 01:06:43+00:00 | 8 | 0 | | 0 |
+| moniik/poc_salesforce_lightning | Academic purposes only. Attack against Salesforce lightning with guest privilege. | https://github.com/moniik/poc_salesforce_lightning | ['attack poc'] | 1 | 2021-02-24 16:09:50+00:00 | 72 | 21 | Python | 9 |
+| jrghndl/Javascript-Exploit | A method for exploiting vulnerabilities in JavaScript code that allows the user to modify obfuscated self-invoking JavaScript functions. | https://github.com/jrghndl/Javascript-Exploit | ['exploit'] | 1 | 2021-02-24 00:49:06+00:00 | 506 | 0 | | 0 |
+| jc-base4sec/MS15-034 | A remote code execution vulnerability exists in the HTTP protocol stack (HTTP.sys) that is caused when HTTP.sys improperly parses specially crafted HTTP requests. An attacker who successfully exploited this vulnerability could execute arbitrary code in the | https://github.com/jc-base4sec/MS15-034 | ['exploit', 'remote code execution'] | 2 | 2021-02-24 16:28:39+00:00 | 4 | 2 | Python | 0 |
+| HoangKien1020/CVE-2020-11890 | CVE-2020-11890: Improper input validations in the usergroup table class could lead to a broken ACL configuration to RCE | https://github.com/HoangKien1020/CVE-2020-11890 | ['cve-2', 'rce'] | 2 | 2021-02-24 14:39:57+00:00 | 4 | 63 | Python | 9 |
+| John-Monsour/S-GS9_-_9-_U.S._Sapdragon_Exploitation | Exploitation to gain kernel level access of the Samsung Galaxy S9 & S9+ (we will find the crack and when we do it's a game changer. Lets make Samsung and Root Universals. They go hand in hand. Seriously only lock down the U.S. North American variants. Wel | https://github.com/John-Monsour/S-GS9_-_9-_U.S._Sapdragon_Exploitation | ['exploit'] | 1 | 2021-02-24 06:46:54+00:00 | 17 | 3 | | 6 |
+| santiweight/exploit-haskell | None | https://github.com/santiweight/exploit-haskell | ['exploit'] | 1 | 2021-02-24 06:05:54+00:00 | 21822 | 0 | Haskell | 0 |
+| madneal/codeql-scanner | The exploit python script for CVE-2018-7600 | https://github.com/madneal/codeql-scanner | ['exploit'] | 1 | 2021-02-24 11:42:02+00:00 | 2 | 0 | | 0 |
+| SpeedSterKawaii/Exploit-Functions | None | https://github.com/SpeedSterKawaii/Exploit-Functions | ['exploit'] | 1 | 2021-02-24 19:48:45+00:00 | 4 | 0 | C++ | 0 |

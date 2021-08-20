@@ -1,0 +1,39 @@
+
+# Summary for results/2021/04/24
+    
+32 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+| mingyus/explore-exploit | Data and code for "Sources of suboptimality in a minimalistic explore-exploit task" | https://github.com/mingyus/explore-exploit | ['exploit'] | 1 | 2021-04-24 15:43:56+00:00 | 51152 | 6 | HTML | 3 |
+| cyberjatin/mynotes | Pentest important small exploitation scripts | https://github.com/cyberjatin/mynotes | ['exploit'] | 1 | 2021-04-24 20:04:30+00:00 | 56 | 1 | Shell | 0 |
+| WizardMortal/Exploit | None | https://github.com/WizardMortal/Exploit | ['exploit'] | 1 | 2021-04-24 23:10:33+00:00 | 5 | 0 | | 0 |
+| bertreuer/coronapoint-disclosure | Exemplary code for a successful exploit against coronapoint.de website to download PDF documents with corona test results | https://github.com/bertreuer/coronapoint-disclosure | ['exploit'] | 1 | 2021-04-24 21:21:24+00:00 | 2 | 0 | Java | 0 |
+| Yealid/CVE-2018-6574 | None | https://github.com/Yealid/CVE-2018-6574 | ['cve-2'] | 1 | 2021-04-24 16:49:55+00:00 | 3 | 0 | Go | 0 |
+| ppcrab/CVE-2018-5158 | None | https://github.com/ppcrab/CVE-2018-5158 | ['cve-2'] | 1 | 2021-04-24 13:41:23+00:00 | 13470 | 0 | | 0 |
+| MegaXAAAA/BaldSploitoff | nan | https://github.com/MegaXAAAA/BaldSploitoff | ['sploit'] | 1 | 2021-04-24 12:18:35+00:00 | 0 | 0 | nan | 0 |
+| salman-ahm3d/pylington_exploit | A repository containing the exploit code for the Pylington IDE. | https://github.com/salman-ahm3d/pylington_exploit | ['exploit'] | 1 | 2021-04-24 18:00:04+00:00 | 3 | 0 | Python | 0 |
+| elon996/gluttony | A http cve poc framework | https://github.com/elon996/gluttony | ['cve poc'] | 1 | 2021-04-24 16:41:13+00:00 | 49 | 2 | Go | 0 |
+| Xpelo/Roblox-fake-exploits-stuff | thing for inspect element roblox "exploits" | https://github.com/Xpelo/Roblox-fake-exploits-stuff | ['exploit'] | 1 | 2021-04-24 08:06:55+00:00 | 4 | 0 | | 0 |
+| musyoka101/HackTheBox-Cyber-Apocalypse-2021-CTF-exploit-scripts | HackTheBox Cyber Apocalypse 2021 CTF exploit scripts | https://github.com/musyoka101/HackTheBox-Cyber-Apocalypse-2021-CTF-exploit-scripts | ['exploit'] | 1 | 2021-04-24 09:11:47+00:00 | 3 | 0 | Python | 0 |
+| utkarsh0208/Penetration-Testing | Repo for Self Developed or Modified public enumeration & exploitation script/exploit | https://github.com/utkarsh0208/Penetration-Testing | ['exploit'] | 1 | 2021-04-24 05:03:33+00:00 | 1 | 0 | Python | 0 |
+| Declipsonator/The-Public-Addone | A Meteor Client addon devoted to making previously private exploits or mods public. | https://github.com/Declipsonator/The-Public-Addone | ['exploit'] | 1 | 2021-04-24 02:36:14+00:00 | 248 | 0 | Java | 0 |
+| tim7sheesh/TimSploit | nan | https://github.com/tim7sheesh/TimSploit | ['sploit'] | 1 | 2021-04-24 00:16:30+00:00 | 1 | 0 | nan | 0 |
+| badd1e/Proof-of-Concept | Not necessarily related to software bugs and exploits; this repo contains snippets of code that demonstrate some interesting functionality or a handy trick. | https://github.com/badd1e/Proof-of-Concept | ['exploit'] | 1 | 2021-04-24 13:03:50+00:00 | 4 | 26 | C | 8 |
+| electronicbots/CVE-2021-31762 | Exploiting a Cross-site request forgery (CSRF) attack to creat a new privileged user through the Webmin's add users feature | https://github.com/electronicbots/CVE-2021-31762 | ['cve-2', 'exploit'] | 2 | 2021-04-24 22:05:36+00:00 | 74 | 8 | Python | 5 |
+| Mesh3l911/CVE-2021-31762 | Exploiting a Cross-site request forgery (CSRF) attack to creat a new privileged user through the Webmin's add users feature | https://github.com/Mesh3l911/CVE-2021-31762 | ['cve-2', 'exploit'] | 2 | 2021-04-24 20:10:01+00:00 | 75 | 1 | Python | 0 |
+| electronicbots/CVE-2021-31761 | Exploiting a Reflected Cross-Site Scripting (XSS) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature | https://github.com/electronicbots/CVE-2021-31761 | ['cve-2', 'exploit', 'rce'] | 3 | 2021-04-24 22:08:16+00:00 | 218 | 2 | Python | 4 |
+| Mesh3l911/CVE-2021-31761 | Exploiting a Reflected Cross-Site Scripting (XSS) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature | https://github.com/Mesh3l911/CVE-2021-31761 | ['cve-2', 'exploit', 'rce'] | 3 | 2021-04-24 20:08:12+00:00 | 217 | 3 | Python | 3 |
+| electronicbots/CVE-2021-31760 | Exploiting a Cross-site request forgery (CSRF) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature | https://github.com/electronicbots/CVE-2021-31760 | ['cve-2', 'exploit', 'rce'] | 3 | 2021-04-24 22:06:53+00:00 | 185 | 0 | Python | 5 |
+| Mesh3l911/CVE-2021-31760 | Exploiting a Cross-site request forgery (CSRF) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature | https://github.com/Mesh3l911/CVE-2021-31760 | ['cve-2', 'exploit', 'rce'] | 3 | 2021-04-24 20:07:02+00:00 | 181 | 2 | Python | 1 |
+| oneNutW0nder/pwn-tips | Tips and tricks that I come across and need to remember for exploitation. | https://github.com/oneNutW0nder/pwn-tips | ['exploit'] | 1 | 2021-04-24 23:23:11+00:00 | 3 | 1 | | 0 |
+| recurselinux/cursedshell | cursedshell is an exploitation shell meant to exploit LFI,RFI and command injection vulnerabilities | https://github.com/recurselinux/cursedshell | ['command injection', 'exploit'] | 2 | 2021-04-24 17:57:28+00:00 | 21 | 1 | Python | 0 |
+| remihayrimbault/Movies--API | Exploitation of a Movies DataBase with Laravel | https://github.com/remihayrimbault/Movies--API | ['exploit'] | 1 | 2021-04-24 10:17:14+00:00 | 4947 | 0 | PHP | 0 |
+| devilAPI/XiaomiRouter-EnglishExploit | Tutorials and Tools to get your Xiaomi Router in English. All of this is tested on an Xiaomi 4A non Gigabit (but it should work on other too) | https://github.com/devilAPI/XiaomiRouter-EnglishExploit | ['exploit'] | 1 | 2021-04-24 10:18:48+00:00 | 49 | 0 | Shell | 1 |
+| Exunys/Simple-Scripts | The best and most Simple ROBLOX exploiting scripts | https://github.com/Exunys/Simple-Scripts | ['exploit'] | 1 | 2021-04-24 18:22:07+00:00 | 36 | 0 | | 0 |
+| IRPsimp/ZXcryptor | A simple, lightweight windows executable encryptor and shellcode injector made in python. | https://github.com/IRPsimp/ZXcryptor | ['shellcode'] | 1 | 2021-04-24 10:47:10+00:00 | 24 | 1 | Python | 1 |
+| juustio/Exploit | None | https://github.com/juustio/Exploit | ['exploit'] | 1 | 2021-04-24 07:25:26+00:00 | 12 | 0 | | 0 |
+| Idov31/hotkey_exploitation | This repository contains the POC and the scanner to catch the Shortcut Hotkey Exploitation method. | https://github.com/Idov31/hotkey_exploitation | ['attack poc', 'exploit'] | 2 | 2021-04-24 18:04:52+00:00 | 26 | 0 | Python | 0 |
+| DavAlbert/discord-ws-mute-exploit | Fake mute (microphone & headset), Screenshare everywhere | https://github.com/DavAlbert/discord-ws-mute-exploit | ['exploit'] | 1 | 2021-04-24 16:52:21+00:00 | 18 | 29 | JavaScript | 9 |
+| cribdragg3r/Alaris | A protective and Low Level Shellcode Loader that defeats modern EDR systems. | https://github.com/cribdragg3r/Alaris | ['shellcode'] | 1 | 2021-04-24 00:37:31+00:00 | 1278 | 576 | C | 97 |
+| RozhBarhamLatif/security | Security By: itzzz Exploit | https://github.com/RozhBarhamLatif/security | ['exploit'] | 1 | 2021-04-24 14:24:17+00:00 | 14 | 0 | | 3 |

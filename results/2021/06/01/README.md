@@ -1,0 +1,44 @@
+
+# Summary for results/2021/06/01
+    
+37 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| cinno/wpwner | Basic WordPress exploitation tool | https://github.com/cinno/wpwner | ['exploit'] | 1 | 2021-06-01 22:17:30+00:00 | 26 | 1 | Python | 1 |
+| 0vercl0k/CVE-2021-28476 | PoC for CVE-2021-28476 a guest-to-host "Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys. | https://github.com/0vercl0k/CVE-2021-28476 | ['cve poc', 'cve-2', 'remote code execution', 'vulnerability poc'] | 4 | 2021-06-01 15:08:23+00:00 | 804 | 187 | C | 31 |
+| Exploiter-HuTao/Exploiter-HuTao | Config files for my GitHub profile. | https://github.com/Exploiter-HuTao/Exploiter-HuTao | ['exploit'] | 1 | 2021-06-01 01:41:53+00:00 | 3 | 0 | | 0 |
+| 4nthqny/BitcoinMiningSim | Exploit | https://github.com/4nthqny/BitcoinMiningSim | ['exploit'] | 1 | 2021-06-01 02:30:48+00:00 | 22 | 0 | | 0 |
+| Yalye/shellcode | practice for shell | https://github.com/Yalye/shellcode | ['shellcode'] | 1 | 2021-06-01 07:05:09+00:00 | 0 | 0 | | 0 |
+| onSec-fr/CVE-2021-21985-Checker | CVE-2021-21985 Checker. | https://github.com/onSec-fr/CVE-2021-21985-Checker | ['cve-2'] | 1 | 2021-06-01 08:32:25+00:00 | 3 | 1 | PowerShell | 1 |
+| irritetech/never | source for the exploit[s] POC possible on neverlose.cc | https://github.com/irritetech/never | ['exploit'] | 1 | 2021-06-01 08:40:14+00:00 | 150 | 0 | | 0 |
+| Venagel/Roblox-Venploit-Exploit-Level-6-7 | My own roblox exploit. | https://github.com/Venagel/Roblox-Venploit-Exploit-Level-6-7 | ['exploit'] | 1 | 2021-06-01 09:29:55+00:00 | 0 | 0 | | 0 |
+| Lifars/davdts | Simple Django to show post-exploitation options when server-side template injection (SSTI) is present in app using Django Templates. | https://github.com/Lifars/davdts | ['exploit'] | 1 | 2021-06-01 09:35:14+00:00 | 4 | 1 | Python | 0 |
+| Nvoth48/ExOgonExploit | ExOgonExploit_KeySystem | https://github.com/Nvoth48/ExOgonExploit | ['exploit'] | 1 | 2021-06-01 13:30:05+00:00 | 1 | 0 | | 0 |
+| Win32k/Shellcode | None | https://github.com/Win32k/Shellcode | ['shellcode'] | 1 | 2021-06-01 13:18:43+00:00 | 0 | 0 | Assembly | 0 |
+| xymeng16/security | Security-related code includes but is not limited to PoCs of existing CVEs, side-channel investigations, etc. | https://github.com/xymeng16/security | ['cve poc'] | 1 | 2021-06-01 14:56:31+00:00 | 4 | 1 | C | 0 |
+| EvilSapphire/TraceON | A x32Dbg (so far doesn't work on x64DbG) Plugin that single steps through the instructions and stops the trace at once when the Instruction pointer is outside any known DLL memory region. Can be used to detect Self injected PE/ dump out shellcode from memo | https://github.com/EvilSapphire/TraceON | ['shellcode'] | 1 | 2021-06-01 18:57:57+00:00 | 446 | 0 | C | 0 |
+| OnurArdaB/Sinkhorn-Knoop-Scaling | A simple iterative method to approach the double stochastic matrix is to alternately rescale all rows and all columns of A to sum to 1. Both CPU and GPU parallelism is exploited. | https://github.com/OnurArdaB/Sinkhorn-Knoop-Scaling | ['exploit'] | 1 | 2021-06-01 17:33:50+00:00 | 387 | 0 | C++ | 0 |
+| devdaniell/PS4_7.5XX_EXPLOIT-MIRROR- | A repo to contain a modified and stable webkit for ps4's | https://github.com/devdaniell/PS4_7.5XX_EXPLOIT-MIRROR- | ['exploit'] | 1 | 2021-06-01 18:39:22+00:00 | 2246 | 0 | JavaScript | 0 |
+| mauricelambert/CVE-2021-21985 | This script check the CVE-2021-21985 vulnerability and patch on vCenter Server. | https://github.com/mauricelambert/CVE-2021-21985 | ['cve-2'] | 1 | 2021-06-01 19:13:42+00:00 | 16 | 0 | Python | 0 |
+| DamirAlkhaov/darus | Exploit for Roblox | https://github.com/DamirAlkhaov/darus | ['exploit'] | 1 | 2021-06-01 20:29:06+00:00 | 2408 | 1 | HTML | 0 |
+| hoanx-2146/rails-exploit | rails-exploit | https://github.com/hoanx-2146/rails-exploit | ['exploit'] | 1 | 2021-06-01 01:03:53+00:00 | 0 | 0 | | 0 |
+| nice0e3/Cas_Exploit | Cas反序列化漏洞利用工具，可回显 | https://github.com/nice0e3/Cas_Exploit | ['exploit'] | 1 | 2021-06-01 06:32:43+00:00 | 5 | 20 | | 3 |
+| epinna/tplmap | Server-Side Template Injection and Code Injection Detection and Exploitation Tool | https://github.com/epinna/tplmap | ['exploit'] | 1 | 2021-06-01 21:56:55+00:00 | 647 | 2425 | Python | 513 |
+| ananth-she11z/AutoSQL | A tool to enumerate and exploit SQL Servers in AD | https://github.com/ananth-she11z/AutoSQL | ['exploit'] | 1 | 2021-06-01 21:10:11+00:00 | 32 | 3 | C# | 1 |
+| finiteautomata/contrastes | Code of "Exploiting user-frequency information for mining regionalisms from Social Media texts". Búsqueda de regionalismos argentinos en Twitter | https://github.com/finiteautomata/contrastes | ['exploit'] | 1 | 2021-06-01 21:43:22+00:00 | 44529 | 0 | Jupyter Notebook | 0 |
+| adamyordan/offbyslash-django-dumper | A proof of concept to dump Django website's source code affected by NGINX's off-by-slash alias directive misconfiguration. | https://github.com/adamyordan/offbyslash-django-dumper | ['exploit', 'vulnerability poc'] | 2 | 2021-06-01 23:04:15+00:00 | 6349 | 21 | Python | 3 |
+| JLDevOps/ORLFTExploit | Exploit script to constantly get free access to O'Reilly Learning material via their Free Trial Page - https://learning.oreilly.com/register/ | https://github.com/JLDevOps/ORLFTExploit | ['exploit'] | 1 | 2021-06-01 23:12:33+00:00 | 10 | 1 | Python | 0 |
+| theLSA/discuz-ml-rce | discuz ml rce | https://github.com/theLSA/discuz-ml-rce | ['rce'] | 1 | 2021-06-01 23:58:17+00:00 | 701 | 52 | Python | 24 |
+| onSec-fr/CVE-2020-0688-Scanner | Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method. | https://github.com/onSec-fr/CVE-2020-0688-Scanner | ['cve-2'] | 1 | 2021-06-01 07:36:53+00:00 | 2656 | 36 | C# | 13 |
+| ahmed344/AI-based-detection-of-T-cell-features | Protein-patterning has emerged as a powerful tool to interrogate adherent cells . Yet, there are no standard tools of fabrication, or analysis of the response of the cell to a spatially pe- riodic stimulus. We propose a technique combining electron-beam li | https://github.com/ahmed344/AI-based-detection-of-T-cell-features | ['exploit'] | 1 | 2021-06-01 15:59:10+00:00 | 5428 | 0 | Jupyter Notebook | 0 |
+| anikaush/SecurityTesting | Security testing of an inventory management website (e-commerce demo website) for cross-site scripting vulnerabilities, exploitation and its fixes. | https://github.com/anikaush/SecurityTesting | ['exploit'] | 1 | 2021-06-01 15:15:34+00:00 | 916 | 0 | Java | 0 |
+| sigmap666/NaturalExploiters | scripts to reproduce analysis | https://github.com/sigmap666/NaturalExploiters | ['exploit'] | 1 | 2021-06-01 13:49:04+00:00 | 2901 | 0 | R | 0 |
+| Raycodex/Exploiting | None | https://github.com/Raycodex/Exploiting | ['exploit'] | 1 | 2021-06-01 21:45:12+00:00 | 875 | 1 | | 2 |
+| prosysscience/Symmetry_Breaking_with_ILP | Exploit ILP to learn symmetry breaking constraints of ASP programs. | https://github.com/prosysscience/Symmetry_Breaking_with_ILP | ['exploit'] | 1 | 2021-06-01 14:51:08+00:00 | 839 | 0 | C | 0 |
+| Lesking72/ps4 | 7.02 Exploit Menu | https://github.com/Lesking72/ps4 | ['exploit'] | 1 | 2021-06-01 04:09:29+00:00 | 3140 | 0 | JavaScript | 0 |
+| speediegamer/revolutionarchive | The ultimate archive of Wii homebrew! | https://github.com/speediegamer/revolutionarchive | ['exploit'] | 1 | 2021-06-01 16:43:45+00:00 | 536627 | 0 | | 0 |
+| rek292/pybackdoor | with this tool you can inject a metasploit payload of any python program | https://github.com/rek292/pybackdoor | ['metasploit module OR metasploit payload'] | 1 | 2021-06-01 15:45:09+00:00 | 33 | 0 | Shell | 0 |
+| pberba/CVE-2020-11978 | PoC of how to exploit a RCE vulnerability of the example DAGs in Apache Airflow <1.10.11 | https://github.com/pberba/CVE-2020-11978 | ['cve poc', 'cve-2', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 6 | 2021-06-01 18:17:15+00:00 | 9 | 4 | Python | 1 |
+| un4ckn0wl3z/cpp_exploit_bin | Cpp code for exploit PE. | https://github.com/un4ckn0wl3z/cpp_exploit_bin | ['exploit'] | 1 | 2021-06-01 14:20:48+00:00 | 150070 | 1 | C++ | 0 |
+| Vicc2008/firehose_condor | EDL exploit for Motorola Moto E 2014 | https://github.com/Vicc2008/firehose_condor | ['exploit'] | 1 | 2021-06-01 22:52:09+00:00 | 0 | 0 | | 0 |
