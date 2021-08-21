@@ -1,25 +1,27 @@
 
 # Summary for results/2021/08/21
     
-54 records found after deduplication
+58 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
-|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|--------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-21 05:06:40+00:00 | 209794 | 6363 | C | 1774 |
-| prem-coder/go_get_rce | None | https://github.com/prem-coder/go_get_rce | ['rce'] | 1 | 2021-08-21 01:13:50+00:00 | 0 | 0 | Go | 0 |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR metasploit payload'] | 1 | 2021-08-21 17:44:41+00:00 | 3170 | 2448 | PowerShell | 703 |
+| doudoudedi/main-DIR-816_A1_Command-injection | command injection | https://github.com/doudoudedi/main-DIR-816_A1_Command-injection | ['command injection'] | 1 | 2021-08-21 00:17:14+00:00 | 0 | 0 | nan | 0 |
 | patricknakayama/Red_vs_Blue_Team | Configured Kibana alerts in Elasticsearch Watcher to monitor WordPress installation, identified exposed ports and services and exploited vulnerable web server to obtain credentials from MySQL DB and gain user shell, performed network forensic analysis on m | https://github.com/patricknakayama/Red_vs_Blue_Team | ['exploit'] | 1 | 2021-08-21 01:20:25+00:00 | 15823 | 0 | | 0 |
+| tanc7/OSED-Notes | Notes for the Offensive Security Windows User Mode Exploit Development Class | https://github.com/tanc7/OSED-Notes | ['exploit'] | 1 | 2021-08-21 18:33:06+00:00 | 1 | 0 | HTML | 0 |
 | rcerc/rcerc.github.io | None | https://github.com/rcerc/rcerc.github.io | ['rce'] | 1 | 2021-08-21 01:55:06+00:00 | 864 | 0 | HTML | 0 |
 | snifuh/SkyCrack | SkyCrack is a windows based batch program that contains several "tools" for exploiting. | https://github.com/snifuh/SkyCrack | ['exploit'] | 1 | 2021-08-21 14:39:20+00:00 | 397 | 0 | | 0 |
 | hupe1980/gopwn | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | ['exploit'] | 1 | 2021-08-21 09:49:32+00:00 | 149 | 0 | Go | 0 |
+| F0rce/preview.f0rce.de | Source code for preview applications at https://preview.f0rce.de | https://github.com/F0rce/preview.f0rce.de | ['rce'] | 1 | 2021-08-21 18:07:39+00:00 | 231 | 0 | JavaScript | 0 |
 | JayaByu/exploit-dev | None | https://github.com/JayaByu/exploit-dev | ['exploit'] | 1 | 2021-08-21 17:18:57+00:00 | 2 | 0 | | 0 |
 | prem-coder/exploit_host | This repo is for host the exploits | https://github.com/prem-coder/exploit_host | ['exploit'] | 1 | 2021-08-21 00:30:44+00:00 | 11 | 0 | HTML | 0 |
 | albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. About the CCF B (ICSOC) paper :Improving Multi-hop Embedded Knowledge Graph Question Answering by Introducing Relational Chain Reasoning | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-08-21 09:10:23+00:00 | 13 | 0 | Python | 0 |
 | bernardofsr/CVEs-With-PoC | CVE's found during research by me | https://github.com/bernardofsr/CVEs-With-PoC | ['cve poc'] | 1 | 2021-08-21 15:07:49+00:00 | 726 | 0 | | 0 |
 | boku7/whereami | Cobalt Strike Beacon Object File (BOF) that uses handwritten shellcode to return the process Environment strings without touching any DLL's. | https://github.com/boku7/whereami | ['shellcode'] | 1 | 2021-08-21 15:08:30+00:00 | 587 | 39 | C | 7 |
 | doudoudedi/main-DIR-816_A2_Command-injection | this is router_Command injection | https://github.com/doudoudedi/main-DIR-816_A2_Command-injection | ['command injection'] | 1 | 2021-08-21 01:00:19+00:00 | 2855 | 0 | nan | 0 |
-| doudoudedi/main-DIR-816_A1_Command-injection | command injection | https://github.com/doudoudedi/main-DIR-816_A1_Command-injection | ['command injection'] | 1 | 2021-08-21 00:17:14+00:00 | 0 | 0 | nan | 0 |
+| prem-coder/go_get_rce | None | https://github.com/prem-coder/go_get_rce | ['rce'] | 1 | 2021-08-21 01:13:50+00:00 | 0 | 0 | Go | 0 |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-21 05:06:40+00:00 | 209794 | 6363 | C | 1774 |
 | M4rcell/m4rcell | this is my personal repo for Readme | https://github.com/M4rcell/m4rcell | ['rce'] | 1 | 2021-08-21 02:17:59+00:00 | 0 | 0 | | 0 |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-21 00:04:59+00:00 | 1534754 | 1492 | Python | 514 |
 | soyTnice/exploit | is a expliot text | https://github.com/soyTnice/exploit | ['exploit'] | 1 | 2021-08-21 02:33:29+00:00 | 0 | 0 | | 0 |
 | immeghana/data-exploitation-on-IMDB-movies-dataset | data exploitation techniques applied on IMDB movie dataset. | https://github.com/immeghana/data-exploitation-on-IMDB-movies-dataset | ['exploit'] | 1 | 2021-08-21 03:17:28+00:00 | 0 | 0 | Jupyter Notebook | 0 |
 | craft-w/Exploits | None | https://github.com/craft-w/Exploits | ['exploit'] | 1 | 2021-08-21 03:40:15+00:00 | 0 | 0 | | 0 |
@@ -35,6 +37,8 @@
 | ExtonHoward/Raven_Security_project | Penetration test and exploitation of multiple web servers at Raven Security | https://github.com/ExtonHoward/Raven_Security_project | ['exploit'] | 1 | 2021-08-21 00:06:28+00:00 | 1575 | 0 | Shell | 0 |
 | AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-21 00:47:52+00:00 | 37 | 0 | Haskell | 0 |
 | ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2021-08-21 14:27:57+00:00 | 17 | 5 | | 0 |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-21 00:04:59+00:00 | 1534754 | 1492 | Python | 514 |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-08-21 18:32:03+00:00 | 5442 | 3833 | Python | 528 |
 | mzet-/linux-exploit-suggester | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | ['exploit'] | 1 | 2021-08-21 00:44:15+00:00 | 544 | 2825 | Shell | 732 |
 | kangarko/Confiscate | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | ['exploit'] | 1 | 2021-08-21 17:24:47+00:00 | 79 | 27 | Java | 7 |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-08-21 12:35:03+00:00 | 70928 | 9897 | Python | 1653 |
