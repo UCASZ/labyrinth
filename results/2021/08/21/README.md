@@ -1,7 +1,7 @@
 
 # Summary for results/2021/08/21
     
-61 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|
@@ -34,15 +34,18 @@
 | TrishellaStone/Red-vs-Blue-Project | Attacking and exploiting a victim machine. Walk through of steps and how to mitigate against the attacks. | https://github.com/TrishellaStone/Red-vs-Blue-Project | ['exploit'] | 1 | 2021-08-21 16:17:20+00:00 | 0 | 0 | | 0 |
 | MrHeadlesCreator/Loader | Featured to Roblox Exploiters. | https://github.com/MrHeadlesCreator/Loader | ['exploit'] | 1 | 2021-08-21 17:12:47+00:00 | 0 | 0 | | 0 |
 | VeralYT/Wolf_X_Exploit | None | https://github.com/VeralYT/Wolf_X_Exploit | ['exploit'] | 1 | 2021-08-21 19:02:41+00:00 | 0 | 0 | | 0 |
+| Dani44151/ParadoxExploit | None | https://github.com/Dani44151/ParadoxExploit | ['exploit'] | 1 | 2021-08-21 19:18:17+00:00 | 0 | 0 | | 0 |
+| BlindEye-Softworks/IEFO-Exploit-Payload-Sample | An in-depth look at a malicious payload for Microsoft Security Intelligence. | https://github.com/BlindEye-Softworks/IEFO-Exploit-Payload-Sample | ['exploit'] | 1 | 2021-08-21 20:16:45+00:00 | 0 | 0 | C# | 0 |
 | patricknakayama/Red_vs_Blue_Team | Configured Kibana alerts in Elasticsearch Watcher to monitor WordPress installation, identified exposed ports and services and exploited vulnerable web server to obtain credentials from MySQL DB and gain user shell, performed network forensic analysis on m | https://github.com/patricknakayama/Red_vs_Blue_Team | ['exploit'] | 1 | 2021-08-21 01:20:25+00:00 | 15823 | 0 | | 0 |
-| ExtonHoward/Raven_Security_project | Penetration test and exploitation of multiple web servers at Raven Security | https://github.com/ExtonHoward/Raven_Security_project | ['exploit'] | 1 | 2021-08-21 00:06:28+00:00 | 1575 | 0 | Shell | 0 |
+| nxenon/c2x-http | C2X-HTTP - C2/Post-Exploitation Tool For Red Teaming and Ethical Hacking [on HTTP(S)] | https://github.com/nxenon/c2x-http | ['exploit'] | 1 | 2021-08-21 20:05:00+00:00 | 822 | 0 | Python | 0 |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-21 05:06:40+00:00 | 209794 | 6363 | C | 1774 |
-| AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-21 00:47:52+00:00 | 37 | 0 | Haskell | 0 |
+| ExtonHoward/Raven_Security_project | Penetration test and exploitation of multiple web servers at Raven Security | https://github.com/ExtonHoward/Raven_Security_project | ['exploit'] | 1 | 2021-08-21 00:06:28+00:00 | 1575 | 0 | Shell | 0 |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-21 00:04:59+00:00 | 1534754 | 1492 | Python | 514 |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-08-21 18:32:03+00:00 | 5442 | 3833 | Python | 528 |
 | mzet-/linux-exploit-suggester | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | ['exploit'] | 1 | 2021-08-21 00:44:15+00:00 | 544 | 2825 | Shell | 732 |
 | kangarko/Confiscate | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | ['exploit'] | 1 | 2021-08-21 17:24:47+00:00 | 79 | 27 | Java | 7 |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-08-21 12:35:03+00:00 | 70928 | 9897 | Python | 1653 |
+| reg1reg1/Exploits | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | ['exploit'] | 1 | 2021-08-21 19:38:16+00:00 | 2508 | 1 | Python | 1 |
 | infosecn1nja/AD-Attack-Defense | Attack and defend active directory using modern post exploitation adversary tradecraft activity | https://github.com/infosecn1nja/AD-Attack-Defense | ['exploit'] | 1 | 2021-08-21 08:33:30+00:00 | 357 | 2934 | | 761 |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-21 04:09:23+00:00 | 35678 | 5681 | Vue | 1185 |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2021-08-21 02:44:29+00:00 | 983 | 6 | C | 2 |
@@ -65,4 +68,5 @@
 | Lojacops/Buffer-Overflow-Exploit | Simple exploit for the buffer overflow in ruby | https://github.com/Lojacops/Buffer-Overflow-Exploit | ['exploit'] | 1 | 2021-08-21 08:42:26+00:00 | 5 | 2 | Ruby | 0 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-21 15:24:42+00:00 | 5363 | 2 | Python | 0 |
 | ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2021-08-21 14:27:57+00:00 | 17 | 5 | | 0 |
-| Dani44151/ParadoxExploit | None | https://github.com/Dani44151/ParadoxExploit | ['exploit'] | 1 | 2021-08-21 19:18:17+00:00 | 0 | 0 | | 0 |
+| AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-21 00:47:52+00:00 | 37 | 0 | Haskell | 0 |
+| hacker-ali-17/metaSploit-master | None | https://github.com/hacker-ali-17/metaSploit-master | ['sploit'] | 1 | 2021-08-21 20:29:17+00:00 | 0 | 0 | | 0 |
