@@ -1,13 +1,12 @@
 
 # Summary for results/2021/08/21
     
-58 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR metasploit payload'] | 1 | 2021-08-21 17:44:41+00:00 | 3170 | 2448 | PowerShell | 703 |
-| doudoudedi/main-DIR-816_A1_Command-injection | command injection | https://github.com/doudoudedi/main-DIR-816_A1_Command-injection | ['command injection'] | 1 | 2021-08-21 00:17:14+00:00 | 0 | 0 | nan | 0 |
-| patricknakayama/Red_vs_Blue_Team | Configured Kibana alerts in Elasticsearch Watcher to monitor WordPress installation, identified exposed ports and services and exploited vulnerable web server to obtain credentials from MySQL DB and gain user shell, performed network forensic analysis on m | https://github.com/patricknakayama/Red_vs_Blue_Team | ['exploit'] | 1 | 2021-08-21 01:20:25+00:00 | 15823 | 0 | | 0 |
+| SMOLKEYS/cursed-turrets-js | Me exploiting my js knowledge to create hell | https://github.com/SMOLKEYS/cursed-turrets-js | ['exploit'] | 1 | 2021-08-21 16:56:29+00:00 | 0 | 0 | | 0 |
 | tanc7/OSED-Notes | Notes for the Offensive Security Windows User Mode Exploit Development Class | https://github.com/tanc7/OSED-Notes | ['exploit'] | 1 | 2021-08-21 18:33:06+00:00 | 1 | 0 | HTML | 0 |
 | rcerc/rcerc.github.io | None | https://github.com/rcerc/rcerc.github.io | ['rce'] | 1 | 2021-08-21 01:55:06+00:00 | 864 | 0 | HTML | 0 |
 | snifuh/SkyCrack | SkyCrack is a windows based batch program that contains several "tools" for exploiting. | https://github.com/snifuh/SkyCrack | ['exploit'] | 1 | 2021-08-21 14:39:20+00:00 | 397 | 0 | | 0 |
@@ -19,8 +18,8 @@
 | bernardofsr/CVEs-With-PoC | CVE's found during research by me | https://github.com/bernardofsr/CVEs-With-PoC | ['cve poc'] | 1 | 2021-08-21 15:07:49+00:00 | 726 | 0 | | 0 |
 | boku7/whereami | Cobalt Strike Beacon Object File (BOF) that uses handwritten shellcode to return the process Environment strings without touching any DLL's. | https://github.com/boku7/whereami | ['shellcode'] | 1 | 2021-08-21 15:08:30+00:00 | 587 | 39 | C | 7 |
 | doudoudedi/main-DIR-816_A2_Command-injection | this is router_Command injection | https://github.com/doudoudedi/main-DIR-816_A2_Command-injection | ['command injection'] | 1 | 2021-08-21 01:00:19+00:00 | 2855 | 0 | nan | 0 |
+| doudoudedi/main-DIR-816_A1_Command-injection | command injection | https://github.com/doudoudedi/main-DIR-816_A1_Command-injection | ['command injection'] | 1 | 2021-08-21 00:17:14+00:00 | 0 | 0 | nan | 0 |
 | prem-coder/go_get_rce | None | https://github.com/prem-coder/go_get_rce | ['rce'] | 1 | 2021-08-21 01:13:50+00:00 | 0 | 0 | Go | 0 |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-21 05:06:40+00:00 | 209794 | 6363 | C | 1774 |
 | M4rcell/m4rcell | this is my personal repo for Readme | https://github.com/M4rcell/m4rcell | ['rce'] | 1 | 2021-08-21 02:17:59+00:00 | 0 | 0 | | 0 |
 | soyTnice/exploit | is a expliot text | https://github.com/soyTnice/exploit | ['exploit'] | 1 | 2021-08-21 02:33:29+00:00 | 0 | 0 | | 0 |
 | immeghana/data-exploitation-on-IMDB-movies-dataset | data exploitation techniques applied on IMDB movie dataset. | https://github.com/immeghana/data-exploitation-on-IMDB-movies-dataset | ['exploit'] | 1 | 2021-08-21 03:17:28+00:00 | 0 | 0 | Jupyter Notebook | 0 |
@@ -33,10 +32,12 @@
 | lulzash/cbc-mac | Exploit authentication of a web application which is based on CBC-MAC | https://github.com/lulzash/cbc-mac | ['exploit'] | 1 | 2021-08-21 15:21:24+00:00 | 0 | 0 | Ruby | 0 |
 | N0el4kLs/Mylibrary | This rep is mainly used to record and collect some articles that i've encountered in the learning process.The content includes but is not limited to CTF,Vulnerability recurrence,Vulnerability exploitation. | https://github.com/N0el4kLs/Mylibrary | ['exploit'] | 1 | 2021-08-21 15:30:32+00:00 | 0 | 0 | | 0 |
 | TrishellaStone/Red-vs-Blue-Project | Attacking and exploiting a victim machine. Walk through of steps and how to mitigate against the attacks. | https://github.com/TrishellaStone/Red-vs-Blue-Project | ['exploit'] | 1 | 2021-08-21 16:17:20+00:00 | 0 | 0 | | 0 |
-| SMOLKEYS/cursed-turrets-js | Me exploiting my js knowledge to create hell | https://github.com/SMOLKEYS/cursed-turrets-js | ['exploit'] | 1 | 2021-08-21 16:56:29+00:00 | 0 | 0 | | 0 |
+| MrHeadlesCreator/Loader | Featured to Roblox Exploiters. | https://github.com/MrHeadlesCreator/Loader | ['exploit'] | 1 | 2021-08-21 17:12:47+00:00 | 0 | 0 | | 0 |
+| VeralYT/Wolf_X_Exploit | None | https://github.com/VeralYT/Wolf_X_Exploit | ['exploit'] | 1 | 2021-08-21 19:02:41+00:00 | 0 | 0 | | 0 |
+| patricknakayama/Red_vs_Blue_Team | Configured Kibana alerts in Elasticsearch Watcher to monitor WordPress installation, identified exposed ports and services and exploited vulnerable web server to obtain credentials from MySQL DB and gain user shell, performed network forensic analysis on m | https://github.com/patricknakayama/Red_vs_Blue_Team | ['exploit'] | 1 | 2021-08-21 01:20:25+00:00 | 15823 | 0 | | 0 |
 | ExtonHoward/Raven_Security_project | Penetration test and exploitation of multiple web servers at Raven Security | https://github.com/ExtonHoward/Raven_Security_project | ['exploit'] | 1 | 2021-08-21 00:06:28+00:00 | 1575 | 0 | Shell | 0 |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-21 05:06:40+00:00 | 209794 | 6363 | C | 1774 |
 | AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-21 00:47:52+00:00 | 37 | 0 | Haskell | 0 |
-| ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2021-08-21 14:27:57+00:00 | 17 | 5 | | 0 |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-21 00:04:59+00:00 | 1534754 | 1492 | Python | 514 |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-08-21 18:32:03+00:00 | 5442 | 3833 | Python | 528 |
 | mzet-/linux-exploit-suggester | Linux privilege escalation auditing tool | https://github.com/mzet-/linux-exploit-suggester | ['exploit'] | 1 | 2021-08-21 00:44:15+00:00 | 544 | 2825 | Shell | 732 |
@@ -46,6 +47,7 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-21 04:09:23+00:00 | 35678 | 5681 | Vue | 1185 |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2021-08-21 02:44:29+00:00 | 983 | 6 | C | 2 |
 | bsauce/CTF | Something about CTF and vulnerability environment, mainly about kernel exploit. | https://github.com/bsauce/CTF | ['exploit'] | 1 | 2021-08-21 06:24:38+00:00 | 64682 | 22 | C | 5 |
+| 2lstudios-mc/ExploitFixer | Bukkit plugin that aims on fixing Exploits in your Minecraft network. [Requires HamsterAPI to work] | https://github.com/2lstudios-mc/ExploitFixer | ['exploit'] | 1 | 2021-08-21 19:14:38+00:00 | 512 | 109 | Java | 31 |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-08-21 09:51:53+00:00 | 1016 | 207 | Rust | 12 |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-21 00:52:20+00:00 | 17374 | 21 | | 13 |
 | RETIREglitch/Pokemon-Research | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | ['exploit'] | 1 | 2021-08-21 06:51:35+00:00 | 24503 | 4 | Lua | 2 |
@@ -62,4 +64,5 @@
 | zLynnx06/ExploitsConsoleDiscord | Discord console codes that can be fun (: | https://github.com/zLynnx06/ExploitsConsoleDiscord | ['exploit'] | 1 | 2021-08-21 09:54:52+00:00 | 6 | 1 | HTML | 0 |
 | Lojacops/Buffer-Overflow-Exploit | Simple exploit for the buffer overflow in ruby | https://github.com/Lojacops/Buffer-Overflow-Exploit | ['exploit'] | 1 | 2021-08-21 08:42:26+00:00 | 5 | 2 | Ruby | 0 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-21 15:24:42+00:00 | 5363 | 2 | Python | 0 |
-| MrHeadlesCreator/Loader | Featured to Roblox Exploiters. | https://github.com/MrHeadlesCreator/Loader | ['exploit'] | 1 | 2021-08-21 17:12:47+00:00 | 0 | 0 | | 0 |
+| ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2021-08-21 14:27:57+00:00 | 17 | 5 | | 0 |
+| Dani44151/ParadoxExploit | None | https://github.com/Dani44151/ParadoxExploit | ['exploit'] | 1 | 2021-08-21 19:18:17+00:00 | 0 | 0 | | 0 |
