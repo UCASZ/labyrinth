@@ -1,10 +1,11 @@
 
 # Summary for results/2021/08/21
     
-13 records found after deduplication
+15 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
+| oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2021-08-21 02:44:29+00:00 | 983 | 6 | C | 2 |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-21 00:52:20+00:00 | 17374 | 21 | | 13 |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-21 00:03:18+00:00 | 388463 | 29 | | 15 |
 | damianbrowne/ECS4TIME | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | ['exploit'] | 1 | 2021-08-21 00:29:49+00:00 | 14053 | 0 | Python | 0 |
@@ -18,3 +19,4 @@
 | prem-coder/go_get_rce | None | https://github.com/prem-coder/go_get_rce | ['rce'] | 1 | 2021-08-21 01:13:50+00:00 | 0 | 0 | Go | 0 |
 | M4rcell/m4rcell | this is my personal repo for Readme | https://github.com/M4rcell/m4rcell | ['rce'] | 1 | 2021-08-21 02:17:59+00:00 | 0 | 0 | | 0 |
 | soyTnice/exploit | is a expliot text | https://github.com/soyTnice/exploit | ['exploit'] | 1 | 2021-08-21 02:33:29+00:00 | 0 | 0 | | 0 |
+| immeghana/data-exploitation-on-IMDB-movies-dataset | data exploitation techniques applied on IMDB movie dataset. | https://github.com/immeghana/data-exploitation-on-IMDB-movies-dataset | ['exploit'] | 1 | 2021-08-21 03:17:28+00:00 | 0 | 0 | Jupyter Notebook | 0 |
