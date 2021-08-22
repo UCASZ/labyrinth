@@ -1,12 +1,14 @@
 
 # Summary for results/2021/08/22
     
-61 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-08-22 12:33:27+00:00 | 7455 | 3886 | Python | 560 |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR metasploit payload'] | 1 | 2021-08-22 16:16:54+00:00 | 3171 | 2451 | PowerShell | 703 |
+| git3345678git/0day-security-software-vulnerability-analysis-technology | nan | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-22 04:53:58+00:00 | 105 | 0 | nan | 0 |
 | thallard/snow-crash | 42 _ Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | ['exploit'] | 1 | 2021-08-22 13:02:43+00:00 | 4 | 0 | | 0 |
+| hupe1980/gopwn | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | ['exploit'] | 1 | 2021-08-22 08:44:26+00:00 | 163 | 0 | Go | 0 |
 | Udyz/proxyshell-auto | Automatic ProxyShell Exploit | https://github.com/Udyz/proxyshell-auto | ['exploit'] | 1 | 2021-08-22 10:25:33+00:00 | 88 | 33 | Python | 10 |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-08-22 14:01:08+00:00 | 10 | 0 | | 0 |
 | aesth1/WiiUBrowserExploit | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-08-22 07:14:09+00:00 | 33 | 0 | HTML | 0 |
@@ -32,15 +34,17 @@
 | Kote324/Discord-Exploit-Utils | None | https://github.com/Kote324/Discord-Exploit-Utils | ['exploit'] | 1 | 2021-08-22 10:40:52+00:00 | 0 | 0 | | 0 |
 | Pen-Test3rs/binary_exploits_examples_public | None | https://github.com/Pen-Test3rs/binary_exploits_examples_public | ['exploit'] | 1 | 2021-08-22 11:24:20+00:00 | 0 | 0 | C | 0 |
 | Pen-Test3rs/binary_exploits_examples_public | None | https://github.com/Pen-Test3rs/binary_exploits_examples_public | ['exploit'] | 1 | 2021-08-22 13:25:57+00:00 | 0 | 0 | C | 0 |
-| bhavinipa/Metasploit_Payload_generator | nan | https://github.com/bhavinipa/Metasploit_Payload_generator | ['metasploit module OR metasploit payload'] | 1 | 2021-08-22 14:04:47+00:00 | 0 | 0 | Shell | 0 |
+| bhavinipa/Metasploit_Payload_generator | None | https://github.com/bhavinipa/Metasploit_Payload_generator | ['metasploit module OR metasploit payload'] | 1 | 2021-08-22 14:04:47+00:00 | 0 | 0 | Shell | 0 |
 | xmzyshypnc/CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | ['cve-2'] | 1 | 2021-08-22 14:15:23+00:00 | 0 | 0 | nan | 0 |
-| hupe1980/gopwn | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | ['exploit'] | 1 | 2021-08-22 08:44:26+00:00 | 163 | 0 | Go | 0 |
 | SMOLKEYS/cursed-turrets-js | Me exploiting my js knowledge to create hell | https://github.com/SMOLKEYS/cursed-turrets-js | ['exploit'] | 1 | 2021-08-22 11:26:25+00:00 | 1 | 0 | JavaScript | 0 |
+| Buzz2d0/0xpe | pe -> shellcode -> shellcodeLoader | https://github.com/Buzz2d0/0xpe | ['shellcode'] | 1 | 2021-08-22 11:09:44+00:00 | 48 | 8 | Go | 2 |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-08-22 12:33:27+00:00 | 7455 | 3886 | Python | 560 |
+| TheCrazzXz/Webexploits-Lab | Similar to the other binary exploitation exploits lab, but this time for web, exploiting with python ! | https://github.com/TheCrazzXz/Webexploits-Lab | ['exploit'] | 1 | 2021-08-22 00:45:54+00:00 | 24 | 0 | Python | 0 |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-22 00:05:00+00:00 | 1534754 | 1492 | Python | 514 |
-| git3345678git/0day-security-software-vulnerability-analysis-technology | nan | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-22 04:53:58+00:00 | 105 | 0 | nan | 0 |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-08-22 00:40:38+00:00 | 5451 | 3833 | Python | 528 |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-08-22 01:40:36+00:00 | 69694 | 9900 | Python | 1653 |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-08-22 11:35:33+00:00 | 290597 | 76 | Python | 13 |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-22 16:31:08+00:00 | 35678 | 5683 | Vue | 1186 |
 | bsauce/CTF | Something about CTF and vulnerability environment, mainly about kernel exploit. | https://github.com/bsauce/CTF | ['exploit'] | 1 | 2021-08-22 06:04:49+00:00 | 74461 | 22 | C | 5 |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-08-22 03:30:26+00:00 | 1184738 | 3341 | PowerShell | 1168 |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-22 00:52:21+00:00 | 17757 | 21 | | 13 |
@@ -57,12 +61,12 @@
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2021-08-22 11:58:11+00:00 | 64033 | 34 | | 2 |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-08-22 04:00:36+00:00 | 52634 | 106 | Python | 26 |
 | giovannyortegon/Shellcoders | None | https://github.com/giovannyortegon/Shellcoders | ['shellcode'] | 1 | 2021-08-22 05:20:47+00:00 | 33 | 0 | C | 0 |
+| grcai/AEP-algorithm | Codes and data for "Adaptive Exploration Policy for Exploration-Exploitation Tradeoff in Continuous Action Control Optimization". | https://github.com/grcai/AEP-algorithm | ['exploit'] | 1 | 2021-08-22 16:11:04+00:00 | 5 | 0 | Python | 1 |
 | Night-King-Host/Night-King-Host.github.io | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | ['exploit'] | 1 | 2021-08-22 02:03:48+00:00 | 2014 | 4 | HTML | 2 |
 | Night-King-Host/755Auto | Night King 7.55FW Host Exploit With Mixed Auto mode PRB-Borg and DarkmodderVC | https://github.com/Night-King-Host/755Auto | ['exploit'] | 1 | 2021-08-22 02:36:38+00:00 | 6102 | 0 | JavaScript | 0 |
 | EtcAug10/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | ['exploit'] | 1 | 2021-08-22 07:39:01+00:00 | 186 | 4 | Python | 3 |
 | thelikes/LikesEncryptor | Bin Encryptor | https://github.com/thelikes/LikesEncryptor | ['shellcode'] | 1 | 2021-08-22 10:27:27+00:00 | 109 | 1 | C# | 3 |
+| kleiton0x00/ppmap | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | ['exploit'] | 1 | 2021-08-22 15:41:39+00:00 | 34 | 167 | Go | 20 |
 | DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-08-22 14:16:41+00:00 | 2695 | 5 | Java | 0 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-22 04:29:23+00:00 | 5389 | 2 | Python | 0 |
-| TheCrazzXz/Webexploits-Lab | Similar to the other binary exploitation exploits lab, but this time for web, exploiting with python ! | https://github.com/TheCrazzXz/Webexploits-Lab | ['exploit'] | 1 | 2021-08-22 00:45:54+00:00 | 24 | 0 | Python | 0 |
-| Buzz2d0/0xpe | pe -> shellcode -> shellcodeLoader | https://github.com/Buzz2d0/0xpe | ['shellcode'] | 1 | 2021-08-22 11:09:44+00:00 | 48 | 8 | Go | 2 |
 | TamilHackz/exploit.py | None | https://github.com/TamilHackz/exploit.py | ['exploit'] | 1 | 2021-08-22 14:29:27+00:00 | 0 | 0 | Python | 0 |
