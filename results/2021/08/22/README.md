@@ -1,12 +1,12 @@
 
 # Summary for results/2021/08/22
     
-60 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-08-22 12:33:27+00:00 | 7455 | 3886 | Python | 560 |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-22 00:05:00+00:00 | 1534754 | 1492 | Python | 514 |
+| thallard/snow-crash | 42 _ Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | ['exploit'] | 1 | 2021-08-22 13:02:43+00:00 | 4 | 0 | | 0 |
 | Udyz/proxyshell-auto | Automatic ProxyShell Exploit | https://github.com/Udyz/proxyshell-auto | ['exploit'] | 1 | 2021-08-22 10:25:33+00:00 | 88 | 33 | Python | 10 |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-08-22 14:01:08+00:00 | 10 | 0 | | 0 |
 | aesth1/WiiUBrowserExploit | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-08-22 07:14:09+00:00 | 33 | 0 | HTML | 0 |
@@ -35,9 +35,9 @@
 | bhavinipa/Metasploit_Payload_generator | nan | https://github.com/bhavinipa/Metasploit_Payload_generator | ['metasploit module OR metasploit payload'] | 1 | 2021-08-22 14:04:47+00:00 | 0 | 0 | Shell | 0 |
 | xmzyshypnc/CVE-2021-30551 | my exp for chrome V8 CVE-2021-30551 | https://github.com/xmzyshypnc/CVE-2021-30551 | ['cve-2'] | 1 | 2021-08-22 14:15:23+00:00 | 0 | 0 | nan | 0 |
 | hupe1980/gopwn | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | ['exploit'] | 1 | 2021-08-22 08:44:26+00:00 | 163 | 0 | Go | 0 |
-| thallard/snow-crash | 42 _ Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | ['exploit'] | 1 | 2021-08-22 13:02:43+00:00 | 4 | 0 | | 0 |
 | SMOLKEYS/cursed-turrets-js | Me exploiting my js knowledge to create hell | https://github.com/SMOLKEYS/cursed-turrets-js | ['exploit'] | 1 | 2021-08-22 11:26:25+00:00 | 1 | 0 | JavaScript | 0 |
-| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-08-22 12:47:31+00:00 | 267021 | 606 | | 112 |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-22 00:05:00+00:00 | 1534754 | 1492 | Python | 514 |
+| git3345678git/0day-security-software-vulnerability-analysis-technology | nan | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-22 04:53:58+00:00 | 105 | 0 | nan | 0 |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-08-22 00:40:38+00:00 | 5451 | 3833 | Python | 528 |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-08-22 01:40:36+00:00 | 69694 | 9900 | Python | 1653 |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-08-22 11:35:33+00:00 | 290597 | 76 | Python | 13 |
@@ -48,10 +48,11 @@
 | redtimmy/Richsploit | Exploitation toolkit for RichFaces | https://github.com/redtimmy/Richsploit | ['exploit'] | 1 | 2021-08-22 11:58:36+00:00 | 19511 | 85 | Java | 10 |
 | kurniawandata/exploiteasyfilesharingftp | Exploit remote untuk Easy File Sharing FTP Server pada celah command PASS di Windows | https://github.com/kurniawandata/exploiteasyfilesharingftp | ['exploit'] | 1 | 2021-08-22 09:27:43+00:00 | 5 | 1 | Python | 1 |
 | zhzyker/vulmap | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | ['exploit', 'rce'] | 2 | 2021-08-22 04:34:10+00:00 | 3196 | 1546 | Python | 291 |
+| RETIREglitch/Pokemon-Research | This repository will feature my scripts, research and documentation on Pokémon engines, glitches and exploits. | https://github.com/RETIREglitch/Pokemon-Research | ['exploit'] | 1 | 2021-08-22 15:28:28+00:00 | 24526 | 4 | Lua | 2 |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-22 00:03:11+00:00 | 388781 | 29 | | 15 |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2021-08-22 13:33:01+00:00 | 35730 | 10 | Python | 3 |
+| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-08-22 12:47:31+00:00 | 267021 | 606 | | 112 |
 | Pen-Test3rs/binary_exploits_frontend | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | ['exploit'] | 1 | 2021-08-22 06:52:21+00:00 | 2112 | 0 | TypeScript | 0 |
-| git3345678git/0day-security-software-vulnerability-analysis-technology | nan | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-22 04:53:58+00:00 | 105 | 0 | nan | 0 |
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-08-22 05:59:39+00:00 | 4251 | 40 | HTML | 17 |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2021-08-22 11:58:11+00:00 | 64033 | 34 | | 2 |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-08-22 04:00:36+00:00 | 52634 | 106 | Python | 26 |
