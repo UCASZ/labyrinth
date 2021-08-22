@@ -1,13 +1,14 @@
 
 # Summary for results/2021/08/22
     
-41 records found after deduplication
+46 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-22 00:05:00+00:00 | 1534754 | 1492 | Python | 514 |
-| hupe1980/gopwn | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | ['exploit'] | 1 | 2021-08-22 08:44:26+00:00 | 163 | 0 | Go | 0 |
+| LimeIncOfficial/Jellyfish | AI XSS exploit generation | https://github.com/LimeIncOfficial/Jellyfish | ['exploit'] | 1 | 2021-08-22 04:35:23+00:00 | 0 | 0 | | 0 |
 | aesth1/WiiUBrowserExploit | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-08-22 07:14:09+00:00 | 33 | 0 | HTML | 0 |
+| albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. About the CCF B (ICSOC) paper :Improving Multi-hop Embedded Knowledge Graph Question Answering by Introducing Relational Chain Reasoning | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-08-22 11:18:26+00:00 | 234 | 0 | Python | 0 |
 | BlindEye-Softworks/IFEO-Exploit-Payload-Sample | An in-depth look at a malicious payload using Windows Image File Execution Options (IFEO) as an attack vector for executing Denial of Service (DoS) attacks on system programs. | https://github.com/BlindEye-Softworks/IFEO-Exploit-Payload-Sample | ['exploit'] | 1 | 2021-08-22 09:26:49+00:00 | 7 | 0 | C# | 0 |
 | XolotlExploit/XolotlExploit | Config files for my GitHub profile. | https://github.com/XolotlExploit/XolotlExploit | ['exploit'] | 1 | 2021-08-22 00:16:51+00:00 | 0 | 0 | | 0 |
 | Night-King-Host/702ASG | 7,02 FW Full Auto Mode Exploit (Sleirsgoevy Kernel Exploit) | https://github.com/Night-King-Host/702ASG | ['exploit'] | 1 | 2021-08-22 01:14:46+00:00 | 0 | 0 | | 0 |
@@ -15,8 +16,8 @@
 | rnrmfreak/JWTkid_dirtraversal | this payload is for exploit the jwt token which contain kid a.k.a key id parameter without proper escaping to retrieve the key #bitcoinCTF | https://github.com/rnrmfreak/JWTkid_dirtraversal | ['exploit'] | 1 | 2021-08-22 02:14:21+00:00 | 0 | 0 | Ruby | 0 |
 | docfate111/kernel-hacking | setup and template exploits for hacking kernel drivers | https://github.com/docfate111/kernel-hacking | ['exploit'] | 1 | 2021-08-22 03:19:29+00:00 | 0 | 0 | | 0 |
 | kg1102/GitScanner | GitScanner é um script para facilitar a procura por Git Exposto por meio de uma pesquisa avançada no Google. | https://github.com/kg1102/GitScanner | ['vulnerability poc'] | 1 | 2021-08-22 04:00:58+00:00 | 19 | 0 | Python | 0 |
-| LimeIncOfficial/Jellyfish | AI XSS exploit generation | https://github.com/LimeIncOfficial/Jellyfish | ['exploit'] | 1 | 2021-08-22 04:35:23+00:00 | 0 | 0 | | 0 |
 | iomoath/SharpStrike | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | ['exploit'] | 1 | 2021-08-22 05:25:37+00:00 | 0 | 0 | | 0 |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-08-22 00:40:38+00:00 | 5451 | 3833 | Python | 528 |
 | slyautomation/html5_canvas_extract | This project extracts the canvas data on https://www.osrsmap.net/ and converts each canvas display as an png file. This is done by exploiting html elements on the website and adding javascript parameter functions such as .toDataURL. .toDataURL() method r | https://github.com/slyautomation/html5_canvas_extract | ['exploit'] | 1 | 2021-08-22 06:26:21+00:00 | 0 | 0 | Python | 0 |
 | sploitpayTk/sploitpayTk | Config files for my GitHub profile. | https://github.com/sploitpayTk/sploitpayTk | ['sploit'] | 1 | 2021-08-22 07:03:59+00:00 | 0 | 0 | | 0 |
 | Sanjana998/WebVulnerabilityAnalysis | Traditional vulnerability research methods often require security researchers to have professional knowledge and rich practical experience, which is less versatile and has limited efficiency. At present, the application of Machine learning and natural lan | https://github.com/Sanjana998/WebVulnerabilityAnalysis | ['exploit'] | 1 | 2021-08-22 08:21:37+00:00 | 0 | 0 | Python | 0 |
@@ -24,10 +25,12 @@
 | nmmcon/Exploits | I add my exploits here. | https://github.com/nmmcon/Exploits | ['exploit'] | 1 | 2021-08-22 08:23:29+00:00 | 0 | 0 | Shell | 0 |
 | 2k20/CSGO-sv_cheat-Exploit | allow you using "r_drawothermodels 1" in MM server(The Simplest wallhack hahaha) | https://github.com/2k20/CSGO-sv_cheat-Exploit | ['exploit'] | 1 | 2021-08-22 08:26:41+00:00 | 0 | 0 | C++ | 0 |
 | zerodayz00/zerodayz00 | Config files for my GitHub profile. | https://github.com/zerodayz00/zerodayz00 | ['zeroday'] | 1 | 2021-08-22 08:14:01+00:00 | 0 | 0 | | 0 |
+| ice735/exploit | change when needed | https://github.com/ice735/exploit | ['exploit'] | 1 | 2021-08-22 09:53:41+00:00 | 0 | 0 | | 0 |
+| Kote324/Discord-Exploit-Utils | None | https://github.com/Kote324/Discord-Exploit-Utils | ['exploit'] | 1 | 2021-08-22 10:40:52+00:00 | 0 | 0 | | 0 |
 | Udyz/proxyshell-auto | Automatic ProxyShell Exploit | https://github.com/Udyz/proxyshell-auto | ['exploit'] | 1 | 2021-08-22 10:25:33+00:00 | 88 | 33 | Python | 10 |
+| hupe1980/gopwn | Golang CTF framework and exploit development library | https://github.com/hupe1980/gopwn | ['exploit'] | 1 | 2021-08-22 08:44:26+00:00 | 163 | 0 | Go | 0 |
+| SMOLKEYS/cursed-turrets-js | Me exploiting my js knowledge to create hell | https://github.com/SMOLKEYS/cursed-turrets-js | ['exploit'] | 1 | 2021-08-22 11:26:25+00:00 | 1 | 0 | JavaScript | 0 |
 | git3345678git/0day-security-software-vulnerability-analysis-technology | nan | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-22 04:53:58+00:00 | 105 | 0 | nan | 0 |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-08-22 00:40:38+00:00 | 5451 | 3833 | Python | 528 |
-| TheCrazzXz/Webexploits-Lab | Similar to the other binary exploitation exploits lab, but this time for web, exploiting with python ! | https://github.com/TheCrazzXz/Webexploits-Lab | ['exploit'] | 1 | 2021-08-22 00:45:54+00:00 | 24 | 0 | Python | 0 |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-08-22 01:40:36+00:00 | 69694 | 9900 | Python | 1653 |
 | bsauce/CTF | Something about CTF and vulnerability environment, mainly about kernel exploit. | https://github.com/bsauce/CTF | ['exploit'] | 1 | 2021-08-22 06:04:49+00:00 | 74461 | 22 | C | 5 |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-08-22 03:30:26+00:00 | 1184738 | 3341 | PowerShell | 1168 |
@@ -45,4 +48,6 @@
 | EtcAug10/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | ['exploit'] | 1 | 2021-08-22 07:39:01+00:00 | 186 | 4 | Python | 3 |
 | thelikes/LikesEncryptor | Bin Encryptor | https://github.com/thelikes/LikesEncryptor | ['shellcode'] | 1 | 2021-08-22 10:27:27+00:00 | 109 | 1 | C# | 3 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-22 04:29:23+00:00 | 5389 | 2 | Python | 0 |
-| ice735/exploit | change when needed | https://github.com/ice735/exploit | ['exploit'] | 1 | 2021-08-22 09:53:41+00:00 | 0 | 0 | | 0 |
+| TheCrazzXz/Webexploits-Lab | Similar to the other binary exploitation exploits lab, but this time for web, exploiting with python ! | https://github.com/TheCrazzXz/Webexploits-Lab | ['exploit'] | 1 | 2021-08-22 00:45:54+00:00 | 24 | 0 | Python | 0 |
+| Buzz2d0/0xpe | pe -> shellcode -> shellcodeLoader | https://github.com/Buzz2d0/0xpe | ['shellcode'] | 1 | 2021-08-22 11:09:44+00:00 | 48 | 8 | Go | 2 |
+| Pen-Test3rs/binary_exploits_examples_public | None | https://github.com/Pen-Test3rs/binary_exploits_examples_public | ['exploit'] | 1 | 2021-08-22 11:24:20+00:00 | 0 | 0 | C | 0 |
