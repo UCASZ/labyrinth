@@ -8,7 +8,7 @@ on:
     tags-ignore:
       - simple_driller
     paths:
-      - 'results'
+      - 'results/**'
       
   workflow_dispatch:
 
