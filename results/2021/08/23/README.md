@@ -1,19 +1,21 @@
 
 # Summary for results/2021/08/23
     
-48 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-08-23 02:28:05+00:00 | 27113 | 8171 | Python | 1429 |
 | pratX/asga | Alphanumeric Shellcode Generator for ARM targets | https://github.com/pratX/asga | ['shellcode'] | 1 | 2021-08-23 07:18:05+00:00 | 602 | 6 | C | 2 |
 | Stef-Lan/WP-Super-Cache-1.7.1-RCE | Proof of Concept for the WP Super Cache 1.7.1 WordPress Plugin RCE vulnerability. Credit for finding the bug to @m0ze | https://github.com/Stef-Lan/WP-Super-Cache-1.7.1-RCE | ['rce'] | 1 | 2021-08-23 03:25:29+00:00 | 139 | 2 | Python | 0 |
+| git3345678git/0day-security-software-vulnerability-analysis-technology | None | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-23 11:21:20+00:00 | 109 | 0 | | 0 |
 | PanosAntoniadis/emotion-gcn | Official Code: "Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition" | https://github.com/PanosAntoniadis/emotion-gcn | ['exploit'] | 1 | 2021-08-23 08:40:38+00:00 | 30 | 4 | Python | 0 |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2'] | 1 | 2021-08-23 08:25:10+00:00 | 42 | 0 | Python | 0 |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2'] | 1 | 2021-08-23 08:25:34+00:00 | 14 | 0 | | 0 |
 | C-CCM-TC1028-102-2113/tarea-1-programas-que-realizan-calculos-RCERVANT3S | tarea-1-programas-que-realizan-calculos-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-1-programas-que-realizan-calculos-RCERVANT3S | ['rce'] | 1 | 2021-08-23 00:32:20+00:00 | 64 | 0 | Python | 0 |
 | shangbuhuan13/SO-Pose | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | ['exploit'] | 1 | 2021-08-23 08:13:40+00:00 | 3 | 2 | | 1 |
 | albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. About the CCF B (ICSOC) paper :Improving Multi-hop Embedded Knowledge Graph Question Answering by Introducing Relational Chain Reasoning | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-08-23 08:42:09+00:00 | 250 | 0 | Python | 0 |
+| gaiththewolf/Exploitdb | Exploit-db android app (Not official app) | https://github.com/gaiththewolf/Exploitdb | ['exploit'] | 1 | 2021-08-23 11:26:59+00:00 | 201 | 1 | Kotlin | 0 |
 | doudoudedi/main-DIR-816_A2_Command-injection | this is router_Command injection | https://github.com/doudoudedi/main-DIR-816_A2_Command-injection | ['command injection'] | 1 | 2021-08-23 03:25:38+00:00 | 2858 | 1 | | 0 |
 | doudoudedi/main-DIR-816_A1_Command-injection | command injection | https://github.com/doudoudedi/main-DIR-816_A1_Command-injection | ['command injection'] | 1 | 2021-08-23 03:15:12+00:00 | 1755 | 1 | | 0 |
 | docfate111/kernel-hacking | setup and template exploits for hacking kernel drivers | https://github.com/docfate111/kernel-hacking | ['exploit'] | 1 | 2021-08-23 03:52:03+00:00 | 28652 | 0 | C | 0 |
@@ -41,8 +43,9 @@
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-08-23 07:09:20+00:00 | 2890485 | 2 | Batchfile | 0 |
 | ycdxsb/Exploits | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | ['exploit'] | 1 | 2021-08-23 06:48:34+00:00 | 58559 | 2 | Python | 1 |
 | infosecjunky/FreePBX-2.10.0---Elastix-2.2.0---Remote-Code-Execution | Modified version of the original one for HackTheBox Beep | https://github.com/infosecjunky/FreePBX-2.10.0---Elastix-2.2.0---Remote-Code-Execution | ['remote code execution'] | 1 | 2021-08-23 05:33:06+00:00 | 5 | 0 | Python | 3 |
+| FabioDefilippo/winallenum | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2021-08-23 10:54:13+00:00 | 3227 | 6 | PowerShell | 1 |
 | whichbuffer/WindowsExploitDev | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | ['exploit', 'shellcode'] | 2 | 2021-08-23 07:04:24+00:00 | 5687 | 8 | Python | 1 |
-| bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day'] | 1 | 2021-08-23 01:46:26+00:00 | 6109 | 46 | Python | 11 |
+| prasannan-robots/Dynamic_command | Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | ['exploit'] | 1 | 2021-08-23 11:05:19+00:00 | 19 | 1 | Python | 0 |
 | enkomio/AlanFramework | A post-exploitation framework | https://github.com/enkomio/AlanFramework | ['exploit'] | 1 | 2021-08-23 10:26:08+00:00 | 1821 | 76 | | 14 |
 | Nephael/Nephael-CVE-2019-0708-Exploit | MS CVE 2019-0708 Python Exploit | https://github.com/Nephael/Nephael-CVE-2019-0708-Exploit | ['cve-2', 'exploit'] | 2 | 2021-08-23 03:01:48+00:00 | 2 | 6 | Python | 0 |
 | Nephael/Nephael-CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | ['cve-2'] | 1 | 2021-08-23 02:59:13+00:00 | 0 | 6 | | 0 |
@@ -52,4 +55,5 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-08-23 04:00:35+00:00 | 18607 | 107 | Python | 26 |
 | xinbailu/DripLoader | Evasive shellcode loader for bypassing event-based injection detection (PoC) | https://github.com/xinbailu/DripLoader | ['shellcode'] | 1 | 2021-08-23 00:21:08+00:00 | 382 | 392 | C++ | 64 |
 | damianbrowne/ECS4TIME | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | ['exploit'] | 1 | 2021-08-23 01:32:08+00:00 | 14086 | 0 | Python | 0 |
+| bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day'] | 1 | 2021-08-23 01:46:26+00:00 | 6109 | 46 | Python | 11 |
 | iDongle/NoExploit | POC or EXP | https://github.com/iDongle/NoExploit | ['exploit'] | 1 | 2021-08-23 09:31:44+00:00 | 0 | 0 | | 0 |
