@@ -1,12 +1,12 @@
 
 # Summary for results/2021/08/23
     
-52 records found after deduplication
+55 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
-|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
+|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-08-23 02:28:05+00:00 | 27113 | 8171 | Python | 1429 |
-| pratX/asga | Alphanumeric Shellcode Generator for ARM targets | https://github.com/pratX/asga | ['shellcode'] | 1 | 2021-08-23 07:18:05+00:00 | 602 | 6 | C | 2 |
+| docfate111/kernel-hacking | setup and template exploits for hacking kernel drivers | https://github.com/docfate111/kernel-hacking | ['exploit'] | 1 | 2021-08-23 03:52:03+00:00 | 28652 | 0 | C | 0 |
 | Stef-Lan/WP-Super-Cache-1.7.1-RCE | Proof of Concept for the WP Super Cache 1.7.1 WordPress Plugin RCE vulnerability. Credit for finding the bug to @m0ze | https://github.com/Stef-Lan/WP-Super-Cache-1.7.1-RCE | ['rce'] | 1 | 2021-08-23 03:25:29+00:00 | 139 | 2 | Python | 0 |
 | git3345678git/0day-security-software-vulnerability-analysis-technology | None | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-23 11:21:20+00:00 | 109 | 0 | | 0 |
 | PanosAntoniadis/emotion-gcn | Official Code: "Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition" | https://github.com/PanosAntoniadis/emotion-gcn | ['exploit'] | 1 | 2021-08-23 08:40:38+00:00 | 30 | 4 | Python | 0 |
@@ -18,7 +18,8 @@
 | gaiththewolf/Exploitdb | Exploit-db android app (Not official app) | https://github.com/gaiththewolf/Exploitdb | ['exploit'] | 1 | 2021-08-23 11:26:59+00:00 | 201 | 1 | Kotlin | 0 |
 | doudoudedi/main-DIR-816_A2_Command-injection | this is router_Command injection | https://github.com/doudoudedi/main-DIR-816_A2_Command-injection | ['command injection'] | 1 | 2021-08-23 03:25:38+00:00 | 2858 | 1 | | 0 |
 | doudoudedi/main-DIR-816_A1_Command-injection | command injection | https://github.com/doudoudedi/main-DIR-816_A1_Command-injection | ['command injection'] | 1 | 2021-08-23 03:15:12+00:00 | 1755 | 1 | | 0 |
-| docfate111/kernel-hacking | setup and template exploits for hacking kernel drivers | https://github.com/docfate111/kernel-hacking | ['exploit'] | 1 | 2021-08-23 03:52:03+00:00 | 28652 | 0 | C | 0 |
+| iomoath/SharpStrike | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | ['exploit'] | 1 | 2021-08-23 11:45:19+00:00 | 76004 | 32 | C# | 12 |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-23 00:58:40+00:00 | 5631 | 2 | Python | 0 |
 | choke-dev/easierlua | "making games easier to exploit" | https://github.com/choke-dev/easierlua | ['exploit'] | 1 | 2021-08-23 09:59:59+00:00 | 55 | 2 | Lua | 0 |
 | TamilHackz/exploit.py | None | https://github.com/TamilHackz/exploit.py | ['exploit'] | 1 | 2021-08-23 06:46:13+00:00 | 10 | 0 | Python | 0 |
 | kashif-23/modified-public-exploits | contains exploits that are found publicly and then updated for specific systems or scenarios | https://github.com/kashif-23/modified-public-exploits | ['exploit'] | 1 | 2021-08-23 01:54:51+00:00 | 0 | 0 | Python | 0 |
@@ -31,10 +32,11 @@
 | madhans23/curl-curl-7_64_1_CVE-2019-5482_noPatch | None | https://github.com/madhans23/curl-curl-7_64_1_CVE-2019-5482_noPatch | ['cve-2'] | 1 | 2021-08-23 08:33:29+00:00 | 0 | 0 | | 0 |
 | madhans23/curl-curl-7_64_1_CVE-2019-5482_withPatch | None | https://github.com/madhans23/curl-curl-7_64_1_CVE-2019-5482_withPatch | ['cve-2'] | 1 | 2021-08-23 08:51:09+00:00 | 0 | 0 | C | 0 |
 | FULLSHADE/DrvLoader | A post exploitation utility for loading signed kernel drivers using both the undocumented NtLoadDriver function and by directly interfacing with the Windows Service Control Manager (SCM) | https://github.com/FULLSHADE/DrvLoader | ['exploit'] | 1 | 2021-08-23 03:31:09+00:00 | 58 | 0 | C++ | 0 |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-23 00:58:40+00:00 | 5631 | 2 | Python | 0 |
 | iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-08-23 03:26:33+00:00 | 376 | 0 | Lua | 0 |
+| pratX/asga | Alphanumeric Shellcode Generator for ARM targets | https://github.com/pratX/asga | ['shellcode'] | 1 | 2021-08-23 07:18:05+00:00 | 602 | 6 | C | 2 |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-23 00:03:11+00:00 | 388801 | 29 | | 15 |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-08-23 06:25:28+00:00 | 5224 | 2826 | Python | 629 |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-08-23 12:35:04+00:00 | 69884 | 9904 | Python | 1654 |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-08-23 09:14:47+00:00 | 290622 | 76 | Python | 13 |
 | vulsio/go-exploitdb | None | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-08-23 07:39:39+00:00 | 633 | 120 | Go | 36 |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-23 10:28:24+00:00 | 35678 | 5686 | Vue | 1188 |
@@ -47,6 +49,7 @@
 | whichbuffer/WindowsExploitDev | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | ['exploit', 'shellcode'] | 2 | 2021-08-23 07:04:24+00:00 | 5687 | 8 | Python | 1 |
 | prasannan-robots/Dynamic_command | Tool for post exploitation of any machine / Dynamic encrypted remote command line | https://github.com/prasannan-robots/Dynamic_command | ['exploit'] | 1 | 2021-08-23 11:05:19+00:00 | 19 | 1 | Python | 0 |
 | enkomio/AlanFramework | A post-exploitation framework | https://github.com/enkomio/AlanFramework | ['exploit'] | 1 | 2021-08-23 10:26:08+00:00 | 1821 | 76 | | 14 |
+| 0iphor13/Scripts-and-Exploits | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | ['exploit'] | 1 | 2021-08-23 12:25:42+00:00 | 23 | 1 | PowerShell | 0 |
 | Nephael/Nephael-CVE-2019-0708-Exploit | MS CVE 2019-0708 Python Exploit | https://github.com/Nephael/Nephael-CVE-2019-0708-Exploit | ['cve-2', 'exploit'] | 2 | 2021-08-23 03:01:48+00:00 | 2 | 6 | Python | 0 |
 | Nephael/Nephael-CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Nephael/Nephael-CVE-2020-0796 | ['cve-2'] | 1 | 2021-08-23 02:59:13+00:00 | 0 | 6 | | 0 |
 | Nephael/Nephael-CVE-2019-6340 | Drupal RCE CVE Python Exploit | https://github.com/Nephael/Nephael-CVE-2019-6340 | ['cve-2', 'exploit', 'rce'] | 3 | 2021-08-23 02:58:05+00:00 | 0 | 6 | | 0 |
