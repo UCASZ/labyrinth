@@ -2,13 +2,8 @@ name: process_commits
 
 on: 
   push:
-    branches: 
-      - master
-      - main
-    tags-ignore:
-      - simple_driller
     paths:
-      - 'results/**'
+      - 'results/**_summary.json'
       
   workflow_dispatch:
 
