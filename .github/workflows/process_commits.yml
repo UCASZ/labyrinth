@@ -7,8 +7,8 @@ on:
       - main
     tags-ignore:
       - simple_driller
-    paths-ignore:
-      - '.github/**'
+    paths:
+      - 'results'
       
   workflow_dispatch:
 
