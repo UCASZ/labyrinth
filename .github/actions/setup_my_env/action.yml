@@ -5,8 +5,8 @@ runs:
   steps:
     - name: git config
       run: |
-        git config --global user.name 'ahouseholder'
-        git config --global user.email 'ahouseholder@users.noreply.github.com'
+        git config --global user.name 'certcc-ghbot'
+        git config --global user.email 'cert+ghbot@cert.org'
       shell: bash
 
     - name: install packages
