@@ -8,7 +8,7 @@ on:
       - simple_driller
       
   schedule:
-    cron: '13 */6 * * *'
+    - cron: '13 */6 * * *'
       
   workflow_dispatch:
 
