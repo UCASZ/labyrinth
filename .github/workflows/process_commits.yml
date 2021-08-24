@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - results/**/*_summary.json
+    tags-ignore:
+      - simple_driller
       
   workflow_dispatch:
 
