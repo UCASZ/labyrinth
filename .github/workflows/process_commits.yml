@@ -1,11 +1,16 @@
 name: Tag Vul IDs in Commits
 
-on: 
-  push:
-    paths:
-      - results/**/*_summary.json
-    tags-ignore:
-      - simple_driller
+on:
+  # run when SearchRepos completes
+  workflow_run:
+    workflows: ["SearchRepos"]
+    types:
+      - completed
+#   push:
+#     paths:
+#       - results/**/*_summary.json
+#     tags-ignore:
+#       - simple_driller
       
   schedule:
     - cron: '13 */6 * * *'
