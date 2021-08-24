@@ -1,7 +1,7 @@
 
 # Summary for results/2021/08/24
     
-46 records found after deduplication
+47 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
@@ -17,7 +17,7 @@
 | doudoudedi/main-DIR-816_A1_Command-injection | command injection | https://github.com/doudoudedi/main-DIR-816_A1_Command-injection | ['command injection'] | 1 | 2021-08-24 08:57:35+00:00 | 1764 | 2 | nan | 0 |
 | iDongle/NoExploit | POC or EXP | https://github.com/iDongle/NoExploit | ['exploit'] | 1 | 2021-08-24 02:30:51+00:00 | 1 | 0 | | 0 |
 | Abdoh-Ash/evaluate-articles-nlp | A fairly basic web application that exploits technologies such as Webpack, Babel, SASS, Workbox, Jest, and ExpressJS. | https://github.com/Abdoh-Ash/evaluate-articles-nlp | ['exploit'] | 1 | 2021-08-24 07:32:09+00:00 | 256 | 0 | JavaScript | 0 |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-08-24 08:31:31+00:00 | 45791 | 842 | Python | 197 |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-24 04:29:29+00:00 | 5783 | 2 | Python | 0 |
 | dock0d1/-RaspAP-2.6.6---Remote-Code-Execution-RCE-Authenticated- | RaspAP 2.6.6 - Remote Code Execution (RCE) (Authenticated) | https://github.com/dock0d1/-RaspAP-2.6.6---Remote-Code-Execution-RCE-Authenticated- | ['rce', 'remote code execution'] | 2 | 2021-08-24 01:15:32+00:00 | 0 | 0 | Python | 0 |
 | r00txs7/alfa-perl-rce | None | https://github.com/r00txs7/alfa-perl-rce | ['rce'] | 1 | 2021-08-24 01:33:55+00:00 | 0 | 0 | Python | 0 |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-08-24 02:30:19+00:00 | 0 | 0 | | 0 |
@@ -28,9 +28,9 @@
 | TheMMMdev/CVE-2020-6308 | Exploit script for SAP Business Objects SSRF | https://github.com/TheMMMdev/CVE-2020-6308 | ['cve-2', 'exploit'] | 2 | 2021-08-24 08:44:11+00:00 | 4 | 0 | Go | 0 |
 | emotion97/emotion-gcn | Official Code: "Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition" | https://github.com/emotion97/emotion-gcn | ['exploit'] | 1 | 2021-08-24 09:14:52+00:00 | 0 | 0 | Python | 0 |
 | Stef-Lan/WP-Super-Cache-1.7.1-RCE | Proof of Concept for the WP Super Cache 1.7.1 WordPress Plugin RCE vulnerability. Credit for finding the bug to @m0ze | https://github.com/Stef-Lan/WP-Super-Cache-1.7.1-RCE | ['rce'] | 1 | 2021-08-24 05:05:33+00:00 | 196 | 2 | Python | 0 |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-24 04:29:29+00:00 | 5783 | 2 | Python | 0 |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-24 01:28:37+00:00 | 2168 | 5 | HTML | 3 |
-| 0xCAFEB0BA/NExecutor | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | ['exploit'] | 1 | 2021-08-24 00:55:33+00:00 | 9 | 2 | C++ | 1 |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-08-24 08:31:31+00:00 | 45791 | 842 | Python | 197 |
+| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-08-24 09:28:07+00:00 | 2783 | 0 | JavaScript | 1 |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-24 05:06:44+00:00 | 209798 | 6369 | C | 1778 |
 | JKornev/hidden | Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc | https://github.com/JKornev/hidden | ['rce'] | 1 | 2021-08-24 01:29:22+00:00 | 336 | 896 | NASL | 312 |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-08-24 01:40:12+00:00 | 2738743 | 335 | | 52 |
@@ -40,8 +40,8 @@
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-08-24 08:16:48+00:00 | 1072 | 211 | Rust | 12 |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-24 00:52:22+00:00 | 18202 | 21 | | 13 |
 | wyzxxz/shiro_rce_tool | shiro rce tool 反序列 命令执行 一键工具 回显 | https://github.com/wyzxxz/shiro_rce_tool | ['rce'] | 1 | 2021-08-24 08:15:43+00:00 | 72438 | 658 | | 142 |
-| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-08-24 09:28:07+00:00 | 2783 | 0 | JavaScript | 1 |
 | s0i37/shellcode_inject | inject and run code into arbitrary process (only x86) | https://github.com/s0i37/shellcode_inject | ['shellcode'] | 1 | 2021-08-24 08:11:45+00:00 | 79 | 6 | C | 1 |
+| 0xCAFEB0BA/NExecutor | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | ['exploit'] | 1 | 2021-08-24 00:55:33+00:00 | 9 | 2 | C++ | 1 |
 | Anti-Ghost-Ping/bug-reports | Found a bug or exploit with Anti Ghost Ping? Report it here! | https://github.com/Anti-Ghost-Ping/bug-reports | ['exploit'] | 1 | 2021-08-24 03:28:57+00:00 | 9 | 0 | | 0 |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-24 00:03:18+00:00 | 395795 | 29 | | 15 |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-08-24 01:46:47+00:00 | 267033 | 621 | | 114 |
@@ -50,4 +50,5 @@
 | TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-08-24 01:50:19+00:00 | 3410 | 0 | Python | 1 |
 | bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day'] | 1 | 2021-08-24 03:27:54+00:00 | 6113 | 91 | Python | 16 |
 | aancw/polkit-auto-exploit | Automatic Explotation PoC for Polkit CVE-2021-3560 | https://github.com/aancw/polkit-auto-exploit | ['cve poc', 'exploit'] | 2 | 2021-08-24 04:51:30+00:00 | 7 | 0 | Go | 0 |
+| stong/CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | ['cve-2', 'exploit'] | 2 | 2021-08-24 10:00:22+00:00 | 326 | 276 | C++ | 24 |
 | yqcs/ZheTian | ZheTian Powerful remote load and execute ShellCode tool | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-08-24 09:40:27+00:00 | 0 | 0 | Go | 0 |
