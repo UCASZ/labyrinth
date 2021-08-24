@@ -1,12 +1,12 @@
 
 # Summary for results/2021/08/24
     
-28 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-24 05:06:44+00:00 | 209798 | 6369 | C | 1778 |
-| JKornev/hidden | Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc | https://github.com/JKornev/hidden | ['rce'] | 1 | 2021-08-24 01:29:22+00:00 | 336 | 896 | NASL | 312 |
+| SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-24 01:28:37+00:00 | 2168 | 5 | HTML | 3 |
 | dnr6419/CVE-2019-7609 | Kibana Prototype Pollution | https://github.com/dnr6419/CVE-2019-7609 | ['cve-2'] | 1 | 2021-08-24 04:41:02+00:00 | 0 | 0 | nan | 0 |
 | liuguanghai009/FCB | Exploiting color volume and color difference for salient region detection | https://github.com/liuguanghai009/FCB | ['exploit'] | 1 | 2021-08-24 03:59:22+00:00 | 0 | 0 | | 0 |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-08-24 02:30:19+00:00 | 0 | 0 | | 0 |
@@ -15,11 +15,12 @@
 | iDongle/NoExploit | POC or EXP | https://github.com/iDongle/NoExploit | ['exploit'] | 1 | 2021-08-24 02:30:51+00:00 | 1 | 0 | | 0 |
 | F0rce/preview.f0rce.de | Source code for preview applications at https://preview.f0rce.de | https://github.com/F0rce/preview.f0rce.de | ['rce'] | 1 | 2021-08-24 00:49:49+00:00 | 234 | 0 | JavaScript | 0 |
 | brad-ak/exploits | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | ['exploit'] | 1 | 2021-08-24 00:32:36+00:00 | 0 | 0 | Rust | 0 |
+| rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-08-24 06:29:16+00:00 | 5904 | 0 | HTML | 0 |
 | bstank/bstank.github.io | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | ['exploit'] | 1 | 2021-08-24 04:19:36+00:00 | 399 | 0 | SCSS | 0 |
 | Stef-Lan/WP-Super-Cache-1.7.1-RCE | Proof of Concept for the WP Super Cache 1.7.1 WordPress Plugin RCE vulnerability. Credit for finding the bug to @m0ze | https://github.com/Stef-Lan/WP-Super-Cache-1.7.1-RCE | ['rce'] | 1 | 2021-08-24 05:05:33+00:00 | 196 | 2 | Python | 0 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-24 04:29:29+00:00 | 5783 | 2 | Python | 0 |
-| SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-24 01:28:37+00:00 | 2168 | 5 | HTML | 3 |
 | 0xCAFEB0BA/NExecutor | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | ['exploit'] | 1 | 2021-08-24 00:55:33+00:00 | 9 | 2 | C++ | 1 |
+| JKornev/hidden | Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc | https://github.com/JKornev/hidden | ['rce'] | 1 | 2021-08-24 01:29:22+00:00 | 336 | 896 | NASL | 312 |
 | aancw/polkit-auto-exploit | Automatic Explotation PoC for Polkit CVE-2021-3560 | https://github.com/aancw/polkit-auto-exploit | ['cve poc', 'exploit'] | 2 | 2021-08-24 04:51:30+00:00 | 7 | 0 | Go | 0 |
 | bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day'] | 1 | 2021-08-24 03:27:54+00:00 | 6113 | 91 | Python | 16 |
 | TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-08-24 01:50:19+00:00 | 3410 | 0 | Python | 1 |
