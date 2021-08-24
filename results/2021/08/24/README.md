@@ -1,12 +1,13 @@
 
 # Summary for results/2021/08/24
     
-63 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-08-24 09:15:38+00:00 | 21982 | 5886 | JavaScript | 1393 |
-| StasonJatham/exploit.to | Hamburger | https://github.com/StasonJatham/exploit.to | ['exploit'] | 1 | 2021-08-24 07:11:08+00:00 | 1874 | 0 | HTML | 0 |
+| stong/CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | ['cve-2', 'exploit'] | 2 | 2021-08-24 10:00:22+00:00 | 326 | 276 | C++ | 24 |
+| SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-24 01:28:37+00:00 | 2168 | 5 | HTML | 3 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-24 04:29:29+00:00 | 5783 | 2 | Python | 0 |
 | Stef-Lan/WP-Super-Cache-1.7.1-RCE | Proof of Concept for the WP Super Cache 1.7.1 WordPress Plugin RCE vulnerability. Credit for finding the bug to @m0ze | https://github.com/Stef-Lan/WP-Super-Cache-1.7.1-RCE | ['rce'] | 1 | 2021-08-24 05:05:33+00:00 | 196 | 2 | Python | 0 |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-08-24 09:27:55+00:00 | 99 | 1 | Python | 0 |
@@ -20,8 +21,8 @@
 | doudoudedi/main-DIR-816_A1_Command-injection | command injection | https://github.com/doudoudedi/main-DIR-816_A1_Command-injection | ['command injection'] | 1 | 2021-08-24 08:57:35+00:00 | 1764 | 2 | nan | 0 |
 | choke-dev/easierlua | "making games easier to exploit" | https://github.com/choke-dev/easierlua | ['exploit'] | 1 | 2021-08-24 11:23:50+00:00 | 57 | 2 | Lua | 0 |
 | iDongle/NoExploit | POC or EXP | https://github.com/iDongle/NoExploit | ['exploit'] | 1 | 2021-08-24 02:30:51+00:00 | 1 | 0 | | 0 |
+| StasonJatham/exploit.to | Hamburger | https://github.com/StasonJatham/exploit.to | ['exploit'] | 1 | 2021-08-24 07:11:08+00:00 | 1874 | 0 | HTML | 0 |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-08-24 11:42:14+00:00 | 3906 | 1 | CSS | 0 |
-| 0xCAFEB0BA/NExecutor | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | ['exploit'] | 1 | 2021-08-24 00:55:33+00:00 | 9 | 2 | C++ | 1 |
 | Abdoh-Ash/evaluate-articles-nlp | A fairly basic web application that exploits technologies such as Webpack, Babel, SASS, Workbox, Jest, and ExpressJS. | https://github.com/Abdoh-Ash/evaluate-articles-nlp | ['exploit'] | 1 | 2021-08-24 07:32:09+00:00 | 256 | 0 | JavaScript | 0 |
 | dock0d1/-RaspAP-2.6.6---Remote-Code-Execution-RCE-Authenticated- | RaspAP 2.6.6 - Remote Code Execution (RCE) (Authenticated) | https://github.com/dock0d1/-RaspAP-2.6.6---Remote-Code-Execution-RCE-Authenticated- | ['rce', 'remote code execution'] | 2 | 2021-08-24 01:15:32+00:00 | 0 | 0 | Python | 0 |
 | r00txs7/alfa-perl-rce | None | https://github.com/r00txs7/alfa-perl-rce | ['rce'] | 1 | 2021-08-24 01:33:55+00:00 | 0 | 0 | Python | 0 |
@@ -35,10 +36,10 @@
 | emotion97/emotion-gcn | Official Code: "Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition" | https://github.com/emotion97/emotion-gcn | ['exploit'] | 1 | 2021-08-24 09:14:52+00:00 | 0 | 0 | Python | 0 |
 | yqcs/ZheTian | ZheTian Powerful remote load and execute ShellCode tool | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-08-24 09:40:27+00:00 | 0 | 0 | Go | 0 |
 | Perceptual33/exploit-awd | awd比赛可用的自动化获取flag脚本。 | https://github.com/Perceptual33/exploit-awd | ['exploit'] | 1 | 2021-08-24 11:06:31+00:00 | 0 | 1 | Python | 0 |
-| SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-24 01:28:37+00:00 | 2168 | 5 | HTML | 3 |
-| stong/CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | ['cve-2', 'exploit'] | 2 | 2021-08-24 10:00:22+00:00 | 326 | 276 | C++ | 24 |
+| 0xCAFEB0BA/NExecutor | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | ['exploit'] | 1 | 2021-08-24 00:55:33+00:00 | 9 | 2 | C++ | 1 |
+| EtcAug10/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | ['exploit'] | 1 | 2021-08-24 11:17:46+00:00 | 192 | 4 | Python | 3 |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-08-24 08:31:31+00:00 | 45791 | 842 | Python | 197 |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-24 00:52:22+00:00 | 18202 | 21 | | 13 |
+| aancw/polkit-auto-exploit | Automatic Explotation PoC for Polkit CVE-2021-3560 | https://github.com/aancw/polkit-auto-exploit | ['cve poc', 'exploit'] | 2 | 2021-08-24 04:51:30+00:00 | 7 | 0 | Go | 0 |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-24 05:06:44+00:00 | 209798 | 6369 | C | 1778 |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR metasploit payload'] | 1 | 2021-08-24 12:51:30+00:00 | 60456 | 1086 | C | 539 |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-08-24 13:54:50+00:00 | 5691 | 3842 | Python | 530 |
@@ -47,13 +48,15 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-08-24 12:35:04+00:00 | 69973 | 9916 | Python | 1655 |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-08-24 01:40:12+00:00 | 2738743 | 335 | | 52 |
 | NassimBentarka/Digispark-Meterpreter-Framework | A framework which writes your Digispark arduino code for a specific metasploit payload. | https://github.com/NassimBentarka/Digispark-Meterpreter-Framework | ['metasploit module OR metasploit payload'] | 1 | 2021-08-24 03:18:07+00:00 | 53 | 10 | Ruby | 1 |
+| instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2021-08-24 15:29:31+00:00 | 1220 | 12 | JavaScript | 21 |
 | darksideoftheshmoo/rcell2 | functions to produce and analyze Cell-ID data in a tidy and shiny framework | https://github.com/darksideoftheshmoo/rcell2 | ['rce'] | 1 | 2021-08-24 13:26:30+00:00 | 115444 | 0 | R | 0 |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-24 00:35:43+00:00 | 35678 | 5688 | Vue | 1188 |
+| Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-08-24 15:04:37+00:00 | 1210334 | 3351 | PowerShell | 1169 |
 | chef-cft/inspec_cve_2019_15224 | Example InSpec profile to detect presence of a malicious rest-client gem (CVE-2019-15224) | https://github.com/chef-cft/inspec_cve_2019_15224 | ['cve-2'] | 1 | 2021-08-24 12:54:51+00:00 | 2 | 1 | Ruby | 0 |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-08-24 01:53:33+00:00 | 60358 | 1102 | JavaScript | 226 |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-08-24 08:16:48+00:00 | 1072 | 211 | Rust | 12 |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-24 00:52:22+00:00 | 18202 | 21 | | 13 |
 | wyzxxz/shiro_rce_tool | shiro rce tool 反序列 命令执行 一键工具 回显 | https://github.com/wyzxxz/shiro_rce_tool | ['rce'] | 1 | 2021-08-24 08:15:43+00:00 | 72438 | 658 | | 142 |
-| EtcAug10/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | ['exploit'] | 1 | 2021-08-24 11:17:46+00:00 | 192 | 4 | Python | 3 |
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-08-24 09:28:07+00:00 | 2783 | 0 | JavaScript | 1 |
 | gege-circle/home | 这里是戈戈圈爱好者的交流地，也是Github的草场，主要讨论一些关于二次元虚拟主播、动漫、游戏、搞笑、知识等有趣的内容，你可以在这里向大家分享你的趣事，欢迎在此畅所欲言~ This is a place for fans to communicate with, and it's also GitHub grassland, it mainly discusses some interesting contents such as VTuber, funny and knowledge, you can s | https://github.com/gege-circle/home | ['attack poc', 'exploit'] | 2 | 2021-08-24 12:25:56+00:00 | 1693 | 82 | | 23 |
 | s0i37/shellcode_inject | inject and run code into arbitrary process (only x86) | https://github.com/s0i37/shellcode_inject | ['shellcode'] | 1 | 2021-08-24 08:11:45+00:00 | 79 | 6 | C | 1 |
@@ -66,5 +69,4 @@
 | TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-08-24 01:50:19+00:00 | 3410 | 0 | Python | 1 |
 | bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day'] | 1 | 2021-08-24 03:27:54+00:00 | 6113 | 91 | Python | 16 |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-08-24 14:07:51+00:00 | 98566 | 0 | JavaScript | 0 |
-| aancw/polkit-auto-exploit | Automatic Explotation PoC for Polkit CVE-2021-3560 | https://github.com/aancw/polkit-auto-exploit | ['cve poc', 'exploit'] | 2 | 2021-08-24 04:51:30+00:00 | 7 | 0 | Go | 0 |
 | Slingx/Open-Redirect-POC | Open Redirect Exploit POC | https://github.com/Slingx/Open-Redirect-POC | ['exploit'] | 1 | 2021-08-24 12:32:29+00:00 | 0 | 0 | HTML | 0 |
