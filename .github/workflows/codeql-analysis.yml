@@ -17,6 +17,8 @@ on:
       - scripts/**
       - labyrinth/**
       - setup.py
+    tags-ignore:
+      - simple_driller
 
 jobs:
   analyze:
