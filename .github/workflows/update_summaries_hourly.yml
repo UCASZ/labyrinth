@@ -26,6 +26,8 @@ jobs:
 
       - name: checkout
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.VUL_DRILLER_TOKEN }}
 
       - name: setup python
         uses: actions/setup-python@v2
