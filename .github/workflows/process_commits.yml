@@ -3,9 +3,7 @@ name: Tag Vul IDs in Commits
 on: 
   push:
     paths:
-      - 'results/**/*_summary.json'
-    tags-ignore:
-      - simple_driller
+      - results/**/*_summary.json
       
   workflow_dispatch:
 
