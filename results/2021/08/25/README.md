@@ -1,12 +1,13 @@
 
 # Summary for results/2021/08/25
     
-43 records found after deduplication
+47 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
-| malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-08-25 01:45:37+00:00 | 40028 | 6620 | Python | 1558 |
-| dnr6419/CVE-2019-7609 | Kibana Prototype Pollution | https://github.com/dnr6419/CVE-2019-7609 | ['cve-2'] | 1 | 2021-08-25 01:42:33+00:00 | 1 | 0 | | 0 |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-08-25 12:35:04+00:00 | 70061 | 9920 | Python | 1656 |
+| HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-08-25 04:28:12+00:00 | 4 | 0 | | 0 |
+| G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-08-25 11:59:20+00:00 | 159 | 1 | Python | 0 |
 | ExtonHoward/Raven_Security_project | Penetration test and exploitation of multiple web servers at Raven Security | https://github.com/ExtonHoward/Raven_Security_project | ['exploit'] | 1 | 2021-08-25 01:43:06+00:00 | 1582 | 0 | Shell | 0 |
 | git3345678git/0day-security-software-vulnerability-analysis-technology | None | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-25 04:03:56+00:00 | 111 | 0 | | 0 |
 | thallard/snow-crash | 42 _ Security project, 15 levels to discover securities exploits | https://github.com/thallard/snow-crash | ['exploit'] | 1 | 2021-08-25 11:10:02+00:00 | 6 | 0 | | 0 |
@@ -14,9 +15,10 @@
 | zNuggetIsCool/PulseInternal | Are you tired of your old roblox script executor ui? Well this script is right for you! Simply execute this script in your crappy designed exploit and boom! You now have an internal executor with other functions all in your hands. Just press RightControl t | https://github.com/zNuggetIsCool/PulseInternal | ['exploit'] | 1 | 2021-08-25 03:24:46+00:00 | 340 | 0 | | 0 |
 | gaiththewolf/Exploitdb | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | ['exploit'] | 1 | 2021-08-25 07:26:23+00:00 | 1689 | 1 | Kotlin | 0 |
 | docfate111/kernel-hacking | setup and template exploits for hacking kernel drivers | https://github.com/docfate111/kernel-hacking | ['exploit'] | 1 | 2021-08-25 05:17:20+00:00 | 31076 | 0 | C | 0 |
-| HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-08-25 04:28:12+00:00 | 4 | 0 | | 0 |
-| fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases. | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-08-25 00:20:39+00:00 | 39 | 1 | Go | 0 |
+| 0x44F/discord-zeroclick-exploit | Discord client zero-click RCE | https://github.com/0x44F/discord-zeroclick-exploit | ['0day', 'exploit', 'rce'] | 3 | 2021-08-25 03:26:00+00:00 | 4 | 6 | Ruby | 1 |
+| dnr6419/CVE-2019-7609 | Kibana Prototype Pollution | https://github.com/dnr6419/CVE-2019-7609 | ['cve-2'] | 1 | 2021-08-25 01:42:33+00:00 | 1 | 0 | | 0 |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-25 05:27:54+00:00 | 2256 | 5 | HTML | 3 |
+| fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases. | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-08-25 00:20:39+00:00 | 39 | 1 | Go | 0 |
 | brainstorming423/exploits | None | https://github.com/brainstorming423/exploits | ['exploit'] | 1 | 2021-08-25 00:10:14+00:00 | 0 | 0 | | 0 |
 | MoonkeyBoy/VMPS-A-Vector-Map-Protection-Framework-Supporting-Dynamic-Game-and-Local-Desensitization | Secure sharing of geospatial information has attracted widespread attention in recent years. As a typical geospatial data, vector maps can be used in many areas of national economic and social development. However, there are many security threats to data s | https://github.com/MoonkeyBoy/VMPS-A-Vector-Map-Protection-Framework-Supporting-Dynamic-Game-and-Local-Desensitization | ['exploit'] | 1 | 2021-08-25 01:33:15+00:00 | 0 | 0 | Java | 0 |
 | CoolBoyYTr/FotoSploit | None | https://github.com/CoolBoyYTr/FotoSploit | ['sploit'] | 1 | 2021-08-25 02:50:46+00:00 | 0 | 0 | | 0 |
@@ -27,8 +29,9 @@
 | Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2021-08-25 09:00:21+00:00 | 0 | 0 | | 0 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-25 01:03:45+00:00 | 6002 | 2 | Python | 0 |
 | richie0866/exploit-types | Roblox-TS typings for popular Roblox "scripting engines" | https://github.com/richie0866/exploit-types | ['exploit'] | 1 | 2021-08-25 08:58:15+00:00 | 24 | 0 | | 0 |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-25 01:41:06+00:00 | 35678 | 5694 | Vue | 1189 |
+| malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-08-25 01:45:37+00:00 | 40028 | 6620 | Python | 1558 |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-08-25 06:22:57+00:00 | 21 | 0 | C | 0 |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-25 01:41:06+00:00 | 35678 | 5694 | Vue | 1189 |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-08-25 06:09:12+00:00 | 60408 | 1111 | JavaScript | 226 |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-08-25 04:52:05+00:00 | 1094 | 211 | Rust | 12 |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-25 00:52:23+00:00 | 18466 | 21 | | 13 |
@@ -41,6 +44,7 @@
 | kleiton0x00/ppmap | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | ['exploit'] | 1 | 2021-08-25 11:15:41+00:00 | 36 | 168 | Go | 20 |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-08-25 04:00:34+00:00 | 18734 | 108 | Python | 26 |
 | giovannyortegon/Shellcoders | None | https://github.com/giovannyortegon/Shellcoders | ['shellcode'] | 1 | 2021-08-25 06:21:59+00:00 | 37 | 0 | C | 0 |
+| 11philip22/MessageBoxShellcode | PIC shellcode to run MessageBoxW | https://github.com/11philip22/MessageBoxShellcode | ['shellcode'] | 1 | 2021-08-25 12:25:38+00:00 | 29 | 1 | PowerShell | 1 |
 | 0neday/Exploit-HS8545M-ONT | exploit Huawei ONT device | https://github.com/0neday/Exploit-HS8545M-ONT | ['exploit'] | 1 | 2021-08-25 09:31:11+00:00 | 28885 | 4 | Shell | 3 |
 | strawbberrys/LuaScripts | Some Lua scripts I make, some might be useful, some might be useless. Some of these scripts may be Roblox only, and may require a Roblox exploit. | https://github.com/strawbberrys/LuaScripts | ['exploit'] | 1 | 2021-08-25 07:14:54+00:00 | 40 | 1 | Lua | 1 |
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-08-25 05:25:49+00:00 | 3743 | 0 | Python | 0 |
