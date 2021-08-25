@@ -1,12 +1,12 @@
 
 # Summary for results/2021/08/25
     
-39 records found after deduplication
+40 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-08-25 01:45:37+00:00 | 40028 | 6620 | Python | 1558 |
-| dnr6419/CVE-2019-7609 | Kibana Prototype Pollution | https://github.com/dnr6419/CVE-2019-7609 | ['cve-2'] | 1 | 2021-08-25 01:42:33+00:00 | 1 | 0 | | 0 |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-25 01:41:06+00:00 | 35678 | 5694 | Vue | 1189 |
 | ExtonHoward/Raven_Security_project | Penetration test and exploitation of multiple web servers at Raven Security | https://github.com/ExtonHoward/Raven_Security_project | ['exploit'] | 1 | 2021-08-25 01:43:06+00:00 | 1582 | 0 | Shell | 0 |
 | git3345678git/0day-security-software-vulnerability-analysis-technology | None | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-25 04:03:56+00:00 | 111 | 0 | | 0 |
 | albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. About the CCF B (ICSOC) paper :Improving Multi-hop Embedded Knowledge Graph Question Answering by Introducing Relational Chain Reasoning | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-08-25 02:34:18+00:00 | 250 | 0 | Python | 0 |
@@ -14,18 +14,19 @@
 | gaiththewolf/Exploitdb | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | ['exploit'] | 1 | 2021-08-25 07:26:23+00:00 | 1689 | 1 | Kotlin | 0 |
 | docfate111/kernel-hacking | setup and template exploits for hacking kernel drivers | https://github.com/docfate111/kernel-hacking | ['exploit'] | 1 | 2021-08-25 05:17:20+00:00 | 31076 | 0 | C | 0 |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-08-25 04:28:12+00:00 | 4 | 0 | | 0 |
+| dnr6419/CVE-2019-7609 | Kibana Prototype Pollution | https://github.com/dnr6419/CVE-2019-7609 | ['cve-2'] | 1 | 2021-08-25 01:42:33+00:00 | 1 | 0 | | 0 |
 | fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases. | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-08-25 00:20:39+00:00 | 39 | 1 | Go | 0 |
-| SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-25 05:27:54+00:00 | 2256 | 5 | HTML | 3 |
 | brainstorming423/exploits | None | https://github.com/brainstorming423/exploits | ['exploit'] | 1 | 2021-08-25 00:10:14+00:00 | 0 | 0 | | 0 |
 | MoonkeyBoy/VMPS-A-Vector-Map-Protection-Framework-Supporting-Dynamic-Game-and-Local-Desensitization | Secure sharing of geospatial information has attracted widespread attention in recent years. As a typical geospatial data, vector maps can be used in many areas of national economic and social development. However, there are many security threats to data s | https://github.com/MoonkeyBoy/VMPS-A-Vector-Map-Protection-Framework-Supporting-Dynamic-Game-and-Local-Desensitization | ['exploit'] | 1 | 2021-08-25 01:33:15+00:00 | 0 | 0 | Java | 0 |
 | CoolBoyYTr/FotoSploit | None | https://github.com/CoolBoyYTr/FotoSploit | ['sploit'] | 1 | 2021-08-25 02:50:46+00:00 | 0 | 0 | | 0 |
-| 0x44F/otax | "Otax", a popularized shitty discord zero-day exploit. A bullshit writeup on it was released by a larper called HellSec. | https://github.com/0x44F/otax | ['0day', 'exploit'] | 2 | 2021-08-25 03:47:45+00:00 | 3 | 0 | Python | 0 |
+| 0x44F/otax | "Otax", a popularized shitty discord zero-day exploit. A bullshit writeup on it was released by a larper called HellSec. | https://github.com/0x44F/otax | ['0day', 'exploit'] | 2 | 2021-08-25 03:27:41+00:00 | 0 | 0 | | 0 |
 | 0x44F/metasploit-windows-ud-shell | A metasploit module that allows users to generate *undetected* windows shells. | https://github.com/0x44F/metasploit-windows-ud-shell | ['exploit'] | 1 | 2021-08-25 04:48:37+00:00 | 0 | 0 | Ruby | 0 |
 | CalfCrusher/Exif-RCE-Framework | Remote Code Execution Framework via Exif Data | https://github.com/CalfCrusher/Exif-RCE-Framework | ['rce', 'remote code execution'] | 2 | 2021-08-25 08:03:48+00:00 | 0 | 0 | nan | 0 |
 | MahsaSinaei/Malware-detection-by-system-call-graph-using-Machine-Learning | This program uses a system call dependency graph to detect malware and analyze their behavior. First, the software under examination is executed and system calls are extracted. A dependency graph is built from these system calls and a set of features for e | https://github.com/MahsaSinaei/Malware-detection-by-system-call-graph-using-Machine-Learning | ['exploit'] | 1 | 2021-08-25 09:10:43+00:00 | 0 | 0 | Jupyter Notebook | 0 |
+| Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2021-08-25 09:00:21+00:00 | 0 | 0 | | 0 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-25 01:03:45+00:00 | 6002 | 2 | Python | 0 |
+| SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-25 05:27:54+00:00 | 2256 | 5 | HTML | 3 |
 | richie0866/exploit-types | Roblox-TS typings for popular Roblox "scripting engines" | https://github.com/richie0866/exploit-types | ['exploit'] | 1 | 2021-08-25 08:58:15+00:00 | 24 | 0 | | 0 |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-25 01:41:06+00:00 | 35678 | 5694 | Vue | 1189 |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-08-25 06:22:57+00:00 | 21 | 0 | C | 0 |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-08-25 06:09:12+00:00 | 60408 | 1111 | JavaScript | 226 |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-08-25 04:52:05+00:00 | 1094 | 211 | Rust | 12 |
@@ -43,4 +44,4 @@
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-08-25 05:25:49+00:00 | 3743 | 0 | Python | 0 |
 | damianbrowne/ECS4TIME | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | ['exploit'] | 1 | 2021-08-25 03:44:20+00:00 | 18333 | 0 | Python | 0 |
 | REW-sploit/REW-sploit | Emulate and Dissect MSF and *other* attacks | https://github.com/REW-sploit/REW-sploit | ['sploit'] | 1 | 2021-08-25 09:13:46+00:00 | 1334 | 81 | Python | 14 |
-| Local-Micro/NativeSploit-Framework | None | https://github.com/Local-Micro/NativeSploit-Framework | ['sploit'] | 1 | 2021-08-25 09:00:21+00:00 | 0 | 0 | | 0 |
+| asr511/exploitdb-bin-sploits-offsec | None | https://github.com/asr511/exploitdb-bin-sploits-offsec | ['exploit', 'sploit'] | 2 | 2021-08-25 09:55:28+00:00 | 0 | 0 | | 0 |
