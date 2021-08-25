@@ -45,7 +45,7 @@ def _rl_pause(rlkey, rl, threshold=10):
         nap_seconds = 1
 
     # add some jitter up to a minute
-    nap_seconds += random.random() * min(60, nap_seconds/2)
+    nap_seconds += random.random() * min(60, nap_seconds / 2)
 
     print(
         f"Pausing for {nap_seconds:.1f} to wait for {rlkey} rate limit to catch up ({remaining})",

@@ -1,0 +1,37 @@
+#!/usr/bin/env python
+"""
+file: crawl_files
+author: adh
+created_at: 8/24/21 9:43 AM
+"""
+import argparse
+import logging
+
+from labyrinth.repo_processor import process_summary
+from labyrinth import DEBUG, VERBOSE
+
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+hdlr = logging.StreamHandler()
+logger.addHandler(hdlr)
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Process a set of git repos from a summary and look for patterns in all files within it"
+    )
+
+    # TODO: make this per day?
+    parser.add_argument("summary_file", action="store", type=str)
+    parser.add_argument("--verbose", "-v", action="store_true", default=False)
+    parser.add_argument("--debug", "-d", action="store_true", default=False)
+
+    args = parser.parse_args()
+
+    if args.verbose:
+        VERBOSE = True
+        logger.setLevel(logging.INFO)
+    if args.debug:
+        DEBUG = True
+        logger.setLevel(logging.DEBUG)
+
+    process_summary(args.summary_file)

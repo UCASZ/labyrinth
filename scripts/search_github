@@ -14,6 +14,8 @@ from labyrinth.date_helpers import fixup_start_date, fixup_end_date
 from labyrinth.dir_helpers import setup_daily_output_dirs, setup_output_dirs
 from labyrinth.search import do_search
 
+# TODO: add logging instead of prints
+
 try:
     from labyrinth.secrets import GITHUB_TOKEN as token
 except ImportError as e:

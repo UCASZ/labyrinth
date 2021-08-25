@@ -12,6 +12,8 @@ import numpy as np
 import argparse
 import re
 
+# TODO: add logging instead of prints
+
 from labyrinth.date_helpers import day_type, month_type, year_type
 from labyrinth.patterns import find_vul_ids
 

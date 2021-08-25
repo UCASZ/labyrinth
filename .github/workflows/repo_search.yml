@@ -18,17 +18,19 @@ jobs:
       matrix:
        search_str: 
          # comments indicate a snapshot of how many results there were 
-         # for a given search around the time it was added to the list  
+         # for a given search around the time it was added to the list
          # 110
          - heap overflow
+         # 119
+         - cnvd-c OR cnvd-2 OR cnnvd-2
          # 126
          - zeroday
          # 191
          - rce poc
          # 219
          - attack poc
-         # 253
-         - metasploit module OR metasploit payload
+         # 2652
+         - metasploit module OR payload
          # 279
          - command injection
          # 383

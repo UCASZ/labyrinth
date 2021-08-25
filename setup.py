@@ -2,9 +2,13 @@ from distutils.core import setup
 
 setup(
     name="labyrinth",
-    version="0.5",
+    version="0.6",
     packages=["labyrinth"],
-    scripts=["scripts/search_github", "scripts/generate_summaries"],
+    scripts=[
+        "scripts/search_github",
+        "scripts/generate_summaries",
+        "scripts/crawl_files",
+    ],
     url="https://vuls.cert.org",
     license="all rights reserved",
     author="adh",
