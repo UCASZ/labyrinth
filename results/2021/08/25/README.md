@@ -1,7 +1,7 @@
 
 # Summary for results/2021/08/25
     
-11 records found after deduplication
+12 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
@@ -12,6 +12,7 @@
 | terorie/cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | ['cve-2', 'exploit'] | 2 | 2021-08-25 01:00:49+00:00 | 121 | 205 | Go | 38 |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-25 01:03:45+00:00 | 6002 | 2 | Python | 0 |
 | ExtonHoward/Raven_Security_project | Penetration test and exploitation of multiple web servers at Raven Security | https://github.com/ExtonHoward/Raven_Security_project | ['exploit'] | 1 | 2021-08-25 01:43:06+00:00 | 1582 | 0 | Shell | 0 |
+| albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. About the CCF B (ICSOC) paper :Improving Multi-hop Embedded Knowledge Graph Question Answering by Introducing Relational Chain Reasoning | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-08-25 02:34:18+00:00 | 250 | 0 | Python | 0 |
 | dnr6419/CVE-2019-7609 | Kibana Prototype Pollution | https://github.com/dnr6419/CVE-2019-7609 | ['cve-2'] | 1 | 2021-08-25 01:42:33+00:00 | 1 | 0 | | 0 |
 | fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases. | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-08-25 00:20:39+00:00 | 39 | 1 | Go | 0 |
 | brainstorming423/exploits | None | https://github.com/brainstorming423/exploits | ['exploit'] | 1 | 2021-08-25 00:10:14+00:00 | 0 | 0 | | 0 |
