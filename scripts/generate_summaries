@@ -13,6 +13,7 @@ import argparse
 import re
 
 from labyrinth.date_helpers import day_type, month_type, year_type
+from labyrinth.patterns import find_vul_ids
 
 keep_cols = [
     # "id",
@@ -50,6 +51,7 @@ keep_cols = [
     # "owner_login",
     # "owner_id",
     # "owner_url",
+    "vul_ids",
 ]
 
 jsonfile_suffix = "_summary.json"
@@ -151,6 +153,18 @@ def aggregate_results(basedir):
 
     # get rid of cols we no longer need
     df = df.drop(columns=["matched_on", "matched"])
+
+    cols2check = [
+        "full_name",
+        "html_url",
+        "description",
+        "url",
+        "homepage",
+    ]
+    # concatenate some string columns so we can do a single vul ID pattern match
+    # note that this has to be done before we truncate the descriptions in the next step
+    _concatenated_strings = df[cols2check].fillna("").agg(" ".join, axis=1)
+    df["vul_ids"] = _concatenated_strings.apply(find_vul_ids)
 
     # truncate descriptions
     df["description"] = df["description"].astype(str)
