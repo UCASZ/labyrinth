@@ -1,13 +1,13 @@
 
 # Summary for results/2021/08/25
     
-31 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-08-25 01:45:37+00:00 | 40028 | 6620 | Python | 1558 |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-25 05:27:54+00:00 | 2256 | 5 | HTML | 3 |
-| 0x44F/otax | "Otax", a popularized shitty discord zero-day exploit. A bullshit writeup on it was released by a larper called HellSec. | https://github.com/0x44F/otax | ['0day', 'exploit'] | 2 | 2021-08-25 03:47:45+00:00 | 3 | 0 | Python | 0 |
+| 0x44F/otax | "Otax", a popularized shitty discord zero-day exploit. A bullshit writeup on it was released by a larper called HellSec. | https://github.com/0x44F/otax | ['0day', 'exploit'] | 2 | 2021-08-25 03:27:41+00:00 | 0 | 0 | | 0 |
 | CoolBoyYTr/FotoSploit | nan | https://github.com/CoolBoyYTr/FotoSploit | ['sploit'] | 1 | 2021-08-25 02:50:46+00:00 | 0 | 0 | nan | 0 |
 | MoonkeyBoy/VMPS-A-Vector-Map-Protection-Framework-Supporting-Dynamic-Game-and-Local-Desensitization | Secure sharing of geospatial information has attracted widespread attention in recent years. As a typical geospatial data, vector maps can be used in many areas of national economic and social development. However, there are many security threats to data s | https://github.com/MoonkeyBoy/VMPS-A-Vector-Map-Protection-Framework-Supporting-Dynamic-Game-and-Local-Desensitization | ['exploit'] | 1 | 2021-08-25 01:33:15+00:00 | 0 | 0 | Java | 0 |
 | brainstorming423/exploits | None | https://github.com/brainstorming423/exploits | ['exploit'] | 1 | 2021-08-25 00:10:14+00:00 | 0 | 0 | | 0 |
@@ -15,6 +15,7 @@
 | dnr6419/CVE-2019-7609 | Kibana Prototype Pollution | https://github.com/dnr6419/CVE-2019-7609 | ['cve-2'] | 1 | 2021-08-25 01:42:33+00:00 | 1 | 0 | | 0 |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-08-25 04:28:12+00:00 | 4 | 0 | | 0 |
 | docfate111/kernel-hacking | setup and template exploits for hacking kernel drivers | https://github.com/docfate111/kernel-hacking | ['exploit'] | 1 | 2021-08-25 05:17:20+00:00 | 31076 | 0 | C | 0 |
+| gaiththewolf/Exploitdb | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | ['exploit'] | 1 | 2021-08-25 07:26:23+00:00 | 1689 | 1 | Kotlin | 0 |
 | zNuggetIsCool/PulseInternal | Are you tired of your old roblox script executor ui? Well this script is right for you! Simply execute this script in your crappy designed exploit and boom! You now have an internal executor with other functions all in your hands. Just press RightControl t | https://github.com/zNuggetIsCool/PulseInternal | ['exploit'] | 1 | 2021-08-25 03:24:46+00:00 | 340 | 0 | | 0 |
 | albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. About the CCF B (ICSOC) paper :Improving Multi-hop Embedded Knowledge Graph Question Answering by Introducing Relational Chain Reasoning | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-08-25 02:34:18+00:00 | 250 | 0 | Python | 0 |
 | git3345678git/0day-security-software-vulnerability-analysis-technology | None | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-25 04:03:56+00:00 | 111 | 0 | | 0 |
@@ -24,6 +25,7 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-25 01:41:06+00:00 | 35678 | 5694 | Vue | 1189 |
 | damianbrowne/ECS4TIME | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | ['exploit'] | 1 | 2021-08-25 03:44:20+00:00 | 18333 | 0 | Python | 0 |
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-08-25 05:25:49+00:00 | 3743 | 0 | Python | 0 |
+| strawbberrys/LuaScripts | Some Lua scripts I make, some might be useful, some might be useless. Some of these scripts may be Roblox only, and may require a Roblox exploit. | https://github.com/strawbberrys/LuaScripts | ['exploit'] | 1 | 2021-08-25 07:14:54+00:00 | 40 | 1 | Lua | 1 |
 | giovannyortegon/Shellcoders | None | https://github.com/giovannyortegon/Shellcoders | ['shellcode'] | 1 | 2021-08-25 06:21:59+00:00 | 37 | 0 | C | 0 |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-08-25 04:00:34+00:00 | 18734 | 108 | Python | 26 |
 | terorie/cve-2021-3449 | CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻 | https://github.com/terorie/cve-2021-3449 | ['cve-2', 'exploit'] | 2 | 2021-08-25 01:00:49+00:00 | 121 | 205 | Go | 38 |
