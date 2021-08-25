@@ -1,12 +1,12 @@
 
 # Summary for results/2021/08/24
     
-107 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
 |-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-08-24 09:15:38+00:00 | 21982 | 5886 | JavaScript | 1393 |
-| dock0d1/-RaspAP-2.6.6---Remote-Code-Execution-RCE-Authenticated- | RaspAP 2.6.6 - Remote Code Execution (RCE) (Authenticated) | https://github.com/dock0d1/-RaspAP-2.6.6---Remote-Code-Execution-RCE-Authenticated- | ['rce', 'remote code execution'] | 2 | 2021-08-24 01:15:32+00:00 | 0 | 0 | Python | 0 |
+| CalfCrusher/Persistence-Bash-scripts-for-Linux-and-OSX | Post exploitation persistence scripts for Linux and OSX. Linux: downloads an elf payload and set cron persistence on reboot. OSX: downloads a Mach-O file from external url then making persistence using plist and LaunchAgents | https://github.com/CalfCrusher/Persistence-Bash-scripts-for-Linux-and-OSX | ['exploit'] | 1 | 2021-08-24 21:21:12+00:00 | 57 | 0 | Shell | 0 |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-08-24 11:42:14+00:00 | 3906 | 1 | CSS | 0 |
 | StasonJatham/exploit.to | Hamburger | https://github.com/StasonJatham/exploit.to | ['exploit'] | 1 | 2021-08-24 07:11:08+00:00 | 1874 | 0 | HTML | 0 |
 | iDongle/NoExploit | POC or EXP | https://github.com/iDongle/NoExploit | ['exploit'] | 1 | 2021-08-24 02:30:51+00:00 | 1 | 0 | | 0 |
@@ -18,8 +18,8 @@
 | renatus-cartesius/infosec | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | ['exploit'] | 1 | 2021-08-24 16:08:57+00:00 | 1 | 0 | Shell | 0 |
 | F0rce/preview.f0rce.de | Source code for preview applications at https://preview.f0rce.de | https://github.com/F0rce/preview.f0rce.de | ['rce'] | 1 | 2021-08-24 00:49:49+00:00 | 234 | 0 | JavaScript | 0 |
 | brad-ak/exploits | DIfferent code bases for well known exploits | https://github.com/brad-ak/exploits | ['exploit'] | 1 | 2021-08-24 00:32:36+00:00 | 0 | 0 | Rust | 0 |
-| CalfCrusher/Persistence-Bash-scripts-for-Linux-and-OSX | Post exploitation persistence scripts for Linux and OSX. Linux: downloads an elf payload and set cron persistence on reboot. OSX: downloads a Mach-O file from external url then making persistence using plist and LaunchAgents | https://github.com/CalfCrusher/Persistence-Bash-scripts-for-Linux-and-OSX | ['exploit'] | 1 | 2021-08-24 21:21:12+00:00 | 57 | 0 | Shell | 0 |
 | Xcatolin/Personal-Exploits | Some exploits i developed for VulnHub machines and common vulnerabilities. | https://github.com/Xcatolin/Personal-Exploits | ['exploit'] | 1 | 2021-08-24 11:48:31+00:00 | 8 | 0 | Python | 0 |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-08-24 08:31:31+00:00 | 45791 | 842 | Python | 197 |
 | rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-08-24 06:29:16+00:00 | 5904 | 0 | HTML | 0 |
 | bstank/bstank.github.io | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | ['exploit'] | 1 | 2021-08-24 04:19:36+00:00 | 399 | 0 | SCSS | 0 |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-08-24 15:39:43+00:00 | 28057 | 0 | Python | 0 |
@@ -30,9 +30,10 @@
 | Buzbee/Buzbee3 | PS4 Exploit 7.55 (Add additional cleanup spray after the exploit) | https://github.com/Buzbee/Buzbee3 | ['exploit'] | 1 | 2021-08-24 23:31:22+00:00 | 2366 | 0 | JavaScript | 0 |
 | m3rcer/m3rcer.github.io | None | https://github.com/m3rcer/m3rcer.github.io | ['rce'] | 1 | 2021-08-24 22:25:50+00:00 | 12580 | 0 | SCSS | 0 |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-24 01:28:37+00:00 | 2168 | 5 | HTML | 3 |
+| yuhaishenedc/CVE2016_off_path | None | https://github.com/yuhaishenedc/CVE2016_off_path | ['cve-2'] | 1 | 2021-08-24 23:08:19+00:00 | 23 | 0 | C | 0 |
 | Abdoh-Ash/evaluate-articles-nlp | A fairly basic web application that exploits technologies such as Webpack, Babel, SASS, Workbox, Jest, and ExpressJS. | https://github.com/Abdoh-Ash/evaluate-articles-nlp | ['exploit'] | 1 | 2021-08-24 07:32:09+00:00 | 256 | 0 | JavaScript | 0 |
+| dock0d1/-RaspAP-2.6.6---Remote-Code-Execution-RCE-Authenticated- | RaspAP 2.6.6 - Remote Code Execution (RCE) (Authenticated) | https://github.com/dock0d1/-RaspAP-2.6.6---Remote-Code-Execution-RCE-Authenticated- | ['rce', 'remote code execution'] | 2 | 2021-08-24 01:15:32+00:00 | 0 | 0 | Python | 0 |
 | r00txs7/alfa-perl-rce | None | https://github.com/r00txs7/alfa-perl-rce | ['rce'] | 1 | 2021-08-24 01:33:55+00:00 | 0 | 0 | Python | 0 |
-| 0xCAFEB0BA/NExecutor | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | ['exploit'] | 1 | 2021-08-24 00:55:33+00:00 | 9 | 2 | C++ | 1 |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-08-24 02:30:19+00:00 | 0 | 0 | | 0 |
 | SebasRomTen/NoobSploit-v2.7 | lua script | https://github.com/SebasRomTen/NoobSploit-v2.7 | ['sploit'] | 1 | 2021-08-24 22:34:05+00:00 | 0 | 0 | | 0 |
 | swr8888/sqlmap- | sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration te | https://github.com/swr8888/sqlmap- | ['command injection', 'exploit'] | 2 | 2021-08-24 22:28:02+00:00 | 0 | 0 | nan | 0 |
@@ -57,11 +58,10 @@
 | lkim94/PostgreSQL-Shell | A Python program that automates the process of error-based PostgreSQL injection RCE | https://github.com/lkim94/PostgreSQL-Shell | ['rce'] | 1 | 2021-08-24 05:18:17+00:00 | 0 | 0 | Python | 0 |
 | dnr6419/CVE-2019-7609 | Kibana Prototype Pollution | https://github.com/dnr6419/CVE-2019-7609 | ['cve-2'] | 1 | 2021-08-24 04:41:02+00:00 | 0 | 0 | | 0 |
 | liuguanghai009/FCB | Exploiting color volume and color difference for salient region detection | https://github.com/liuguanghai009/FCB | ['exploit'] | 1 | 2021-08-24 03:59:22+00:00 | 0 | 0 | | 0 |
-| yuhaishenedc/CVE2016_off_path | None | https://github.com/yuhaishenedc/CVE2016_off_path | ['cve-2'] | 1 | 2021-08-24 23:08:19+00:00 | 23 | 0 | C | 0 |
+| 0xCAFEB0BA/NExecutor | An exploit for executing Lua scripts | https://github.com/0xCAFEB0BA/NExecutor | ['exploit'] | 1 | 2021-08-24 00:55:33+00:00 | 9 | 2 | C++ | 1 |
 | stong/CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | ['cve-2', 'exploit'] | 2 | 2021-08-24 10:00:22+00:00 | 326 | 276 | C++ | 24 |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-08-24 08:31:31+00:00 | 45791 | 842 | Python | 197 |
-| 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-08-24 16:59:20+00:00 | 881 | 65 | Shell | 35 |
-| DiegoCorrea/Exploiting-Personalized-Calibration-and-Metrics-for-Fairness-Recommendation | Code from the paper: https://doi.org/10.1016/j.eswa.2021.115112 | https://github.com/DiegoCorrea/Exploiting-Personalized-Calibration-and-Metrics-for-Fairness-Recommendation | ['exploit'] | 1 | 2021-08-24 17:53:48+00:00 | 16982 | 0 | Python | 0 |
+| thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-08-24 20:10:47+00:00 | 30 | 0 | PowerShell | 0 |
+| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-08-24 09:28:07+00:00 | 2783 | 0 | JavaScript | 1 |
 | wyzxxz/shiro_rce_tool | shiro rce tool 反序列 命令执行 一键工具 回显 | https://github.com/wyzxxz/shiro_rce_tool | ['rce'] | 1 | 2021-08-24 08:15:43+00:00 | 72438 | 658 | | 142 |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-24 00:52:22+00:00 | 18202 | 21 | | 13 |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-08-24 08:16:48+00:00 | 1072 | 211 | Rust | 12 |
@@ -70,6 +70,7 @@
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-08-24 15:04:37+00:00 | 1210334 | 3351 | PowerShell | 1169 |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-24 00:35:43+00:00 | 35678 | 5688 | Vue | 1188 |
 | darksideoftheshmoo/rcell2 | functions to produce and analyze Cell-ID data in a tidy and shiny framework | https://github.com/darksideoftheshmoo/rcell2 | ['rce'] | 1 | 2021-08-24 13:26:30+00:00 | 115444 | 0 | R | 0 |
+| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-08-24 19:28:31+00:00 | 61846 | 2449 | Python | 379 |
 | USGS-Astrogeology/knoten | Python Geospatial Sensor Exploitation Library | https://github.com/USGS-Astrogeology/knoten | ['exploit'] | 1 | 2021-08-24 18:28:42+00:00 | 20905 | 2 | Python | 14 |
 | instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2021-08-24 15:29:31+00:00 | 1220 | 12 | JavaScript | 21 |
 | NassimBentarka/Digispark-Meterpreter-Framework | A framework which writes your Digispark arduino code for a specific metasploit payload. | https://github.com/NassimBentarka/Digispark-Meterpreter-Framework | ['metasploit module OR metasploit payload'] | 1 | 2021-08-24 03:18:07+00:00 | 53 | 10 | Ruby | 1 |
@@ -84,11 +85,10 @@
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR metasploit payload'] | 1 | 2021-08-24 12:51:30+00:00 | 60456 | 1086 | C | 539 |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-24 05:06:44+00:00 | 209798 | 6369 | C | 1778 |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit'] | 1 | 2021-08-24 18:54:09+00:00 | 32144 | 945 | Python | 360 |
-| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-08-24 09:28:07+00:00 | 2783 | 0 | JavaScript | 1 |
-| gege-circle/home | 这里是戈戈圈爱好者的交流地，也是Github的草场，主要讨论一些关于二次元虚拟主播、动漫、游戏、搞笑、知识等有趣的内容，你可以在这里向大家分享你的趣事，欢迎在此畅所欲言~ This is a place for fans to communicate with, and it's also GitHub grassland, it mainly discusses some interesting contents such as VTuber, funny and knowledge, you can s | https://github.com/gege-circle/home | ['attack poc', 'exploit'] | 2 | 2021-08-24 12:25:56+00:00 | 1693 | 82 | | 23 |
-| thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-08-24 20:10:47+00:00 | 30 | 0 | PowerShell | 0 |
-| s0i37/shellcode_inject | inject and run code into arbitrary process (only x86) | https://github.com/s0i37/shellcode_inject | ['shellcode'] | 1 | 2021-08-24 08:11:45+00:00 | 79 | 6 | C | 1 |
+| DiegoCorrea/Exploiting-Personalized-Calibration-and-Metrics-for-Fairness-Recommendation | Code from the paper: https://doi.org/10.1016/j.eswa.2021.115112 | https://github.com/DiegoCorrea/Exploiting-Personalized-Calibration-and-Metrics-for-Fairness-Recommendation | ['exploit'] | 1 | 2021-08-24 17:53:48+00:00 | 16982 | 0 | Python | 0 |
+| 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-08-24 16:59:20+00:00 | 881 | 65 | Shell | 35 |
 | EtcAug10/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/EtcAug10/Domaineer | ['exploit'] | 1 | 2021-08-24 11:17:46+00:00 | 192 | 4 | Python | 3 |
+| gege-circle/home | 这里是戈戈圈爱好者的交流地，也是Github的草场，主要讨论一些关于二次元虚拟主播、动漫、游戏、搞笑、知识等有趣的内容，你可以在这里向大家分享你的趣事，欢迎在此畅所欲言~ This is a place for fans to communicate with, and it's also GitHub grassland, it mainly discusses some interesting contents such as VTuber, funny and knowledge, you can s | https://github.com/gege-circle/home | ['attack poc', 'exploit'] | 2 | 2021-08-24 12:25:56+00:00 | 1693 | 82 | | 23 |
 | REW-sploit/REW-sploit | Emulate and Dissect MSF and *other* attacks | https://github.com/REW-sploit/REW-sploit | ['sploit'] | 1 | 2021-08-24 22:00:16+00:00 | 1333 | 81 | Python | 14 |
 | npaterno/pieRce | Material for a Summer 2021 workshop for Pierce College faculty using ModernDive | https://github.com/npaterno/pieRce | ['rce'] | 1 | 2021-08-24 16:49:25+00:00 | 395 | 0 | HTML | 2 |
 | aancw/polkit-auto-exploit | Automatic Explotation PoC for Polkit CVE-2021-3560 | https://github.com/aancw/polkit-auto-exploit | ['cve poc', 'exploit'] | 2 | 2021-08-24 04:51:30+00:00 | 7 | 0 | Go | 0 |
@@ -111,4 +111,5 @@
 | pen4uin/Poc-Exp | 漏洞研究，包括但不限于中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-08-24 02:26:47+00:00 | 297 | 23 | | 2 |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-24 00:03:18+00:00 | 395795 | 29 | | 15 |
 | Anti-Ghost-Ping/bug-reports | Found a bug or exploit with Anti Ghost Ping? Report it here! | https://github.com/Anti-Ghost-Ping/bug-reports | ['exploit'] | 1 | 2021-08-24 03:28:57+00:00 | 9 | 0 | | 0 |
+| s0i37/shellcode_inject | inject and run code into arbitrary process (only x86) | https://github.com/s0i37/shellcode_inject | ['shellcode'] | 1 | 2021-08-24 08:11:45+00:00 | 79 | 6 | C | 1 |
 | SebasRomTen/NoobSploit_v2.7 | None | https://github.com/SebasRomTen/NoobSploit_v2.7 | ['sploit'] | 1 | 2021-08-24 22:37:16+00:00 | 0 | 0 | | 0 |
