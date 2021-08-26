@@ -16,6 +16,7 @@ import re
 
 from labyrinth.date_helpers import day_type, month_type, year_type
 from labyrinth.patterns import find_vul_ids
+from labyrinth.repo_processor import concat_string_fields
 
 keep_cols = [
     # "id",
@@ -156,16 +157,7 @@ def aggregate_results(basedir):
     # get rid of cols we no longer need
     df = df.drop(columns=["matched_on", "matched"])
 
-    cols2check = [
-        "full_name",
-        "html_url",
-        "description",
-        "url",
-        "homepage",
-    ]
-    # concatenate some string columns so we can do a single vul ID pattern match
-    # note that this has to be done before we truncate the descriptions in the next step
-    _concatenated_strings = df[cols2check].fillna("").agg(" ".join, axis=1)
+    _concatenated_strings = concat_string_fields(df)
     df["vul_ids"] = _concatenated_strings.apply(find_vul_ids)
 
     # truncate descriptions

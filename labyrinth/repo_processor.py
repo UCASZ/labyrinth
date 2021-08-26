@@ -245,3 +245,19 @@ def process_summary(json_file):
 
     dump_results_by_vul_id(df)
     dump_results_by_repo(df)
+
+
+def concat_string_fields(df):
+    cols2check = [
+        "full_name",
+        "html_url",
+        "description",
+        "url",
+        "homepage",
+    ]
+    # concatenate some string columns so we can do a single vul ID pattern match
+    # note that this has to be done before we truncate the descriptions in the next step
+    _concatenated_strings = (
+        df[cols2check].fillna("").applymap(str).agg(" ".join, axis=1)
+    )
+    return _concatenated_strings
