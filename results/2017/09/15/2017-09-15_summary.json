@@ -105,7 +105,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":74372738,
+    "node_id":"MDEwOlJlcG9zaXRvcnk3NDM3MjczOA==",
+    "name":"msf_module",
+    "full_name":"tlskbz\/msf_module",
+    "private":false,
+    "html_url":"https:\/\/github.com\/tlskbz\/msf_module",
+    "description":"Metasploit module",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module",
+    "forks_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/tlskbz\/msf_module\/deployments",
+    "created_at":"2016-11-21T14:38:40Z",
+    "updated_at":"2021-08-10T02:36:53Z",
+    "pushed_at":"2017-09-15T09:01:16Z",
+    "git_url":"git:\/\/github.com\/tlskbz\/msf_module.git",
+    "ssh_url":"git@github.com:tlskbz\/msf_module.git",
+    "clone_url":"https:\/\/github.com\/tlskbz\/msf_module.git",
+    "svn_url":"https:\/\/github.com\/tlskbz\/msf_module",
+    "homepage":null,
+    "size":30,
+    "stargazers_count":7,
+    "watchers_count":7,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":5,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":5,
+    "open_issues":0,
+    "watchers":7,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":5,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T18:23:46Z",
+    "organization":null,
+    "owner_login":"tlskbz",
+    "owner_id":13726029,
+    "owner_node_id":"MDQ6VXNlcjEzNzI2MDI5",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/13726029?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/tlskbz",
+    "owner_html_url":"https:\/\/github.com\/tlskbz",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/tlskbz\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/tlskbz\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/tlskbz\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/tlskbz\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/tlskbz\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/tlskbz\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/tlskbz\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/tlskbz\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/tlskbz\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":79417854,
@@ -219,7 +333,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":84655941,
@@ -333,7 +450,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-5638"
+    ]
   },
   {
     "id":102056380,
@@ -441,7 +561,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":103377643,
@@ -549,7 +672,11 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-5638",
+      "CVE-2017-98505"
+    ]
   },
   {
     "id":103394447,
@@ -657,7 +784,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":103447049,
@@ -784,7 +914,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-8759"
+    ]
   },
   {
     "id":103594828,
@@ -892,7 +1025,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":103595230,
@@ -1000,7 +1136,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":103623033,
@@ -1114,7 +1253,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":103623606,
@@ -1222,7 +1364,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":103689431,
@@ -1330,6 +1475,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

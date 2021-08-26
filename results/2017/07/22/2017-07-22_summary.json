@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52044090,
@@ -213,7 +216,11 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-6095",
+      "CVE-2016-0049"
+    ]
   },
   {
     "id":79911518,
@@ -298,7 +305,7 @@
     "temp_clone_token":"",
     "network_count":2,
     "subscribers_count":0,
-    "matched_at":"2021-08-19T20:00:10Z",
+    "matched_at":"2021-08-26T18:23:38Z",
     "organization":null,
     "owner_login":"m4p0",
     "owner_id":25317633,
@@ -319,9 +326,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
+      "metasploit module OR payload",
       "rce"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":88544558,
@@ -435,7 +446,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":89910004,
@@ -543,7 +557,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2016-6662"
+    ]
   },
   {
     "id":97808955,
@@ -651,7 +668,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":97885337,
@@ -759,7 +779,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":97956253,
@@ -867,7 +890,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":97992350,
@@ -981,7 +1007,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2016-6271"
+    ]
   },
   {
     "id":98003871,
@@ -1089,7 +1118,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2016-10033"
+    ]
   },
   {
     "id":98055323,
@@ -1197,6 +1229,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -80,9 +80,6 @@
       "pull":true
     },
     "temp_clone_token":"",
-    "network_count":0,
-    "subscribers_count":5,
-    "matched_at":"2021-08-19T19:33:43Z",
     "organization":{
       "login":"shenkarlab",
       "id":6725176,
@@ -103,6 +100,9 @@
       "type":"Organization",
       "site_admin":false
     },
+    "network_count":0,
+    "subscribers_count":5,
+    "matched_at":"2021-08-19T19:33:43Z",
     "owner_login":"shenkarlab",
     "owner_id":6725176,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjY3MjUxNzY=",
@@ -124,7 +124,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":94428940,
@@ -207,10 +210,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":34,
     "subscribers_count":4,
     "matched_at":"2021-08-19T19:33:43Z",
-    "organization":null,
     "owner_login":"m4lv0id",
     "owner_id":29372616,
     "owner_node_id":"MDQ6VXNlcjI5MzcyNjE2",
@@ -232,7 +235,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":95838597,
@@ -315,10 +321,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-19T19:32:34Z",
-    "organization":null,
     "owner_login":"bongbongco",
     "owner_id":3170006,
     "owner_node_id":"MDQ6VXNlcjMxNzAwMDY=",
@@ -340,7 +346,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2012-6066"
+    ]
   },
   {
     "id":95868990,
@@ -423,10 +432,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2021-08-19T19:33:43Z",
-    "organization":null,
+    "matched_at":"2021-08-26T18:22:29Z",
     "owner_login":"debsam590",
     "owner_id":25900941,
     "owner_node_id":"MDQ6VXNlcjI1OTAwOTQx",
@@ -446,9 +455,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":95870771,
@@ -531,10 +544,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":2,
     "subscribers_count":0,
     "matched_at":"2021-08-19T19:32:34Z",
-    "organization":null,
     "owner_login":"sUbc0ol",
     "owner_id":24601456,
     "owner_node_id":"MDQ6VXNlcjI0NjAxNDU2",
@@ -556,7 +569,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-0199"
+    ]
   },
   {
     "id":95873037,
@@ -639,10 +655,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":1,
     "subscribers_count":0,
     "matched_at":"2021-08-19T19:32:34Z",
-    "organization":null,
     "owner_login":"sUbc0ol",
     "owner_id":24601456,
     "owner_node_id":"MDQ6VXNlcjI0NjAxNDU2",
@@ -664,7 +680,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-2793"
+    ]
   },
   {
     "id":95873695,
@@ -747,10 +766,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":1,
     "subscribers_count":0,
     "matched_at":"2021-08-19T19:44:47Z",
-    "organization":null,
     "owner_login":"sUbc0ol",
     "owner_id":24601456,
     "owner_node_id":"MDQ6VXNlcjI0NjAxNDU2",
@@ -773,7 +792,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2017-5638"
+    ]
   },
   {
     "id":95874930,
@@ -856,10 +878,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":8,
     "subscribers_count":0,
     "matched_at":"2021-08-19T19:33:43Z",
-    "organization":null,
     "owner_login":"sUbc0ol",
     "owner_id":24601456,
     "owner_node_id":"MDQ6VXNlcjI0NjAxNDU2",
@@ -883,7 +905,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2017-5638"
+    ]
   },
   {
     "id":95877607,
@@ -966,10 +991,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":3,
     "subscribers_count":0,
     "matched_at":"2021-08-19T19:32:34Z",
-    "organization":null,
     "owner_login":"sUbc0ol",
     "owner_id":24601456,
     "owner_node_id":"MDQ6VXNlcjI0NjAxNDU2",
@@ -991,7 +1016,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-0235"
+    ]
   },
   {
     "id":95892201,
@@ -1080,10 +1108,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":2,
     "subscribers_count":0,
     "matched_at":"2021-08-19T19:38:41Z",
-    "organization":null,
     "owner_login":"ethicalhackeragnidhra",
     "owner_id":25576800,
     "owner_node_id":"MDQ6VXNlcjI1NTc2ODAw",
@@ -1105,7 +1133,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":95897166,
@@ -1188,10 +1219,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":1,
     "subscribers_count":2,
     "matched_at":"2021-08-19T19:33:43Z",
-    "organization":null,
     "owner_login":"DanielRTeixeira",
     "owner_id":11260062,
     "owner_node_id":"MDQ6VXNlcjExMjYwMDYy",
@@ -1213,6 +1244,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

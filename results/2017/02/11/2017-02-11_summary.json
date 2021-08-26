@@ -105,7 +105,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":76124301,
@@ -213,7 +216,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":80011049,
@@ -222,7 +228,7 @@
     "full_name":"bytezealot\/Metasploit-Post-Exploitation-Modules",
     "private":false,
     "html_url":"https:\/\/github.com\/bytezealot\/Metasploit-Post-Exploitation-Modules",
-    "description":"None",
+    "description":"nan",
     "fork":false,
     "url":"https:\/\/api.github.com\/repos\/bytezealot\/Metasploit-Post-Exploitation-Modules",
     "forks_url":"https:\/\/api.github.com\/repos\/bytezealot\/Metasploit-Post-Exploitation-Modules\/forks",
@@ -298,7 +304,7 @@
     "temp_clone_token":"",
     "network_count":3,
     "subscribers_count":1,
-    "matched_at":"2021-08-19T19:05:07Z",
+    "matched_at":"2021-08-26T18:21:31Z",
     "organization":null,
     "owner_login":"bytezealot",
     "owner_id":25121131,
@@ -319,9 +325,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":81640553,
@@ -430,7 +440,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2013-1775"
+    ]
   },
   {
     "id":81665458,
@@ -538,7 +551,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":81671553,
@@ -671,7 +687,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":85588742,
@@ -779,6 +798,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

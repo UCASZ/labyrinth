@@ -124,7 +124,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":67644389,
@@ -232,7 +235,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":82993992,
@@ -340,7 +346,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":101523678,
@@ -448,7 +457,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":102266610,
@@ -556,7 +568,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":102318198,
@@ -664,6 +679,120 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-1000117"
+    ]
+  },
+  {
+    "id":102337335,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxMDIzMzczMzU=",
+    "name":"techkru_meta",
+    "full_name":"codekru\/techkru_meta",
+    "private":false,
+    "html_url":"https:\/\/github.com\/codekru\/techkru_meta",
+    "description":"Metasploit",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta",
+    "forks_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/codekru\/techkru_meta\/deployments",
+    "created_at":"2017-09-04T08:26:27Z",
+    "updated_at":"2017-09-04T08:29:46Z",
+    "pushed_at":"2017-09-04T08:29:45Z",
+    "git_url":"git:\/\/github.com\/codekru\/techkru_meta.git",
+    "ssh_url":"git@github.com:codekru\/techkru_meta.git",
+    "clone_url":"https:\/\/github.com\/codekru\/techkru_meta.git",
+    "svn_url":"https:\/\/github.com\/codekru\/techkru_meta",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"C",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T18:23:44Z",
+    "organization":null,
+    "owner_login":"codekru",
+    "owner_id":31501895,
+    "owner_node_id":"MDQ6VXNlcjMxNTAxODk1",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/31501895?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/codekru",
+    "owner_html_url":"https:\/\/github.com\/codekru",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/codekru\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/codekru\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/codekru\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/codekru\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/codekru\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/codekru\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/codekru\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/codekru\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/codekru\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":96272817,
@@ -190,7 +193,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-19T19:56:02Z",
+    "matched_at":"2021-08-26T18:23:35Z",
     "organization":null,
     "owner_login":"am6539",
     "owner_id":19407692,
@@ -211,9 +214,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
+      "metasploit module OR payload",
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":96312509,
@@ -327,7 +334,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":96312546,
@@ -441,6 +451,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -130,7 +130,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":86126566,
@@ -238,7 +241,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":87207613,
@@ -346,7 +352,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":88852338,
@@ -454,7 +463,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":89138639,
@@ -562,7 +574,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":89142751,
@@ -670,7 +685,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":89145802,
@@ -779,8 +797,12 @@
       "cve-2",
       "exploit",
       "metasploit module OR metasploit payload",
+      "metasploit module OR payload",
       "rce"
     ],
-    "matched_count":4
+    "matched_count":5,
+    "vul_ids":[
+      "CVE-2017-0199"
+    ]
   }
 ]

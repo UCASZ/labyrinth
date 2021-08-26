@@ -105,7 +105,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":107078005,
@@ -219,7 +222,127 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":110489821,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxMTA0ODk4MjE=",
+    "name":"Metasploit-Armitage-Installer-Ubuntu",
+    "full_name":"LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu",
+    "private":false,
+    "html_url":"https:\/\/github.com\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu",
+    "description":"metasploit and armitage installer for ubuntu 16.04 ",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu",
+    "forks_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu\/deployments",
+    "created_at":"2017-11-13T02:21:58Z",
+    "updated_at":"2017-11-13T04:46:12Z",
+    "pushed_at":"2017-11-13T08:37:22Z",
+    "git_url":"git:\/\/github.com\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu.git",
+    "ssh_url":"git@github.com:LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu.git",
+    "clone_url":"https:\/\/github.com\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu.git",
+    "svn_url":"https:\/\/github.com\/LukeBob-zz\/Metasploit-Armitage-Installer-Ubuntu",
+    "homepage":"",
+    "size":66,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":2,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "forks":2,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":2,
+    "subscribers_count":0,
+    "matched_at":"2021-08-26T18:24:54Z",
+    "owner_login":"LukeBob-zz",
+    "owner_id":22285778,
+    "owner_node_id":"MDQ6VXNlcjIyMjg1Nzc4",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/22285778?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/LukeBob-zz",
+    "owner_html_url":"https:\/\/github.com\/LukeBob-zz",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/LukeBob-zz\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/LukeBob-zz\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/LukeBob-zz\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/LukeBob-zz\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/LukeBob-zz\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/LukeBob-zz\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/LukeBob-zz\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/LukeBob-zz\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/LukeBob-zz\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":110611562,
@@ -327,7 +450,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-16806"
+    ]
   },
   {
     "id":118595119,
@@ -435,7 +561,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "MS17-010"
+    ]
   },
   {
     "id":133045404,
@@ -547,8 +676,12 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

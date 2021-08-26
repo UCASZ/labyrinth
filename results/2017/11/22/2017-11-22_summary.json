@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":41683336,
@@ -219,7 +222,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":108785704,
@@ -327,7 +333,10 @@
     "matched_list":[
       "remote code execution"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":110969002,
@@ -435,7 +444,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":111447804,
@@ -543,7 +555,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":111525857,
@@ -651,7 +666,10 @@
     "matched_list":[
       "cve poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-11882"
+    ]
   },
   {
     "id":111536144,
@@ -759,7 +777,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-12149"
+    ]
   },
   {
     "id":111631642,
@@ -873,7 +894,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":111637919,
@@ -981,7 +1005,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-11882"
+    ]
   },
   {
     "id":111639669,
@@ -1089,7 +1116,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":111738071,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxMTE3MzgwNzE=",
+    "name":"Automatic",
+    "full_name":"BaconHacking\/Automatic",
+    "private":false,
+    "html_url":"https:\/\/github.com\/BaconHacking\/Automatic",
+    "description":"Crie backdoors e apks maliciosos de forma autom\u00e1tica com metasploit - Pentest",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic",
+    "forks_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/BaconHacking\/Automatic\/deployments",
+    "created_at":"2017-11-22T22:22:53Z",
+    "updated_at":"2018-11-30T20:57:31Z",
+    "pushed_at":"2017-11-22T23:55:34Z",
+    "git_url":"git:\/\/github.com\/BaconHacking\/Automatic.git",
+    "ssh_url":"git@github.com:BaconHacking\/Automatic.git",
+    "clone_url":"https:\/\/github.com\/BaconHacking\/Automatic.git",
+    "svn_url":"https:\/\/github.com\/BaconHacking\/Automatic",
+    "homepage":"",
+    "size":445,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":0,
+    "matched_at":"2021-08-26T18:24:55Z",
+    "organization":null,
+    "owner_login":"BaconHacking",
+    "owner_id":33913697,
+    "owner_node_id":"MDQ6VXNlcjMzOTEzNjk3",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/33913697?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/BaconHacking",
+    "owner_html_url":"https:\/\/github.com\/BaconHacking",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/BaconHacking\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/BaconHacking\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/BaconHacking\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/BaconHacking\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/BaconHacking\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/BaconHacking\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/BaconHacking\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/BaconHacking\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/BaconHacking\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":111738389,
@@ -1197,6 +1338,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

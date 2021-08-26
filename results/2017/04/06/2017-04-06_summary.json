@@ -111,7 +111,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":85897477,
@@ -219,7 +222,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":87361991,
+    "node_id":"MDEwOlJlcG9zaXRvcnk4NzM2MTk5MQ==",
+    "name":"HashdumpConverter",
+    "full_name":"InfoSecJack\/HashdumpConverter",
+    "private":false,
+    "html_url":"https:\/\/github.com\/InfoSecJack\/HashdumpConverter",
+    "description":"Python Script to convert hashdump's from metasploit into hashcat +human readable",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter",
+    "forks_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/InfoSecJack\/HashdumpConverter\/deployments",
+    "created_at":"2017-04-05T22:25:09Z",
+    "updated_at":"2020-02-15T22:42:49Z",
+    "pushed_at":"2017-04-06T18:10:10Z",
+    "git_url":"git:\/\/github.com\/InfoSecJack\/HashdumpConverter.git",
+    "ssh_url":"git@github.com:InfoSecJack\/HashdumpConverter.git",
+    "clone_url":"https:\/\/github.com\/InfoSecJack\/HashdumpConverter.git",
+    "svn_url":"https:\/\/github.com\/InfoSecJack\/HashdumpConverter",
+    "homepage":null,
+    "size":6,
+    "stargazers_count":2,
+    "watchers_count":2,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":1,
+    "open_issues":0,
+    "watchers":2,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":0,
+    "matched_at":"2021-08-26T18:21:20Z",
+    "organization":null,
+    "owner_login":"InfoSecJack",
+    "owner_id":24259204,
+    "owner_node_id":"MDQ6VXNlcjI0MjU5MjA0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/24259204?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/InfoSecJack",
+    "owner_html_url":"https:\/\/github.com\/InfoSecJack",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/InfoSecJack\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/InfoSecJack\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/InfoSecJack\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/InfoSecJack\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/InfoSecJack\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/InfoSecJack\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/InfoSecJack\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/InfoSecJack\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/InfoSecJack\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":87370843,
@@ -327,7 +444,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":87389278,
@@ -435,7 +555,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":87432387,
@@ -549,7 +672,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-7269"
+    ]
   },
   {
     "id":87479040,
@@ -657,6 +783,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

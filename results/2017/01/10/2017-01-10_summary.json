@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-1641"
+    ]
   },
   {
     "id":75495771,
@@ -190,7 +193,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-19T19:15:11Z",
+    "matched_at":"2021-08-26T18:21:27Z",
     "organization":null,
     "owner_login":"slacker69",
     "owner_id":20743002,
@@ -211,9 +214,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
+      "metasploit module OR payload",
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":78494911,
@@ -322,7 +329,121 @@
       "exploit",
       "heap overflow"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2016-1827"
+    ]
+  },
+  {
+    "id":78528920,
+    "node_id":"MDEwOlJlcG9zaXRvcnk3ODUyODkyMA==",
+    "name":"met-loader",
+    "full_name":"0-duke\/met-loader",
+    "private":false,
+    "html_url":"https:\/\/github.com\/0-duke\/met-loader",
+    "description":"Meterpreter loader with BIND TCP and REVERSE TCP support (32bit and 64bit). Compatible with Metasploit's staging protocol",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader",
+    "forks_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/0-duke\/met-loader\/deployments",
+    "created_at":"2017-01-10T11:51:21Z",
+    "updated_at":"2017-01-10T12:33:07Z",
+    "pushed_at":"2017-01-10T12:30:12Z",
+    "git_url":"git:\/\/github.com\/0-duke\/met-loader.git",
+    "ssh_url":"git@github.com:0-duke\/met-loader.git",
+    "clone_url":"https:\/\/github.com\/0-duke\/met-loader.git",
+    "svn_url":"https:\/\/github.com\/0-duke\/met-loader",
+    "homepage":null,
+    "size":64,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"C",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":1,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T18:21:27Z",
+    "organization":null,
+    "owner_login":"0-duke",
+    "owner_id":11016894,
+    "owner_node_id":"MDQ6VXNlcjExMDE2ODk0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/11016894?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/0-duke",
+    "owner_html_url":"https:\/\/github.com\/0-duke",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/0-duke\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/0-duke\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/0-duke\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/0-duke\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/0-duke\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/0-duke\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/0-duke\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/0-duke\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/0-duke\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":78556563,
@@ -430,6 +551,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

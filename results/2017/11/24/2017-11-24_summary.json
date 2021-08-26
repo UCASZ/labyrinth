@@ -105,7 +105,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":104532597,
@@ -220,7 +223,10 @@
       "exploit",
       "sploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":107690957,
@@ -328,7 +334,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":110808871,
@@ -436,7 +445,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":111887551,
@@ -521,7 +533,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-19T20:19:33Z",
+    "matched_at":"2021-08-26T18:24:56Z",
     "organization":null,
     "owner_login":"legendsec",
     "owner_id":13389492,
@@ -546,9 +558,13 @@
       "cve-2",
       "exploit",
       "metasploit module OR metasploit payload",
+      "metasploit module OR payload",
       "vulnerability poc"
     ],
-    "matched_count":5
+    "matched_count":6,
+    "vul_ids":[
+      "CVE-2017-11882"
+    ]
   },
   {
     "id":111904379,
@@ -656,7 +672,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-11882"
+    ]
   },
   {
     "id":111935535,
@@ -764,7 +783,10 @@
     "matched_list":[
       "heap overflow"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":111959310,
@@ -872,6 +894,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -104,8 +104,12 @@
     "owner_site_admin":false,
     "matched_list":[
       "cve poc",
-      "cve-2"
+      "cve-2",
+      "metasploit module OR payload"
     ],
-    "matched_count":2
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2017-5638"
+    ]
   }
 ]
