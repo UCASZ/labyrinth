@@ -105,7 +105,146 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":36099518,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzNjA5OTUxOA==",
+    "name":"msf-haskell",
+    "full_name":"GaloisInc\/msf-haskell",
+    "private":false,
+    "html_url":"https:\/\/github.com\/GaloisInc\/msf-haskell",
+    "description":"Haskell implementation of Metasploit remote API",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell",
+    "forks_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/GaloisInc\/msf-haskell\/deployments",
+    "created_at":"2015-05-22T23:29:24Z",
+    "updated_at":"2021-08-15T07:48:06Z",
+    "pushed_at":"2015-06-09T22:30:27Z",
+    "git_url":"git:\/\/github.com\/GaloisInc\/msf-haskell.git",
+    "ssh_url":"git@github.com:GaloisInc\/msf-haskell.git",
+    "clone_url":"https:\/\/github.com\/GaloisInc\/msf-haskell.git",
+    "svn_url":"https:\/\/github.com\/GaloisInc\/msf-haskell",
+    "homepage":null,
+    "size":387,
+    "stargazers_count":18,
+    "watchers_count":18,
+    "language":"Haskell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":4,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"bsd-3-clause",
+      "name":"BSD 3-Clause \"New\" or \"Revised\" License",
+      "spdx_id":"BSD-3-Clause",
+      "url":"https:\/\/api.github.com\/licenses\/bsd-3-clause",
+      "node_id":"MDc6TGljZW5zZTU="
+    },
+    "forks":4,
+    "open_issues":0,
+    "watchers":18,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":4,
+    "subscribers_count":36,
+    "matched_at":"2021-08-26T18:34:38Z",
+    "organization":{
+      "login":"GaloisInc",
+      "id":1584774,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjE1ODQ3NzQ=",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/1584774?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/GaloisInc",
+      "html_url":"https:\/\/github.com\/GaloisInc",
+      "followers_url":"https:\/\/api.github.com\/users\/GaloisInc\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/GaloisInc\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/GaloisInc\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/GaloisInc\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/GaloisInc\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/GaloisInc\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/GaloisInc\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/GaloisInc\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/GaloisInc\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "owner_login":"GaloisInc",
+    "owner_id":1584774,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjE1ODQ3NzQ=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/1584774?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/GaloisInc",
+    "owner_html_url":"https:\/\/github.com\/GaloisInc",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/GaloisInc\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/GaloisInc\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/GaloisInc\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/GaloisInc\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/GaloisInc\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/GaloisInc\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/GaloisInc\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/GaloisInc\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/GaloisInc\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":37086513,
@@ -213,7 +352,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":37109043,
@@ -321,7 +463,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2014-0160"
+    ]
   },
   {
     "id":37121455,
@@ -435,7 +580,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":37121491,
@@ -549,7 +697,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":37154317,
@@ -676,7 +827,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":37162047,
@@ -784,6 +938,9 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2010-3904"
+    ]
   }
 ]

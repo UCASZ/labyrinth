@@ -3,6 +3,6 @@
     
 1 records found after deduplication
 
-| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count |
-|------------------------------|----------------------------------------------|-------------------------------------------------|----------------|-----------------|---------------------------|--------|--------------------|------------|---------------|
-| poojapanchal/aviation-sector | humilitation & exploitation in army aviation | https://github.com/poojapanchal/aviation-sector | ['exploit'] | 1 | 2015-11-07 13:33:51+00:00 | 0 | 0 | nan | 0 |
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|------------------------------|----------------------------------------------|-------------------------------------------------|----------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
+| poojapanchal/aviation-sector | humilitation & exploitation in army aviation | https://github.com/poojapanchal/aviation-sector | ['exploit'] | 1 | 2015-11-07 13:33:51+00:00 | 0 | 0 | nan | 0 | [] |

@@ -124,7 +124,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":45233833,
@@ -232,7 +235,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":45394064,
@@ -316,8 +322,8 @@
     },
     "temp_clone_token":"",
     "network_count":1,
-    "subscribers_count":2,
-    "matched_at":"2021-08-19T22:45:59Z",
+    "subscribers_count":3,
+    "matched_at":"2021-08-26T18:39:55Z",
     "organization":null,
     "owner_login":"0x0mar",
     "owner_id":8250407,
@@ -338,8 +344,12 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

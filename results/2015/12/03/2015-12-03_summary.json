@@ -89,6 +89,7 @@
     "network_count":2,
     "subscribers_count":3,
     "matched_at":"2021-08-19T22:52:06Z",
+    "organization":null,
     "owner_login":"kochetkov",
     "owner_id":775307,
     "owner_node_id":"MDQ6VXNlcjc3NTMwNw==",
@@ -107,11 +108,13 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/kochetkov\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "organization":null,
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":47314411,
@@ -196,7 +199,8 @@
     "temp_clone_token":"",
     "network_count":5,
     "subscribers_count":1,
-    "matched_at":"2021-08-19T22:52:07Z",
+    "matched_at":"2021-08-26T18:39:57Z",
+    "organization":null,
     "owner_login":"kaeljurk",
     "owner_id":15190957,
     "owner_node_id":"MDQ6VXNlcjE1MTkwOTU3",
@@ -215,11 +219,14 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/kaeljurk\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "organization":null,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":47349262,
@@ -305,6 +312,7 @@
     "network_count":0,
     "subscribers_count":2,
     "matched_at":"2021-08-19T22:52:06Z",
+    "organization":null,
     "owner_login":"0xBEAF",
     "owner_id":16138284,
     "owner_node_id":"MDQ6VXNlcjE2MTM4Mjg0",
@@ -323,11 +331,13 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/0xBEAF\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "organization":null,
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":47364897,
@@ -413,6 +423,7 @@
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-19T22:52:06Z",
+    "organization":null,
     "owner_login":"jlanouar",
     "owner_id":16142816,
     "owner_node_id":"MDQ6VXNlcjE2MTQyODE2",
@@ -431,10 +442,12 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/jlanouar\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "organization":null,
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

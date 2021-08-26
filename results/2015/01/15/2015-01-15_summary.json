@@ -88,7 +88,7 @@
     "temp_clone_token":"",
     "network_count":15,
     "subscribers_count":13,
-    "matched_at":"2021-08-19T21:56:53Z",
+    "matched_at":"2021-08-26T18:32:25Z",
     "organization":null,
     "owner_login":"jduck",
     "owner_id":479840,
@@ -109,9 +109,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":24635594,
@@ -219,7 +223,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":28273665,
@@ -327,7 +334,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":28836046,
@@ -435,6 +445,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]
