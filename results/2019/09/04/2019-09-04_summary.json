@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":158600242,
@@ -219,7 +222,121 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":199938376,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxOTk5MzgzNzY=",
+    "name":"Metasploit",
+    "full_name":"Egrak\/Metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Egrak\/Metasploit",
+    "description":"Install Metasploit for Termux",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Egrak\/Metasploit\/deployments",
+    "created_at":"2019-07-31T22:38:19Z",
+    "updated_at":"2019-09-04T01:51:48Z",
+    "pushed_at":"2019-09-04T01:51:46Z",
+    "git_url":"git:\/\/github.com\/Egrak\/Metasploit.git",
+    "ssh_url":"git@github.com:Egrak\/Metasploit.git",
+    "clone_url":"https:\/\/github.com\/Egrak\/Metasploit.git",
+    "svn_url":"https:\/\/github.com\/Egrak\/Metasploit",
+    "homepage":"",
+    "size":3,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:47:22Z",
+    "organization":null,
+    "owner_login":"Egrak",
+    "owner_id":41666290,
+    "owner_node_id":"MDQ6VXNlcjQxNjY2Mjkw",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/41666290?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Egrak",
+    "owner_html_url":"https:\/\/github.com\/Egrak",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Egrak\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Egrak\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Egrak\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Egrak\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Egrak\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Egrak\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Egrak\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Egrak\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Egrak\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":201243438,
@@ -333,7 +450,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206168284,
@@ -441,7 +561,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-8529"
+    ]
   },
   {
     "id":206173868,
@@ -549,7 +672,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-0193"
+    ]
   },
   {
     "id":206223549,
@@ -657,7 +783,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206228201,
@@ -765,7 +894,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206254592,
@@ -873,7 +1005,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206281773,
@@ -981,7 +1116,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206283848,
@@ -1089,7 +1227,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206284240,
@@ -1197,7 +1338,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206301140,
@@ -1305,7 +1449,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":206301437,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMDYzMDE0Mzc=",
+    "name":"musical-fiesta",
+    "full_name":"zaidagalant\/musical-fiesta",
+    "private":false,
+    "html_url":"https:\/\/github.com\/zaidagalant\/musical-fiesta",
+    "description":"Metasploit-INstallation",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta",
+    "forks_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/zaidagalant\/musical-fiesta\/deployments",
+    "created_at":"2019-09-04T11:17:00Z",
+    "updated_at":"2019-09-05T10:35:19Z",
+    "pushed_at":"2019-09-04T11:17:01Z",
+    "git_url":"git:\/\/github.com\/zaidagalant\/musical-fiesta.git",
+    "ssh_url":"git@github.com:zaidagalant\/musical-fiesta.git",
+    "clone_url":"https:\/\/github.com\/zaidagalant\/musical-fiesta.git",
+    "svn_url":"https:\/\/github.com\/zaidagalant\/musical-fiesta",
+    "homepage":"",
+    "size":1,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:47:22Z",
+    "organization":null,
+    "owner_login":"zaidagalant",
+    "owner_id":54775796,
+    "owner_node_id":"MDQ6VXNlcjU0Nzc1Nzk2",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/54775796?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/zaidagalant",
+    "owner_html_url":"https:\/\/github.com\/zaidagalant",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/zaidagalant\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/zaidagalant\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/zaidagalant\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/zaidagalant\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/zaidagalant\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/zaidagalant\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/zaidagalant\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/zaidagalant\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/zaidagalant\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206321288,
@@ -1396,7 +1654,7 @@
     "temp_clone_token":"",
     "network_count":38,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T02:30:00Z",
+    "matched_at":"2021-08-20T02:39:11Z",
     "organization":null,
     "owner_login":"0xDezzy",
     "owner_id":4141697,
@@ -1421,7 +1679,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2019-11539"
+    ]
   },
   {
     "id":206356979,
@@ -1527,8 +1788,12 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

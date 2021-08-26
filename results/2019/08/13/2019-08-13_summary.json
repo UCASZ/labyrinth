@@ -112,7 +112,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2015-6639"
+    ]
   },
   {
     "id":120082341,
@@ -220,7 +223,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":201754520,
@@ -328,7 +334,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-13382"
+    ]
   },
   {
     "id":202057306,
@@ -436,7 +445,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":202122055,
@@ -544,7 +556,121 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2016-5195"
+    ]
+  },
+  {
+    "id":202127829,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMDIxMjc4Mjk=",
+    "name":"Metasploit",
+    "full_name":"MickySolo\/Metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/MickySolo\/Metasploit",
+    "description":"In this Thread, I`m gonna show you how to install Metasploit Framework in TermuX. You can use it for Android to Android\/Windows hacking. It is the best way to hack another android like WATCH_DOGS Style ",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/MickySolo\/Metasploit\/deployments",
+    "created_at":"2019-08-13T11:16:14Z",
+    "updated_at":"2021-08-25T03:24:53Z",
+    "pushed_at":"2019-08-13T12:07:24Z",
+    "git_url":"git:\/\/github.com\/MickySolo\/Metasploit.git",
+    "ssh_url":"git@github.com:MickySolo\/Metasploit.git",
+    "clone_url":"https:\/\/github.com\/MickySolo\/Metasploit.git",
+    "svn_url":"https:\/\/github.com\/MickySolo\/Metasploit",
+    "homepage":null,
+    "size":213,
+    "stargazers_count":4,
+    "watchers_count":4,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":4,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":1,
+    "license":null,
+    "forks":4,
+    "open_issues":1,
+    "watchers":4,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":4,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:46:19Z",
+    "organization":null,
+    "owner_login":"MickySolo",
+    "owner_id":54017636,
+    "owner_node_id":"MDQ6VXNlcjU0MDE3NjM2",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/54017636?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/MickySolo",
+    "owner_html_url":"https:\/\/github.com\/MickySolo",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/MickySolo\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/MickySolo\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/MickySolo\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/MickySolo\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/MickySolo\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/MickySolo\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/MickySolo\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/MickySolo\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/MickySolo\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":202231524,
@@ -653,7 +779,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":202638679,
@@ -744,7 +873,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2021-08-20T02:28:41Z",
+    "matched_at":"2021-08-26T17:46:18Z",
     "organization":null,
     "owner_login":"PERROR400",
     "owner_id":54161235,
@@ -765,8 +894,12 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

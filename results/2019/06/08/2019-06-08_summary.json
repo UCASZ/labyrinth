@@ -111,7 +111,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":177072307,
@@ -196,7 +199,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T01:52:35Z",
+    "matched_at":"2021-08-26T17:48:28Z",
     "organization":null,
     "owner_login":"Corruptcodesu",
     "owner_id":48804515,
@@ -217,9 +220,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":180915358,
@@ -327,7 +334,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":188974630,
@@ -454,7 +464,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":190760061,
@@ -562,7 +575,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":190871299,
@@ -670,7 +686,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":190906556,
@@ -778,7 +797,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":191002148,
@@ -887,6 +909,9 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":179003298,
@@ -219,7 +222,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":179041771,
@@ -327,7 +333,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":186639917,
@@ -435,7 +444,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":187019970,
@@ -544,7 +556,10 @@
       "rce",
       "rce poc"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":187139993,
@@ -652,7 +667,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":188115938,
@@ -766,7 +784,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":188128120,
@@ -874,7 +895,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":188154848,
@@ -982,7 +1006,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":188168912,
@@ -1090,7 +1117,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-0232"
+    ]
   },
   {
     "id":188184503,
@@ -1196,9 +1226,13 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":188186570,
@@ -1312,7 +1346,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":188212551,
@@ -1427,7 +1464,11 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2018-8174",
+      "CVE-2019-0768"
+    ]
   },
   {
     "id":188228350,
@@ -1535,7 +1576,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":188244100,
@@ -1643,7 +1687,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":188244264,
@@ -1751,7 +1798,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":188246726,
@@ -1859,7 +1909,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":188266160,
@@ -1967,7 +2020,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":188274849,
@@ -2076,7 +2132,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":188287755,
@@ -2186,6 +2245,9 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   }
 ]

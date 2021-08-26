@@ -82,7 +82,7 @@
     "temp_clone_token":"",
     "network_count":45,
     "subscribers_count":16,
-    "matched_at":"2021-08-20T02:26:10Z",
+    "matched_at":"2021-08-20T02:33:56Z",
     "organization":null,
     "owner_login":"iphelix",
     "owner_id":887841,
@@ -106,7 +106,10 @@
       "exploit",
       "sploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":170939486,
@@ -220,7 +223,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":192148530,
@@ -328,7 +334,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":200684724,
@@ -461,7 +470,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-13143"
+    ]
   },
   {
     "id":200706460,
@@ -569,7 +581,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":200942211,
@@ -654,7 +669,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T02:27:56Z",
+    "matched_at":"2021-08-26T17:46:16Z",
     "organization":null,
     "owner_login":"banget",
     "owner_id":53648777,
@@ -676,9 +691,13 @@
     "owner_site_admin":false,
     "matched_list":[
       "metasploit module OR metasploit payload",
+      "metasploit module OR payload",
       "shellcode"
     ],
-    "matched_count":2
+    "matched_count":3,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":200948343,
@@ -786,7 +805,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-13272"
+    ]
   },
   {
     "id":201037761,
@@ -895,7 +917,10 @@
       "exploit",
       "sploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":201049521,
@@ -1004,7 +1029,10 @@
       "rce",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":201076419,
@@ -1112,7 +1140,10 @@
     "matched_list":[
       "vulnerability poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":201081064,
@@ -1220,7 +1251,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":201101964,
@@ -1334,7 +1368,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":201103390,
@@ -1442,7 +1479,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":201109111,
@@ -1550,6 +1590,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

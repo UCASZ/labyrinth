@@ -124,7 +124,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":170207286,
@@ -232,7 +235,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-3295"
+    ]
   },
   {
     "id":171369204,
@@ -359,7 +365,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":172324881,
@@ -468,7 +477,121 @@
       "0day",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":172971957,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxNzI5NzE5NTc=",
+    "name":"MetasploitWork",
+    "full_name":"sanyuj1997\/MetasploitWork",
+    "private":false,
+    "html_url":"https:\/\/github.com\/sanyuj1997\/MetasploitWork",
+    "description":"Random learning work on metasploit console. will onle contain plain commands with descriptions",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork",
+    "forks_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/sanyuj1997\/MetasploitWork\/deployments",
+    "created_at":"2019-02-27T18:57:23Z",
+    "updated_at":"2019-03-06T18:50:36Z",
+    "pushed_at":"2019-03-06T18:50:35Z",
+    "git_url":"git:\/\/github.com\/sanyuj1997\/MetasploitWork.git",
+    "ssh_url":"git@github.com:sanyuj1997\/MetasploitWork.git",
+    "clone_url":"https:\/\/github.com\/sanyuj1997\/MetasploitWork.git",
+    "svn_url":"https:\/\/github.com\/sanyuj1997\/MetasploitWork",
+    "homepage":null,
+    "size":4,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":0,
+    "matched_at":"2021-08-26T17:48:21Z",
+    "organization":null,
+    "owner_login":"sanyuj1997",
+    "owner_id":30529399,
+    "owner_node_id":"MDQ6VXNlcjMwNTI5Mzk5",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/30529399?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/sanyuj1997",
+    "owner_html_url":"https:\/\/github.com\/sanyuj1997",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/sanyuj1997\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/sanyuj1997\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/sanyuj1997\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/sanyuj1997\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/sanyuj1997\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/sanyuj1997\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/sanyuj1997\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/sanyuj1997\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/sanyuj1997\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":173099890,
@@ -576,7 +699,146 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":174035757,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxNzQwMzU3NTc=",
+    "name":"metasploit-framework",
+    "full_name":"blue-star-software\/metasploit-framework",
+    "private":false,
+    "html_url":"https:\/\/github.com\/blue-star-software\/metasploit-framework",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework",
+    "forks_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/blue-star-software\/metasploit-framework\/deployments",
+    "created_at":"2019-03-05T23:22:41Z",
+    "updated_at":"2019-03-06T00:20:34Z",
+    "pushed_at":"2019-03-06T00:20:14Z",
+    "git_url":"git:\/\/github.com\/blue-star-software\/metasploit-framework.git",
+    "ssh_url":"git@github.com:blue-star-software\/metasploit-framework.git",
+    "clone_url":"https:\/\/github.com\/blue-star-software\/metasploit-framework.git",
+    "svn_url":"https:\/\/github.com\/blue-star-software\/metasploit-framework",
+    "homepage":null,
+    "size":30145,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"other",
+      "name":"Other",
+      "spdx_id":"NOASSERTION",
+      "url":null,
+      "node_id":"MDc6TGljZW5zZTA="
+    },
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:48:21Z",
+    "organization":{
+      "login":"blue-star-software",
+      "id":48262812,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjQ4MjYyODEy",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/48262812?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/blue-star-software",
+      "html_url":"https:\/\/github.com\/blue-star-software",
+      "followers_url":"https:\/\/api.github.com\/users\/blue-star-software\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/blue-star-software\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/blue-star-software\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/blue-star-software\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/blue-star-software\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/blue-star-software\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/blue-star-software\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/blue-star-software\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/blue-star-software\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "owner_login":"blue-star-software",
+    "owner_id":48262812,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjQ4MjYyODEy",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/48262812?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/blue-star-software",
+    "owner_html_url":"https:\/\/github.com\/blue-star-software",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/blue-star-software\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/blue-star-software\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/blue-star-software\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/blue-star-software\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/blue-star-software\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/blue-star-software\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/blue-star-software\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/blue-star-software\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/blue-star-software\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174047489,
@@ -684,7 +946,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174082111,
@@ -811,7 +1076,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174098708,
@@ -925,7 +1193,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174105653,
@@ -1039,7 +1310,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-6340"
+    ]
   },
   {
     "id":174106635,
@@ -1147,7 +1421,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174127966,
@@ -1255,7 +1532,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174129048,
@@ -1363,7 +1643,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174132947,
@@ -1471,7 +1754,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174229696,
@@ -1579,6 +1865,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

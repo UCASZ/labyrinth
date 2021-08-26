@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":183716100,
@@ -213,7 +216,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":193210161,
@@ -321,7 +327,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":216283040,
@@ -412,7 +421,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T02:42:39Z",
+    "matched_at":"2021-08-20T02:45:37Z",
     "owner_login":"pquerna",
     "owner_id":110123,
     "owner_node_id":"MDQ6VXNlcjExMDEyMw==",
@@ -436,7 +445,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-17596"
+    ]
   },
   {
     "id":216513053,
@@ -544,7 +556,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-10149"
+    ]
   },
   {
     "id":216836283,
@@ -652,7 +667,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":217175829,
@@ -760,7 +778,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":217181080,
@@ -868,7 +889,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":217204205,
@@ -982,7 +1006,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":217213952,
@@ -1088,9 +1115,13 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
+      "cnvd-c OR cnvd-2 OR cnnvd-2",
       "rce"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+      "CNVD-2019-48814"
+    ]
   },
   {
     "id":217222743,
@@ -1204,7 +1235,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":217222844,
@@ -1318,7 +1352,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":217246497,
@@ -1426,7 +1463,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":217257852,
@@ -1534,7 +1574,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-11043"
+    ]
   },
   {
     "id":217258558,
@@ -1642,6 +1685,9 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-11043"
+    ]
   }
 ]

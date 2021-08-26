@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":189860827,
@@ -213,7 +216,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":210224970,
@@ -321,7 +327,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":215321619,
@@ -429,7 +438,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":223624709,
@@ -543,7 +555,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":223922610,
@@ -651,7 +666,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":223930097,
@@ -759,7 +777,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-19268"
+    ]
   },
   {
     "id":225234544,
@@ -873,7 +894,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225419593,
@@ -981,7 +1005,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225516660,
@@ -1089,7 +1116,10 @@
     "matched_list":[
       "cve poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225794258,
@@ -1203,7 +1233,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225794793,
@@ -1311,7 +1344,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225799147,
@@ -1419,7 +1455,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":225837835,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMjU4Mzc4MzU=",
+    "name":"Metasploit.root.sx",
+    "full_name":"SEA-GHOST\/Metasploit.root.sx",
+    "private":false,
+    "html_url":"https:\/\/github.com\/SEA-GHOST\/Metasploit.root.sx",
+    "description":"nan",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx",
+    "forks_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/SEA-GHOST\/Metasploit.root.sx\/deployments",
+    "created_at":"2019-12-04T10:14:59Z",
+    "updated_at":"2019-12-04T10:16:22Z",
+    "pushed_at":"2019-12-04T10:16:17Z",
+    "git_url":"git:\/\/github.com\/SEA-GHOST\/Metasploit.root.sx.git",
+    "ssh_url":"git@github.com:SEA-GHOST\/Metasploit.root.sx.git",
+    "clone_url":"https:\/\/github.com\/SEA-GHOST\/Metasploit.root.sx.git",
+    "svn_url":"https:\/\/github.com\/SEA-GHOST\/Metasploit.root.sx",
+    "homepage":null,
+    "size":1,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"HTML",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":true,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:51:31Z",
+    "owner_login":"SEA-GHOST",
+    "owner_id":55535374,
+    "owner_node_id":"MDQ6VXNlcjU1NTM1Mzc0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/55535374?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/SEA-GHOST",
+    "owner_html_url":"https:\/\/github.com\/SEA-GHOST",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/SEA-GHOST\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/SEA-GHOST\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/SEA-GHOST\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/SEA-GHOST\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/SEA-GHOST\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/SEA-GHOST\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/SEA-GHOST\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/SEA-GHOST\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/SEA-GHOST\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225852215,
@@ -1527,7 +1677,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225873151,
@@ -1636,7 +1789,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225878359,
@@ -1750,7 +1906,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":225909315,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMjU5MDkzMTU=",
+    "name":"Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-",
+    "full_name":"spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-",
+    "private":false,
+    "html_url":"https:\/\/github.com\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-",
+    "description":"nan",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-",
+    "forks_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-\/deployments",
+    "created_at":"2019-12-04T16:23:58Z",
+    "updated_at":"2021-05-03T05:14:02Z",
+    "pushed_at":"2019-12-04T16:23:59Z",
+    "git_url":"git:\/\/github.com\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-.git",
+    "ssh_url":"git@github.com:spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-.git",
+    "clone_url":"https:\/\/github.com\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-.git",
+    "svn_url":"https:\/\/github.com\/spangalas\/Metasploit-Hack-Cars-Remotely-Using-Laptop-Any-Device-Remotely-",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":2,
+    "watchers_count":2,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":2,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:51:31Z",
+    "owner_login":"spangalas",
+    "owner_id":50533619,
+    "owner_node_id":"MDQ6VXNlcjUwNTMzNjE5",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/50533619?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/spangalas",
+    "owner_html_url":"https:\/\/github.com\/spangalas",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/spangalas\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/spangalas\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/spangalas\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/spangalas\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/spangalas\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/spangalas\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/spangalas\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/spangalas\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/spangalas\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225921003,
@@ -1864,7 +2134,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225937799,
@@ -1978,7 +2251,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":258967892,
@@ -2086,6 +2362,9 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-14287"
+    ]
   }
 ]

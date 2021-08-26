@@ -88,7 +88,7 @@
     "temp_clone_token":"",
     "network_count":2,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T01:27:33Z",
+    "matched_at":"2021-08-26T17:40:06Z",
     "organization":null,
     "owner_login":"Ramikan",
     "owner_id":13258557,
@@ -109,9 +109,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":108768594,
@@ -219,7 +223,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":125909222,
@@ -327,7 +334,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":164607610,
@@ -441,7 +451,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":164734574,
@@ -549,7 +562,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":164753575,
@@ -657,7 +673,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":164794903,
@@ -771,7 +790,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":164844913,
@@ -904,7 +926,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":164882218,
@@ -1013,7 +1038,10 @@
       "rce",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":164890869,
@@ -1140,7 +1168,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":164956270,
@@ -1248,6 +1279,9 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2009-4660"
+    ]
   }
 ]

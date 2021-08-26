@@ -111,7 +111,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":70380539,
@@ -238,7 +241,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":122334567,
@@ -346,7 +352,121 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":167383356,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxNjczODMzNTY=",
+    "name":"AutoMetasploit",
+    "full_name":"ConnorXploit\/AutoMetasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/ConnorXploit\/AutoMetasploit",
+    "description":"Automatizaci\u00f3n con Python de Nmap, Metasploit, Shodan, OpenVas, Nessus, Explotaci\u00f3n y Post-Explotaci\u00f3n",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/ConnorXploit\/AutoMetasploit\/deployments",
+    "created_at":"2019-01-24T14:45:18Z",
+    "updated_at":"2019-03-25T19:37:50Z",
+    "pushed_at":"2019-02-25T12:55:26Z",
+    "git_url":"git:\/\/github.com\/ConnorXploit\/AutoMetasploit.git",
+    "ssh_url":"git@github.com:ConnorXploit\/AutoMetasploit.git",
+    "clone_url":"https:\/\/github.com\/ConnorXploit\/AutoMetasploit.git",
+    "svn_url":"https:\/\/github.com\/ConnorXploit\/AutoMetasploit",
+    "homepage":"",
+    "size":330,
+    "stargazers_count":3,
+    "watchers_count":3,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":3,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":3,
+    "open_issues":0,
+    "watchers":3,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":3,
+    "subscribers_count":4,
+    "matched_at":"2021-08-26T17:47:30Z",
+    "organization":null,
+    "owner_login":"ConnorXploit",
+    "owner_id":10244274,
+    "owner_node_id":"MDQ6VXNlcjEwMjQ0Mjc0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/10244274?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/ConnorXploit",
+    "owner_html_url":"https:\/\/github.com\/ConnorXploit",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/ConnorXploit\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/ConnorXploit\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/ConnorXploit\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/ConnorXploit\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/ConnorXploit\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/ConnorXploit\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/ConnorXploit\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/ConnorXploit\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/ConnorXploit\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":169000508,
@@ -461,7 +581,10 @@
       "exploit",
       "shellcode"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":169859151,
@@ -569,7 +692,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":172401532,
@@ -679,7 +805,10 @@
       "cve-2",
       "remote code execution"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2019-7238"
+    ]
   },
   {
     "id":172429144,
@@ -806,7 +935,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-6340"
+    ]
   },
   {
     "id":172458734,
@@ -917,7 +1049,10 @@
       "rce",
       "rce poc"
     ],
-    "matched_count":4
+    "matched_count":4,
+    "vul_ids":[
+      "CVE-2019-6340"
+    ]
   },
   {
     "id":172558765,
@@ -1025,6 +1160,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

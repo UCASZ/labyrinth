@@ -111,7 +111,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":190880212,
@@ -220,7 +223,10 @@
       "exploit",
       "shellcode"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":192567308,
@@ -328,7 +334,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":211275710,
@@ -442,7 +451,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":218966600,
@@ -527,7 +539,7 @@
     "temp_clone_token":"",
     "network_count":26,
     "subscribers_count":6,
-    "matched_at":"2021-08-20T02:41:46Z",
+    "matched_at":"2021-08-26T17:51:32Z",
     "organization":null,
     "owner_login":"N1ckDunn",
     "owner_id":4202898,
@@ -548,9 +560,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":221855462,
@@ -658,7 +674,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224892922,
@@ -766,7 +785,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":226188349,
@@ -875,7 +897,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-1476"
+    ]
   },
   {
     "id":226716826,
@@ -983,7 +1008,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":227076676,
@@ -1091,7 +1119,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":227081032,
@@ -1200,7 +1231,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2014-1322"
+    ]
   },
   {
     "id":227114608,
@@ -1315,7 +1349,10 @@
       "exploit",
       "vulnerability poc"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":227140055,
@@ -1448,7 +1485,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":227140629,
@@ -1556,7 +1596,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":227156932,
@@ -1670,7 +1713,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":227174596,
@@ -1784,6 +1830,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

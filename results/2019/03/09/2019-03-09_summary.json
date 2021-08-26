@@ -124,7 +124,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":166251786,
@@ -232,7 +235,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":172302909,
@@ -340,7 +346,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":172628512,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxNzI2Mjg1MTI=",
+    "name":"EffectiveCouscous",
+    "full_name":"maxlandon\/EffectiveCouscous",
+    "private":false,
+    "html_url":"https:\/\/github.com\/maxlandon\/EffectiveCouscous",
+    "description":"A structured set of Maltego Transforms that interface the Metasploit Framework, and other tools.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous",
+    "forks_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/maxlandon\/EffectiveCouscous\/deployments",
+    "created_at":"2019-02-26T03:10:22Z",
+    "updated_at":"2021-08-01T01:05:19Z",
+    "pushed_at":"2019-03-09T14:48:22Z",
+    "git_url":"git:\/\/github.com\/maxlandon\/EffectiveCouscous.git",
+    "ssh_url":"git@github.com:maxlandon\/EffectiveCouscous.git",
+    "clone_url":"https:\/\/github.com\/maxlandon\/EffectiveCouscous.git",
+    "svn_url":"https:\/\/github.com\/maxlandon\/EffectiveCouscous",
+    "homepage":null,
+    "size":85756,
+    "stargazers_count":7,
+    "watchers_count":7,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":7,
+    "default_branch":"v0.2",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":0,
+    "matched_at":"2021-08-26T17:48:21Z",
+    "organization":null,
+    "owner_login":"maxlandon",
+    "owner_id":25826036,
+    "owner_node_id":"MDQ6VXNlcjI1ODI2MDM2",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/25826036?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/maxlandon",
+    "owner_html_url":"https:\/\/github.com\/maxlandon",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/maxlandon\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/maxlandon\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/maxlandon\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/maxlandon\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/maxlandon\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/maxlandon\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/maxlandon\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/maxlandon\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/maxlandon\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174640001,
@@ -448,7 +568,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174664806,
@@ -556,7 +679,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174685957,
@@ -670,7 +796,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174693463,
@@ -778,7 +907,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174725107,
@@ -886,7 +1018,10 @@
     "matched_list":[
       "attack poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174747299,
@@ -994,7 +1129,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":175292204,
@@ -1103,6 +1241,9 @@
       "rce",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -1,5 +1,122 @@
 [
   {
+    "id":30828517,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMDgyODUxNw==",
+    "name":"MSF-ArchInstaller",
+    "full_name":"teravice\/MSF-ArchInstaller",
+    "private":false,
+    "html_url":"https:\/\/github.com\/teravice\/MSF-ArchInstaller",
+    "description":"Arch Linux Metasploit Framework Installation Script",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller",
+    "forks_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/teravice\/MSF-ArchInstaller\/deployments",
+    "created_at":"2015-02-15T13:44:23Z",
+    "updated_at":"2021-01-31T08:25:46Z",
+    "pushed_at":"2019-11-28T14:14:08Z",
+    "git_url":"git:\/\/github.com\/teravice\/MSF-ArchInstaller.git",
+    "ssh_url":"git@github.com:teravice\/MSF-ArchInstaller.git",
+    "clone_url":"https:\/\/github.com\/teravice\/MSF-ArchInstaller.git",
+    "svn_url":"https:\/\/github.com\/teravice\/MSF-ArchInstaller",
+    "homepage":"",
+    "size":24,
+    "stargazers_count":8,
+    "watchers_count":8,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":7,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "forks":7,
+    "open_issues":0,
+    "watchers":8,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":7,
+    "subscribers_count":3,
+    "matched_at":"2021-08-26T17:51:30Z",
+    "organization":null,
+    "owner_login":"teravice",
+    "owner_id":1861515,
+    "owner_node_id":"MDQ6VXNlcjE4NjE1MTU=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/1861515?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/teravice",
+    "owner_html_url":"https:\/\/github.com\/teravice",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/teravice\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/teravice\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/teravice\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/teravice\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/teravice\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/teravice\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/teravice\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/teravice\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/teravice\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
     "id":203477227,
     "node_id":"MDEwOlJlcG9zaXRvcnkyMDM0NzcyMjc=",
     "name":"CVE-2019-0708-test",
@@ -105,7 +222,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":219710343,
@@ -211,9 +331,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
+      "metasploit module OR payload",
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":221020959,
@@ -321,7 +445,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224497353,
@@ -429,7 +556,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224561901,
@@ -537,7 +667,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224578695,
@@ -645,7 +778,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224633726,
@@ -753,7 +889,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224671802,
@@ -867,7 +1006,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224676394,
@@ -975,7 +1117,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224679412,
@@ -1083,7 +1228,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224683333,
@@ -1191,7 +1339,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224712543,
@@ -1305,7 +1456,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224723235,
@@ -1419,7 +1573,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224728761,
@@ -1527,6 +1684,120 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":224729746,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMjQ3Mjk3NDY=",
+    "name":"rubyfire",
+    "full_name":"tarxien\/rubyfire",
+    "private":false,
+    "html_url":"https:\/\/github.com\/tarxien\/rubyfire",
+    "description":"This is a port of the Crossfire.py script from https:\/\/github.com\/Eudoxier\/security-utilities\/tree\/master\/python\/crossfire to Ruby for Metasploit",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire",
+    "forks_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/tarxien\/rubyfire\/deployments",
+    "created_at":"2019-11-28T21:06:41Z",
+    "updated_at":"2019-11-28T21:52:12Z",
+    "pushed_at":"2019-11-28T21:52:10Z",
+    "git_url":"git:\/\/github.com\/tarxien\/rubyfire.git",
+    "ssh_url":"git@github.com:tarxien\/rubyfire.git",
+    "clone_url":"https:\/\/github.com\/tarxien\/rubyfire.git",
+    "svn_url":"https:\/\/github.com\/tarxien\/rubyfire",
+    "homepage":null,
+    "size":4,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:51:30Z",
+    "organization":null,
+    "owner_login":"tarxien",
+    "owner_id":45915742,
+    "owner_node_id":"MDQ6VXNlcjQ1OTE1NzQy",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/45915742?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/tarxien",
+    "owner_html_url":"https:\/\/github.com\/tarxien",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/tarxien\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/tarxien\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/tarxien\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/tarxien\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/tarxien\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/tarxien\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/tarxien\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/tarxien\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/tarxien\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

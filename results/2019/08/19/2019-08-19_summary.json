@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":187840869,
@@ -190,7 +193,7 @@
     "temp_clone_token":"",
     "network_count":22,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T02:32:53Z",
+    "matched_at":"2021-08-20T02:28:44Z",
     "organization":null,
     "owner_login":"jas502n",
     "owner_id":16593068,
@@ -214,7 +217,10 @@
       "cve-2",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-7238"
+    ]
   },
   {
     "id":193402556,
@@ -322,7 +328,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":201064286,
@@ -430,7 +439,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":202567297,
@@ -538,7 +550,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":202647353,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMDI2NDczNTM=",
+    "name":"msys2-msfupdate",
+    "full_name":"sinloss\/msys2-msfupdate",
+    "private":false,
+    "html_url":"https:\/\/github.com\/sinloss\/msys2-msfupdate",
+    "description":"Download the latest msi file from http:\/\/windows.metasploit.com and then extract, unzip and install it on your current environment which could be either msys2 or cygwin",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate",
+    "forks_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/sinloss\/msys2-msfupdate\/deployments",
+    "created_at":"2019-08-16T02:52:23Z",
+    "updated_at":"2019-08-19T01:25:39Z",
+    "pushed_at":"2019-08-19T01:25:37Z",
+    "git_url":"git:\/\/github.com\/sinloss\/msys2-msfupdate.git",
+    "ssh_url":"git@github.com:sinloss\/msys2-msfupdate.git",
+    "clone_url":"https:\/\/github.com\/sinloss\/msys2-msfupdate.git",
+    "svn_url":"https:\/\/github.com\/sinloss\/msys2-msfupdate",
+    "homepage":"",
+    "size":10,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:47:18Z",
+    "organization":null,
+    "owner_login":"sinloss",
+    "owner_id":4133131,
+    "owner_node_id":"MDQ6VXNlcjQxMzMxMzE=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/4133131?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/sinloss",
+    "owner_html_url":"https:\/\/github.com\/sinloss",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/sinloss\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/sinloss\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/sinloss\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/sinloss\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/sinloss\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/sinloss\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/sinloss\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/sinloss\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/sinloss\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":202911823,
@@ -649,7 +775,10 @@
       "rce",
       "remote code execution"
     ],
-    "matched_count":4
+    "matched_count":4,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":203068954,
@@ -757,7 +886,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":203102495,
@@ -865,7 +997,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":203112482,
@@ -973,7 +1108,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":203191604,
@@ -1082,7 +1220,121 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2015-2080"
+    ]
+  },
+  {
+    "id":203200130,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMDMyMDAxMzA=",
+    "name":"Metasploit",
+    "full_name":"w412lock\/Metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/w412lock\/Metasploit",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/w412lock\/Metasploit\/deployments",
+    "created_at":"2019-08-19T15:30:37Z",
+    "updated_at":"2019-08-19T15:30:50Z",
+    "pushed_at":"2019-08-19T15:30:48Z",
+    "git_url":"git:\/\/github.com\/w412lock\/Metasploit.git",
+    "ssh_url":"git@github.com:w412lock\/Metasploit.git",
+    "clone_url":"https:\/\/github.com\/w412lock\/Metasploit.git",
+    "svn_url":"https:\/\/github.com\/w412lock\/Metasploit",
+    "homepage":null,
+    "size":3,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:47:18Z",
+    "organization":null,
+    "owner_login":"w412lock",
+    "owner_id":53388727,
+    "owner_node_id":"MDQ6VXNlcjUzMzg4NzI3",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/53388727?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/w412lock",
+    "owner_html_url":"https:\/\/github.com\/w412lock",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/w412lock\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/w412lock\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/w412lock\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/w412lock\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/w412lock\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/w412lock\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/w412lock\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/w412lock\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/w412lock\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":203256581,
@@ -1190,6 +1442,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

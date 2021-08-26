@@ -111,7 +111,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":130397864,
@@ -244,7 +247,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":177687673,
@@ -352,7 +358,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":184154598,
@@ -466,7 +475,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":184697347,
@@ -551,7 +563,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2021-08-20T01:56:54Z",
+    "matched_at":"2021-08-26T17:45:19Z",
     "organization":null,
     "owner_login":"7043mcgeep",
     "owner_id":27043910,
@@ -572,9 +584,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "cve-2"
+      "cve-2",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2017-8890"
+    ]
   },
   {
     "id":184710806,
@@ -682,7 +698,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":184797842,
@@ -790,7 +809,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":184798021,
@@ -898,7 +920,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":184806129,
@@ -1006,6 +1031,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

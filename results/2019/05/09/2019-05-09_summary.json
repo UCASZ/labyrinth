@@ -105,7 +105,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-8890"
+    ]
   },
   {
     "id":170261590,
@@ -219,7 +222,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-7304"
+    ]
+  },
+  {
+    "id":172669557,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxNzI2Njk1NTc=",
+    "name":"msfPlus",
+    "full_name":"jason3e7\/msfPlus",
+    "private":false,
+    "html_url":"https:\/\/github.com\/jason3e7\/msfPlus",
+    "description":"metasploit-framework Plus Patch",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus",
+    "forks_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/jason3e7\/msfPlus\/deployments",
+    "created_at":"2019-02-26T08:29:13Z",
+    "updated_at":"2019-05-08T07:14:14Z",
+    "pushed_at":"2019-05-09T08:43:41Z",
+    "git_url":"git:\/\/github.com\/jason3e7\/msfPlus.git",
+    "ssh_url":"git@github.com:jason3e7\/msfPlus.git",
+    "clone_url":"https:\/\/github.com\/jason3e7\/msfPlus.git",
+    "svn_url":"https:\/\/github.com\/jason3e7\/msfPlus",
+    "homepage":null,
+    "size":49,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:45:21Z",
+    "organization":null,
+    "owner_login":"jason3e7",
+    "owner_id":3059297,
+    "owner_node_id":"MDQ6VXNlcjMwNTkyOTc=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/3059297?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/jason3e7",
+    "owner_html_url":"https:\/\/github.com\/jason3e7",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/jason3e7\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/jason3e7\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/jason3e7\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/jason3e7\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/jason3e7\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/jason3e7\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/jason3e7\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/jason3e7\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/jason3e7\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":174390413,
@@ -327,7 +444,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":177681155,
@@ -436,7 +556,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-9978"
+    ]
   },
   {
     "id":180017142,
@@ -521,7 +644,7 @@
     "temp_clone_token":"",
     "network_count":75,
     "subscribers_count":14,
-    "matched_at":"2021-08-20T02:20:58Z",
+    "matched_at":"2021-08-20T01:45:49Z",
     "organization":null,
     "owner_login":"xairy",
     "owner_id":4965052,
@@ -545,7 +668,121 @@
       "exploit",
       "shellcode"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":184001424,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxODQwMDE0MjQ=",
+    "name":"CNVD-C-2019-48814",
+    "full_name":"bigsizeme\/CNVD-C-2019-48814",
+    "private":false,
+    "html_url":"https:\/\/github.com\/bigsizeme\/CNVD-C-2019-48814",
+    "description":"weblogic wls9-async \u53cd\u5e8f\u5217\u5229\u7528\u56fe\u5f62\u7248\u5ba2\u6237\u7aef CNVD-C-2019-48814",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814",
+    "forks_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/bigsizeme\/CNVD-C-2019-48814\/deployments",
+    "created_at":"2019-04-29T04:48:33Z",
+    "updated_at":"2020-06-11T02:34:50Z",
+    "pushed_at":"2019-05-09T02:19:08Z",
+    "git_url":"git:\/\/github.com\/bigsizeme\/CNVD-C-2019-48814.git",
+    "ssh_url":"git@github.com:bigsizeme\/CNVD-C-2019-48814.git",
+    "clone_url":"https:\/\/github.com\/bigsizeme\/CNVD-C-2019-48814.git",
+    "svn_url":"https:\/\/github.com\/bigsizeme\/CNVD-C-2019-48814",
+    "homepage":null,
+    "size":24459,
+    "stargazers_count":12,
+    "watchers_count":12,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":4,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":4,
+    "open_issues":0,
+    "watchers":12,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":4,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:40:08Z",
+    "organization":null,
+    "owner_login":"bigsizeme",
+    "owner_id":17845094,
+    "owner_node_id":"MDQ6VXNlcjE3ODQ1MDk0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/17845094?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/bigsizeme",
+    "owner_html_url":"https:\/\/github.com\/bigsizeme",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/bigsizeme\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/bigsizeme\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/bigsizeme\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/bigsizeme\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/bigsizeme\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/bigsizeme\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/bigsizeme\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/bigsizeme\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/bigsizeme\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "cnvd-c OR cnvd-2 OR cnnvd-2"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+      "CNVD-2019-48814"
+    ]
   },
   {
     "id":185434653,
@@ -659,7 +896,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":185732315,
@@ -767,7 +1007,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":185733954,
@@ -876,7 +1119,10 @@
       "cve poc",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-5736"
+    ]
   },
   {
     "id":185784734,
@@ -984,7 +1230,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":185790503,
@@ -1092,7 +1341,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":185854300,
@@ -1200,7 +1452,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":185882388,
@@ -1285,7 +1540,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2021-08-20T01:52:32Z",
+    "matched_at":"2021-08-26T17:45:21Z",
     "organization":null,
     "owner_login":"DeadConsle3",
     "owner_id":50467396,
@@ -1306,8 +1561,12 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

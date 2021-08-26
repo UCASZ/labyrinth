@@ -124,7 +124,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-8115"
+    ]
   },
   {
     "id":171010279,
@@ -232,7 +235,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":182920851,
@@ -340,7 +346,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":193926769,
@@ -450,7 +459,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2019-0604"
+    ]
   },
   {
     "id":204518108,
@@ -558,7 +570,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":211429989,
@@ -666,7 +681,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":213964963,
@@ -774,7 +792,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":215630073,
@@ -882,7 +903,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":215708888,
@@ -990,7 +1014,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":215748552,
@@ -1099,7 +1126,11 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2012-5959",
+      "CVE-2012-5960"
+    ]
   },
   {
     "id":215750420,
@@ -1207,7 +1238,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":215924887,
@@ -1315,7 +1349,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":215935733,
@@ -1423,7 +1460,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":215956631,
@@ -1531,7 +1571,127 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":216067959,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMTYwNjc5NTk=",
+    "name":"shelldon",
+    "full_name":"bad-hombres\/shelldon",
+    "private":false,
+    "html_url":"https:\/\/github.com\/bad-hombres\/shelldon",
+    "description":"General framework for interactive shell environment \"metasploit \/ reconNG ish\"",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon",
+    "forks_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/bad-hombres\/shelldon\/deployments",
+    "created_at":"2019-10-18T16:44:23Z",
+    "updated_at":"2021-04-14T06:32:58Z",
+    "pushed_at":"2019-10-18T16:52:09Z",
+    "git_url":"git:\/\/github.com\/bad-hombres\/shelldon.git",
+    "ssh_url":"git@github.com:bad-hombres\/shelldon.git",
+    "clone_url":"https:\/\/github.com\/bad-hombres\/shelldon.git",
+    "svn_url":"https:\/\/github.com\/bad-hombres\/shelldon",
+    "homepage":null,
+    "size":5,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "forks":0,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:49:31Z",
+    "organization":null,
+    "owner_login":"bad-hombres",
+    "owner_id":28894675,
+    "owner_node_id":"MDQ6VXNlcjI4ODk0Njc1",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/28894675?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/bad-hombres",
+    "owner_html_url":"https:\/\/github.com\/bad-hombres",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/bad-hombres\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/bad-hombres\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/bad-hombres\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/bad-hombres\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/bad-hombres\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/bad-hombres\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/bad-hombres\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/bad-hombres\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/bad-hombres\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":216118451,
@@ -1639,7 +1799,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":216130566,
@@ -1753,6 +1916,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

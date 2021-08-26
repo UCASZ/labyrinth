@@ -124,7 +124,10 @@
     "matched_list":[
       "vulnerability poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":140003885,
@@ -238,7 +241,10 @@
     "matched_list":[
       "command injection"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":163720475,
@@ -350,9 +356,13 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":180413222,
@@ -460,7 +470,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":180521701,
@@ -568,7 +581,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":180631383,
@@ -676,7 +692,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":180679185,
@@ -787,7 +806,10 @@
       "rce",
       "rce poc"
     ],
-    "matched_count":4
+    "matched_count":4,
+    "vul_ids":[
+      "CVE-2019-11076"
+    ]
   },
   {
     "id":180750768,
@@ -896,7 +918,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2018-8284"
+    ]
   },
   {
     "id":180812952,
@@ -1004,7 +1029,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":180814636,
@@ -1112,7 +1140,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":180829090,
@@ -1220,6 +1251,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

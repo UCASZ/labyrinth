@@ -111,7 +111,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":152153471,
@@ -219,7 +222,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":204999036,
@@ -327,7 +333,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":205982684,
@@ -435,7 +444,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206863569,
@@ -520,7 +532,7 @@
     "temp_clone_token":"",
     "network_count":5,
     "subscribers_count":3,
-    "matched_at":"2021-08-20T02:28:52Z",
+    "matched_at":"2021-08-20T02:30:05Z",
     "organization":null,
     "owner_login":"RickGeex",
     "owner_id":7975904,
@@ -542,9 +554,13 @@
     "owner_site_admin":false,
     "matched_list":[
       "cve-2",
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":2
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":206867112,
@@ -658,7 +674,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":206898650,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMDY4OTg2NTA=",
+    "name":"metasploit-framework",
+    "full_name":"Zn00k\/metasploit-framework",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Zn00k\/metasploit-framework",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework",
+    "forks_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Zn00k\/metasploit-framework\/deployments",
+    "created_at":"2019-09-07T01:30:57Z",
+    "updated_at":"2019-09-07T01:51:48Z",
+    "pushed_at":"2019-09-07T01:51:47Z",
+    "git_url":"git:\/\/github.com\/Zn00k\/metasploit-framework.git",
+    "ssh_url":"git@github.com:Zn00k\/metasploit-framework.git",
+    "clone_url":"https:\/\/github.com\/Zn00k\/metasploit-framework.git",
+    "svn_url":"https:\/\/github.com\/Zn00k\/metasploit-framework",
+    "homepage":null,
+    "size":16,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:47:22Z",
+    "organization":null,
+    "owner_login":"Zn00k",
+    "owner_id":55006200,
+    "owner_node_id":"MDQ6VXNlcjU1MDA2MjAw",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/55006200?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Zn00k",
+    "owner_html_url":"https:\/\/github.com\/Zn00k",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Zn00k\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Zn00k\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Zn00k\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Zn00k\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Zn00k\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Zn00k\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Zn00k\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Zn00k\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Zn00k\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206901175,
@@ -766,7 +896,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206901771,
@@ -874,7 +1007,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206921307,
@@ -982,7 +1118,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206926531,
@@ -1090,7 +1229,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":206928449,
@@ -1198,7 +1340,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":206932731,
@@ -1289,7 +1434,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T02:28:51Z",
+    "matched_at":"2021-08-26T17:47:22Z",
     "organization":null,
     "owner_login":"FrostsaberX",
     "owner_id":24857203,
@@ -1311,9 +1456,13 @@
     "owner_site_admin":false,
     "matched_list":[
       "cve-2",
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":2
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":206939682,
@@ -1422,7 +1571,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":206949250,
@@ -1530,7 +1682,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206963535,
@@ -1638,7 +1793,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":206976374,
@@ -1747,7 +1905,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":206986229,
@@ -1855,7 +2016,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":207005651,
@@ -1963,7 +2127,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":207942029,
@@ -2071,6 +2238,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

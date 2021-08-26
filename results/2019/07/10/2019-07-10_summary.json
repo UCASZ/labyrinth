@@ -88,7 +88,7 @@
     "temp_clone_token":"",
     "network_count":5,
     "subscribers_count":3,
-    "matched_at":"2021-08-20T02:27:53Z",
+    "matched_at":"2021-08-26T17:45:14Z",
     "organization":null,
     "owner_login":"Assassinumz",
     "owner_id":20889815,
@@ -109,9 +109,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":155200663,
@@ -219,7 +223,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":179525774,
@@ -333,7 +340,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":184210054,
@@ -441,7 +451,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-8513"
+    ]
   },
   {
     "id":184996067,
@@ -549,7 +562,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-8565"
+    ]
   },
   {
     "id":187807902,
@@ -657,7 +673,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":195171033,
@@ -765,7 +784,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-12272"
+    ]
   },
   {
     "id":195608323,
@@ -879,7 +901,10 @@
     "matched_list":[
       "vulnerability poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":195980699,
@@ -987,7 +1012,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":196119574,
@@ -1095,7 +1123,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":196134216,
@@ -1209,7 +1240,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":196148845,
@@ -1317,7 +1351,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":196150697,
@@ -1425,7 +1462,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":196151717,
@@ -1539,7 +1579,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":196199288,
@@ -1647,7 +1690,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":196208560,
@@ -1755,7 +1801,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-0785"
+    ]
   },
   {
     "id":196239476,
@@ -1840,7 +1889,7 @@
     "temp_clone_token":"",
     "network_count":2,
     "subscribers_count":0,
-    "matched_at":"2021-08-20T02:27:42Z",
+    "matched_at":"2021-08-20T02:23:27Z",
     "organization":null,
     "owner_login":"saaph",
     "owner_id":27734694,
@@ -1864,7 +1913,11 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2017-11104",
+      "CVE-2017-3143"
+    ]
   },
   {
     "id":196272142,
@@ -1972,7 +2025,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":196274924,
@@ -2099,6 +2155,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]
