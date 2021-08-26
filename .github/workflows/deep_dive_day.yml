@@ -32,17 +32,8 @@ jobs:
   
       - name: do_deep_dive
         run: |
-          crawl_files --verbose results/${{ github.events.inputs.year }}/${{ github.events.inputs.month }}/${{ github.events.inputs.day }}/${{ github.events.inputs.year }}-${{ github.events.inputs.month }}-${{ github.events.inputs.day }}_summary.json
+          crawl_files --verbose results/${{ github.event.inputs.year }}/${{ github.event.inputs.month }}/${{ github.event.inputs.day }}/${{ github.event.inputs.year }}-${{ github.event.inputs.month }}-${{ github.event.inputs.day }}_summary.json
           
-#       - name: do_search
-#         uses: ./.github/actions/single_search
-#         with:
-#           start_date: ${{ github.event.inputs.start_date }}
-#           end_date: ${{ github.event.inputs.end_date }}
-#           search_str: ${{ github.event.inputs.search_str }}
-#           extras: ${{ github.event.inputs.extras }}
-#           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: add and commit
         uses: ./.github/actions/commit_results
         with:
