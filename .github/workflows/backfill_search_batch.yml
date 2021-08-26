@@ -19,47 +19,51 @@ jobs:
       max-parallel: 3
       matrix:
         timeslice:
-         - start_date: ${{ github.event.inputs.year }}-01
-           end_date: ${{ github.event.inputs.year }}-03
-         - start_date: ${{ github.event.inputs.year }}-04
-           end_date: ${{ github.event.inputs.year }}-06
-         - start_date: ${{ github.event.inputs.year }}-07
-           end_date: ${{ github.event.inputs.year }}-09
-         - start_date: ${{ github.event.inputs.year }}-10
-           end_date: ${{ github.event.inputs.year }}-12
+          - start_date: ${{ github.event.inputs.year }}-01
+            end_date: ${{ github.event.inputs.year }}-03
+          - start_date: ${{ github.event.inputs.year }}-04
+            end_date: ${{ github.event.inputs.year }}-06
+          - start_date: ${{ github.event.inputs.year }}-07
+            end_date: ${{ github.event.inputs.year }}-09
+          - start_date: ${{ github.event.inputs.year }}-10
+            end_date: ${{ github.event.inputs.year }}-12
         search_str:
           # comments indicate a snapshot of how many results there were
           # for a given search around the time it was added to the list
           # 18176
-          - exploit
+          #- exploit
           # 110
-          - heap overflow
+          #- heap overflow
           # 126
-          - zeroday
+          #- zeroday
           # 191
-          - rce poc
+          #- rce poc
           # 219
-          - attack poc
+          #- attack poc
           # 253
-          - metasploit module OR metasploit payload
+          #- metasploit module OR metasploit payload
           # 4626
-          - cve-2
+          #- cve-2
           # 279
-          - command injection
+          #- command injection
           # 383
-          - 0day
+          #- 0day
           # 441
-          - vulnerability poc
+          #- vulnerability poc
           # 526
-          - remote code execution
+          #- remote code execution
           # 960
-          - sploit
+          #- sploit
           # 1114
-          - cve poc
+          #- cve poc
           # 2021
-          - shellcode
+          #- shellcode
           # 2267
-          - rce
+          #- rce
+          # 119
+          - cnvd-c OR cnvd-2 OR cnnvd-2
+          # 2652
+          - metasploit module OR payload
           
     steps:
       - name: checkout
