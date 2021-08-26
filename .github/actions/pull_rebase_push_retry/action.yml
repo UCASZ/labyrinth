@@ -8,7 +8,7 @@ runs:
     # but we can recover from pull-push-pull race conditions
     - name: push results
       run: |
-        for retry in {1..5}
+        for retry in {1..10}
           do
             git pull --rebase
             git push && break
