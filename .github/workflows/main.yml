@@ -1,0 +1,53 @@
+name: Deep Dive Day
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "YYYY"
+        required: true
+      month:
+        description: "MM"
+        required: true
+      day:
+        description: "DD"
+        required: true
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+       
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+  
+      - name: do_deep_dive
+        run: |
+          crawl_files --verbose results/${{ github.events.inputs.year }}/${{ github.events.inputs.month }}/${{ github.events.inputs.day }}/${{ github.events.inputs.year }}-${{ github.events.inputs.month }}-${{ github.events.inputs.day }}_summary.json
+          
+#       - name: do_search
+#         uses: ./.github/actions/single_search
+#         with:
+#           start_date: ${{ github.event.inputs.start_date }}
+#           end_date: ${{ github.event.inputs.end_date }}
+#           search_str: ${{ github.event.inputs.search_str }}
+#           extras: ${{ github.event.inputs.extras }}
+#           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          results_dir: data
+          commit_msg: ${{ github.workflow }} deep dive ${{ github.event.inputs.year }}/${{ github.event.inputs.month }}/${{ github.event.inputs.day }}
+          
+      - name: push result
+        uses: ./.github/actions/pull_rebase_push_retry
