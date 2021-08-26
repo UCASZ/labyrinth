@@ -80,10 +80,10 @@
       "pull":true
     },
     "temp_clone_token":"",
-    "organization":null,
     "network_count":2,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T00:20:57Z",
+    "matched_at":"2021-08-26T18:41:05Z",
+    "organization":null,
     "owner_login":"x00itachi",
     "owner_id":2780355,
     "owner_node_id":"MDQ6VXNlcjI3ODAzNTU=",
@@ -103,9 +103,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":8143222,
@@ -188,6 +192,9 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "network_count":2,
+    "subscribers_count":97,
+    "matched_at":"2021-08-20T00:26:10Z",
     "organization":{
       "login":"heroku",
       "id":23211,
@@ -208,9 +215,6 @@
       "type":"Organization",
       "site_admin":false
     },
-    "network_count":2,
-    "subscribers_count":97,
-    "matched_at":"2021-08-20T00:26:10Z",
     "owner_login":"heroku",
     "owner_id":23211,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjIzMjEx",
@@ -232,6 +236,9 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2013-0269"
+    ]
   }
 ]

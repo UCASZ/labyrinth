@@ -82,7 +82,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T00:56:18Z",
+    "matched_at":"2021-08-26T18:45:17Z",
     "organization":{
       "login":"Vulnerability-Research-Team",
       "id":5470670,
@@ -122,9 +122,13 @@
     "owner_type":"Organization",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":12915784,
@@ -209,7 +213,7 @@
     "temp_clone_token":"",
     "network_count":2,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T00:56:17Z",
+    "matched_at":"2021-08-26T18:45:17Z",
     "organization":null,
     "owner_login":"nanotechz9l",
     "owner_id":712468,
@@ -230,8 +234,12 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

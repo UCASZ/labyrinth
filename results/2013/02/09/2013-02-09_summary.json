@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2012-5613"
+    ]
   },
   {
     "id":8106597,
@@ -215,7 +218,10 @@
       "rce",
       "remote code execution"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":8106796,
@@ -324,6 +330,9 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

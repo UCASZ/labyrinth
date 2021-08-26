@@ -105,7 +105,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":14098614,
@@ -190,7 +193,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T01:21:22Z",
+    "matched_at":"2021-08-26T18:43:04Z",
     "organization":null,
     "owner_login":"rwincey",
     "owner_id":5438659,
@@ -211,9 +214,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
+      "metasploit module OR payload",
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":14117847,
@@ -321,6 +328,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

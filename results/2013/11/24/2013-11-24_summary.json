@@ -80,10 +80,10 @@
       "pull":true
     },
     "temp_clone_token":"",
-    "organization":null,
     "network_count":10,
     "subscribers_count":3,
     "matched_at":"2021-08-20T01:17:15Z",
+    "organization":null,
     "owner_login":"guhe120",
     "owner_id":5601255,
     "owner_node_id":"MDQ6VXNlcjU2MDEyNTU=",
@@ -105,7 +105,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2013-1491"
+    ]
   },
   {
     "id":14654969,
@@ -114,7 +117,7 @@
     "full_name":"l4merS3c\/Metasploit-Exploit-Modules",
     "private":false,
     "html_url":"https:\/\/github.com\/l4merS3c\/Metasploit-Exploit-Modules",
-    "description":"None",
+    "description":"nan",
     "fork":false,
     "url":"https:\/\/api.github.com\/repos\/l4merS3c\/Metasploit-Exploit-Modules",
     "forks_url":"https:\/\/api.github.com\/repos\/l4merS3c\/Metasploit-Exploit-Modules\/forks",
@@ -188,10 +191,10 @@
       "pull":true
     },
     "temp_clone_token":"",
-    "organization":null,
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T01:15:06Z",
+    "matched_at":"2021-08-26T18:44:06Z",
+    "organization":null,
     "owner_login":"l4merS3c",
     "owner_id":547635,
     "owner_node_id":"MDQ6VXNlcjU0NzYzNQ==",
@@ -211,9 +214,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":14666638,
@@ -296,10 +303,10 @@
       "pull":true
     },
     "temp_clone_token":"",
-    "organization":null,
     "network_count":1,
     "subscribers_count":1,
     "matched_at":"2021-08-20T01:15:06Z",
+    "organization":null,
     "owner_login":"CunningLogic",
     "owner_id":616385,
     "owner_node_id":"MDQ6VXNlcjYxNjM4NQ==",
@@ -321,6 +328,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

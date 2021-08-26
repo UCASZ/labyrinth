@@ -82,7 +82,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T01:17:11Z",
+    "matched_at":"2021-08-26T18:43:02Z",
     "owner_login":"integrity-sa",
     "owner_id":4949243,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjQ5NDkyNDM=",
@@ -122,9 +122,13 @@
       "site_admin":false
     },
     "matched_list":[
-      "cve-2"
+      "cve-2",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2013-3319"
+    ]
   },
   {
     "id":13315319,
@@ -238,6 +242,9 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]
