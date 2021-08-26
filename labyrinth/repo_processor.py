@@ -8,10 +8,13 @@ import os
 import tempfile
 import logging
 import git
+import git.exc
 import time
 import pandas as pd
-import json
+import re
 
+
+from labyrinth import DEBUG
 from labyrinth.errors import LabyrinthError
 from labyrinth.file_processor import process_dir
 from labyrinth.patterns import find_vul_ids, id_to_path, repo_id_to_path
@@ -20,7 +23,7 @@ from labyrinth.dir_helpers import (
     REPO_ID_RESULTS_HOME,
     VUL_ID_RESULTS_HOME,
 )
-from labyrinth import DEBUG
+from labyrinth.ignorelist import IGNORE_REPOS
 
 logger = logging.getLogger(__name__)
 
@@ -32,10 +35,15 @@ AGE_LIMIT_DAYS = 7
 
 def process_git_url(clone_from, workdir):
     logger.info(f"Cloning {clone_from} to {workdir}")
-    repo = git.Repo().clone_from(
-        url=clone_from,
-        to_path=workdir,
-    )
+    try:
+        git.Repo().clone_from(
+            url=clone_from,
+            to_path=workdir,
+        )
+    except git.exc.GitCommandError as e:
+        logger.warning(f"Skipping git repo at {clone_from} due to GitCommandError: {e}")
+        return pd.DataFrame()
+
     df = process_dir(workdir, workdir)
     return df
 
@@ -52,6 +60,10 @@ def process_row(row):
     clone_url = row["clone_url"]
 
     df = pd.DataFrame()
+
+    for key, ignorelist in IGNORE_REPOS.items():
+        if row[key].lower() in ignorelist:
+            return df
 
     repo_path = os.path.join(REPO_ID_RESULTS_HOME, repo_id_to_path(repo_id))
     repo_json = os.path.join(repo_path, f"{repo_id}.json")
@@ -172,7 +184,20 @@ def dump_results_by_vul_id(df):
         logger.info(f"Write {gname} results to {mdfile} ({len(new_df)})")
         # but output sorted by highest weight first
         new_df = new_df.sort_values(by="match_weight", ascending=False)
-        new_df.to_markdown(mdfile, index=False)
+        md = new_df.to_markdown(tablefmt="github", index=False)
+        # github won't display markdown files over 5MB
+        # so we can squeeze out the extraneous whitespace from
+        # our table before writing it out
+        # len(content)
+        # Out[50]: 5514594
+        # len(re.sub(' +', ' ', content))
+        # Out[51]: 1551856
+        # note: don't use \s because it clobbers \n too
+        md = re.sub(" +", " ", md)
+
+        with open(mdfile, "a") as fp:
+            fp.write(md)
+            fp.write("\n")
 
         logger.info(f"Write {gname} results to {jsonfile} ({len(new_df)})")
         # sort by repo_id to keep the json ordering consistent across runs
@@ -226,6 +251,9 @@ def scan_repos_from(json_file):
     in_df = pd.read_json(json_file)
     if DEBUG:
         in_df = in_df.sample(10)
+
+    # start small
+    in_df = in_df.sort_values(by="size", ascending=True)
 
     # process it row-wise
     results = in_df.apply(process_row, axis=1).to_list()

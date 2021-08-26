@@ -9,6 +9,8 @@ import os
 import pandas as pd
 
 from labyrinth.patterns import find_vul_ids
+from labyrinth.ignorelist import IGNORE_FILE_EXTS, IGNORE_DIRS
+
 import logging
 
 logger = logging.getLogger(__name__)
@@ -33,7 +35,7 @@ def process_file(fpath, workdir="/"):
             filematches = list(set(filematches))
 
             if len(filematches):
-                logger.info(f"File {relpath} matched on {', '.join(filematches)}")
+                logger.debug(f"File {relpath} matched on {', '.join(filematches)}")
                 df["match"] = filematches
                 df["file"] = relpath
 
@@ -63,26 +65,38 @@ def _file_sha1(fpath):
     return file_sha1
 
 
-ignore_dirs = [
-    ".git",
-]
+def _filename_accept(f):
+    # forget about .gitignore etc
+    if f.startswith(".git"):
+        return False
+
+    for ext in IGNORE_FILE_EXTS:
+        if f.endswith(ext):
+            return False
+
+    return True
 
 
 def process_dir(path, workdir="/"):
     df = pd.DataFrame()
 
+    count = 0
     for (dirpath, dirnames, filenames) in os.walk(path, topdown=True):
         # filter dirnames we're willing to visit
-        dirnames[:] = [d for d in dirnames if not d in ignore_dirs]
-        # forget about .gitignore etc
-        filenames[:] = [f for f in filenames if not f.startswith(".git")]
+        dirnames[:] = [d for d in dirnames if not d in IGNORE_DIRS]
+        filenames[:] = [f for f in filenames if _filename_accept(f)]
 
         for f in filenames:
             fpath = os.path.join(dirpath, f)
             _df = process_file(fpath, workdir)
             if len(_df):
                 df = df.append(_df)
+            count += 1
+            if count % 1000 == 0:
+                logger.info(f"Processed {count} files so far")
 
     if "match" in df.columns:
+        logger.info(f"Found {df['match'].nunique()} matches")
         df = df.sort_values(by="match").reset_index(drop=True)
+
     return df
