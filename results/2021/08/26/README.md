@@ -1,7 +1,7 @@
 
 # Summary for results/2021/08/26
     
-31 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
@@ -13,6 +13,7 @@
 | w16692926717/CVE-2018-8174_EXP | nan | https://github.com/w16692926717/CVE-2018-8174_EXP | ['cve-2'] | 1 | 2021-08-26 04:58:23+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-8174'] |
 | doudoudedi/Tenda_AC6_heap_overflow | None | https://github.com/doudoudedi/Tenda_AC6_heap_overflow | ['heap overflow'] | 1 | 2021-08-26 04:30:16+00:00 | 0 | 0 | | 0 | [] |
 | C-CCM-TC1028-102-2113/tarea-2-RCERVANT3S | tarea-2-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-2-RCERVANT3S | ['rce'] | 1 | 2021-08-26 00:12:39+00:00 | 324 | 0 | Python | 0 | [] |
+| I2345/Feilx-Hub | Roblox Exploit Hub, FREE | https://github.com/I2345/Feilx-Hub | ['exploit'] | 1 | 2021-08-26 07:18:29+00:00 | 21 | 0 | | 0 | [] |
 | lkim94/PostgreSQL-Shell | A Python program that automates the process of error-based PostgreSQL injection RCE | https://github.com/lkim94/PostgreSQL-Shell | ['rce'] | 1 | 2021-08-26 00:34:52+00:00 | 7 | 0 | Python | 0 | [] |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-08-26 04:06:35+00:00 | 16 | 0 | | 0 | [] |
 | choke-dev/easierlua | "making games easier to exploit" | https://github.com/choke-dev/easierlua | ['exploit'] | 1 | 2021-08-26 00:19:51+00:00 | 61 | 2 | Lua | 0 | [] |
@@ -25,6 +26,7 @@
 | pranshu0242/EXPLOIT | None | https://github.com/pranshu0242/EXPLOIT | ['exploit'] | 1 | 2021-08-26 05:25:06+00:00 | 2698 | 0 | HTML | 0 | [] |
 | damianbrowne/ECS4TIME | Exploiting Causal Structure for Transportability in Multi-Agent Environments | https://github.com/damianbrowne/ECS4TIME | ['exploit'] | 1 | 2021-08-26 02:31:16+00:00 | 19402 | 0 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-08-26 04:00:35+00:00 | 21363 | 108 | Python | 26 | [] |
+| CalfCrusher/Phineas-Vulnerable-OS | Phineas is a vulnerable box to learn some web exploitation | https://github.com/CalfCrusher/Phineas-Vulnerable-OS | ['exploit'] | 1 | 2021-08-26 06:55:54+00:00 | 4 | 0 | | 0 | [] |
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-08-26 02:35:30+00:00 | 297 | 24 | | 2 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-26 00:02:57+00:00 | 410967 | 29 | | 15 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-26 00:52:23+00:00 | 18726 | 21 | | 13 | [] |
