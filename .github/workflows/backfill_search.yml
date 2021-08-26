@@ -29,36 +29,41 @@ jobs:
          # comments indicate a snapshot of how many results there were
          # for a given search around the time it was added to the list
          # 18176
-         - exploit
+         #- exploit
          # 110
-         - heap overflow
+         #- heap overflow
          # 126
-         - zeroday
+         #- zeroday
          # 191
-         - rce poc
+         #- rce poc
          # 219
-         - attack poc
+         #- attack poc
          # 253
-         - metasploit module OR metasploit payload
+         #- metasploit module OR metasploit payload
          # 4626
-         - cve-2
+         #- cve-2
          # 279
-         - command injection
+         #- command injection
          # 383
-         - 0day
+         #- 0day
          # 441
-         - vulnerability poc
+         #- vulnerability poc
          # 526
-         - remote code execution
+         #- remote code execution
          # 960
-         - sploit
+         #- sploit
          # 1114
-         - cve poc
+         #- cve poc
          # 2021
-         - shellcode
+         #- shellcode
          # 2267
-         - rce
-
+         #- rce
+         # 119
+         - cnvd-c OR cnvd-2 OR cnnvd-2
+         # 2652
+         - metasploit module OR payload
+     
+        
          
     steps:
       - uses: actions/checkout@v2
