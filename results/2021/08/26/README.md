@@ -1,12 +1,13 @@
 
 # Summary for results/2021/08/26
     
-103 records found after deduplication
+104 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|---------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-08-26 17:27:35+00:00 | 564719 | 24925 | Ruby | 11502 | [] |
-| iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-8-20 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-08-26 03:19:55+00:00 | 267 | 39 | Python | 6 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-08-26 13:18:39+00:00 | 21983 | 5893 | JavaScript | 1396 | [] |
+| Y0ung-DST/CSGO_RCE_WRITEUP_AND_POC | CS:GO RCE Writeup | https://github.com/Y0ung-DST/CSGO_RCE_WRITEUP_AND_POC | ['rce', 'rce poc'] | 2 | 2021-08-26 11:36:51+00:00 | 40 | 2 | | 0 | [] |
 | yqcs/ZheTian | ZheTian Powerful remote load and execute ShellCode tool | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-08-26 09:12:53+00:00 | 146 | 4 | | 0 | [] |
 | I2345/Feilx-Hub | Roblox Exploit Hub, FREE | https://github.com/I2345/Feilx-Hub | ['exploit'] | 1 | 2021-08-26 07:18:29+00:00 | 21 | 0 | | 0 | [] |
 | lkim94/PostgreSQL-Shell | A Python program that automates the process of error-based PostgreSQL injection RCE | https://github.com/lkim94/PostgreSQL-Shell | ['rce'] | 1 | 2021-08-26 00:34:52+00:00 | 7 | 0 | Python | 0 | [] |
@@ -17,8 +18,8 @@
 | choke-dev/easierlua | "making games easier to exploit" | https://github.com/choke-dev/easierlua | ['exploit'] | 1 | 2021-08-26 00:19:51+00:00 | 61 | 2 | Lua | 0 | [] |
 | craft-w/Exploits | None | https://github.com/craft-w/Exploits | ['exploit'] | 1 | 2021-08-26 03:02:16+00:00 | 0 | 0 | | 0 | [] |
 | RAYTRAClNG/Exploits | None | https://github.com/RAYTRAClNG/Exploits | ['exploit'] | 1 | 2021-08-26 01:36:01+00:00 | 68 | 0 | | 0 | [] |
+| iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-8-20 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-08-26 03:19:55+00:00 | 267 | 39 | Python | 6 | [] |
 | gaiththewolf/Exploitdb | Exploit-db (is NOT the official APP). | https://github.com/gaiththewolf/Exploitdb | ['exploit'] | 1 | 2021-08-26 12:02:54+00:00 | 1747 | 1 | Kotlin | 0 | [] |
-| C-CCM-TC1028-102-2113/tarea-2-RCERVANT3S | tarea-2-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-2-RCERVANT3S | ['rce'] | 1 | 2021-08-26 00:12:39+00:00 | 324 | 0 | Python | 0 | [] |
 | renatus-cartesius/infosec | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | ['exploit'] | 1 | 2021-08-26 09:51:02+00:00 | 2 | 0 | C | 0 | [] |
 | madhans23/curl-curl-7_64_1_CVE-2019-5481_noPatch_old | None | https://github.com/madhans23/curl-curl-7_64_1_CVE-2019-5481_noPatch_old | ['cve-2'] | 1 | 2021-08-26 05:16:19+00:00 | 3840 | 0 | C | 0 | ['CVE-2019-5481'] |
 | NITIN911/BOUNTY_HUNTER-HACK-THE-BOX | NOTES AND EXPLOITS | https://github.com/NITIN911/BOUNTY_HUNTER-HACK-THE-BOX | ['exploit'] | 1 | 2021-08-26 11:52:18+00:00 | 4 | 0 | | 0 | [] |
@@ -29,9 +30,9 @@
 | rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-08-26 12:09:17+00:00 | 5912 | 0 | HTML | 0 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-08-26 19:28:34+00:00 | 28108 | 0 | Python | 0 | [] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-08-26 09:51:18+00:00 | 174 | 1 | Python | 0 | [] |
-| Y0ung-DST/CSGO_RCE_WRITEUP_AND_POC | CS:GO RCE Writeup | https://github.com/Y0ung-DST/CSGO_RCE_WRITEUP_AND_POC | ['rce', 'rce poc'] | 2 | 2021-08-26 11:36:51+00:00 | 40 | 2 | | 0 | [] |
+| C-CCM-TC1028-102-2113/tarea-2-RCERVANT3S | tarea-2-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-2-RCERVANT3S | ['rce'] | 1 | 2021-08-26 00:12:39+00:00 | 324 | 0 | Python | 0 | [] |
 | Hamstrow/Scripts | LUA Scripts Made For Exploiting Roblox | https://github.com/Hamstrow/Scripts | ['exploit'] | 1 | 2021-08-26 15:36:28+00:00 | 118 | 1 | | 1 | [] |
-| Mdot0/Pentesting-Methodology- | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF. | https://github.com/Mdot0/Pentesting-Methodology- | ['exploit'] | 1 | 2021-08-26 15:22:19+00:00 | 99 | 1 | | 0 | [] |
+| hexachordanu/Pentest-Scripts-Py3 | This repo will contain tutorials for scripting in python and how various modules can be used by pentesters in their task automation / exploit writing. | https://github.com/hexachordanu/Pentest-Scripts-Py3 | ['exploit'] | 1 | 2021-08-26 20:50:48+00:00 | 11 | 0 | | 0 | [] |
 | asr511/windows-kernel-exploits | None | https://github.com/asr511/windows-kernel-exploits | ['exploit'] | 1 | 2021-08-26 10:37:31+00:00 | 0 | 0 | C | 0 | [] |
 | AxlThunder/gm81_3dfogspritecolor | An exploit for Game Maker 8.1 that uses 3D fog in 2D mode to color sprites, adding more on the fly coloring possibilities. | https://github.com/AxlThunder/gm81_3dfogspritecolor | ['exploit'] | 1 | 2021-08-26 18:02:47+00:00 | 0 | 0 | Game Maker Language | 0 | [] |
 | gogorikidze/leechserve | Exploit Flickr or any other image hosting service to serve static pages. [This is just a demo, uploading non-image data on image hosting websites probably violates the Terms of Service agreement] | https://github.com/gogorikidze/leechserve | ['exploit'] | 1 | 2021-08-26 16:00:09+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -56,8 +57,8 @@
 | DevKitteny/exploits | None | https://github.com/DevKitteny/exploits | ['exploit'] | 1 | 2021-08-26 09:27:19+00:00 | 14 | 0 | | 0 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-08-26 16:28:24+00:00 | 7 | 0 | Lua | 0 | [] |
 | AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-26 04:34:54+00:00 | 44 | 0 | Haskell | 0 | [] |
+| Mdot0/Pentesting-Methodology- | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF. | https://github.com/Mdot0/Pentesting-Methodology- | ['exploit'] | 1 | 2021-08-26 15:22:19+00:00 | 99 | 1 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-26 08:24:50+00:00 | 6259 | 2 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-08-26 13:18:39+00:00 | 21983 | 5893 | JavaScript | 1396 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-08-26 01:40:15+00:00 | 2740317 | 336 | | 52 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-26 00:52:23+00:00 | 18726 | 21 | | 13 | [] |
 | ins1gn1a/VulnServer-Linux | Intentionally vulnerable Linux application for buffer overflow and RCE development practice | https://github.com/ins1gn1a/VulnServer-Linux | ['rce'] | 1 | 2021-08-26 10:05:27+00:00 | 41 | 14 | C | 0 | [] |
