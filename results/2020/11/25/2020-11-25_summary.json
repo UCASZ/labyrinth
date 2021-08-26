@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":180967944,
@@ -219,7 +222,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":190380026,
@@ -327,7 +333,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252762654,
@@ -435,7 +444,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305530634,
@@ -543,7 +555,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":308718514,
@@ -657,7 +672,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":311883568,
@@ -765,7 +783,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312062112,
@@ -873,7 +894,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312164705,
@@ -987,7 +1011,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2014-6271"
+    ]
   },
   {
     "id":314974926,
@@ -1095,7 +1122,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315330199,
@@ -1209,7 +1239,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-15473"
+    ]
   },
   {
     "id":315780837,
@@ -1317,7 +1350,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315826517,
@@ -1425,7 +1461,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315836373,
@@ -1533,7 +1572,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315843188,
@@ -1641,7 +1683,127 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":315860861,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMTU4NjA4NjE=",
+    "name":"BruteForceDictionaryAttack",
+    "full_name":"lilmissxy\/BruteForceDictionaryAttack",
+    "private":false,
+    "html_url":"https:\/\/github.com\/lilmissxy\/BruteForceDictionaryAttack",
+    "description":"A brute force dictionary attack script in python that takes the URL of the site and a password file to crack an account. The script is tested and run in the Metasploit environment.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack",
+    "forks_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/lilmissxy\/BruteForceDictionaryAttack\/deployments",
+    "created_at":"2020-11-25T07:26:50Z",
+    "updated_at":"2021-04-26T07:03:13Z",
+    "pushed_at":"2020-11-25T07:57:45Z",
+    "git_url":"git:\/\/github.com\/lilmissxy\/BruteForceDictionaryAttack.git",
+    "ssh_url":"git@github.com:lilmissxy\/BruteForceDictionaryAttack.git",
+    "clone_url":"https:\/\/github.com\/lilmissxy\/BruteForceDictionaryAttack.git",
+    "svn_url":"https:\/\/github.com\/lilmissxy\/BruteForceDictionaryAttack",
+    "homepage":"",
+    "size":4265,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"Jupyter Notebook",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"gpl-3.0",
+      "name":"GNU General Public License v3.0",
+      "spdx_id":"GPL-3.0",
+      "url":"https:\/\/api.github.com\/licenses\/gpl-3.0",
+      "node_id":"MDc6TGljZW5zZTk="
+    },
+    "forks":1,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:23:58Z",
+    "organization":null,
+    "owner_login":"lilmissxy",
+    "owner_id":50790611,
+    "owner_node_id":"MDQ6VXNlcjUwNzkwNjEx",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/50790611?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/lilmissxy",
+    "owner_html_url":"https:\/\/github.com\/lilmissxy",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/lilmissxy\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/lilmissxy\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/lilmissxy\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/lilmissxy\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/lilmissxy\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/lilmissxy\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/lilmissxy\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/lilmissxy\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/lilmissxy\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315874415,
@@ -1755,7 +1917,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-29070"
+    ]
   },
   {
     "id":315921771,
@@ -1863,7 +2028,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315933331,
@@ -1971,7 +2139,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316036403,
@@ -2079,6 +2250,120 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":316077688,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMTYwNzc2ODg=",
+    "name":"metasploit",
+    "full_name":"jhondoeelmisterio\/metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/jhondoeelmisterio\/metasploit",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/jhondoeelmisterio\/metasploit\/deployments",
+    "created_at":"2020-11-25T23:40:43Z",
+    "updated_at":"2020-11-25T23:41:41Z",
+    "pushed_at":"2020-11-25T23:41:39Z",
+    "git_url":"git:\/\/github.com\/jhondoeelmisterio\/metasploit.git",
+    "ssh_url":"git@github.com:jhondoeelmisterio\/metasploit.git",
+    "clone_url":"https:\/\/github.com\/jhondoeelmisterio\/metasploit.git",
+    "svn_url":"https:\/\/github.com\/jhondoeelmisterio\/metasploit",
+    "homepage":null,
+    "size":1,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:23:58Z",
+    "organization":null,
+    "owner_login":"jhondoeelmisterio",
+    "owner_id":69824622,
+    "owner_node_id":"MDQ6VXNlcjY5ODI0NjIy",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/69824622?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/jhondoeelmisterio",
+    "owner_html_url":"https:\/\/github.com\/jhondoeelmisterio",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/jhondoeelmisterio\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/jhondoeelmisterio\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/jhondoeelmisterio\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/jhondoeelmisterio\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/jhondoeelmisterio\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/jhondoeelmisterio\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/jhondoeelmisterio\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/jhondoeelmisterio\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/jhondoeelmisterio\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

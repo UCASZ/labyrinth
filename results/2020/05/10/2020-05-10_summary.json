@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":139730786,
@@ -213,7 +216,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":143224356,
@@ -321,7 +327,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":211754119,
@@ -429,7 +438,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":220933801,
@@ -537,7 +549,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252876143,
@@ -622,7 +637,7 @@
     "temp_clone_token":"",
     "network_count":9,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T03:29:05Z",
+    "matched_at":"2021-08-20T04:21:45Z",
     "organization":null,
     "owner_login":"Frichetten",
     "owner_id":10386884,
@@ -648,7 +663,10 @@
       "rce",
       "rce poc"
     ],
-    "matched_count":4
+    "matched_count":4,
+    "vul_ids":[
+      "CVE-2020-11108"
+    ]
   },
   {
     "id":256498779,
@@ -762,7 +780,232 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":262431198,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNjI0MzExOTg=",
+    "name":"Automatic-Rule-Generation-Metasploit",
+    "full_name":"sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit",
+    "description":"GitHub repository for the Automatic Generation of Snort Rules based on Metasploit Vulnerabiities",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit\/deployments",
+    "created_at":"2020-05-08T21:21:24Z",
+    "updated_at":"2021-05-31T14:29:10Z",
+    "pushed_at":"2020-05-10T16:58:35Z",
+    "git_url":"git:\/\/github.com\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit.git",
+    "ssh_url":"git@github.com:sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit.git",
+    "clone_url":"https:\/\/github.com\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit.git",
+    "svn_url":"https:\/\/github.com\/sharath-sri-chellappa\/Automatic-Rule-Generation-Metasploit",
+    "homepage":null,
+    "size":1657,
+    "stargazers_count":3,
+    "watchers_count":3,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":2,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":2,
+    "open_issues":0,
+    "watchers":3,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":2,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:21:52Z",
+    "organization":null,
+    "owner_login":"sharath-sri-chellappa",
+    "owner_id":46731046,
+    "owner_node_id":"MDQ6VXNlcjQ2NzMxMDQ2",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/46731046?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/sharath-sri-chellappa",
+    "owner_html_url":"https:\/\/github.com\/sharath-sri-chellappa",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/sharath-sri-chellappa\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/sharath-sri-chellappa\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/sharath-sri-chellappa\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/sharath-sri-chellappa\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/sharath-sri-chellappa\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/sharath-sri-chellappa\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/sharath-sri-chellappa\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/sharath-sri-chellappa\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/sharath-sri-chellappa\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":262594110,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNjI1OTQxMTA=",
+    "name":"metac",
+    "full_name":"kusa-crazy\/metac",
+    "private":false,
+    "html_url":"https:\/\/github.com\/kusa-crazy\/metac",
+    "description":"Esse script faz a instala\u00e7\u00e3o do metasploit de forma simples e f\u00e1cil. OBS: s\u00f3 para termux",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac",
+    "forks_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/kusa-crazy\/metac\/deployments",
+    "created_at":"2020-05-09T14:55:37Z",
+    "updated_at":"2020-05-10T00:35:38Z",
+    "pushed_at":"2020-05-10T00:35:35Z",
+    "git_url":"git:\/\/github.com\/kusa-crazy\/metac.git",
+    "ssh_url":"git@github.com:kusa-crazy\/metac.git",
+    "clone_url":"https:\/\/github.com\/kusa-crazy\/metac.git",
+    "svn_url":"https:\/\/github.com\/kusa-crazy\/metac",
+    "homepage":"",
+    "size":16,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:21:52Z",
+    "organization":null,
+    "owner_login":"kusa-crazy",
+    "owner_id":64383362,
+    "owner_node_id":"MDQ6VXNlcjY0MzgzMzYy",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/64383362?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/kusa-crazy",
+    "owner_html_url":"https:\/\/github.com\/kusa-crazy",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/kusa-crazy\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/kusa-crazy\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/kusa-crazy\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/kusa-crazy\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/kusa-crazy\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/kusa-crazy\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/kusa-crazy\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/kusa-crazy\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/kusa-crazy\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262616157,
@@ -870,7 +1113,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262688618,
@@ -980,7 +1226,10 @@
       "exploit",
       "remote code execution"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2020-8816"
+    ]
   },
   {
     "id":262692411,
@@ -1088,7 +1337,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262697854,
@@ -1196,7 +1448,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262704761,
@@ -1305,7 +1560,10 @@
       "exploit",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262724887,
@@ -1413,7 +1671,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262742524,
@@ -1521,7 +1782,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262748816,
@@ -1606,7 +1870,7 @@
     "temp_clone_token":"",
     "network_count":35,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T04:25:01Z",
+    "matched_at":"2021-08-20T03:32:27Z",
     "organization":null,
     "owner_login":"Y4er",
     "owner_id":40487319,
@@ -1630,7 +1894,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-2883"
+    ]
   },
   {
     "id":262807241,
@@ -1721,7 +1988,7 @@
     "temp_clone_token":"",
     "network_count":5,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T03:31:10Z",
+    "matched_at":"2021-08-20T03:32:09Z",
     "organization":{
       "login":"ProjectorBUg",
       "id":64981388,
@@ -1762,9 +2029,13 @@
     "owner_site_admin":false,
     "matched_list":[
       "exploit",
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":2
+    "matched_count":3,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262816666,
@@ -1899,7 +2170,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2020-11932"
+    ]
   },
   {
     "id":262818385,
@@ -2032,7 +2306,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262839831,
@@ -2165,7 +2442,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262851095,
@@ -2273,7 +2553,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262859391,
@@ -2381,7 +2664,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262864561,
@@ -2489,7 +2775,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":263153044,
@@ -2603,6 +2892,9 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

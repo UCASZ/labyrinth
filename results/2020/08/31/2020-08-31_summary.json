@@ -106,7 +106,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2017-9805"
+    ]
   },
   {
     "id":154401051,
@@ -197,7 +200,7 @@
     "temp_clone_token":"",
     "network_count":4,
     "subscribers_count":0,
-    "matched_at":"2021-08-20T05:24:56Z",
+    "matched_at":"2021-08-20T04:31:43Z",
     "organization":null,
     "owner_login":"r3dxpl0it",
     "owner_id":43002597,
@@ -223,7 +226,10 @@
       "rce",
       "rce poc"
     ],
-    "matched_count":4
+    "matched_count":4,
+    "vul_ids":[
+      "CVE-2018-7600"
+    ]
   },
   {
     "id":246467178,
@@ -331,7 +337,10 @@
     "matched_list":[
       "heap overflow"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":258961419,
@@ -439,7 +448,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":275357483,
@@ -547,7 +559,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":281787663,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyODE3ODc2NjM=",
+    "name":"wordlists",
+    "full_name":"wirzka\/wordlists",
+    "private":false,
+    "html_url":"https:\/\/github.com\/wirzka\/wordlists",
+    "description":"General repository where I put my\/others wordlists",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists",
+    "forks_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/wirzka\/wordlists\/deployments",
+    "created_at":"2020-07-22T21:34:43Z",
+    "updated_at":"2021-07-05T18:35:21Z",
+    "pushed_at":"2020-08-31T13:17:43Z",
+    "git_url":"git:\/\/github.com\/wirzka\/wordlists.git",
+    "ssh_url":"git@github.com:wirzka\/wordlists.git",
+    "clone_url":"https:\/\/github.com\/wirzka\/wordlists.git",
+    "svn_url":"https:\/\/github.com\/wirzka\/wordlists",
+    "homepage":"https:\/\/github.com\/wirzka\/wordlists",
+    "size":4355,
+    "stargazers_count":3,
+    "watchers_count":3,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":3,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":0,
+    "matched_at":"2021-08-26T17:22:59Z",
+    "organization":null,
+    "owner_login":"wirzka",
+    "owner_id":60296453,
+    "owner_node_id":"MDQ6VXNlcjYwMjk2NDUz",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/60296453?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/wirzka",
+    "owner_html_url":"https:\/\/github.com\/wirzka",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/wirzka\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/wirzka\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/wirzka\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/wirzka\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/wirzka\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/wirzka\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/wirzka\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/wirzka\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/wirzka\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":290188297,
@@ -655,7 +781,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":290286431,
@@ -763,7 +892,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":290549635,
@@ -877,7 +1009,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":290565628,
@@ -991,7 +1126,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":290566423,
@@ -1105,7 +1243,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291577021,
@@ -1219,7 +1360,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":291622714,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyOTE2MjI3MTQ=",
+    "name":"winrevershell",
+    "full_name":"krishpranav\/winrevershell",
+    "private":false,
+    "html_url":"https:\/\/github.com\/krishpranav\/winrevershell",
+    "description":"this is a simple tool for creating a reverse shell for windows using metasploit",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell",
+    "forks_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/krishpranav\/winrevershell\/deployments",
+    "created_at":"2020-08-31T05:26:36Z",
+    "updated_at":"2020-08-31T05:29:13Z",
+    "pushed_at":"2020-08-31T05:29:11Z",
+    "git_url":"git:\/\/github.com\/krishpranav\/winrevershell.git",
+    "ssh_url":"git@github.com:krishpranav\/winrevershell.git",
+    "clone_url":"https:\/\/github.com\/krishpranav\/winrevershell.git",
+    "svn_url":"https:\/\/github.com\/krishpranav\/winrevershell",
+    "homepage":null,
+    "size":2,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:22:59Z",
+    "organization":null,
+    "owner_login":"krishpranav",
+    "owner_id":68631244,
+    "owner_node_id":"MDQ6VXNlcjY4NjMxMjQ0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/68631244?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/krishpranav",
+    "owner_html_url":"https:\/\/github.com\/krishpranav",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/krishpranav\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/krishpranav\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/krishpranav\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/krishpranav\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/krishpranav\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/krishpranav\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/krishpranav\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/krishpranav\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/krishpranav\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291663092,
@@ -1327,7 +1582,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291670454,
@@ -1435,7 +1693,10 @@
     "matched_list":[
       "heap overflow"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291701633,
@@ -1543,7 +1804,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291721408,
@@ -1652,7 +1916,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-13259"
+    ]
   },
   {
     "id":291783492,
@@ -1760,7 +2027,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291787379,
@@ -1874,7 +2144,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-24028"
+    ]
   },
   {
     "id":291793224,
@@ -1988,7 +2261,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-24029"
+    ]
   },
   {
     "id":291795866,
@@ -2102,7 +2378,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-24030"
+    ]
   },
   {
     "id":348494149,
@@ -2210,6 +2489,9 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -111,7 +111,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":267362631,
@@ -219,7 +222,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":287230779,
@@ -327,7 +333,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-6286"
+    ]
   },
   {
     "id":288177224,
@@ -437,7 +446,10 @@
       "rce",
       "remote code execution"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2020-0688"
+    ]
   },
   {
     "id":289112708,
@@ -545,7 +557,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291240465,
@@ -653,7 +668,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291242928,
@@ -761,7 +779,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291252326,
@@ -869,7 +890,127 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":291259333,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyOTEyNTkzMzM=",
+    "name":"METASploit",
+    "full_name":"texasconnection88\/METASploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/texasconnection88\/METASploit",
+    "description":"nan",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/texasconnection88\/METASploit\/deployments",
+    "created_at":"2020-08-29T11:35:32Z",
+    "updated_at":"2020-08-29T11:40:20Z",
+    "pushed_at":"2020-08-29T11:39:54Z",
+    "git_url":"git:\/\/github.com\/texasconnection88\/METASploit.git",
+    "ssh_url":"git@github.com:texasconnection88\/METASploit.git",
+    "clone_url":"https:\/\/github.com\/texasconnection88\/METASploit.git",
+    "svn_url":"https:\/\/github.com\/texasconnection88\/METASploit",
+    "homepage":null,
+    "size":70993,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"other",
+      "name":"Other",
+      "spdx_id":"NOASSERTION",
+      "url":null,
+      "node_id":"MDc6TGljZW5zZTA="
+    },
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:22:58Z",
+    "organization":null,
+    "owner_login":"texasconnection88",
+    "owner_id":70434934,
+    "owner_node_id":"MDQ6VXNlcjcwNDM0OTM0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/70434934?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/texasconnection88",
+    "owner_html_url":"https:\/\/github.com\/texasconnection88",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/texasconnection88\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/texasconnection88\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/texasconnection88\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/texasconnection88\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/texasconnection88\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/texasconnection88\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/texasconnection88\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/texasconnection88\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/texasconnection88\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291291006,
@@ -977,7 +1118,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-8004"
+    ]
   },
   {
     "id":291363240,
@@ -1092,7 +1236,10 @@
       "exploit",
       "shellcode"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":300028929,
@@ -1200,6 +1347,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

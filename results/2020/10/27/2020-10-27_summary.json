@@ -111,7 +111,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":144300712,
@@ -225,7 +228,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":196438025,
@@ -333,7 +339,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252786541,
@@ -441,7 +450,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":268141079,
@@ -555,7 +567,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":273894733,
@@ -670,7 +685,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-13777"
+    ]
   },
   {
     "id":281559833,
@@ -779,7 +797,10 @@
       "attack poc",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":292413490,
@@ -893,7 +914,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-15473"
+    ]
   },
   {
     "id":301948621,
@@ -1001,7 +1025,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":303857222,
@@ -1110,7 +1137,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-16939"
+    ]
   },
   {
     "id":306819034,
@@ -1224,7 +1254,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307161848,
@@ -1332,7 +1365,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307313783,
@@ -1446,7 +1482,127 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":307577171,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMDc1NzcxNzE=",
+    "name":"metasploit",
+    "full_name":"HiddenHacker82\/metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/HiddenHacker82\/metasploit",
+    "description":"nan",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/HiddenHacker82\/metasploit\/deployments",
+    "created_at":"2020-10-27T03:41:24Z",
+    "updated_at":"2020-10-27T03:51:01Z",
+    "pushed_at":"2020-10-27T03:49:22Z",
+    "git_url":"git:\/\/github.com\/HiddenHacker82\/metasploit.git",
+    "ssh_url":"git@github.com:HiddenHacker82\/metasploit.git",
+    "clone_url":"https:\/\/github.com\/HiddenHacker82\/metasploit.git",
+    "svn_url":"https:\/\/github.com\/HiddenHacker82\/metasploit",
+    "homepage":null,
+    "size":6,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"apache-2.0",
+      "name":"Apache License 2.0",
+      "spdx_id":"Apache-2.0",
+      "url":"https:\/\/api.github.com\/licenses\/apache-2.0",
+      "node_id":"MDc6TGljZW5zZTI="
+    },
+    "forks":0,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:23:53Z",
+    "organization":null,
+    "owner_login":"HiddenHacker82",
+    "owner_id":61097166,
+    "owner_node_id":"MDQ6VXNlcjYxMDk3MTY2",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/61097166?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/HiddenHacker82",
+    "owner_html_url":"https:\/\/github.com\/HiddenHacker82",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/HiddenHacker82\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/HiddenHacker82\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/HiddenHacker82\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/HiddenHacker82\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/HiddenHacker82\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/HiddenHacker82\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/HiddenHacker82\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/HiddenHacker82\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/HiddenHacker82\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307614216,
@@ -1554,7 +1710,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307615985,
@@ -1662,7 +1821,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307618475,
@@ -1770,7 +1932,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307620612,
@@ -1878,7 +2043,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-15148"
+    ]
   },
   {
     "id":307665058,
@@ -1992,7 +2160,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307731124,
@@ -2109,7 +2280,10 @@
       "exploit",
       "vulnerability poc"
     ],
-    "matched_count":4
+    "matched_count":4,
+    "vul_ids":[
+      "CVE-2019-2215"
+    ]
   },
   {
     "id":307773398,
@@ -2217,7 +2391,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307785019,
@@ -2325,7 +2502,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307795473,
@@ -2433,6 +2613,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

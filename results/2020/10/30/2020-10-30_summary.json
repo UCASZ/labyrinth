@@ -111,7 +111,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":244527840,
@@ -219,7 +222,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":285161762,
@@ -304,7 +310,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T05:36:14Z",
+    "matched_at":"2021-08-26T17:23:53Z",
     "owner_login":"cd6629",
     "owner_id":63489620,
     "owner_node_id":"MDQ6VXNlcjYzNDg5NjIw",
@@ -326,9 +332,13 @@
     "organization":null,
     "matched_list":[
       "cve poc",
-      "cve-2"
+      "cve-2",
+      "metasploit module OR payload"
     ],
-    "matched_count":2
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2012-2982"
+    ]
   },
   {
     "id":305605906,
@@ -436,7 +446,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307204005,
@@ -544,7 +557,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307446561,
@@ -629,7 +645,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T05:36:14Z",
+    "matched_at":"2021-08-20T05:33:15Z",
     "owner_login":"Rival420",
     "owner_id":51548322,
     "owner_node_id":"MDQ6VXNlcjUxNTQ4MzIy",
@@ -653,7 +669,11 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-14181",
+      "CVE-2020-1481"
+    ]
   },
   {
     "id":307896325,
@@ -767,7 +787,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307989349,
@@ -875,7 +898,10 @@
     "matched_list":[
       "vulnerability poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":308481035,
@@ -983,7 +1009,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-11236"
+    ]
   },
   {
     "id":308500611,
@@ -1091,7 +1120,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":308567472,
@@ -1176,7 +1208,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T05:34:08Z",
+    "matched_at":"2021-08-20T05:33:15Z",
     "owner_login":"khuntor",
     "owner_id":25006917,
     "owner_node_id":"MDQ6VXNlcjI1MDA2OTE3",
@@ -1200,7 +1232,10 @@
       "cve-2",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-11447"
+    ]
   },
   {
     "id":308601331,
@@ -1308,7 +1343,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":308646506,
@@ -1393,7 +1431,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T05:28:17Z",
+    "matched_at":"2021-08-20T05:33:15Z",
     "owner_login":"k0rnh0li0",
     "owner_id":73505124,
     "owner_node_id":"MDQ6VXNlcjczNTA1MTI0",
@@ -1418,7 +1456,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2020-27976"
+    ]
   },
   {
     "id":308646569,
@@ -1532,7 +1573,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":308679394,
@@ -1640,7 +1684,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":308682652,
@@ -1748,6 +1795,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -88,7 +88,7 @@
     "temp_clone_token":"",
     "network_count":150,
     "subscribers_count":39,
-    "matched_at":"2021-08-20T05:36:23Z",
+    "matched_at":"2021-08-20T06:21:02Z",
     "owner_login":"jm33-m0",
     "owner_id":10167884,
     "owner_node_id":"MDQ6VXNlcjEwMTY3ODg0",
@@ -112,7 +112,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":177341512,
@@ -226,7 +229,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":189221224,
@@ -334,7 +340,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":211715402,
@@ -442,7 +451,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224191054,
@@ -550,7 +562,127 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":225421112,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMjU0MjExMTI=",
+    "name":"Metasploit-menu",
+    "full_name":"rooted-cyber\/Metasploit-menu",
+    "private":false,
+    "html_url":"https:\/\/github.com\/rooted-cyber\/Metasploit-menu",
+    "description":"nan",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu",
+    "forks_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/rooted-cyber\/Metasploit-menu\/deployments",
+    "created_at":"2019-12-02T16:34:23Z",
+    "updated_at":"2020-12-09T15:21:51Z",
+    "pushed_at":"2020-12-09T15:21:50Z",
+    "git_url":"git:\/\/github.com\/rooted-cyber\/Metasploit-menu.git",
+    "ssh_url":"git@github.com:rooted-cyber\/Metasploit-menu.git",
+    "clone_url":"https:\/\/github.com\/rooted-cyber\/Metasploit-menu.git",
+    "svn_url":"https:\/\/github.com\/rooted-cyber\/Metasploit-menu",
+    "homepage":null,
+    "size":540,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"gpl-3.0",
+      "name":"GNU General Public License v3.0",
+      "spdx_id":"GPL-3.0",
+      "url":"https:\/\/api.github.com\/licenses\/gpl-3.0",
+      "node_id":"MDc6TGljZW5zZTk="
+    },
+    "forks":1,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:24:03Z",
+    "owner_login":"rooted-cyber",
+    "owner_id":50019150,
+    "owner_node_id":"MDQ6VXNlcjUwMDE5MTUw",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/50019150?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/rooted-cyber",
+    "owner_html_url":"https:\/\/github.com\/rooted-cyber",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/rooted-cyber\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/rooted-cyber\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/rooted-cyber\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/rooted-cyber\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/rooted-cyber\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/rooted-cyber\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/rooted-cyber\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/rooted-cyber\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/rooted-cyber\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":258234896,
@@ -658,7 +790,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":258235750,
@@ -785,7 +920,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":290333799,
@@ -899,7 +1037,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315251881,
@@ -1013,7 +1154,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319182945,
@@ -1146,7 +1290,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319223081,
@@ -1260,7 +1407,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319433426,
@@ -1374,7 +1524,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319599192,
@@ -1482,7 +1635,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319613825,
@@ -1567,7 +1723,7 @@
     "temp_clone_token":"",
     "network_count":4,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T05:36:23Z",
+    "matched_at":"2021-08-20T05:36:27Z",
     "owner_login":"phil-fly",
     "owner_id":16459204,
     "owner_node_id":"MDQ6VXNlcjE2NDU5MjA0",
@@ -1591,7 +1747,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-17530"
+    ]
   },
   {
     "id":319635440,
@@ -1699,7 +1858,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319650003,
@@ -1832,7 +1994,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-9038"
+    ]
   },
   {
     "id":319652337,
@@ -1940,7 +2105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319657208,
@@ -2048,7 +2216,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319685889,
@@ -2156,7 +2327,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-17530"
+    ]
   },
   {
     "id":319807381,
@@ -2264,7 +2438,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-17530"
+    ]
   },
   {
     "id":319832457,
@@ -2372,7 +2549,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319884337,
@@ -2480,7 +2660,11 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-17530",
+      "CVE-2020-17531"
+    ]
   },
   {
     "id":319893160,
@@ -2588,7 +2772,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319912115,
@@ -2696,7 +2883,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-17530"
+    ]
   },
   {
     "id":319944788,
@@ -2804,7 +2994,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319964354,
@@ -2912,7 +3105,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319970154,
@@ -3020,7 +3216,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319970952,
@@ -3128,7 +3327,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319992014,
@@ -3236,7 +3438,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2007-2447"
+    ]
   },
   {
     "id":319993085,
@@ -3344,7 +3549,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2014-0160"
+    ]
   },
   {
     "id":319993422,
@@ -3452,7 +3660,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-15473"
+    ]
   },
   {
     "id":319998915,
@@ -3560,7 +3771,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":320049053,
@@ -3693,7 +3907,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-26256"
+    ]
   },
   {
     "id":320062691,
@@ -3801,7 +4018,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":320077749,
@@ -3909,7 +4129,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-17144"
+    ]
   },
   {
     "id":320097730,
@@ -4017,6 +4240,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

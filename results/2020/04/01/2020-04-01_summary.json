@@ -124,7 +124,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":221190337,
@@ -232,7 +235,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-4407"
+    ]
   },
   {
     "id":228330452,
@@ -340,7 +346,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":246414113,
@@ -456,7 +465,10 @@
       "cve-2",
       "vulnerability poc"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2020-0796"
+    ]
   },
   {
     "id":251646716,
@@ -541,7 +553,7 @@
     "temp_clone_token":"",
     "network_count":9,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T03:26:49Z",
+    "matched_at":"2021-08-20T03:32:06Z",
     "organization":null,
     "owner_login":"ravinacademy",
     "owner_id":62107070,
@@ -565,7 +577,121 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-0688"
+    ]
+  },
+  {
+    "id":251928763,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNTE5Mjg3NjM=",
+    "name":"Malware-MetasploitLab",
+    "full_name":"xaferima\/Malware-MetasploitLab",
+    "private":false,
+    "html_url":"https:\/\/github.com\/xaferima\/Malware-MetasploitLab",
+    "description":"A malware and metasploit LABORATORY",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab",
+    "forks_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/xaferima\/Malware-MetasploitLab\/deployments",
+    "created_at":"2020-03-31T23:05:47Z",
+    "updated_at":"2020-04-07T20:04:18Z",
+    "pushed_at":"2020-04-01T18:04:54Z",
+    "git_url":"git:\/\/github.com\/xaferima\/Malware-MetasploitLab.git",
+    "ssh_url":"git@github.com:xaferima\/Malware-MetasploitLab.git",
+    "clone_url":"https:\/\/github.com\/xaferima\/Malware-MetasploitLab.git",
+    "svn_url":"https:\/\/github.com\/xaferima\/Malware-MetasploitLab",
+    "homepage":null,
+    "size":26929,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:21:36Z",
+    "organization":null,
+    "owner_login":"xaferima",
+    "owner_id":3072120,
+    "owner_node_id":"MDQ6VXNlcjMwNzIxMjA=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/3072120?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/xaferima",
+    "owner_html_url":"https:\/\/github.com\/xaferima",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/xaferima\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/xaferima\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/xaferima\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/xaferima\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/xaferima\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/xaferima\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/xaferima\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/xaferima\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/xaferima\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252030213,
@@ -674,7 +800,10 @@
       "exploit",
       "vulnerability poc"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252043679,
@@ -782,7 +911,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-0796"
+    ]
   },
   {
     "id":252084610,
@@ -890,7 +1022,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252085670,
@@ -998,7 +1133,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252102617,
@@ -1112,7 +1250,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252148674,
@@ -1220,7 +1361,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-3766"
+    ]
   },
   {
     "id":252156775,
@@ -1328,7 +1472,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":252166642,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNTIxNjY2NDI=",
+    "name":"Metasploit-Helper2",
+    "full_name":"Mehanic385\/Metasploit-Helper2",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Mehanic385\/Metasploit-Helper2",
+    "description":"Help Metasploit Command ",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2",
+    "forks_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Mehanic385\/Metasploit-Helper2\/deployments",
+    "created_at":"2020-04-01T12:19:33Z",
+    "updated_at":"2020-04-01T12:30:57Z",
+    "pushed_at":"2020-04-01T12:30:55Z",
+    "git_url":"git:\/\/github.com\/Mehanic385\/Metasploit-Helper2.git",
+    "ssh_url":"git@github.com:Mehanic385\/Metasploit-Helper2.git",
+    "clone_url":"https:\/\/github.com\/Mehanic385\/Metasploit-Helper2.git",
+    "svn_url":"https:\/\/github.com\/Mehanic385\/Metasploit-Helper2",
+    "homepage":"",
+    "size":3,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":0,
+    "matched_at":"2021-08-26T17:21:36Z",
+    "organization":null,
+    "owner_login":"Mehanic385",
+    "owner_id":58910349,
+    "owner_node_id":"MDQ6VXNlcjU4OTEwMzQ5",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/58910349?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Mehanic385",
+    "owner_html_url":"https:\/\/github.com\/Mehanic385",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Mehanic385\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Mehanic385\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Mehanic385\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Mehanic385\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Mehanic385\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Mehanic385\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Mehanic385\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Mehanic385\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Mehanic385\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252173377,
@@ -1436,7 +1694,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252224957,
@@ -1544,7 +1805,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252235872,
@@ -1658,7 +1922,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":286198579,
@@ -1766,6 +2033,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

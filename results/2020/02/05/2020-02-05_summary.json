@@ -124,7 +124,127 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":230949942,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMzA5NDk5NDI=",
+    "name":"install-metasploit",
+    "full_name":"shylekh\/install-metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/shylekh\/install-metasploit",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/shylekh\/install-metasploit\/deployments",
+    "created_at":"2019-12-30T16:53:55Z",
+    "updated_at":"2020-02-05T00:35:20Z",
+    "pushed_at":"2020-02-05T00:35:18Z",
+    "git_url":"git:\/\/github.com\/shylekh\/install-metasploit.git",
+    "ssh_url":"git@github.com:shylekh\/install-metasploit.git",
+    "clone_url":"https:\/\/github.com\/shylekh\/install-metasploit.git",
+    "svn_url":"https:\/\/github.com\/shylekh\/install-metasploit",
+    "homepage":null,
+    "size":32,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"gpl-3.0",
+      "name":"GNU General Public License v3.0",
+      "spdx_id":"GPL-3.0",
+      "url":"https:\/\/api.github.com\/licenses\/gpl-3.0",
+      "node_id":"MDc6TGljZW5zZTk="
+    },
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:19:37Z",
+    "organization":null,
+    "owner_login":"shylekh",
+    "owner_id":56640724,
+    "owner_node_id":"MDQ6VXNlcjU2NjQwNzI0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/56640724?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/shylekh",
+    "owner_html_url":"https:\/\/github.com\/shylekh",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/shylekh\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/shylekh\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/shylekh\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/shylekh\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/shylekh\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/shylekh\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/shylekh\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/shylekh\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/shylekh\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":233473212,
@@ -232,7 +352,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-19781"
+    ]
   },
   {
     "id":237697046,
@@ -341,7 +464,121 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":238369596,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMzgzNjk1OTY=",
+    "name":"MSFTERMUX",
+    "full_name":"Hacking-pch\/MSFTERMUX",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Hacking-pch\/MSFTERMUX",
+    "description":"Este script te alluda a tener metasploit en tu terminal asta para Android inferiores puede instalarlo ya que as\u00ed fue creado para checar las fallas y corejirlas y no tener ning\u00fan problema.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX",
+    "forks_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Hacking-pch\/MSFTERMUX\/deployments",
+    "created_at":"2020-02-05T04:43:23Z",
+    "updated_at":"2020-05-10T12:17:44Z",
+    "pushed_at":"2020-02-05T04:49:02Z",
+    "git_url":"git:\/\/github.com\/Hacking-pch\/MSFTERMUX.git",
+    "ssh_url":"git@github.com:Hacking-pch\/MSFTERMUX.git",
+    "clone_url":"https:\/\/github.com\/Hacking-pch\/MSFTERMUX.git",
+    "svn_url":"https:\/\/github.com\/Hacking-pch\/MSFTERMUX",
+    "homepage":null,
+    "size":5,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:19:38Z",
+    "organization":null,
+    "owner_login":"Hacking-pch",
+    "owner_id":58540697,
+    "owner_node_id":"MDQ6VXNlcjU4NTQwNjk3",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/58540697?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Hacking-pch",
+    "owner_html_url":"https:\/\/github.com\/Hacking-pch",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Hacking-pch\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Hacking-pch\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Hacking-pch\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Hacking-pch\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Hacking-pch\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Hacking-pch\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Hacking-pch\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Hacking-pch\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Hacking-pch\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":238383876,
@@ -455,7 +692,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":238399793,
@@ -563,7 +803,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":238449308,
@@ -671,7 +914,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":238542010,
@@ -779,6 +1025,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

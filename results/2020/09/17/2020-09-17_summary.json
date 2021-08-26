@@ -111,7 +111,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":200262767,
@@ -225,7 +228,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":269455626,
@@ -333,7 +339,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":292363679,
@@ -447,7 +456,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":295048819,
@@ -555,7 +567,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":295753075,
@@ -663,7 +678,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":295989393,
@@ -771,7 +789,121 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":296177589,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyOTYxNzc1ODk=",
+    "name":"Cheat-Sheets",
+    "full_name":"xChockax\/Cheat-Sheets",
+    "private":false,
+    "html_url":"https:\/\/github.com\/xChockax\/Cheat-Sheets",
+    "description":"Various Cheat Sheets (e.g. Nmap, Metasploit, Common Ports, Subnetting, Wireshark, etc) ",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets",
+    "forks_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/xChockax\/Cheat-Sheets\/deployments",
+    "created_at":"2020-09-17T00:26:56Z",
+    "updated_at":"2021-02-18T14:04:35Z",
+    "pushed_at":"2020-09-17T00:31:20Z",
+    "git_url":"git:\/\/github.com\/xChockax\/Cheat-Sheets.git",
+    "ssh_url":"git@github.com:xChockax\/Cheat-Sheets.git",
+    "clone_url":"https:\/\/github.com\/xChockax\/Cheat-Sheets.git",
+    "svn_url":"https:\/\/github.com\/xChockax\/Cheat-Sheets",
+    "homepage":"",
+    "size":3483,
+    "stargazers_count":27,
+    "watchers_count":27,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":9,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":9,
+    "open_issues":0,
+    "watchers":27,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":9,
+    "subscribers_count":5,
+    "matched_at":"2021-08-26T17:23:04Z",
+    "organization":null,
+    "owner_login":"xChockax",
+    "owner_id":64996226,
+    "owner_node_id":"MDQ6VXNlcjY0OTk2MjI2",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/64996226?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/xChockax",
+    "owner_html_url":"https:\/\/github.com\/xChockax",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/xChockax\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/xChockax\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/xChockax\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/xChockax\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/xChockax\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/xChockax\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/xChockax\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/xChockax\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/xChockax\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296190446,
@@ -879,7 +1011,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-0796"
+    ]
   },
   {
     "id":296221010,
@@ -987,7 +1122,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296291266,
@@ -1095,7 +1233,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296301047,
@@ -1204,7 +1345,10 @@
       "rce",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296301789,
@@ -1313,7 +1457,10 @@
       "rce",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296302914,
@@ -1421,7 +1568,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296303274,
@@ -1529,7 +1679,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296303770,
@@ -1637,7 +1790,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296304259,
@@ -1722,7 +1878,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T04:33:41Z",
+    "matched_at":"2021-08-20T05:21:09Z",
     "organization":null,
     "owner_login":"learn-exploits",
     "owner_id":47704698,
@@ -1746,7 +1902,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296304850,
@@ -1854,7 +2013,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296305691,
@@ -1962,7 +2124,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296306573,
@@ -2070,7 +2235,10 @@
     "matched_list":[
       "remote code execution"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296319781,
@@ -2197,7 +2365,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296378852,
@@ -2305,7 +2476,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296396312,
@@ -2413,7 +2587,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":296439454,
@@ -2498,7 +2675,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T04:33:42Z",
+    "matched_at":"2021-08-26T17:23:05Z",
     "organization":null,
     "owner_login":"fr0stby73",
     "owner_id":70277640,
@@ -2519,8 +2696,12 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

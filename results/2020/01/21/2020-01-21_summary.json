@@ -124,7 +124,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":27342951,
@@ -238,7 +241,146 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":180223091,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxODAyMjMwOTE=",
+    "name":"purple-team-attack-automation",
+    "full_name":"praetorian-inc\/purple-team-attack-automation",
+    "private":false,
+    "html_url":"https:\/\/github.com\/praetorian-inc\/purple-team-attack-automation",
+    "description":"Praetorian's public release of our Metasploit automation of MITRE ATT&CK\u2122 TTPs",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation",
+    "forks_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/praetorian-inc\/purple-team-attack-automation\/deployments",
+    "created_at":"2019-04-08T19:56:41Z",
+    "updated_at":"2021-08-24T16:58:58Z",
+    "pushed_at":"2020-01-21T20:48:17Z",
+    "git_url":"git:\/\/github.com\/praetorian-inc\/purple-team-attack-automation.git",
+    "ssh_url":"git@github.com:praetorian-inc\/purple-team-attack-automation.git",
+    "clone_url":"https:\/\/github.com\/praetorian-inc\/purple-team-attack-automation.git",
+    "svn_url":"https:\/\/github.com\/praetorian-inc\/purple-team-attack-automation",
+    "homepage":null,
+    "size":402363,
+    "stargazers_count":592,
+    "watchers_count":592,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":110,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":35,
+    "license":{
+      "key":"other",
+      "name":"Other",
+      "spdx_id":"NOASSERTION",
+      "url":null,
+      "node_id":"MDc6TGljZW5zZTA="
+    },
+    "forks":110,
+    "open_issues":35,
+    "watchers":592,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":110,
+    "subscribers_count":44,
+    "matched_at":"2021-08-26T17:19:32Z",
+    "organization":{
+      "login":"praetorian-inc",
+      "id":8173787,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjgxNzM3ODc=",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/8173787?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/praetorian-inc",
+      "html_url":"https:\/\/github.com\/praetorian-inc",
+      "followers_url":"https:\/\/api.github.com\/users\/praetorian-inc\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/praetorian-inc\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/praetorian-inc\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/praetorian-inc\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/praetorian-inc\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/praetorian-inc\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/praetorian-inc\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/praetorian-inc\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/praetorian-inc\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "owner_login":"praetorian-inc",
+    "owner_id":8173787,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjgxNzM3ODc=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/8173787?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/praetorian-inc",
+    "owner_html_url":"https:\/\/github.com\/praetorian-inc",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/praetorian-inc\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/praetorian-inc\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/praetorian-inc\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/praetorian-inc\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/praetorian-inc\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/praetorian-inc\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/praetorian-inc\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/praetorian-inc\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/praetorian-inc\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":197389815,
@@ -346,7 +488,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":219050154,
@@ -454,7 +599,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":223374340,
@@ -563,7 +711,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":230969522,
@@ -671,7 +822,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":234298156,
@@ -779,7 +933,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":234442281,
@@ -894,7 +1051,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-0601"
+    ]
   },
   {
     "id":235040508,
@@ -1002,7 +1162,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-9248"
+    ]
   },
   {
     "id":235234194,
@@ -1110,7 +1273,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":235239045,
@@ -1224,7 +1390,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-0708"
+    ]
   },
   {
     "id":235379033,
@@ -1338,7 +1507,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":243294241,
@@ -1446,6 +1618,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

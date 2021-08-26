@@ -86,10 +86,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-20T05:22:56Z",
-    "organization":null,
     "owner_login":"AmitNiz",
     "owner_id":25344020,
     "owner_node_id":"MDQ6VXNlcjI1MzQ0MDIw",
@@ -111,7 +111,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":215337110,
@@ -200,10 +203,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":28,
     "subscribers_count":9,
     "matched_at":"2021-08-20T05:37:11Z",
-    "organization":null,
     "owner_login":"forrest-orr",
     "owner_id":55118191,
     "owner_node_id":"MDQ6VXNlcjU1MTE4MTkx",
@@ -225,7 +228,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":215893893,
@@ -308,10 +314,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":1,
     "subscribers_count":1,
     "matched_at":"2021-08-20T05:28:56Z",
-    "organization":null,
     "owner_login":"3ndG4me",
     "owner_id":14339392,
     "owner_node_id":"MDQ6VXNlcjE0MzM5Mzky",
@@ -334,7 +340,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-7934"
+    ]
   },
   {
     "id":242812803,
@@ -417,10 +426,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-20T05:22:56Z",
-    "organization":null,
     "owner_login":"CrashExploit",
     "owner_id":61429839,
     "owner_node_id":"MDQ6VXNlcjYxNDI5ODM5",
@@ -442,7 +451,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":279546722,
@@ -525,10 +537,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-20T05:22:55Z",
-    "organization":null,
     "owner_login":"smarinovic",
     "owner_id":63958100,
     "owner_node_id":"MDQ6VXNlcjYzOTU4MTAw",
@@ -550,7 +562,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291793782,
@@ -639,9 +654,6 @@
       "pull":true
     },
     "temp_clone_token":"",
-    "network_count":0,
-    "subscribers_count":3,
-    "matched_at":"2021-08-20T05:22:56Z",
     "organization":{
       "login":"stajichlab",
       "id":2850967,
@@ -662,6 +674,9 @@
       "type":"Organization",
       "site_admin":false
     },
+    "network_count":0,
+    "subscribers_count":3,
+    "matched_at":"2021-08-20T05:22:56Z",
     "owner_login":"stajichlab",
     "owner_id":2850967,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjI4NTA5Njc=",
@@ -683,7 +698,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":301505788,
@@ -766,10 +784,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-20T05:35:14Z",
-    "organization":null,
     "owner_login":"bydeath69",
     "owner_id":69207642,
     "owner_node_id":"MDQ6VXNlcjY5MjA3NjQy",
@@ -791,7 +809,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":301616706,
@@ -874,10 +895,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":2,
     "matched_at":"2021-08-20T05:28:56Z",
-    "organization":null,
     "owner_login":"MIAIONE",
     "owner_id":46324080,
     "owner_node_id":"MDQ6VXNlcjQ2MzI0MDgw",
@@ -899,7 +920,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":301622936,
@@ -982,10 +1006,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":1,
     "subscribers_count":1,
     "matched_at":"2021-08-20T05:22:56Z",
-    "organization":null,
     "owner_login":"ircashem",
     "owner_id":40019383,
     "owner_node_id":"MDQ6VXNlcjQwMDE5Mzgz",
@@ -1007,7 +1031,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":301623422,
@@ -1090,10 +1117,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-20T05:22:55Z",
-    "organization":null,
     "owner_login":"SJ029626",
     "owner_id":14850141,
     "owner_node_id":"MDQ6VXNlcjE0ODUwMTQx",
@@ -1115,7 +1142,232 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":301633424,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMDE2MzM0MjQ=",
+    "name":"ta-metasploit-logging",
+    "full_name":"timip\/ta-metasploit-logging",
+    "private":false,
+    "html_url":"https:\/\/github.com\/timip\/ta-metasploit-logging",
+    "description":"Splunk Technology Add-on for Metasploit Logging",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging",
+    "forks_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/timip\/ta-metasploit-logging\/deployments",
+    "created_at":"2020-10-06T06:23:49Z",
+    "updated_at":"2020-10-06T17:00:20Z",
+    "pushed_at":"2020-10-06T17:05:47Z",
+    "git_url":"git:\/\/github.com\/timip\/ta-metasploit-logging.git",
+    "ssh_url":"git@github.com:timip\/ta-metasploit-logging.git",
+    "clone_url":"https:\/\/github.com\/timip\/ta-metasploit-logging.git",
+    "svn_url":"https:\/\/github.com\/timip\/ta-metasploit-logging",
+    "homepage":null,
+    "size":4,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "organization":null,
+    "network_count":0,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:23:12Z",
+    "owner_login":"timip",
+    "owner_id":2239274,
+    "owner_node_id":"MDQ6VXNlcjIyMzkyNzQ=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/2239274?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/timip",
+    "owner_html_url":"https:\/\/github.com\/timip",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/timip\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/timip\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/timip\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/timip\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/timip\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/timip\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/timip\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/timip\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/timip\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":301647097,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMDE2NDcwOTc=",
+    "name":"metasploit",
+    "full_name":"tester68\/metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/tester68\/metasploit",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/tester68\/metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/tester68\/metasploit\/deployments",
+    "created_at":"2020-10-06T07:26:42Z",
+    "updated_at":"2020-10-06T07:26:42Z",
+    "pushed_at":"2020-10-06T07:26:43Z",
+    "git_url":"git:\/\/github.com\/tester68\/metasploit.git",
+    "ssh_url":"git@github.com:tester68\/metasploit.git",
+    "clone_url":"https:\/\/github.com\/tester68\/metasploit.git",
+    "svn_url":"https:\/\/github.com\/tester68\/metasploit",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "organization":null,
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:23:12Z",
+    "owner_login":"tester68",
+    "owner_id":26339758,
+    "owner_node_id":"MDQ6VXNlcjI2MzM5NzU4",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/26339758?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/tester68",
+    "owner_html_url":"https:\/\/github.com\/tester68",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/tester68\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/tester68\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/tester68\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/tester68\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/tester68\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/tester68\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/tester68\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/tester68\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/tester68\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":301755201,
@@ -1198,10 +1450,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":2,
     "subscribers_count":1,
     "matched_at":"2021-08-20T05:22:56Z",
-    "organization":null,
     "owner_login":"prakharbhatt16",
     "owner_id":45948541,
     "owner_node_id":"MDQ6VXNlcjQ1OTQ4NTQx",
@@ -1223,7 +1475,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":301837171,
@@ -1306,10 +1561,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-20T05:35:14Z",
-    "organization":null,
     "owner_login":"Kenyan2Slick",
     "owner_id":71893255,
     "owner_node_id":"MDQ6VXNlcjcxODkzMjU1",
@@ -1331,7 +1586,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":301840991,
@@ -1414,10 +1672,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-20T05:35:14Z",
-    "organization":null,
     "owner_login":"uzbhack",
     "owner_id":68615492,
     "owner_node_id":"MDQ6VXNlcjY4NjE1NDky",
@@ -1439,6 +1697,9 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

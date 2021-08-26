@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":135951705,
@@ -213,7 +216,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":203542766,
@@ -298,7 +304,7 @@
     "temp_clone_token":"",
     "network_count":142,
     "subscribers_count":14,
-    "matched_at":"2021-08-20T02:53:06Z",
+    "matched_at":"2021-08-20T02:56:33Z",
     "organization":null,
     "owner_login":"projectzeroindia",
     "owner_id":54312442,
@@ -322,7 +328,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-11510"
+    ]
   },
   {
     "id":210112937,
@@ -430,7 +439,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":215297351,
@@ -538,7 +550,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-16278"
+    ]
   },
   {
     "id":222428787,
@@ -671,7 +686,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":231656840,
@@ -779,7 +797,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":232340632,
@@ -887,7 +908,10 @@
     "matched_list":[
       "remote code execution"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":233152117,
@@ -1001,7 +1025,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":233168483,
@@ -1110,7 +1137,10 @@
       "cve-2",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-19781"
+    ]
   },
   {
     "id":233187113,
@@ -1218,7 +1248,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":233192322,
@@ -1303,7 +1336,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T02:53:05Z",
+    "matched_at":"2021-08-20T02:56:33Z",
     "organization":null,
     "owner_login":"ianxtianxt",
     "owner_id":45796484,
@@ -1328,7 +1361,10 @@
       "exploit",
       "remote code execution"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2019-19781"
+    ]
   },
   {
     "id":233197813,
@@ -1436,7 +1472,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":233232989,
@@ -1545,7 +1584,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-19781"
+    ]
   },
   {
     "id":233235559,
@@ -1636,7 +1678,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T02:55:05Z",
+    "matched_at":"2021-08-26T17:19:30Z",
     "organization":null,
     "owner_login":"TwoDotSlashPass",
     "owner_id":17857978,
@@ -1657,9 +1699,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":233249664,
@@ -1767,7 +1813,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":233291916,
@@ -1875,7 +1924,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":233293337,
@@ -1983,7 +2035,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":233294562,
@@ -2068,7 +2123,7 @@
     "temp_clone_token":"",
     "network_count":2,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T02:53:07Z",
+    "matched_at":"2021-08-20T02:56:33Z",
     "organization":null,
     "owner_login":"unknowndevice64",
     "owner_id":23033569,
@@ -2092,7 +2147,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-19781"
+    ]
   },
   {
     "id":236356231,
@@ -2183,7 +2241,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T02:55:05Z",
+    "matched_at":"2021-08-26T17:19:30Z",
     "organization":{
       "login":"Fork-tools",
       "id":34668986,
@@ -2223,8 +2281,12 @@
     "owner_type":"Organization",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

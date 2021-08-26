@@ -106,7 +106,10 @@
       "cve poc",
       "vulnerability poc"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":191483220,
@@ -214,7 +217,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":193777956,
@@ -322,7 +328,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":257888464,
@@ -449,7 +458,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":265379352,
@@ -557,7 +569,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-9787"
+    ]
   },
   {
     "id":266651768,
@@ -665,7 +680,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":268661021,
@@ -774,7 +792,10 @@
       "rce",
       "rce poc"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":274587350,
@@ -882,7 +903,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-7529"
+    ]
   },
   {
     "id":274906170,
@@ -990,7 +1014,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-7602"
+    ]
   },
   {
     "id":276615963,
@@ -1098,7 +1125,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":276656968,
@@ -1206,7 +1236,10 @@
     "matched_list":[
       "command injection"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":276669271,
@@ -1314,7 +1347,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":276697965,
@@ -1399,7 +1435,7 @@
     "temp_clone_token":"",
     "network_count":7,
     "subscribers_count":3,
-    "matched_at":"2021-08-20T04:24:53Z",
+    "matched_at":"2021-08-20T04:30:07Z",
     "organization":null,
     "owner_login":"mhaskar",
     "owner_id":6861215,
@@ -1423,7 +1459,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-14947"
+    ]
   },
   {
     "id":276735337,
@@ -1531,7 +1570,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2008-2019"
+    ]
   },
   {
     "id":276737001,
@@ -1639,7 +1681,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":276766714,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNzY3NjY3MTQ=",
+    "name":"metasploit",
+    "full_name":"Riza-tech\/metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Riza-tech\/metasploit",
+    "description":"please help me make it the script",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Riza-tech\/metasploit\/deployments",
+    "created_at":"2020-07-02T23:51:01Z",
+    "updated_at":"2020-07-02T23:51:05Z",
+    "pushed_at":"2020-07-02T23:51:03Z",
+    "git_url":"git:\/\/github.com\/Riza-tech\/metasploit.git",
+    "ssh_url":"git@github.com:Riza-tech\/metasploit.git",
+    "clone_url":"https:\/\/github.com\/Riza-tech\/metasploit.git",
+    "svn_url":"https:\/\/github.com\/Riza-tech\/metasploit",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:21:58Z",
+    "organization":null,
+    "owner_login":"Riza-tech",
+    "owner_id":67765741,
+    "owner_node_id":"MDQ6VXNlcjY3NzY1NzQx",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/67765741?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Riza-tech",
+    "owner_html_url":"https:\/\/github.com\/Riza-tech",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Riza-tech\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Riza-tech\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Riza-tech\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Riza-tech\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Riza-tech\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Riza-tech\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Riza-tech\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Riza-tech\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Riza-tech\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":278242568,
@@ -1748,6 +1904,9 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-1948"
+    ]
   }
 ]

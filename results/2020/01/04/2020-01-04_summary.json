@@ -130,7 +130,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2011-3872"
+    ]
   },
   {
     "id":109948228,
@@ -244,7 +247,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":157153308,
@@ -352,7 +358,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":162839210,
@@ -460,7 +469,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":169964458,
@@ -568,7 +580,127 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":175984547,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxNzU5ODQ1NDc=",
+    "name":"vulnscan-parser",
+    "full_name":"happyc0ding\/vulnscan-parser",
+    "private":false,
+    "html_url":"https:\/\/github.com\/happyc0ding\/vulnscan-parser",
+    "description":"Parse scan results into python objects, i.e. Nessus, Nmap, testssl, metasploit, ...",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser",
+    "forks_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/happyc0ding\/vulnscan-parser\/deployments",
+    "created_at":"2019-03-16T14:46:42Z",
+    "updated_at":"2021-05-11T03:58:46Z",
+    "pushed_at":"2020-01-04T11:30:01Z",
+    "git_url":"git:\/\/github.com\/happyc0ding\/vulnscan-parser.git",
+    "ssh_url":"git@github.com:happyc0ding\/vulnscan-parser.git",
+    "clone_url":"https:\/\/github.com\/happyc0ding\/vulnscan-parser.git",
+    "svn_url":"https:\/\/github.com\/happyc0ding\/vulnscan-parser",
+    "homepage":null,
+    "size":180,
+    "stargazers_count":14,
+    "watchers_count":14,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":2,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "forks":2,
+    "open_issues":0,
+    "watchers":14,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":2,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:19:28Z",
+    "organization":null,
+    "owner_login":"happyc0ding",
+    "owner_id":15867861,
+    "owner_node_id":"MDQ6VXNlcjE1ODY3ODYx",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/15867861?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/happyc0ding",
+    "owner_html_url":"https:\/\/github.com\/happyc0ding",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/happyc0ding\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/happyc0ding\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/happyc0ding\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/happyc0ding\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/happyc0ding\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/happyc0ding\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/happyc0ding\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/happyc0ding\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/happyc0ding\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":227274200,
@@ -676,7 +808,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":229966944,
@@ -784,7 +919,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":231366747,
@@ -893,7 +1031,10 @@
       "exploit",
       "vulnerability poc"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":231647910,
@@ -1001,7 +1142,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":231666342,
@@ -1115,7 +1259,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":231687370,
@@ -1223,7 +1370,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":231730784,
@@ -1331,7 +1481,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":231776267,
@@ -1439,7 +1592,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":231828744,
@@ -1553,7 +1709,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":244791533,
@@ -1661,6 +1820,9 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -130,7 +130,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":235563527,
@@ -244,7 +247,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":260395022,
@@ -358,7 +364,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":298621362,
@@ -472,7 +481,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312289652,
@@ -586,7 +598,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312289795,
@@ -700,7 +715,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316537394,
@@ -814,7 +832,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":317221908,
@@ -922,7 +943,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":318011542,
@@ -1036,7 +1060,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319039566,
@@ -1144,7 +1171,11 @@
     "matched_list":[
       "cve poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-0108",
+      "CVE-2020-0113"
+    ]
   },
   {
     "id":320084650,
@@ -1253,7 +1284,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-1971"
+    ]
   },
   {
     "id":320115894,
@@ -1361,7 +1395,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":320179942,
@@ -1469,7 +1506,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-29666"
+    ]
   },
   {
     "id":320183812,
@@ -1577,7 +1617,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-29667"
+    ]
   },
   {
     "id":320215780,
@@ -1685,7 +1728,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":320216900,
@@ -1793,7 +1839,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":320249717,
@@ -1901,7 +1950,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":320259835,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMjAyNTk4MzU=",
+    "name":"Metasploit",
+    "full_name":"TermuxHackz\/Metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/TermuxHackz\/Metasploit",
+    "description":"A tool for installing metasploit in your termux",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/TermuxHackz\/Metasploit\/deployments",
+    "created_at":"2020-12-10T12:04:11Z",
+    "updated_at":"2021-07-27T18:10:48Z",
+    "pushed_at":"2020-12-10T12:09:23Z",
+    "git_url":"git:\/\/github.com\/TermuxHackz\/Metasploit.git",
+    "ssh_url":"git@github.com:TermuxHackz\/Metasploit.git",
+    "clone_url":"https:\/\/github.com\/TermuxHackz\/Metasploit.git",
+    "svn_url":"https:\/\/github.com\/TermuxHackz\/Metasploit",
+    "homepage":null,
+    "size":3,
+    "stargazers_count":4,
+    "watchers_count":4,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":4,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":3,
+    "matched_at":"2021-08-26T17:24:03Z",
+    "organization":null,
+    "owner_login":"TermuxHackz",
+    "owner_id":70668507,
+    "owner_node_id":"MDQ6VXNlcjcwNjY4NTA3",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/70668507?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/TermuxHackz",
+    "owner_html_url":"https:\/\/github.com\/TermuxHackz",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/TermuxHackz\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/TermuxHackz\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/TermuxHackz\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/TermuxHackz\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/TermuxHackz\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/TermuxHackz\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/TermuxHackz\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/TermuxHackz\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/TermuxHackz\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":320281594,
@@ -2009,7 +2172,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":320283583,
@@ -2117,7 +2283,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":320292614,
@@ -2250,7 +2419,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":320394850,
@@ -2360,6 +2532,9 @@
       "exploit",
       "rce"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2020-27955"
+    ]
   }
 ]

@@ -111,7 +111,146 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":244316965,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNDQzMTY5NjU=",
+    "name":"msf-opcua",
+    "full_name":"COMSYS\/msf-opcua",
+    "private":false,
+    "html_url":"https:\/\/github.com\/COMSYS\/msf-opcua",
+    "description":"Metasploit Modules for OPC UA",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua",
+    "forks_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/COMSYS\/msf-opcua\/deployments",
+    "created_at":"2020-03-02T08:22:35Z",
+    "updated_at":"2021-06-07T16:48:13Z",
+    "pushed_at":"2020-04-02T13:53:21Z",
+    "git_url":"git:\/\/github.com\/COMSYS\/msf-opcua.git",
+    "ssh_url":"git@github.com:COMSYS\/msf-opcua.git",
+    "clone_url":"https:\/\/github.com\/COMSYS\/msf-opcua.git",
+    "svn_url":"https:\/\/github.com\/COMSYS\/msf-opcua",
+    "homepage":"",
+    "size":28,
+    "stargazers_count":20,
+    "watchers_count":20,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":8,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"gpl-3.0",
+      "name":"GNU General Public License v3.0",
+      "spdx_id":"GPL-3.0",
+      "url":"https:\/\/api.github.com\/licenses\/gpl-3.0",
+      "node_id":"MDc6TGljZW5zZTk="
+    },
+    "forks":8,
+    "open_issues":0,
+    "watchers":20,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":8,
+    "subscribers_count":13,
+    "matched_at":"2021-08-26T17:21:36Z",
+    "organization":{
+      "login":"COMSYS",
+      "id":922839,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjkyMjgzOQ==",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/922839?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/COMSYS",
+      "html_url":"https:\/\/github.com\/COMSYS",
+      "followers_url":"https:\/\/api.github.com\/users\/COMSYS\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/COMSYS\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/COMSYS\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/COMSYS\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/COMSYS\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/COMSYS\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/COMSYS\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/COMSYS\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/COMSYS\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "owner_login":"COMSYS",
+    "owner_id":922839,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjkyMjgzOQ==",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/922839?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/COMSYS",
+    "owner_html_url":"https:\/\/github.com\/COMSYS",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/COMSYS\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/COMSYS\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/COMSYS\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/COMSYS\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/COMSYS\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/COMSYS\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/COMSYS\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/COMSYS\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/COMSYS\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":244363100,
@@ -219,7 +358,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":247372432,
@@ -327,7 +469,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":251357830,
@@ -455,7 +600,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-0796"
+    ]
   },
   {
     "id":251378533,
@@ -563,7 +711,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":251702396,
@@ -677,7 +828,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252530979,
@@ -785,7 +939,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252548913,
@@ -893,7 +1050,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":252566088,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNTI1NjYwODg=",
+    "name":"Metasploit",
+    "full_name":"ArisoNJet\/Metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/ArisoNJet\/Metasploit",
+    "description":"MSF for Android 6",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/ArisoNJet\/Metasploit\/deployments",
+    "created_at":"2020-04-02T21:17:03Z",
+    "updated_at":"2020-04-02T22:50:57Z",
+    "pushed_at":"2020-04-02T22:50:55Z",
+    "git_url":"git:\/\/github.com\/ArisoNJet\/Metasploit.git",
+    "ssh_url":"git@github.com:ArisoNJet\/Metasploit.git",
+    "clone_url":"https:\/\/github.com\/ArisoNJet\/Metasploit.git",
+    "svn_url":"https:\/\/github.com\/ArisoNJet\/Metasploit",
+    "homepage":null,
+    "size":6,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:21:37Z",
+    "organization":null,
+    "owner_login":"ArisoNJet",
+    "owner_id":53623722,
+    "owner_node_id":"MDQ6VXNlcjUzNjIzNzIy",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/53623722?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/ArisoNJet",
+    "owner_html_url":"https:\/\/github.com\/ArisoNJet",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/ArisoNJet\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/ArisoNJet\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/ArisoNJet\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/ArisoNJet\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/ArisoNJet\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/ArisoNJet\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/ArisoNJet\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/ArisoNJet\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/ArisoNJet\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":255248101,
@@ -1001,6 +1272,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -130,7 +130,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-18426"
+    ]
   },
   {
     "id":244963938,
@@ -238,7 +241,10 @@
     "matched_list":[
       "remote code execution"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":245013193,
@@ -352,7 +358,10 @@
     "matched_list":[
       "cve poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-0688"
+    ]
   },
   {
     "id":245079097,
@@ -460,7 +469,127 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-11235"
+    ]
+  },
+  {
+    "id":245115059,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNDUxMTUwNTk=",
+    "name":"Metasploit",
+    "full_name":"Anshomyous\/Metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Anshomyous\/Metasploit",
+    "description":"This is the metasploit framework",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Anshomyous\/Metasploit\/deployments",
+    "created_at":"2020-03-05T09:04:25Z",
+    "updated_at":"2020-03-05T09:06:27Z",
+    "pushed_at":"2020-03-05T09:06:26Z",
+    "git_url":"git:\/\/github.com\/Anshomyous\/Metasploit.git",
+    "ssh_url":"git@github.com:Anshomyous\/Metasploit.git",
+    "clone_url":"https:\/\/github.com\/Anshomyous\/Metasploit.git",
+    "svn_url":"https:\/\/github.com\/Anshomyous\/Metasploit",
+    "homepage":null,
+    "size":6,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Makefile",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"other",
+      "name":"Other",
+      "spdx_id":"NOASSERTION",
+      "url":null,
+      "node_id":"MDc6TGljZW5zZTA="
+    },
+    "forks":1,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:20:49Z",
+    "organization":null,
+    "owner_login":"Anshomyous",
+    "owner_id":47132924,
+    "owner_node_id":"MDQ6VXNlcjQ3MTMyOTI0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/47132924?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Anshomyous",
+    "owner_html_url":"https:\/\/github.com\/Anshomyous",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Anshomyous\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Anshomyous\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Anshomyous\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Anshomyous\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Anshomyous\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Anshomyous\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Anshomyous\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Anshomyous\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Anshomyous\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":245129315,
@@ -568,7 +697,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-13272"
+    ]
   },
   {
     "id":245196854,
@@ -682,7 +814,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":245254957,
@@ -796,7 +931,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":245261925,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNDUyNjE5MjU=",
+    "name":"metasploit",
+    "full_name":"MichaelGouldII1997\/metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/MichaelGouldII1997\/metasploit",
+    "description":"metasploit",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/MichaelGouldII1997\/metasploit\/deployments",
+    "created_at":"2020-03-05T20:32:45Z",
+    "updated_at":"2020-03-05T20:32:49Z",
+    "pushed_at":"2020-03-05T20:32:47Z",
+    "git_url":"git:\/\/github.com\/MichaelGouldII1997\/metasploit.git",
+    "ssh_url":"git@github.com:MichaelGouldII1997\/metasploit.git",
+    "clone_url":"https:\/\/github.com\/MichaelGouldII1997\/metasploit.git",
+    "svn_url":"https:\/\/github.com\/MichaelGouldII1997\/metasploit",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:20:49Z",
+    "organization":null,
+    "owner_login":"MichaelGouldII1997",
+    "owner_id":61257034,
+    "owner_node_id":"MDQ6VXNlcjYxMjU3MDM0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/61257034?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/MichaelGouldII1997",
+    "owner_html_url":"https:\/\/github.com\/MichaelGouldII1997",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/MichaelGouldII1997\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/MichaelGouldII1997\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/MichaelGouldII1997\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/MichaelGouldII1997\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/MichaelGouldII1997\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/MichaelGouldII1997\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/MichaelGouldII1997\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/MichaelGouldII1997\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/MichaelGouldII1997\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":245273092,
@@ -904,6 +1153,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

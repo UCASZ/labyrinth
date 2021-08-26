@@ -111,7 +111,140 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":75644022,
+    "node_id":"MDEwOlJlcG9zaXRvcnk3NTY0NDAyMg==",
+    "name":"msf-modules",
+    "full_name":"isaudits\/msf-modules",
+    "private":false,
+    "html_url":"https:\/\/github.com\/isaudits\/msf-modules",
+    "description":"Metasploit modules",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules",
+    "forks_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/isaudits\/msf-modules\/deployments",
+    "created_at":"2016-12-05T16:22:00Z",
+    "updated_at":"2020-10-20T17:20:42Z",
+    "pushed_at":"2020-10-20T17:20:40Z",
+    "git_url":"git:\/\/github.com\/isaudits\/msf-modules.git",
+    "ssh_url":"git@github.com:isaudits\/msf-modules.git",
+    "clone_url":"https:\/\/github.com\/isaudits\/msf-modules.git",
+    "svn_url":"https:\/\/github.com\/isaudits\/msf-modules",
+    "homepage":null,
+    "size":24,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":1,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:23:15Z",
+    "organization":{
+      "login":"isaudits",
+      "id":6473033,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjY0NzMwMzM=",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/6473033?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/isaudits",
+      "html_url":"https:\/\/github.com\/isaudits",
+      "followers_url":"https:\/\/api.github.com\/users\/isaudits\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/isaudits\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/isaudits\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/isaudits\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/isaudits\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/isaudits\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/isaudits\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/isaudits\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/isaudits\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "owner_login":"isaudits",
+    "owner_id":6473033,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjY0NzMwMzM=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/6473033?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/isaudits",
+    "owner_html_url":"https:\/\/github.com\/isaudits",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/isaudits\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/isaudits\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/isaudits\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/isaudits\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/isaudits\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/isaudits\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/isaudits\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/isaudits\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/isaudits\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":103392317,
@@ -225,7 +358,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":166056481,
@@ -333,7 +469,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-20555"
+    ]
   },
   {
     "id":168021673,
@@ -447,7 +586,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":219014772,
@@ -555,7 +697,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":226407735,
@@ -663,7 +808,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":250392759,
@@ -771,7 +919,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-11547"
+    ]
   },
   {
     "id":268969538,
@@ -898,7 +1049,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2019-10149"
+    ]
   },
   {
     "id":283687918,
@@ -1006,7 +1160,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":286155921,
@@ -1114,7 +1271,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":291279228,
@@ -1222,7 +1382,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":294013528,
@@ -1330,7 +1493,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":304353448,
@@ -1415,7 +1581,7 @@
     "temp_clone_token":"",
     "network_count":35,
     "subscribers_count":8,
-    "matched_at":"2021-08-20T05:29:03Z",
+    "matched_at":"2021-08-20T05:26:52Z",
     "organization":null,
     "owner_login":"0neb1n",
     "owner_id":22587350,
@@ -1441,7 +1607,10 @@
       "rce",
       "rce poc"
     ],
-    "matched_count":4
+    "matched_count":4,
+    "vul_ids":[
+      "CVE-2020-16947"
+    ]
   },
   {
     "id":305112358,
@@ -1526,7 +1695,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T05:25:51Z",
+    "matched_at":"2021-08-20T05:29:02Z",
     "organization":null,
     "owner_login":"mt-code",
     "owner_id":28394867,
@@ -1551,7 +1720,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2019-11447"
+    ]
   },
   {
     "id":305162799,
@@ -1659,7 +1831,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305341492,
@@ -1767,7 +1942,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305536667,
@@ -1875,7 +2053,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305562886,
@@ -1983,7 +2164,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305567054,
@@ -2097,7 +2281,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305605136,
@@ -2205,7 +2392,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305623786,
@@ -2313,7 +2503,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305639848,
@@ -2421,7 +2614,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-14644"
+    ]
   },
   {
     "id":305646142,
@@ -2535,7 +2731,10 @@
     "matched_list":[
       "attack poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305662924,
@@ -2643,7 +2842,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305671308,
@@ -2751,7 +2953,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305773672,
@@ -2866,7 +3071,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305789170,
@@ -2980,7 +3188,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305789887,
@@ -3088,7 +3299,11 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "MS17-010",
+      "MS17-10"
+    ]
   },
   {
     "id":305807375,
@@ -3196,7 +3411,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":305817533,
@@ -3304,6 +3522,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

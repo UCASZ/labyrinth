@@ -88,7 +88,7 @@
     "temp_clone_token":"",
     "network_count":1119,
     "subscribers_count":230,
-    "matched_at":"2021-08-20T05:35:21Z",
+    "matched_at":"2021-08-20T05:33:22Z",
     "organization":null,
     "owner_login":"NullArray",
     "owner_id":13443322,
@@ -110,9 +110,13 @@
     "owner_site_admin":false,
     "matched_list":[
       "exploit",
+      "metasploit module OR payload",
       "sploit"
     ],
-    "matched_count":2
+    "matched_count":3,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":142469255,
@@ -226,7 +230,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":191413039,
@@ -334,7 +341,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":267564685,
@@ -448,7 +458,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":289431368,
@@ -562,7 +575,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":313456739,
@@ -670,7 +686,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316535298,
@@ -755,7 +774,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T05:26:56Z",
+    "matched_at":"2021-08-20T05:34:11Z",
     "organization":null,
     "owner_login":"BvThTrd",
     "owner_id":32741195,
@@ -781,7 +800,121 @@
       "rce poc",
       "remote code execution"
     ],
-    "matched_count":4
+    "matched_count":4,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":316771122,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMTY3NzExMjI=",
+    "name":"METASPLOIT-666",
+    "full_name":"Paladino666\/METASPLOIT-666",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Paladino666\/METASPLOIT-666",
+    "description":"Essa ferramenta e para baixar o metasploit em celulares com a vers\u00e3o abaixo de 6.0",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666",
+    "forks_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Paladino666\/METASPLOIT-666\/deployments",
+    "created_at":"2020-11-28T16:07:35Z",
+    "updated_at":"2020-11-29T03:30:24Z",
+    "pushed_at":"2020-11-29T03:30:21Z",
+    "git_url":"git:\/\/github.com\/Paladino666\/METASPLOIT-666.git",
+    "ssh_url":"git@github.com:Paladino666\/METASPLOIT-666.git",
+    "clone_url":"https:\/\/github.com\/Paladino666\/METASPLOIT-666.git",
+    "svn_url":"https:\/\/github.com\/Paladino666\/METASPLOIT-666",
+    "homepage":null,
+    "size":17,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":1,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:23:59Z",
+    "organization":null,
+    "owner_login":"Paladino666",
+    "owner_id":75174943,
+    "owner_node_id":"MDQ6VXNlcjc1MTc0OTQz",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/75174943?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Paladino666",
+    "owner_html_url":"https:\/\/github.com\/Paladino666",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Paladino666\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Paladino666\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Paladino666\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Paladino666\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Paladino666\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Paladino666\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Paladino666\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Paladino666\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Paladino666\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316807658,
@@ -889,7 +1022,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316891992,
@@ -997,7 +1133,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316896626,
@@ -1105,7 +1244,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316897157,
@@ -1213,7 +1355,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":316897891,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMTY4OTc4OTE=",
+    "name":"Metasploite-Stuff",
+    "full_name":"Rushi-0\/Metasploite-Stuff",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Rushi-0\/Metasploite-Stuff",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff",
+    "forks_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Rushi-0\/Metasploite-Stuff\/deployments",
+    "created_at":"2020-11-29T07:23:42Z",
+    "updated_at":"2020-11-29T07:23:43Z",
+    "pushed_at":"2020-11-29T07:23:44Z",
+    "git_url":"git:\/\/github.com\/Rushi-0\/Metasploite-Stuff.git",
+    "ssh_url":"git@github.com:Rushi-0\/Metasploite-Stuff.git",
+    "clone_url":"https:\/\/github.com\/Rushi-0\/Metasploite-Stuff.git",
+    "svn_url":"https:\/\/github.com\/Rushi-0\/Metasploite-Stuff",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:23:59Z",
+    "organization":null,
+    "owner_login":"Rushi-0",
+    "owner_id":56338502,
+    "owner_node_id":"MDQ6VXNlcjU2MzM4NTAy",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/56338502?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Rushi-0",
+    "owner_html_url":"https:\/\/github.com\/Rushi-0",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Rushi-0\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Rushi-0\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Rushi-0\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Rushi-0\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Rushi-0\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Rushi-0\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Rushi-0\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Rushi-0\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Rushi-0\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316918051,
@@ -1321,7 +1577,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316918231,
@@ -1435,7 +1694,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316950713,
@@ -1549,7 +1811,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":316985872,
@@ -1657,7 +1922,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":317006709,
@@ -1765,7 +2033,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-15473"
+    ]
   },
   {
     "id":317018500,
@@ -1874,7 +2145,10 @@
       "exploit",
       "shellcode"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":317027117,
@@ -1982,6 +2256,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -105,7 +105,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":188896047,
@@ -214,7 +217,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-6340"
+    ]
   },
   {
     "id":235133807,
@@ -322,7 +328,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":244411621,
@@ -432,7 +441,16 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2020-2546",
+      "CVE-2020-2798",
+      "CVE-2020-2801",
+      "CVE-2020-2883",
+      "CVE-2020-2884",
+      "CVE-2020-2915",
+      "CVE-2020-2950"
+    ]
   },
   {
     "id":267755692,
@@ -540,7 +558,10 @@
     "matched_list":[
       "zeroday"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":268259897,
@@ -648,7 +669,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":269093815,
@@ -756,7 +780,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":270900495,
@@ -865,7 +892,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-9484"
+    ]
   },
   {
     "id":271019840,
@@ -979,7 +1009,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":271123745,
@@ -1070,7 +1103,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":2,
-    "matched_at":"2021-08-20T03:32:16Z",
+    "matched_at":"2021-08-26T17:22:07Z",
     "organization":{
       "login":"adhdproject",
       "id":16393816,
@@ -1110,9 +1143,13 @@
     "owner_type":"Organization",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":271139264,
@@ -1220,7 +1257,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":271152190,
@@ -1334,7 +1374,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":271157660,
@@ -1442,7 +1485,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":271168848,
@@ -1550,7 +1596,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":271201851,
@@ -1658,7 +1707,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":271220467,
@@ -1766,7 +1818,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-1301"
+    ]
   },
   {
     "id":271345500,
@@ -1874,7 +1929,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":271352442,
@@ -2001,7 +2059,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":271383912,
@@ -2115,6 +2176,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

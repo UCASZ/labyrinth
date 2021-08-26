@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":279400479,
@@ -213,7 +216,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":306906032,
@@ -321,7 +327,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":307749878,
@@ -429,7 +438,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":308073624,
@@ -537,7 +549,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-15999"
+    ]
   },
   {
     "id":315008270,
@@ -645,7 +660,127 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":315472172,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMTU0NzIxNzI=",
+    "name":"Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-",
+    "full_name":"SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-",
+    "private":false,
+    "html_url":"https:\/\/github.com\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-",
+    "description":"Foxit PDF Reader 9.0.1.1049 - Pointer Overwrite Use-After-Free (Without Metasploit)",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-",
+    "forks_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-\/deployments",
+    "created_at":"2020-11-24T00:09:08Z",
+    "updated_at":"2020-11-24T00:21:46Z",
+    "pushed_at":"2020-11-24T00:21:44Z",
+    "git_url":"git:\/\/github.com\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-.git",
+    "ssh_url":"git@github.com:SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-.git",
+    "clone_url":"https:\/\/github.com\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-.git",
+    "svn_url":"https:\/\/github.com\/SleepwalkrX\/Foxit-PDF-Reader-9.0.1.1049---Pointer-Overwrite-Use-After-Free-Without-Metasploit-",
+    "homepage":null,
+    "size":10,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:23:58Z",
+    "organization":null,
+    "owner_login":"SleepwalkrX",
+    "owner_id":64679961,
+    "owner_node_id":"MDQ6VXNlcjY0Njc5OTYx",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/64679961?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/SleepwalkrX",
+    "owner_html_url":"https:\/\/github.com\/SleepwalkrX",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/SleepwalkrX\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/SleepwalkrX\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/SleepwalkrX\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/SleepwalkrX\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/SleepwalkrX\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/SleepwalkrX\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/SleepwalkrX\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/SleepwalkrX\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/SleepwalkrX\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315498736,
@@ -753,7 +888,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-27955"
+    ]
   },
   {
     "id":315511631,
@@ -861,7 +999,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315544616,
@@ -969,7 +1110,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315552519,
@@ -1077,7 +1221,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-8174"
+    ]
   },
   {
     "id":315552850,
@@ -1185,7 +1332,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-8174"
+    ]
   },
   {
     "id":315572335,
@@ -1299,7 +1449,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315586072,
@@ -1407,7 +1560,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315599968,
@@ -1515,7 +1671,10 @@
     "matched_list":[
       "vulnerability poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315633663,
@@ -1642,7 +1801,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315642079,
@@ -1750,7 +1912,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315642146,
@@ -1858,7 +2023,10 @@
     "matched_list":[
       "attack poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315714046,
@@ -1966,7 +2134,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315716654,
@@ -2074,7 +2245,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":315741447,
@@ -2182,7 +2356,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":325441552,
@@ -2310,6 +2487,9 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-6308"
+    ]
   }
 ]

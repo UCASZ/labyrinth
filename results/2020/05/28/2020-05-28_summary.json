@@ -1,5 +1,141 @@
 [
   {
+    "id":166860595,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxNjY4NjA1OTU=",
+    "name":"openshift-metasploit",
+    "full_name":"rht-labs\/openshift-metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/rht-labs\/openshift-metasploit",
+    "description":"OpenShift enable implementation of Metasploit for use in CI\/CD\/DevOps pipelines",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/rht-labs\/openshift-metasploit\/deployments",
+    "created_at":"2019-01-21T18:27:20Z",
+    "updated_at":"2019-07-16T17:25:49Z",
+    "pushed_at":"2020-05-28T15:33:11Z",
+    "git_url":"git:\/\/github.com\/rht-labs\/openshift-metasploit.git",
+    "ssh_url":"git@github.com:rht-labs\/openshift-metasploit.git",
+    "clone_url":"https:\/\/github.com\/rht-labs\/openshift-metasploit.git",
+    "svn_url":"https:\/\/github.com\/rht-labs\/openshift-metasploit",
+    "homepage":null,
+    "size":6,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"Dockerfile",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":1,
+    "license":{
+      "key":"apache-2.0",
+      "name":"Apache License 2.0",
+      "spdx_id":"Apache-2.0",
+      "url":"https:\/\/api.github.com\/licenses\/apache-2.0",
+      "node_id":"MDc6TGljZW5zZTI="
+    },
+    "forks":1,
+    "open_issues":1,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":8,
+    "matched_at":"2021-08-26T17:22:01Z",
+    "organization":{
+      "login":"rht-labs",
+      "id":19174470,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjE5MTc0NDcw",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/19174470?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/rht-labs",
+      "html_url":"https:\/\/github.com\/rht-labs",
+      "followers_url":"https:\/\/api.github.com\/users\/rht-labs\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/rht-labs\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/rht-labs\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/rht-labs\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/rht-labs\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/rht-labs\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/rht-labs\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/rht-labs\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/rht-labs\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "owner_login":"rht-labs",
+    "owner_id":19174470,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjE5MTc0NDcw",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/19174470?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/rht-labs",
+    "owner_html_url":"https:\/\/github.com\/rht-labs",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/rht-labs\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/rht-labs\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/rht-labs\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/rht-labs\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/rht-labs\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/rht-labs\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/rht-labs\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/rht-labs\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/rht-labs\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
     "id":262047759,
     "node_id":"MDEwOlJlcG9zaXRvcnkyNjIwNDc3NTk=",
     "name":"048843",
@@ -105,7 +241,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262251734,
@@ -219,7 +358,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":265469610,
@@ -325,9 +467,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":266242131,
@@ -435,7 +581,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":266845218,
@@ -543,7 +692,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":266867844,
@@ -651,7 +803,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":267289581,
@@ -765,7 +920,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":267509847,
@@ -873,7 +1031,121 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":267527374,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNjc1MjczNzQ=",
+    "name":"Root-metasploitable.py",
+    "full_name":"SN8H3\/Root-metasploitable.py",
+    "private":false,
+    "html_url":"https:\/\/github.com\/SN8H3\/Root-metasploitable.py",
+    "description":"In this relo script create a root shell  for the machine metasploitable 2",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py",
+    "forks_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/SN8H3\/Root-metasploitable.py\/deployments",
+    "created_at":"2020-05-28T07:50:49Z",
+    "updated_at":"2021-05-06T20:49:48Z",
+    "pushed_at":"2020-05-28T14:36:28Z",
+    "git_url":"git:\/\/github.com\/SN8H3\/Root-metasploitable.py.git",
+    "ssh_url":"git@github.com:SN8H3\/Root-metasploitable.py.git",
+    "clone_url":"https:\/\/github.com\/SN8H3\/Root-metasploitable.py.git",
+    "svn_url":"https:\/\/github.com\/SN8H3\/Root-metasploitable.py",
+    "homepage":null,
+    "size":5,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:22:01Z",
+    "organization":null,
+    "owner_login":"SN8H3",
+    "owner_id":54266291,
+    "owner_node_id":"MDQ6VXNlcjU0MjY2Mjkx",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/54266291?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/SN8H3",
+    "owner_html_url":"https:\/\/github.com\/SN8H3",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/SN8H3\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/SN8H3\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/SN8H3\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/SN8H3\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/SN8H3\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/SN8H3\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/SN8H3\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/SN8H3\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/SN8H3\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":267537901,
@@ -981,7 +1253,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-0796"
+    ]
   },
   {
     "id":267586809,
@@ -1090,7 +1365,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":267699516,
@@ -1198,6 +1476,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

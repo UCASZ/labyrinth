@@ -111,7 +111,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":209645041,
@@ -219,7 +222,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":212053846,
@@ -333,7 +339,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":224163990,
@@ -441,7 +450,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":226702272,
@@ -555,7 +567,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":239715639,
@@ -661,9 +676,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":270823879,
@@ -748,7 +767,7 @@
     "temp_clone_token":"",
     "network_count":7,
     "subscribers_count":4,
-    "matched_at":"2021-08-20T05:35:06Z",
+    "matched_at":"2021-08-20T05:30:01Z",
     "organization":null,
     "owner_login":"lsass-exe",
     "owner_id":25537761,
@@ -772,7 +791,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-13886"
+    ]
   },
   {
     "id":283054636,
@@ -905,7 +927,121 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-5902"
+    ]
+  },
+  {
+    "id":288465134,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyODg0NjUxMzQ=",
+    "name":"antivirus-evasion",
+    "full_name":"5h3r10ck\/antivirus-evasion",
+    "private":false,
+    "html_url":"https:\/\/github.com\/5h3r10ck\/antivirus-evasion",
+    "description":"Applying some AV evasion techniques on a metasploit reverse shell",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion",
+    "forks_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/5h3r10ck\/antivirus-evasion\/deployments",
+    "created_at":"2020-08-18T13:33:57Z",
+    "updated_at":"2021-06-19T10:33:18Z",
+    "pushed_at":"2020-11-12T15:52:05Z",
+    "git_url":"git:\/\/github.com\/5h3r10ck\/antivirus-evasion.git",
+    "ssh_url":"git@github.com:5h3r10ck\/antivirus-evasion.git",
+    "clone_url":"https:\/\/github.com\/5h3r10ck\/antivirus-evasion.git",
+    "svn_url":"https:\/\/github.com\/5h3r10ck\/antivirus-evasion",
+    "homepage":"",
+    "size":41,
+    "stargazers_count":14,
+    "watchers_count":14,
+    "language":"C++",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":1,
+    "open_issues":0,
+    "watchers":14,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:23:56Z",
+    "organization":null,
+    "owner_login":"5h3r10ck",
+    "owner_id":44920953,
+    "owner_node_id":"MDQ6VXNlcjQ0OTIwOTUz",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/44920953?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/5h3r10ck",
+    "owner_html_url":"https:\/\/github.com\/5h3r10ck",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/5h3r10ck\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/5h3r10ck\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/5h3r10ck\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/5h3r10ck\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/5h3r10ck\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/5h3r10ck\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/5h3r10ck\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/5h3r10ck\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/5h3r10ck\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":292603682,
@@ -990,7 +1126,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T05:30:00Z",
+    "matched_at":"2021-08-20T05:37:21Z",
     "organization":null,
     "owner_login":"bluehood",
     "owner_id":70710385,
@@ -1014,7 +1150,10 @@
       "exploit",
       "shellcode"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":309797675,
@@ -1128,7 +1267,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":310925609,
@@ -1236,7 +1378,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":311265070,
@@ -1344,7 +1489,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-14882"
+    ]
   },
   {
     "id":311614326,
@@ -1452,7 +1600,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312147451,
@@ -1560,7 +1711,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-10189"
+    ]
   },
   {
     "id":312163767,
@@ -1669,7 +1823,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2019-0232"
+    ]
   },
   {
     "id":312173971,
@@ -1777,7 +1934,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312181482,
@@ -1885,7 +2045,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312209990,
@@ -1993,7 +2156,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312235133,
@@ -2107,7 +2273,11 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-16126",
+      "CVE-2020-16127"
+    ]
   },
   {
     "id":312246471,
@@ -2234,7 +2404,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312273674,
@@ -2348,7 +2521,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312285919,
@@ -2456,7 +2632,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-28414"
+    ]
   },
   {
     "id":312286062,
@@ -2564,7 +2743,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-28415"
+    ]
   },
   {
     "id":312331339,
@@ -2672,7 +2854,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312376979,
@@ -2780,7 +2965,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312391906,
@@ -2888,7 +3076,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":312413155,
@@ -2996,7 +3187,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":312499822,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzMTI0OTk4MjI=",
+    "name":"MeterPwrShell",
+    "full_name":"rc-chuah\/MeterPwrShell",
+    "private":false,
+    "html_url":"https:\/\/github.com\/rc-chuah\/MeterPwrShell",
+    "description":"Automated Tool For Generate A One-Liner Encrypted,Base64 Encoded Powershell Command That Can Make A Meterpreter Shell On Metasploit",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell",
+    "forks_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/rc-chuah\/MeterPwrShell\/deployments",
+    "created_at":"2020-11-13T07:11:19Z",
+    "updated_at":"2021-01-17T13:52:28Z",
+    "pushed_at":"2020-11-12T00:34:01Z",
+    "git_url":"git:\/\/github.com\/rc-chuah\/MeterPwrShell.git",
+    "ssh_url":"git@github.com:rc-chuah\/MeterPwrShell.git",
+    "clone_url":"https:\/\/github.com\/rc-chuah\/MeterPwrShell.git",
+    "svn_url":"https:\/\/github.com\/rc-chuah\/MeterPwrShell",
+    "homepage":"",
+    "size":66,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":false,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":0,
+    "matched_at":"2021-08-26T17:23:55Z",
+    "organization":null,
+    "owner_login":"rc-chuah",
+    "owner_id":44928288,
+    "owner_node_id":"MDQ6VXNlcjQ0OTI4Mjg4",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/44928288?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/rc-chuah",
+    "owner_html_url":"https:\/\/github.com\/rc-chuah",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/rc-chuah\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/rc-chuah\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/rc-chuah\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/rc-chuah\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/rc-chuah\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/rc-chuah\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/rc-chuah\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/rc-chuah\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/rc-chuah\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":348540448,
@@ -3104,6 +3409,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

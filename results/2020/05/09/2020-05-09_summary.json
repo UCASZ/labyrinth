@@ -111,7 +111,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":158273046,
@@ -196,7 +199,7 @@
     "temp_clone_token":"",
     "network_count":71,
     "subscribers_count":22,
-    "matched_at":"2021-08-20T03:32:08Z",
+    "matched_at":"2021-08-26T17:21:52Z",
     "organization":null,
     "owner_login":"0xR0",
     "owner_id":42720080,
@@ -217,9 +220,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":167660240,
@@ -333,7 +340,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":178526560,
@@ -466,7 +476,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":225032356,
@@ -580,7 +593,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":239943630,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyMzk5NDM2MzA=",
+    "name":"metasploit",
+    "full_name":"thehackersbrain\/metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/thehackersbrain\/metasploit",
+    "description":"Metasploit Installation",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/thehackersbrain\/metasploit\/deployments",
+    "created_at":"2020-02-12T06:34:30Z",
+    "updated_at":"2020-05-09T10:44:56Z",
+    "pushed_at":"2020-05-09T10:44:54Z",
+    "git_url":"git:\/\/github.com\/thehackersbrain\/metasploit.git",
+    "ssh_url":"git@github.com:thehackersbrain\/metasploit.git",
+    "clone_url":"https:\/\/github.com\/thehackersbrain\/metasploit.git",
+    "svn_url":"https:\/\/github.com\/thehackersbrain\/metasploit",
+    "homepage":null,
+    "size":12,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Shell",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:21:52Z",
+    "organization":null,
+    "owner_login":"thehackersbrain",
+    "owner_id":36809025,
+    "owner_node_id":"MDQ6VXNlcjM2ODA5MDI1",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/36809025?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/thehackersbrain",
+    "owner_html_url":"https:\/\/github.com\/thehackersbrain",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/thehackersbrain\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/thehackersbrain\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/thehackersbrain\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/thehackersbrain\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/thehackersbrain\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/thehackersbrain\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/thehackersbrain\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/thehackersbrain\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/thehackersbrain\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":252816582,
@@ -688,7 +815,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":258279357,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNTgyNzkzNTc=",
+    "name":"metasploit_modules",
+    "full_name":"j00c3\/metasploit_modules",
+    "private":false,
+    "html_url":"https:\/\/github.com\/j00c3\/metasploit_modules",
+    "description":"Just a couple MSF modules I created to make my red team job easier",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules",
+    "forks_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/j00c3\/metasploit_modules\/deployments",
+    "created_at":"2020-04-23T17:24:36Z",
+    "updated_at":"2020-05-09T16:47:26Z",
+    "pushed_at":"2020-05-09T16:47:24Z",
+    "git_url":"git:\/\/github.com\/j00c3\/metasploit_modules.git",
+    "ssh_url":"git@github.com:j00c3\/metasploit_modules.git",
+    "clone_url":"https:\/\/github.com\/j00c3\/metasploit_modules.git",
+    "svn_url":"https:\/\/github.com\/j00c3\/metasploit_modules",
+    "homepage":null,
+    "size":3,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:21:52Z",
+    "organization":null,
+    "owner_login":"j00c3",
+    "owner_id":9037100,
+    "owner_node_id":"MDQ6VXNlcjkwMzcxMDA=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/9037100?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/j00c3",
+    "owner_html_url":"https:\/\/github.com\/j00c3",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/j00c3\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/j00c3\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/j00c3\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/j00c3\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/j00c3\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/j00c3\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/j00c3\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/j00c3\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/j00c3\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":259753033,
@@ -797,7 +1038,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-1967"
+    ]
   },
   {
     "id":261951068,
@@ -905,7 +1149,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-11651"
+    ]
   },
   {
     "id":262328939,
@@ -1013,7 +1260,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262439625,
@@ -1121,7 +1371,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262569050,
@@ -1229,7 +1482,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262590837,
@@ -1343,7 +1599,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262632645,
@@ -1451,7 +1710,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262637741,
@@ -1559,7 +1821,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262645338,
@@ -1673,7 +1938,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":262648570,
@@ -1781,7 +2049,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":263232476,
@@ -1889,6 +2160,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

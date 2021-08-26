@@ -105,7 +105,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":115870697,
@@ -213,7 +216,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":238169120,
@@ -321,7 +327,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":243416592,
@@ -429,7 +438,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-0688"
+    ]
   },
   {
     "id":259126946,
@@ -543,7 +555,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":259441463,
@@ -651,7 +666,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":263806711,
@@ -765,7 +783,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":271826126,
@@ -881,7 +902,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2019-15813"
+    ]
   },
   {
     "id":272052072,
@@ -990,7 +1014,10 @@
       "0day",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":272809160,
@@ -1098,7 +1125,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":272838241,
@@ -1206,7 +1236,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":273435253,
@@ -1314,7 +1347,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":273451335,
@@ -1422,7 +1458,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":273474183,
@@ -1530,7 +1569,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":273505762,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNzM1MDU3NjI=",
+    "name":"metasploitPlayground",
+    "full_name":"fvvsantana\/metasploitPlayground",
+    "private":false,
+    "html_url":"https:\/\/github.com\/fvvsantana\/metasploitPlayground",
+    "description":"Docker environment for performing security attacks using Metasploit.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground",
+    "forks_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/fvvsantana\/metasploitPlayground\/deployments",
+    "created_at":"2020-06-19T13:53:12Z",
+    "updated_at":"2020-07-11T22:21:04Z",
+    "pushed_at":"2020-06-19T17:40:49Z",
+    "git_url":"git:\/\/github.com\/fvvsantana\/metasploitPlayground.git",
+    "ssh_url":"git@github.com:fvvsantana\/metasploitPlayground.git",
+    "clone_url":"https:\/\/github.com\/fvvsantana\/metasploitPlayground.git",
+    "svn_url":"https:\/\/github.com\/fvvsantana\/metasploitPlayground",
+    "homepage":"",
+    "size":151,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Dockerfile",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:22:10Z",
+    "organization":null,
+    "owner_login":"fvvsantana",
+    "owner_id":19392721,
+    "owner_node_id":"MDQ6VXNlcjE5MzkyNzIx",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/19392721?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/fvvsantana",
+    "owner_html_url":"https:\/\/github.com\/fvvsantana",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/fvvsantana\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/fvvsantana\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/fvvsantana\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/fvvsantana\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/fvvsantana\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/fvvsantana\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/fvvsantana\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/fvvsantana\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/fvvsantana\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":273529680,
@@ -1638,7 +1791,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":273538052,
@@ -1765,7 +1921,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":273572850,
@@ -1879,7 +2038,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":273582266,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNzM1ODIyNjY=",
+    "name":"SMBGhost-LPE-Metasploit-Module",
+    "full_name":"Almorabea\/SMBGhost-LPE-Metasploit-Module",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Almorabea\/SMBGhost-LPE-Metasploit-Module",
+    "description":"This is an implementation of the CVE-2020-0796 aka SMBGhost vulnerability, compatible with the Metasploit Framework",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module",
+    "forks_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Almorabea\/SMBGhost-LPE-Metasploit-Module\/deployments",
+    "created_at":"2020-06-19T20:38:11Z",
+    "updated_at":"2021-07-29T03:07:49Z",
+    "pushed_at":"2020-06-19T20:58:36Z",
+    "git_url":"git:\/\/github.com\/Almorabea\/SMBGhost-LPE-Metasploit-Module.git",
+    "ssh_url":"git@github.com:Almorabea\/SMBGhost-LPE-Metasploit-Module.git",
+    "clone_url":"https:\/\/github.com\/Almorabea\/SMBGhost-LPE-Metasploit-Module.git",
+    "svn_url":"https:\/\/github.com\/Almorabea\/SMBGhost-LPE-Metasploit-Module",
+    "homepage":null,
+    "size":12343,
+    "stargazers_count":21,
+    "watchers_count":21,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":6,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":6,
+    "open_issues":0,
+    "watchers":21,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":6,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:22:10Z",
+    "organization":null,
+    "owner_login":"Almorabea",
+    "owner_id":13198863,
+    "owner_node_id":"MDQ6VXNlcjEzMTk4ODYz",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/13198863?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Almorabea",
+    "owner_html_url":"https:\/\/github.com\/Almorabea",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Almorabea\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Almorabea\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Almorabea\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Almorabea\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Almorabea\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Almorabea\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Almorabea\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Almorabea\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Almorabea\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-0796"
+    ]
   },
   {
     "id":273586938,
@@ -1987,7 +2260,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":273605030,
@@ -2095,6 +2371,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

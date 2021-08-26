@@ -105,7 +105,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":222318157,
@@ -219,7 +222,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":256755625,
@@ -327,7 +333,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":294140303,
@@ -442,7 +451,10 @@
       "cve-2",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-8289"
+    ]
   },
   {
     "id":294141202,
@@ -556,7 +568,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-8290"
+    ]
   },
   {
     "id":298028063,
@@ -664,7 +679,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2014-0472"
+    ]
   },
   {
     "id":304726489,
@@ -749,7 +767,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T06:20:56Z",
+    "matched_at":"2021-08-26T17:24:07Z",
     "organization":null,
     "owner_login":"cd6629",
     "owner_id":63489620,
@@ -772,9 +790,13 @@
     "matched_list":[
       "cve poc",
       "cve-2",
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":3
+    "matched_count":4,
+    "vul_ids":[
+      "CVE-2015-3306"
+    ]
   },
   {
     "id":305805587,
@@ -888,7 +910,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":319921170,
@@ -973,7 +998,7 @@
     "temp_clone_token":"",
     "network_count":38,
     "subscribers_count":3,
-    "matched_at":"2021-08-20T06:21:56Z",
+    "matched_at":"2021-08-20T05:37:20Z",
     "organization":null,
     "owner_login":"Airboi",
     "owner_id":28615434,
@@ -997,7 +1022,10 @@
       "cve-2",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-17144"
+    ]
   },
   {
     "id":320993464,
@@ -1105,7 +1133,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":321924345,
@@ -1213,7 +1244,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":321942992,
@@ -1321,7 +1355,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":323249586,
@@ -1406,7 +1443,7 @@
     "temp_clone_token":"",
     "network_count":7,
     "subscribers_count":0,
-    "matched_at":"2021-08-20T06:20:56Z",
+    "matched_at":"2021-08-20T05:31:11Z",
     "organization":null,
     "owner_login":"MisterSpyx",
     "owner_id":37717789,
@@ -1430,7 +1467,10 @@
       "0day",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":323487378,
@@ -1538,7 +1578,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":323494597,
@@ -1646,7 +1689,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":323782110,
@@ -1754,7 +1800,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":324025607,
@@ -1862,7 +1911,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":324061019,
@@ -1970,7 +2022,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-17008"
+    ]
   },
   {
     "id":324076751,
@@ -2078,7 +2133,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2020-14645"
+    ]
   },
   {
     "id":324079613,
@@ -2186,7 +2244,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":324090380,
@@ -2294,7 +2355,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":324129597,
@@ -2403,7 +2467,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2020-28169"
+    ]
   },
   {
     "id":324175067,
@@ -2530,7 +2597,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":324176172,
@@ -2615,7 +2685,7 @@
     "temp_clone_token":"",
     "network_count":5,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T06:20:57Z",
+    "matched_at":"2021-08-20T06:21:56Z",
     "organization":{
       "login":"Dark-Clown-Security",
       "id":76562582,
@@ -2658,7 +2728,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":324179212,
@@ -2786,6 +2859,9 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]
