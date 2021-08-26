@@ -105,7 +105,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":48211695,
@@ -213,7 +216,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":48985791,
@@ -322,7 +328,10 @@
       "exploit",
       "remote code execution"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":48999127,
@@ -432,6 +441,9 @@
       "exploit",
       "rce"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2015-8562"
+    ]
   }
 ]

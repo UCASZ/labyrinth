@@ -82,7 +82,7 @@
     "temp_clone_token":"",
     "network_count":2,
     "subscribers_count":1,
-    "matched_at":"2021-08-19T21:16:56Z",
+    "matched_at":"2021-08-26T17:47:27Z",
     "organization":null,
     "owner_login":"freddiebarrsmith",
     "owner_id":6563398,
@@ -103,9 +103,124 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
+      "metasploit module OR payload",
       "remote code execution"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":60468201,
+    "node_id":"MDEwOlJlcG9zaXRvcnk2MDQ2ODIwMQ==",
+    "name":"Nagios-XI-5.2.7-Metasploit-Module",
+    "full_name":"freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module",
+    "private":false,
+    "html_url":"https:\/\/github.com\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module",
+    "description":"Nagios XI 5.2.7 Metasploit Module",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module",
+    "forks_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module\/deployments",
+    "created_at":"2016-06-05T15:56:44Z",
+    "updated_at":"2020-05-11T19:08:09Z",
+    "pushed_at":"2016-08-12T22:40:50Z",
+    "git_url":"git:\/\/github.com\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module.git",
+    "ssh_url":"git@github.com:freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module.git",
+    "clone_url":"https:\/\/github.com\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module.git",
+    "svn_url":"https:\/\/github.com\/freddiebarrsmith\/Nagios-XI-5.2.7-Metasploit-Module",
+    "homepage":null,
+    "size":2,
+    "stargazers_count":2,
+    "watchers_count":2,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":1,
+    "open_issues":0,
+    "watchers":2,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:47:28Z",
+    "organization":null,
+    "owner_login":"freddiebarrsmith",
+    "owner_id":6563398,
+    "owner_node_id":"MDQ6VXNlcjY1NjMzOTg=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/6563398?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/freddiebarrsmith",
+    "owner_html_url":"https:\/\/github.com\/freddiebarrsmith",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/freddiebarrsmith\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/freddiebarrsmith\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/freddiebarrsmith\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/freddiebarrsmith\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/freddiebarrsmith\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/freddiebarrsmith\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/freddiebarrsmith\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/freddiebarrsmith\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/freddiebarrsmith\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":64508729,
@@ -213,7 +328,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":65565082,
@@ -321,7 +439,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":65565475,
@@ -429,7 +550,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":65569849,
@@ -537,7 +661,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":65571010,
@@ -645,6 +772,9 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

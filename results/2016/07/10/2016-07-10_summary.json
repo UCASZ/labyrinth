@@ -105,7 +105,121 @@
     "matched_list":[
       "attack poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":62983538,
+    "node_id":"MDEwOlJlcG9zaXRvcnk2Mjk4MzUzOA==",
+    "name":"ShellDetect",
+    "full_name":"cysinfo\/ShellDetect",
+    "private":false,
+    "html_url":"https:\/\/github.com\/cysinfo\/ShellDetect",
+    "description":"Shell Detect is the FREE tool to detect presence of Shell Code within a file or network stream. You can either provide raw binary file (such as generated from Metasploit [Reference 4]) or network stream file as input to this tool.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect",
+    "forks_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/cysinfo\/ShellDetect\/deployments",
+    "created_at":"2016-07-10T05:36:45Z",
+    "updated_at":"2021-05-13T07:42:10Z",
+    "pushed_at":"2016-07-10T05:39:25Z",
+    "git_url":"git:\/\/github.com\/cysinfo\/ShellDetect.git",
+    "ssh_url":"git@github.com:cysinfo\/ShellDetect.git",
+    "clone_url":"https:\/\/github.com\/cysinfo\/ShellDetect.git",
+    "svn_url":"https:\/\/github.com\/cysinfo\/ShellDetect",
+    "homepage":null,
+    "size":3,
+    "stargazers_count":8,
+    "watchers_count":8,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":4,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":4,
+    "open_issues":0,
+    "watchers":8,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":4,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:45:19Z",
+    "owner_login":"cysinfo",
+    "owner_id":20367189,
+    "owner_node_id":"MDQ6VXNlcjIwMzY3MTg5",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/20367189?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/cysinfo",
+    "owner_html_url":"https:\/\/github.com\/cysinfo",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/cysinfo\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/cysinfo\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/cysinfo\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/cysinfo\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/cysinfo\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/cysinfo\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/cysinfo\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/cysinfo\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/cysinfo\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "organization":null,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":62997987,
@@ -219,7 +333,10 @@
     "matched_list":[
       "command injection"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":63004679,
@@ -327,7 +444,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":63017627,
@@ -435,6 +555,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

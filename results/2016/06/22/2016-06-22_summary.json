@@ -105,7 +105,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":56731105,
@@ -218,9 +221,13 @@
     "organization":null,
     "matched_list":[
       "exploit",
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":2
+    "matched_count":3,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":61731983,
@@ -328,7 +335,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "MS16-032"
+    ]
   },
   {
     "id":62947238,
@@ -442,7 +452,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":62947240,
@@ -556,6 +569,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

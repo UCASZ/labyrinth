@@ -80,10 +80,10 @@
       "pull":true
     },
     "temp_clone_token":"",
-    "organization":null,
     "network_count":8,
     "subscribers_count":2,
-    "matched_at":"2021-08-19T20:47:06Z",
+    "matched_at":"2021-08-26T17:50:29Z",
+    "organization":null,
     "owner_login":"samvartaka",
     "owner_id":13459814,
     "owner_node_id":"MDQ6VXNlcjEzNDU5ODE0",
@@ -103,9 +103,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":60321010,
@@ -188,10 +192,10 @@
       "pull":true
     },
     "temp_clone_token":"",
-    "organization":null,
     "network_count":0,
     "subscribers_count":2,
     "matched_at":"2021-08-19T20:54:07Z",
+    "organization":null,
     "owner_login":"Manouchehri",
     "owner_id":7232674,
     "owner_node_id":"MDQ6VXNlcjcyMzI2NzQ=",
@@ -213,6 +217,9 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2016-1734"
+    ]
   }
 ]

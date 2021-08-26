@@ -109,7 +109,10 @@
       "rce poc",
       "remote code execution"
     ],
-    "matched_count":5
+    "matched_count":5,
+    "vul_ids":[
+      "CVE-2016-6662"
+    ]
   },
   {
     "id":68691943,
@@ -217,7 +220,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":68711074,
@@ -325,6 +331,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

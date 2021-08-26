@@ -105,7 +105,11 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2014-4322",
+      "CVE-2014-7911"
+    ]
   },
   {
     "id":54528087,
@@ -213,7 +217,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2014-4322"
+    ]
   },
   {
     "id":54551843,
@@ -340,7 +347,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2013-2028"
+    ]
   },
   {
     "id":54592240,
@@ -448,6 +458,9 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

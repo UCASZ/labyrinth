@@ -130,7 +130,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":2028947,
@@ -244,7 +247,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":11410359,
@@ -352,7 +358,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":15708769,
@@ -460,7 +469,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":22073054,
@@ -568,7 +580,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":22434035,
@@ -676,7 +691,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":22823266,
@@ -790,7 +808,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":24753042,
@@ -898,7 +919,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":24801967,
@@ -1007,7 +1031,11 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "BID-13190",
+      "CVE-2005-1125"
+    ]
   },
   {
     "id":29785707,
@@ -1116,7 +1144,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2014-1447"
+    ]
   },
   {
     "id":37913927,
@@ -1243,7 +1274,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":38661566,
@@ -1351,7 +1385,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":40071456,
@@ -1459,7 +1496,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":41181721,
+    "node_id":"MDEwOlJlcG9zaXRvcnk0MTE4MTcyMQ==",
+    "name":"metasploit_logo",
+    "full_name":"mainframed\/metasploit_logo",
+    "private":false,
+    "html_url":"https:\/\/github.com\/mainframed\/metasploit_logo",
+    "description":"Metasploit Logos that use Z for the new zArch additions",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo",
+    "forks_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/mainframed\/metasploit_logo\/deployments",
+    "created_at":"2015-08-21T23:25:52Z",
+    "updated_at":"2019-06-02T17:48:33Z",
+    "pushed_at":"2016-02-09T00:11:09Z",
+    "git_url":"git:\/\/github.com\/mainframed\/metasploit_logo.git",
+    "ssh_url":"git@github.com:mainframed\/metasploit_logo.git",
+    "clone_url":"https:\/\/github.com\/mainframed\/metasploit_logo.git",
+    "svn_url":"https:\/\/github.com\/mainframed\/metasploit_logo",
+    "homepage":null,
+    "size":339,
+    "stargazers_count":6,
+    "watchers_count":6,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":4,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":4,
+    "open_issues":0,
+    "watchers":6,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":4,
+    "subscribers_count":3,
+    "matched_at":"2021-08-26T17:42:23Z",
+    "organization":null,
+    "owner_login":"mainframed",
+    "owner_id":1973519,
+    "owner_node_id":"MDQ6VXNlcjE5NzM1MTk=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/1973519?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/mainframed",
+    "owner_html_url":"https:\/\/github.com\/mainframed",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/mainframed\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/mainframed\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/mainframed\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/mainframed\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/mainframed\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/mainframed\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/mainframed\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/mainframed\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/mainframed\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":42222960,
@@ -1573,7 +1724,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":42296764,
@@ -1681,7 +1835,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":43757734,
@@ -1789,7 +1946,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":44180484,
@@ -1897,7 +2057,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":45200460,
@@ -2011,7 +2174,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":45431572,
@@ -2119,7 +2285,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":46452758,
@@ -2233,7 +2402,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":47825131,
@@ -2341,7 +2513,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":48564740,
@@ -2449,7 +2624,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":49057573,
@@ -2558,7 +2736,10 @@
       "exploit",
       "sploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":49078394,
@@ -2666,7 +2847,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":49440071,
@@ -2780,7 +2964,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":49578091,
@@ -2894,7 +3081,10 @@
     "matched_list":[
       "vulnerability poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50253658,
@@ -3002,7 +3192,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50325977,
@@ -3116,7 +3309,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50379138,
@@ -3230,7 +3426,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50385942,
@@ -3338,7 +3537,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50443713,
@@ -3471,7 +3673,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50794771,
@@ -3579,7 +3784,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50854255,
@@ -3664,7 +3872,7 @@
     "temp_clone_token":"",
     "network_count":14,
     "subscribers_count":9,
-    "matched_at":"2021-08-19T20:31:55Z",
+    "matched_at":"2021-08-19T20:40:25Z",
     "organization":{
       "login":"nowsecure",
       "id":9845651,
@@ -3707,7 +3915,10 @@
       "rce",
       "rce poc"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50875802,
@@ -3834,7 +4045,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50903972,
@@ -3942,7 +4156,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50957830,
@@ -4050,7 +4267,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2016-0701"
+    ]
   },
   {
     "id":50986903,
@@ -4158,7 +4378,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":50989929,
@@ -4266,7 +4489,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51086386,
@@ -4374,7 +4600,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51150055,
@@ -4482,7 +4711,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51202173,
@@ -4590,7 +4822,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51241503,
@@ -4698,7 +4933,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51250049,
@@ -4789,7 +5027,7 @@
     "temp_clone_token":"",
     "network_count":27,
     "subscribers_count":3,
-    "matched_at":"2021-08-19T20:35:03Z",
+    "matched_at":"2021-08-19T20:34:08Z",
     "organization":null,
     "owner_login":"sam-b",
     "owner_id":997395,
@@ -4813,7 +5051,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2014-4113"
+    ]
   },
   {
     "id":51278463,
@@ -4904,7 +5145,7 @@
     "temp_clone_token":"",
     "network_count":2,
     "subscribers_count":1,
-    "matched_at":"2021-08-19T20:35:02Z",
+    "matched_at":"2021-08-19T20:34:04Z",
     "organization":null,
     "owner_login":"atcasanova",
     "owner_id":2973929,
@@ -4928,7 +5169,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2015-8562"
+    ]
   },
   {
     "id":51340717,
@@ -5055,7 +5299,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51361298,
@@ -5163,7 +5410,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51395979,
@@ -5290,7 +5540,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51399695,
@@ -5396,9 +5649,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51430251,
@@ -5506,7 +5763,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51472663,
@@ -5620,7 +5880,146 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-7547"
+    ]
+  },
+  {
+    "id":51493081,
+    "node_id":"MDEwOlJlcG9zaXRvcnk1MTQ5MzA4MQ==",
+    "name":"docker-metasploit-rpcd",
+    "full_name":"mamoru-vm\/docker-metasploit-rpcd",
+    "private":false,
+    "html_url":"https:\/\/github.com\/mamoru-vm\/docker-metasploit-rpcd",
+    "description":"Container for metasploits msfrpcd",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd",
+    "forks_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/mamoru-vm\/docker-metasploit-rpcd\/deployments",
+    "created_at":"2016-02-11T04:04:38Z",
+    "updated_at":"2016-02-11T04:26:09Z",
+    "pushed_at":"2016-02-12T07:06:06Z",
+    "git_url":"git:\/\/github.com\/mamoru-vm\/docker-metasploit-rpcd.git",
+    "ssh_url":"git@github.com:mamoru-vm\/docker-metasploit-rpcd.git",
+    "clone_url":"https:\/\/github.com\/mamoru-vm\/docker-metasploit-rpcd.git",
+    "svn_url":"https:\/\/github.com\/mamoru-vm\/docker-metasploit-rpcd",
+    "homepage":null,
+    "size":22,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:42:24Z",
+    "organization":{
+      "login":"mamoru-vm",
+      "id":17116913,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjE3MTE2OTEz",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/17116913?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/mamoru-vm",
+      "html_url":"https:\/\/github.com\/mamoru-vm",
+      "followers_url":"https:\/\/api.github.com\/users\/mamoru-vm\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/mamoru-vm\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/mamoru-vm\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/mamoru-vm\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/mamoru-vm\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/mamoru-vm\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/mamoru-vm\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/mamoru-vm\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/mamoru-vm\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "owner_login":"mamoru-vm",
+    "owner_id":17116913,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjE3MTE2OTEz",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/17116913?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/mamoru-vm",
+    "owner_html_url":"https:\/\/github.com\/mamoru-vm",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/mamoru-vm\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/mamoru-vm\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/mamoru-vm\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/mamoru-vm\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/mamoru-vm\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/mamoru-vm\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/mamoru-vm\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/mamoru-vm\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/mamoru-vm\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51548022,
@@ -5728,7 +6127,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51577925,
@@ -5836,7 +6238,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-8651"
+    ]
   },
   {
     "id":51620475,
@@ -5950,7 +6355,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51638766,
@@ -6058,7 +6466,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51651940,
@@ -6166,7 +6577,10 @@
     "matched_list":[
       "attack poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51661803,
@@ -6274,7 +6688,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51704005,
@@ -6382,7 +6799,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51718962,
@@ -6490,7 +6910,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51740271,
@@ -6598,7 +7021,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-6640"
+    ]
   },
   {
     "id":51764880,
@@ -6712,7 +7138,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":51766937,
+    "node_id":"MDEwOlJlcG9zaXRvcnk1MTc2NjkzNw==",
+    "name":"metasploit",
+    "full_name":"piratesecurity\/metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/piratesecurity\/metasploit",
+    "description":"nan",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/piratesecurity\/metasploit\/deployments",
+    "created_at":"2016-02-15T16:02:04Z",
+    "updated_at":"2016-03-25T17:40:10Z",
+    "pushed_at":"2016-02-18T13:39:56Z",
+    "git_url":"git:\/\/github.com\/piratesecurity\/metasploit.git",
+    "ssh_url":"git@github.com:piratesecurity\/metasploit.git",
+    "clone_url":"https:\/\/github.com\/piratesecurity\/metasploit.git",
+    "svn_url":"https:\/\/github.com\/piratesecurity\/metasploit",
+    "homepage":null,
+    "size":6,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":2,
+    "matched_at":"2021-08-26T17:42:24Z",
+    "organization":null,
+    "owner_login":"piratesecurity",
+    "owner_id":6572700,
+    "owner_node_id":"MDQ6VXNlcjY1NzI3MDA=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/6572700?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/piratesecurity",
+    "owner_html_url":"https:\/\/github.com\/piratesecurity",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/piratesecurity\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/piratesecurity\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/piratesecurity\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/piratesecurity\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/piratesecurity\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/piratesecurity\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/piratesecurity\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/piratesecurity\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/piratesecurity\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51807352,
@@ -6839,7 +7379,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":51810682,
+    "node_id":"MDEwOlJlcG9zaXRvcnk1MTgxMDY4Mg==",
+    "name":"CODEMonkey",
+    "full_name":"RENgade\/CODEMonkey",
+    "private":false,
+    "html_url":"https:\/\/github.com\/RENgade\/CODEMonkey",
+    "description":"Superscripting at day, IRC at night, Metasploit pro at midnight, Codereview at morning, LIfe of Solution creation.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey",
+    "forks_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/RENgade\/CODEMonkey\/deployments",
+    "created_at":"2016-02-16T05:32:20Z",
+    "updated_at":"2016-02-16T05:32:20Z",
+    "pushed_at":"2016-02-16T05:32:20Z",
+    "git_url":"git:\/\/github.com\/RENgade\/CODEMonkey.git",
+    "ssh_url":"git@github.com:RENgade\/CODEMonkey.git",
+    "clone_url":"https:\/\/github.com\/RENgade\/CODEMonkey.git",
+    "svn_url":"https:\/\/github.com\/RENgade\/CODEMonkey",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:42:24Z",
+    "organization":null,
+    "owner_login":"RENgade",
+    "owner_id":17264810,
+    "owner_node_id":"MDQ6VXNlcjE3MjY0ODEw",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/17264810?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/RENgade",
+    "owner_html_url":"https:\/\/github.com\/RENgade",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/RENgade\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/RENgade\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/RENgade\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/RENgade\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/RENgade\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/RENgade\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/RENgade\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/RENgade\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/RENgade\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51826959,
@@ -6947,7 +7601,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51841992,
@@ -7074,7 +7731,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51847934,
@@ -7182,7 +7842,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2014-0160"
+    ]
   },
   {
     "id":51882502,
@@ -7296,7 +7959,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-7547"
+    ]
   },
   {
     "id":51888107,
@@ -7404,7 +8070,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51916020,
@@ -7512,7 +8181,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":51918123,
@@ -7620,7 +8292,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-7547"
+    ]
   },
   {
     "id":52013718,
@@ -7728,7 +8403,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-6637"
+    ]
   },
   {
     "id":52031313,
@@ -7855,7 +8533,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52107538,
@@ -7969,7 +8650,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52200969,
@@ -8077,7 +8761,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52226053,
@@ -8191,7 +8878,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-7547"
+    ]
   },
   {
     "id":52242617,
@@ -8299,7 +8989,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52343673,
@@ -8407,7 +9100,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52363114,
@@ -8521,7 +9217,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52386697,
@@ -8629,7 +9328,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52413169,
@@ -8737,7 +9439,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52543469,
@@ -8845,7 +9550,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52719784,
@@ -8953,7 +9661,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52749461,
@@ -9080,7 +9791,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":52765436,
@@ -9195,7 +9909,127 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2014-7920"
+    ]
+  },
+  {
+    "id":53049135,
+    "node_id":"MDEwOlJlcG9zaXRvcnk1MzA0OTEzNQ==",
+    "name":"psmsf",
+    "full_name":"kslinf\/psmsf",
+    "private":false,
+    "html_url":"https:\/\/github.com\/kslinf\/psmsf",
+    "description":"create powershell shell code used in cmd console with Metasploit Framework",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf",
+    "forks_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/kslinf\/psmsf\/deployments",
+    "created_at":"2016-03-03T12:37:31Z",
+    "updated_at":"2020-11-04T09:02:35Z",
+    "pushed_at":"2016-02-20T16:13:30Z",
+    "git_url":"git:\/\/github.com\/kslinf\/psmsf.git",
+    "ssh_url":"git@github.com:kslinf\/psmsf.git",
+    "clone_url":"https:\/\/github.com\/kslinf\/psmsf.git",
+    "svn_url":"https:\/\/github.com\/kslinf\/psmsf",
+    "homepage":null,
+    "size":24,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"Python",
+    "has_issues":false,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":17,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"bsd-2-clause",
+      "name":"BSD 2-Clause \"Simplified\" License",
+      "spdx_id":"BSD-2-Clause",
+      "url":"https:\/\/api.github.com\/licenses\/bsd-2-clause",
+      "node_id":"MDc6TGljZW5zZTQ="
+    },
+    "forks":17,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":17,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:42:25Z",
+    "organization":null,
+    "owner_login":"kslinf",
+    "owner_id":8391636,
+    "owner_node_id":"MDQ6VXNlcjgzOTE2MzY=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/8391636?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/kslinf",
+    "owner_html_url":"https:\/\/github.com\/kslinf",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/kslinf\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/kslinf\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/kslinf\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/kslinf\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/kslinf\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/kslinf\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/kslinf\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/kslinf\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/kslinf\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":54612221,
@@ -9303,7 +10137,10 @@
     "matched_list":[
       "heap overflow"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":58001376,
@@ -9417,7 +10254,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":93546468,
@@ -9531,7 +10371,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":210156952,
@@ -9639,6 +10482,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -1,5 +1,141 @@
 [
   {
+    "id":28156004,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyODE1NjAwNA==",
+    "name":"resource-portal-data",
+    "full_name":"metasploit\/resource-portal-data",
+    "private":false,
+    "html_url":"https:\/\/github.com\/metasploit\/resource-portal-data",
+    "description":"YAML data sources for metasploit.github.io",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data",
+    "forks_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/metasploit\/resource-portal-data\/deployments",
+    "created_at":"2014-12-17T21:17:49Z",
+    "updated_at":"2021-03-18T10:19:15Z",
+    "pushed_at":"2016-04-12T01:06:32Z",
+    "git_url":"git:\/\/github.com\/metasploit\/resource-portal-data.git",
+    "ssh_url":"git@github.com:metasploit\/resource-portal-data.git",
+    "clone_url":"https:\/\/github.com\/metasploit\/resource-portal-data.git",
+    "svn_url":"https:\/\/github.com\/metasploit\/resource-portal-data",
+    "homepage":null,
+    "size":15,
+    "stargazers_count":19,
+    "watchers_count":19,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":10,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":1,
+    "license":{
+      "key":"mit",
+      "name":"MIT License",
+      "spdx_id":"MIT",
+      "url":"https:\/\/api.github.com\/licenses\/mit",
+      "node_id":"MDc6TGljZW5zZTEz"
+    },
+    "forks":10,
+    "open_issues":1,
+    "watchers":19,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":10,
+    "subscribers_count":9,
+    "matched_at":"2021-08-26T17:43:07Z",
+    "organization":{
+      "login":"metasploit",
+      "id":214967,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjIxNDk2Nw==",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/214967?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/metasploit",
+      "html_url":"https:\/\/github.com\/metasploit",
+      "followers_url":"https:\/\/api.github.com\/users\/metasploit\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/metasploit\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/metasploit\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/metasploit\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/metasploit\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/metasploit\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/metasploit\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/metasploit\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/metasploit\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "owner_login":"metasploit",
+    "owner_id":214967,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjIxNDk2Nw==",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/214967?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/metasploit",
+    "owner_html_url":"https:\/\/github.com\/metasploit",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/metasploit\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/metasploit\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/metasploit\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/metasploit\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/metasploit\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/metasploit\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/metasploit\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/metasploit\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/metasploit\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
     "id":36733788,
     "node_id":"MDEwOlJlcG9zaXRvcnkzNjczMzc4OA==",
     "name":"badger",
@@ -105,7 +241,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":47430121,
@@ -213,7 +352,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":49965311,
@@ -328,7 +470,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2015-6606"
+    ]
   },
   {
     "id":56058815,
@@ -436,7 +581,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2015-8543"
+    ]
   },
   {
     "id":56063175,
@@ -544,6 +692,120 @@
     "matched_list":[
       "zeroday"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":70704024,
+    "node_id":"MDEwOlJlcG9zaXRvcnk3MDcwNDAyNA==",
+    "name":"How-To-Hack-Android-With-Metasploit",
+    "full_name":"mus6apha\/How-To-Hack-Android-With-Metasploit",
+    "private":false,
+    "html_url":"https:\/\/github.com\/mus6apha\/How-To-Hack-Android-With-Metasploit",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit",
+    "forks_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/mus6apha\/How-To-Hack-Android-With-Metasploit\/deployments",
+    "created_at":"2016-10-12T13:45:05Z",
+    "updated_at":"2017-10-11T14:20:57Z",
+    "pushed_at":"2016-04-12T18:38:39Z",
+    "git_url":"git:\/\/github.com\/mus6apha\/How-To-Hack-Android-With-Metasploit.git",
+    "ssh_url":"git@github.com:mus6apha\/How-To-Hack-Android-With-Metasploit.git",
+    "clone_url":"https:\/\/github.com\/mus6apha\/How-To-Hack-Android-With-Metasploit.git",
+    "svn_url":"https:\/\/github.com\/mus6apha\/How-To-Hack-Android-With-Metasploit",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":false,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":3,
+    "matched_at":"2021-08-26T17:43:07Z",
+    "organization":null,
+    "owner_login":"mus6apha",
+    "owner_id":20249487,
+    "owner_node_id":"MDQ6VXNlcjIwMjQ5NDg3",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/20249487?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/mus6apha",
+    "owner_html_url":"https:\/\/github.com\/mus6apha",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/mus6apha\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/mus6apha\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/mus6apha\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/mus6apha\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/mus6apha\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/mus6apha\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/mus6apha\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/mus6apha\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/mus6apha\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]
