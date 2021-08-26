@@ -39,6 +39,7 @@ def process_git_url(clone_from, workdir):
         git.Repo().clone_from(
             url=clone_from,
             to_path=workdir,
+            depth=1,
         )
     except git.exc.GitCommandError as e:
         logger.warning(f"Skipping git repo at {clone_from} due to GitCommandError: {e}")
@@ -74,6 +75,8 @@ def process_row(row):
         age_seconds = time.time() - mtime
         age_days = age_seconds / DAYSEC
         # are they recent?
+        # TODO: change this to use a github api request and compare mtime to repo.pushed_atgre
+
         if age_days < AGE_LIMIT_DAYS:
             logger.info(
                 f"Found existing results for {repo_name} within past {AGE_LIMIT_DAYS} days, skipping"

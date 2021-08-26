@@ -96,7 +96,9 @@ def process_dir(path, workdir="/"):
                 logger.info(f"Processed {count} files so far")
 
     if "match" in df.columns:
-        logger.info(f"Found {df['match'].nunique()} matches")
+        logger.info(
+            f"Found {df['match'].nunique()} matches in {df['file_sha1'].nunique()} out of {count} files"
+        )
         df = df.sort_values(by="match").reset_index(drop=True)
 
     return df
