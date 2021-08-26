@@ -106,7 +106,10 @@
       "exploit",
       "rce"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":149045088,
@@ -214,7 +217,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":153000000,
@@ -322,7 +328,10 @@
     "matched_list":[
       "zeroday"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":156039963,
@@ -439,7 +448,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":4
+    "matched_count":4,
+    "vul_ids":[
+      "CVE-2018-4407"
+    ]
   },
   {
     "id":156050526,
@@ -547,7 +559,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":156050942,
@@ -661,7 +676,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":156051346,
@@ -769,7 +787,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-4407"
+    ]
   },
   {
     "id":156056723,
@@ -877,7 +898,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":156079624,
@@ -968,7 +992,7 @@
     "temp_clone_token":"",
     "network_count":7,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T02:26:36Z",
+    "matched_at":"2021-08-26T17:32:28Z",
     "owner_login":"imorteza",
     "owner_id":5122929,
     "owner_node_id":"MDQ6VXNlcjUxMjI5Mjk=",
@@ -989,9 +1013,13 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":156084889,
@@ -1099,7 +1127,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":156089942,
@@ -1207,7 +1238,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":156092209,
@@ -1315,7 +1349,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":156111740,
@@ -1423,7 +1460,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":156131191,
@@ -1537,6 +1577,9 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

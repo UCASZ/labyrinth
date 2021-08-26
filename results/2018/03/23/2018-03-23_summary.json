@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":115288222,
@@ -213,7 +216,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":122986513,
@@ -321,7 +327,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":126001544,
@@ -435,7 +444,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":126382070,
@@ -549,7 +561,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":126385112,
@@ -663,6 +678,120 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-1002101"
+    ]
+  },
+  {
+    "id":126533345,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxMjY1MzMzNDU=",
+    "name":"METAREDE",
+    "full_name":"KID-CRACK\/METAREDE",
+    "private":false,
+    "html_url":"https:\/\/github.com\/KID-CRACK\/METAREDE",
+    "description":"Esse \u00e9 um script de v\u00e1rias fun\u00e7\u00f5es em redes ou sites\/servidores Inspirado No metasploit",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE",
+    "forks_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/KID-CRACK\/METAREDE\/deployments",
+    "created_at":"2018-03-23T20:00:26Z",
+    "updated_at":"2018-03-23T20:27:08Z",
+    "pushed_at":"2018-03-23T20:00:27Z",
+    "git_url":"git:\/\/github.com\/KID-CRACK\/METAREDE.git",
+    "ssh_url":"git@github.com:KID-CRACK\/METAREDE.git",
+    "clone_url":"https:\/\/github.com\/KID-CRACK\/METAREDE.git",
+    "svn_url":"https:\/\/github.com\/KID-CRACK\/METAREDE",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":0,
+    "matched_at":"2021-08-26T17:31:13Z",
+    "organization":null,
+    "owner_login":"KID-CRACK",
+    "owner_id":36466254,
+    "owner_node_id":"MDQ6VXNlcjM2NDY2MjU0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/36466254?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/KID-CRACK",
+    "owner_html_url":"https:\/\/github.com\/KID-CRACK",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/KID-CRACK\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/KID-CRACK\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/KID-CRACK\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/KID-CRACK\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/KID-CRACK\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/KID-CRACK\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/KID-CRACK\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/KID-CRACK\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/KID-CRACK\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

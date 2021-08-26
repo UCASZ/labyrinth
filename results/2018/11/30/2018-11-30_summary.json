@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":134592536,
@@ -213,7 +216,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":145605786,
@@ -327,7 +333,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":151802763,
@@ -418,7 +427,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T02:28:53Z",
+    "matched_at":"2021-08-26T17:32:36Z",
     "organization":null,
     "owner_login":"ide0x90",
     "owner_id":21966757,
@@ -439,9 +448,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "cve-2"
+      "cve-2",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2016-1555"
+    ]
   },
   {
     "id":159746143,
@@ -549,7 +562,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":159765989,
@@ -657,7 +673,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":159766854,
@@ -766,7 +785,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2018-14667"
+    ]
   },
   {
     "id":159773041,
@@ -874,7 +896,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":159773293,
@@ -982,7 +1007,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":159829854,
@@ -1096,7 +1124,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":159839635,
@@ -1204,6 +1235,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

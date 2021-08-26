@@ -1,5 +1,116 @@
 [
   {
+    "id":78845936,
+    "node_id":"MDEwOlJlcG9zaXRvcnk3ODg0NTkzNg==",
+    "name":"KAOSK-backdoors",
+    "full_name":"carlospolop\/KAOSK-backdoors",
+    "private":false,
+    "html_url":"https:\/\/github.com\/carlospolop\/KAOSK-backdoors",
+    "description":"Automate the creation of Backdoors and postexplotation activities",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors",
+    "forks_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/carlospolop\/KAOSK-backdoors\/deployments",
+    "created_at":"2017-01-13T12:05:31Z",
+    "updated_at":"2021-06-19T16:39:21Z",
+    "pushed_at":"2018-04-08T18:15:36Z",
+    "git_url":"git:\/\/github.com\/carlospolop\/KAOSK-backdoors.git",
+    "ssh_url":"git@github.com:carlospolop\/KAOSK-backdoors.git",
+    "clone_url":"https:\/\/github.com\/carlospolop\/KAOSK-backdoors.git",
+    "svn_url":"https:\/\/github.com\/carlospolop\/KAOSK-backdoors",
+    "homepage":"",
+    "size":3751,
+    "stargazers_count":7,
+    "watchers_count":7,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":6,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":1,
+    "license":null,
+    "forks":6,
+    "open_issues":1,
+    "watchers":7,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":6,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:27:06Z",
+    "organization":null,
+    "owner_login":"carlospolop",
+    "owner_id":17181413,
+    "owner_node_id":"MDQ6VXNlcjE3MTgxNDEz",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/17181413?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/carlospolop",
+    "owner_html_url":"https:\/\/github.com\/carlospolop",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/carlospolop\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/carlospolop\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/carlospolop\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/carlospolop\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/carlospolop\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/carlospolop\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/carlospolop\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/carlospolop\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/carlospolop\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
     "id":121122391,
     "node_id":"MDEwOlJlcG9zaXRvcnkxMjExMjIzOTE=",
     "name":"WolfCMS-XSS-POC",
@@ -105,7 +216,10 @@
     "matched_list":[
       "cve poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-6890"
+    ]
   },
   {
     "id":124501835,
@@ -213,7 +327,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":128560130,
@@ -327,7 +444,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":128607175,
@@ -435,7 +555,10 @@
     "matched_list":[
       "cve poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-6905"
+    ]
   },
   {
     "id":128613654,
@@ -444,7 +567,7 @@
     "full_name":"nawfling\/metasploit-apk-embed-payload",
     "private":false,
     "html_url":"https:\/\/github.com\/nawfling\/metasploit-apk-embed-payload",
-    "description":"nan",
+    "description":"None",
     "fork":false,
     "url":"https:\/\/api.github.com\/repos\/nawfling\/metasploit-apk-embed-payload",
     "forks_url":"https:\/\/api.github.com\/repos\/nawfling\/metasploit-apk-embed-payload\/forks",
@@ -520,7 +643,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2021-08-20T01:38:01Z",
+    "matched_at":"2021-08-26T17:27:06Z",
     "organization":null,
     "owner_login":"nawfling",
     "owner_id":33655247,
@@ -541,9 +664,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":128627702,
@@ -651,7 +778,11 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-0199",
+      "CVE-2017-8570"
+    ]
   },
   {
     "id":128637316,
@@ -759,6 +890,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

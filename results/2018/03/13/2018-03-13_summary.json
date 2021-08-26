@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":103200728,
@@ -220,7 +223,10 @@
       "exploit",
       "sploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":124747408,
@@ -328,7 +334,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":124799318,
@@ -413,7 +422,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T01:29:35Z",
+    "matched_at":"2021-08-26T17:30:20Z",
     "organization":null,
     "owner_login":"rootabeta",
     "owner_id":29870550,
@@ -434,9 +443,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":125002742,
@@ -544,7 +557,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":125007742,
@@ -658,7 +674,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":125009781,
@@ -766,7 +785,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":125020141,
@@ -880,7 +902,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":125020671,
@@ -994,7 +1019,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":125021836,
@@ -1102,7 +1130,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":125023802,
@@ -1210,6 +1241,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2016-0792"
+    ]
   }
 ]

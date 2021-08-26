@@ -105,7 +105,10 @@
     "matched_list":[
       "cve poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-5638"
+    ]
   },
   {
     "id":143920664,
@@ -232,7 +235,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":144027153,
@@ -341,7 +347,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2018-4233"
+    ]
   },
   {
     "id":144063934,
@@ -447,9 +456,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":145040484,
@@ -557,7 +570,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":145045169,
@@ -665,7 +681,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":145054871,
@@ -779,7 +798,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":145096024,
@@ -887,7 +909,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":145104335,
@@ -995,7 +1020,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":145155662,
@@ -1103,6 +1131,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

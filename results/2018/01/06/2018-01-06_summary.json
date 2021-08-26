@@ -111,7 +111,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":115741411,
@@ -238,7 +241,10 @@
     "matched_list":[
       "sploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":116288842,
@@ -346,7 +352,10 @@
     "matched_list":[
       "attack poc"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":116380877,
@@ -455,7 +464,10 @@
       "rce",
       "rce poc"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":116439888,
@@ -563,7 +575,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":116442461,
@@ -671,7 +686,11 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-5715",
+      "CVE-2017-5753"
+    ]
   },
   {
     "id":116449314,
@@ -785,7 +804,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-5754"
+    ]
   },
   {
     "id":116455674,
@@ -893,7 +915,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":116480253,
@@ -1001,7 +1026,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":116501509,
@@ -1109,7 +1137,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":116532057,
@@ -1218,6 +1249,9 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2017-5753"
+    ]
   }
 ]

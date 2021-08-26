@@ -1,5 +1,135 @@
 [
   {
+    "id":94905730,
+    "node_id":"MDEwOlJlcG9zaXRvcnk5NDkwNTczMA==",
+    "name":"metasploit-modules",
+    "full_name":"nettitude\/metasploit-modules",
+    "private":false,
+    "html_url":"https:\/\/github.com\/nettitude\/metasploit-modules",
+    "description":"Modules created by Nettitude for Metasploit",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules",
+    "forks_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/nettitude\/metasploit-modules\/deployments",
+    "created_at":"2017-06-20T15:20:17Z",
+    "updated_at":"2020-09-11T14:53:45Z",
+    "pushed_at":"2018-06-20T13:08:58Z",
+    "git_url":"git:\/\/github.com\/nettitude\/metasploit-modules.git",
+    "ssh_url":"git@github.com:nettitude\/metasploit-modules.git",
+    "clone_url":"https:\/\/github.com\/nettitude\/metasploit-modules.git",
+    "svn_url":"https:\/\/github.com\/nettitude\/metasploit-modules",
+    "homepage":null,
+    "size":10,
+    "stargazers_count":9,
+    "watchers_count":9,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":7,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":7,
+    "open_issues":0,
+    "watchers":9,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":7,
+    "subscribers_count":8,
+    "matched_at":"2021-08-26T17:30:21Z",
+    "organization":{
+      "login":"nettitude",
+      "id":11998401,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjExOTk4NDAx",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/11998401?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/nettitude",
+      "html_url":"https:\/\/github.com\/nettitude",
+      "followers_url":"https:\/\/api.github.com\/users\/nettitude\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/nettitude\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/nettitude\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/nettitude\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/nettitude\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/nettitude\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/nettitude\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/nettitude\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/nettitude\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "owner_login":"nettitude",
+    "owner_id":11998401,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjExOTk4NDAx",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/11998401?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/nettitude",
+    "owner_html_url":"https:\/\/github.com\/nettitude",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/nettitude\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/nettitude\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/nettitude\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/nettitude\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/nettitude\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/nettitude\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/nettitude\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/nettitude\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/nettitude\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
     "id":102656987,
     "node_id":"MDEwOlJlcG9zaXRvcnkxMDI2NTY5ODc=",
     "name":"Trade-Savante",
@@ -105,7 +235,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":133662103,
@@ -213,7 +346,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":137651999,
@@ -321,7 +457,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":137775612,
@@ -429,7 +568,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2014-6271"
+    ]
   },
   {
     "id":137777416,
@@ -543,7 +685,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":137960461,
@@ -651,7 +796,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":137973611,
@@ -765,7 +913,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":137992187,
@@ -873,7 +1024,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":138011284,
@@ -987,7 +1141,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":138016337,
@@ -1095,7 +1252,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":138020964,
@@ -1222,7 +1382,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":138044113,
@@ -1338,7 +1501,11 @@
       "cve-2",
       "remote code execution"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2015-1635",
+      "MS15-034"
+    ]
   },
   {
     "id":138045616,
@@ -1446,7 +1613,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":138050203,
@@ -1555,7 +1725,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2017-7529"
+    ]
   },
   {
     "id":138059534,
@@ -1663,7 +1836,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":138062116,
@@ -1771,7 +1947,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":138069707,
@@ -1881,7 +2060,10 @@
       "rce",
       "rce poc"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":138089910,
@@ -1989,6 +2171,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -106,7 +106,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2018-4013"
+    ]
   },
   {
     "id":158907700,
@@ -214,7 +217,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-11235"
+    ]
   },
   {
     "id":158920099,
@@ -322,7 +328,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":158934581,
@@ -430,7 +439,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":158967608,
@@ -538,6 +550,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

@@ -111,7 +111,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":128571072,
@@ -219,7 +222,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":129445070,
@@ -333,7 +339,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":129500604,
@@ -444,7 +453,121 @@
       "rce",
       "remote code execution"
     ],
-    "matched_count":4
+    "matched_count":4,
+    "vul_ids":[
+      "CVE-2018-7600"
+    ]
+  },
+  {
+    "id":129513905,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxMjk1MTM5MDU=",
+    "name":"Metasploit-in-termux-",
+    "full_name":"Aijaj125\/Metasploit-in-termux-",
+    "private":false,
+    "html_url":"https:\/\/github.com\/Aijaj125\/Metasploit-in-termux-",
+    "description":"nan",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-",
+    "forks_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/Aijaj125\/Metasploit-in-termux-\/deployments",
+    "created_at":"2018-04-14T12:14:32Z",
+    "updated_at":"2018-04-14T12:14:32Z",
+    "pushed_at":"2018-04-14T12:14:32Z",
+    "git_url":"git:\/\/github.com\/Aijaj125\/Metasploit-in-termux-.git",
+    "ssh_url":"git@github.com:Aijaj125\/Metasploit-in-termux-.git",
+    "clone_url":"https:\/\/github.com\/Aijaj125\/Metasploit-in-termux-.git",
+    "svn_url":"https:\/\/github.com\/Aijaj125\/Metasploit-in-termux-",
+    "homepage":null,
+    "size":0,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":0,
+    "matched_at":"2021-08-26T17:27:07Z",
+    "organization":null,
+    "owner_login":"Aijaj125",
+    "owner_id":38254096,
+    "owner_node_id":"MDQ6VXNlcjM4MjU0MDk2",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/38254096?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/Aijaj125",
+    "owner_html_url":"https:\/\/github.com\/Aijaj125",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/Aijaj125\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/Aijaj125\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/Aijaj125\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/Aijaj125\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/Aijaj125\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/Aijaj125\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/Aijaj125\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/Aijaj125\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/Aijaj125\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":129514721,
@@ -553,7 +676,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2018-7600"
+    ]
   },
   {
     "id":129543577,
@@ -662,6 +788,9 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2018-7600"
+    ]
   }
 ]

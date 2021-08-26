@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":116608751,
@@ -232,7 +235,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":117624814,
@@ -346,7 +352,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":117631583,
@@ -437,7 +446,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-08-20T01:30:51Z",
+    "matched_at":"2021-08-20T01:25:28Z",
     "owner_login":"kpatsakis",
     "owner_id":9294190,
     "owner_node_id":"MDQ6VXNlcjkyOTQxOTA=",
@@ -461,7 +470,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2017-0807"
+    ]
   },
   {
     "id":117637164,
@@ -569,7 +581,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-11882"
+    ]
   },
   {
     "id":117637270,
@@ -683,7 +698,11 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2017-11882",
+      "CVE-2018-0802"
+    ]
   },
   {
     "id":117653410,
@@ -816,7 +835,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":117653745,
@@ -825,7 +847,7 @@
     "full_name":"fortify24x7\/exploit-database-bin-sploits",
     "private":false,
     "html_url":"https:\/\/github.com\/fortify24x7\/exploit-database-bin-sploits",
-    "description":"None",
+    "description":"nan",
     "fork":false,
     "url":"https:\/\/api.github.com\/repos\/fortify24x7\/exploit-database-bin-sploits",
     "forks_url":"https:\/\/api.github.com\/repos\/fortify24x7\/exploit-database-bin-sploits\/forks",
@@ -907,7 +929,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":0,
-    "matched_at":"2021-08-20T01:22:26Z",
+    "matched_at":"2021-08-20T01:29:37Z",
     "owner_login":"fortify24x7",
     "owner_id":35480388,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjM1NDgwMzg4",
@@ -950,7 +972,10 @@
       "exploit",
       "sploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":117653847,
@@ -1083,7 +1108,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":117655896,
@@ -1210,7 +1238,146 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":117659658,
+    "node_id":"MDEwOlJlcG9zaXRvcnkxMTc2NTk2NTg=",
+    "name":"metasploit-framework",
+    "full_name":"fortify24x7\/metasploit-framework",
+    "private":false,
+    "html_url":"https:\/\/github.com\/fortify24x7\/metasploit-framework",
+    "description":"nan",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework",
+    "forks_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/fortify24x7\/metasploit-framework\/deployments",
+    "created_at":"2018-01-16T09:02:32Z",
+    "updated_at":"2020-04-15T02:26:44Z",
+    "pushed_at":"2018-01-16T12:12:21Z",
+    "git_url":"git:\/\/github.com\/fortify24x7\/metasploit-framework.git",
+    "ssh_url":"git@github.com:fortify24x7\/metasploit-framework.git",
+    "clone_url":"https:\/\/github.com\/fortify24x7\/metasploit-framework.git",
+    "svn_url":"https:\/\/github.com\/fortify24x7\/metasploit-framework",
+    "homepage":null,
+    "size":247305,
+    "stargazers_count":1,
+    "watchers_count":1,
+    "language":"Ruby",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":true,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"other",
+      "name":"Other",
+      "spdx_id":"NOASSERTION",
+      "url":null,
+      "node_id":"MDc6TGljZW5zZTA="
+    },
+    "forks":0,
+    "open_issues":0,
+    "watchers":1,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T17:26:15Z",
+    "owner_login":"fortify24x7",
+    "owner_id":35480388,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjM1NDgwMzg4",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/35480388?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/fortify24x7",
+    "owner_html_url":"https:\/\/github.com\/fortify24x7",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/fortify24x7\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/fortify24x7\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/fortify24x7\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/fortify24x7\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/fortify24x7\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/fortify24x7\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/fortify24x7\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/fortify24x7\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/fortify24x7\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "organization":{
+      "login":"fortify24x7",
+      "id":35480388,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjM1NDgwMzg4",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/35480388?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/fortify24x7",
+      "html_url":"https:\/\/github.com\/fortify24x7",
+      "followers_url":"https:\/\/api.github.com\/users\/fortify24x7\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/fortify24x7\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/fortify24x7\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/fortify24x7\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/fortify24x7\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/fortify24x7\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/fortify24x7\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/fortify24x7\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/fortify24x7\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":117661155,
@@ -1318,7 +1485,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":117684673,
@@ -1426,7 +1596,10 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":117698397,
@@ -1534,7 +1707,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":117718201,
@@ -1642,7 +1818,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":117728543,
@@ -1756,6 +1935,9 @@
     "matched_list":[
       "rce"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

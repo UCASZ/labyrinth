@@ -105,7 +105,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":126029784,
@@ -213,7 +216,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":135910532,
@@ -321,7 +327,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":139530805,
@@ -435,7 +444,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":149723684,
@@ -543,7 +555,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":152133686,
@@ -649,9 +664,13 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":153798567,
@@ -757,9 +776,13 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":155810193,
@@ -867,7 +890,10 @@
     "matched_list":[
       "cve-2"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2018-4407"
+    ]
   },
   {
     "id":155916837,
@@ -975,7 +1001,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":155925880,
@@ -1066,7 +1095,7 @@
     "temp_clone_token":"",
     "network_count":6,
     "subscribers_count":4,
-    "matched_at":"2021-08-20T02:26:06Z",
+    "matched_at":"2021-08-20T02:35:00Z",
     "owner_login":"SamDecrock",
     "owner_id":550487,
     "owner_node_id":"MDQ6VXNlcjU1MDQ4Nw==",
@@ -1091,7 +1120,10 @@
       "cve-2",
       "exploit"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2018-4407"
+    ]
   },
   {
     "id":155937060,
@@ -1224,7 +1256,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":164525116,
@@ -1333,6 +1368,9 @@
       "0day",
       "exploit"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]
