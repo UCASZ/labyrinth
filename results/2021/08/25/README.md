@@ -1,7 +1,7 @@
 
 # Summary for results/2021/08/25
     
-100 records found after deduplication
+101 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -18,7 +18,7 @@
 | AntonioCarletto/Python-Utility | Serie di programmi utili per effettuare analisi di rete, exploitation e vulnerability assessment | https://github.com/AntonioCarletto/Python-Utility | ['exploit'] | 1 | 2021-08-25 17:15:36+00:00 | 23 | 0 | Python | 0 | [] |
 | Cach30verfl0w/Exploits | This is a small repository of exploits that were programmed by me for educational purposes and uploaded here. | https://github.com/Cach30verfl0w/Exploits | ['exploit'] | 1 | 2021-08-25 18:05:40+00:00 | 16 | 2 | Python | 0 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-08-25 15:57:43+00:00 | 28095 | 0 | Python | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-08-25 15:23:12+00:00 | 45791 | 842 | Python | 197 | [] |
+| Sma-Das/TryHackMe | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | ['exploit'] | 1 | 2021-08-25 16:50:51+00:00 | 59772 | 6 | Python | 0 | [] |
 | ExtonHoward/Raven_Security_project | Penetration test and exploitation of multiple web servers at Raven Security | https://github.com/ExtonHoward/Raven_Security_project | ['exploit'] | 1 | 2021-08-25 01:43:06+00:00 | 1582 | 0 | Shell | 0 | [] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-08-25 11:59:20+00:00 | 159 | 1 | Python | 0 | [] |
 | pcmarcon/malduino-payload-samples | Scripts to simulate/POC ransomware attack on windows computer | https://github.com/pcmarcon/malduino-payload-samples | ['attack poc'] | 1 | 2021-08-25 18:28:40+00:00 | 1610 | 0 | C++ | 0 | [] |
@@ -55,9 +55,9 @@
 | fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases. | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-08-25 00:20:39+00:00 | 39 | 1 | Go | 0 | [] |
 | Hamstrow/Scripts | LUA Scripts Made For Exploiting Roblox | https://github.com/Hamstrow/Scripts | ['exploit'] | 1 | 2021-08-25 15:27:08+00:00 | 78 | 1 | | 1 | [] |
 | kleiton0x00/ppmap | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | ['exploit'] | 1 | 2021-08-25 11:15:41+00:00 | 36 | 168 | Go | 20 | [] |
-| Sma-Das/TryHackMe | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | ['exploit'] | 1 | 2021-08-25 16:50:51+00:00 | 59772 | 6 | Python | 0 | [] |
 | lilmond/AExploit | Easy-to-use Roblox exploit written in C#. | https://github.com/lilmond/AExploit | ['exploit'] | 1 | 2021-08-25 02:38:06+00:00 | 3 | 0 | | 0 | [] |
-| VWolt/Other-Exploits | Exploits that I have written either on my own or inspired by other POCs | https://github.com/VWolt/Other-Exploits | ['exploit'] | 1 | 2021-08-25 23:41:34+00:00 | 1084 | 0 | Perl | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-08-25 15:23:12+00:00 | 45791 | 842 | Python | 197 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-25 01:41:06+00:00 | 35678 | 5694 | Vue | 1189 | [] |
 | DeimosC2/DeimosC2 | DeimosC2 is a Golang command and control framework for post-exploitation. | https://github.com/DeimosC2/DeimosC2 | ['exploit'] | 1 | 2021-08-25 01:36:51+00:00 | 97401 | 558 | Vue | 100 | [] |
 | bats3c/shad0w | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | ['exploit', 'shellcode'] | 2 | 2021-08-25 14:42:06+00:00 | 17104 | 1379 | C | 232 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2021-08-25 10:29:09+00:00 | 115579 | 239 | Go | 41 | [] |
@@ -68,7 +68,8 @@
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-08-25 15:11:53+00:00 | 1215021 | 3354 | PowerShell | 1170 | [] |
 | docfate111/binary_exploitation | A series of CTF/hacking challenge solutions for binary exploitation(or pwn)/reverse engineering/vulnerability research/memory corruption(or whatever term you use) | https://github.com/docfate111/binary_exploitation | ['exploit'] | 1 | 2021-08-25 21:52:51+00:00 | 30465 | 0 | C | 0 | [] |
 | helviojunior/shellcodetester | An application to test windows and linux shellcodes | https://github.com/helviojunior/shellcodetester | ['shellcode'] | 1 | 2021-08-25 17:13:59+00:00 | 3782 | 32 | C# | 11 | [] |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-25 01:41:06+00:00 | 35678 | 5694 | Vue | 1189 | [] |
+| soarqin/finalhe | Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically | https://github.com/soarqin/finalhe | ['exploit'] | 1 | 2021-08-25 09:35:46+00:00 | 6142 | 431 | C++ | 85 | [] |
+| chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | None | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | ['cve-2'] | 1 | 2021-08-25 19:26:21+00:00 | 35 | 146 | C | 39 | ['CVE-2021-3490'] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-08-25 13:34:37+00:00 | 290687 | 76 | Python | 13 | [] |
 | yashkant/Model-Inversion-Attack | Implementation of the Model Inversion Attack introduced with Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures (Fredrikson Et al.) | https://github.com/yashkant/Model-Inversion-Attack | ['exploit'] | 1 | 2021-08-25 15:38:06+00:00 | 184 | 54 | Jupyter Notebook | 15 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-08-25 01:45:37+00:00 | 40028 | 6620 | Python | 1558 | [] |
@@ -80,8 +81,8 @@
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit'] | 1 | 2021-08-25 16:28:37+00:00 | 32146 | 947 | Python | 360 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-08-25 18:10:30+00:00 | 27113 | 8179 | Python | 1432 | [] |
 | MaherAzzouzi/LinuxKernelExploitation | Old and new CTFs about Linux kernel exploitation. | https://github.com/MaherAzzouzi/LinuxKernelExploitation | ['exploit'] | 1 | 2021-08-25 03:37:47+00:00 | 219978 | 10 | Batchfile | 3 | [] |
+| VWolt/Other-Exploits | Exploits that I have written either on my own or inspired by other POCs | https://github.com/VWolt/Other-Exploits | ['exploit'] | 1 | 2021-08-25 23:41:34+00:00 | 1084 | 0 | Perl | 0 | [] |
 | loneicewolf/Stuxnet-Source | stuxnet Source & Binaries. ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES! Includes: Source files, Binaries, PLC Samples,Fanny Added in another repo. | https://github.com/loneicewolf/Stuxnet-Source | ['0day'] | 1 | 2021-08-25 20:49:56+00:00 | 8116 | 28 | C | 12 | [] |
-| chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | None | https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490 | ['cve-2'] | 1 | 2021-08-25 19:26:21+00:00 | 35 | 146 | C | 39 | ['CVE-2021-3490'] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-25 00:03:19+00:00 | 405387 | 29 | | 15 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-08-25 13:40:29+00:00 | 300 | 1 | Lua | 1 | [] |
 | REW-sploit/REW-sploit | Emulate and Dissect MSF and *other* attacks | https://github.com/REW-sploit/REW-sploit | ['sploit'] | 1 | 2021-08-25 09:13:46+00:00 | 1334 | 81 | Python | 14 | [] |
