@@ -82,7 +82,7 @@
     "temp_clone_token":"",
     "network_count":1,
     "subscribers_count":1,
-    "matched_at":"2021-08-19T23:04:18Z",
+    "matched_at":"2021-08-26T18:36:46Z",
     "organization":null,
     "owner_login":"brandonprry",
     "owner_id":483180,
@@ -103,9 +103,13 @@
     "owner_type":"User",
     "owner_site_admin":false,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":22734760,
@@ -213,6 +217,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

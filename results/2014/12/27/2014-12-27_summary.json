@@ -111,7 +111,11 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+      "CVE-2014-9016",
+      "CVE-2014-9034"
+    ]
   },
   {
     "id":28239653,
@@ -219,6 +223,9 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

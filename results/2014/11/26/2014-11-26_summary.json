@@ -80,6 +80,7 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-19T23:48:48Z",
@@ -101,11 +102,13 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/bvrstich\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "organization":null,
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":27152105,
@@ -188,9 +191,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":3,
     "subscribers_count":2,
-    "matched_at":"2021-08-19T23:48:47Z",
+    "matched_at":"2021-08-26T18:44:18Z",
     "owner_login":"aliceicl",
     "owner_id":9952703,
     "owner_node_id":"MDQ6VXNlcjk5NTI3MDM=",
@@ -209,11 +213,14 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/aliceicl\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "organization":null,
     "matched_list":[
-      "exploit"
+      "exploit",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":27152283,
@@ -296,6 +303,7 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-19T23:55:57Z",
@@ -317,11 +325,13 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/sherrysethi\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "organization":null,
     "matched_list":[
       "heap overflow"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":27179853,
@@ -404,6 +414,7 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":1,
     "subscribers_count":1,
     "matched_at":"2021-08-19T23:48:48Z",
@@ -425,11 +436,13 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/bvrstich\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "organization":null,
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":27182077,
@@ -512,6 +525,7 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":1,
     "subscribers_count":1,
     "matched_at":"2021-08-19T23:48:48Z",
@@ -533,10 +547,12 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/bvrstich\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
-    "organization":null,
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

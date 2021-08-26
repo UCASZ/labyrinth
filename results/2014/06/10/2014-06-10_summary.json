@@ -111,7 +111,10 @@
     "matched_list":[
       "0day"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":20679717,
@@ -221,7 +224,10 @@
       "cve-2",
       "heap overflow"
     ],
-    "matched_count":3
+    "matched_count":3,
+    "vul_ids":[
+      "CVE-2014-0195"
+    ]
   },
   {
     "id":20694307,
@@ -329,6 +335,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

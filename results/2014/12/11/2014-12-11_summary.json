@@ -106,7 +106,10 @@
       "cve poc",
       "cve-2"
     ],
-    "matched_count":2
+    "matched_count":2,
+    "vul_ids":[
+      "CVE-2014-4936"
+    ]
   },
   {
     "id":26992067,
@@ -214,7 +217,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":27849655,
@@ -299,7 +305,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2021-08-19T23:54:55Z",
+    "matched_at":"2021-08-26T18:44:20Z",
     "owner_login":"themrzmaster",
     "owner_id":852747,
     "owner_node_id":"MDQ6VXNlcjg1Mjc0Nw==",
@@ -320,9 +326,13 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":27864072,
@@ -430,7 +440,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":27872991,
@@ -538,7 +551,10 @@
     "matched_list":[
       "command injection"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":27893140,
@@ -646,7 +662,10 @@
     "matched_list":[
       "shellcode"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":27895795,
@@ -754,6 +773,9 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]

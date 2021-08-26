@@ -101,10 +101,15 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/blackfa1con\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "organization":null,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":21017007,
@@ -208,9 +213,14 @@
     "owner_received_events_url":"https:\/\/api.github.com\/users\/blackfa1con\/received_events",
     "owner_type":"User",
     "owner_site_admin":false,
+    "organization":null,
     "matched_list":[
-      "metasploit module OR metasploit payload"
+      "metasploit module OR metasploit payload",
+      "metasploit module OR payload"
     ],
-    "matched_count":1
+    "matched_count":2,
+    "vul_ids":[
+
+    ]
   }
 ]

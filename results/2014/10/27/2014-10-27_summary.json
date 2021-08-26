@@ -80,10 +80,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-19T23:47:44Z",
-    "organization":null,
     "owner_login":"jiangzhuti",
     "owner_id":3127813,
     "owner_node_id":"MDQ6VXNlcjMxMjc4MTM=",
@@ -105,7 +105,121 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":25816389,
+    "node_id":"MDEwOlJlcG9zaXRvcnkyNTgxNjM4OQ==",
+    "name":"IzIFenrisIzI_Kali",
+    "full_name":"IzIFenrisIzI\/IzIFenrisIzI_Kali",
+    "private":false,
+    "html_url":"https:\/\/github.com\/IzIFenrisIzI\/IzIFenrisIzI_Kali",
+    "description":"IzIFenris ported to kali linux for integration in metasploit and vica versa",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali",
+    "forks_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/IzIFenrisIzI\/IzIFenrisIzI_Kali\/deployments",
+    "created_at":"2014-10-27T11:48:23Z",
+    "updated_at":"2014-10-27T11:48:23Z",
+    "pushed_at":"2014-10-27T12:01:39Z",
+    "git_url":"git:\/\/github.com\/IzIFenrisIzI\/IzIFenrisIzI_Kali.git",
+    "ssh_url":"git@github.com:IzIFenrisIzI\/IzIFenrisIzI_Kali.git",
+    "clone_url":"https:\/\/github.com\/IzIFenrisIzI\/IzIFenrisIzI_Kali.git",
+    "svn_url":"https:\/\/github.com\/IzIFenrisIzI\/IzIFenrisIzI_Kali",
+    "homepage":null,
+    "size":116,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":null,
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":true
+    },
+    "temp_clone_token":"",
+    "organization":null,
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2021-08-26T18:43:04Z",
+    "owner_login":"IzIFenrisIzI",
+    "owner_id":9415930,
+    "owner_node_id":"MDQ6VXNlcjk0MTU5MzA=",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/9415930?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/IzIFenrisIzI",
+    "owner_html_url":"https:\/\/github.com\/IzIFenrisIzI",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/IzIFenrisIzI\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/IzIFenrisIzI\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/IzIFenrisIzI\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/IzIFenrisIzI\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/IzIFenrisIzI\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/IzIFenrisIzI\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/IzIFenrisIzI\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/IzIFenrisIzI\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/IzIFenrisIzI\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "matched_list":[
+      "metasploit module OR payload"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":25830206,
@@ -188,10 +302,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-19T23:47:44Z",
-    "organization":null,
     "owner_login":"hbowmer",
     "owner_id":1738393,
     "owner_node_id":"MDQ6VXNlcjE3MzgzOTM=",
@@ -213,7 +327,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":25837050,
@@ -302,10 +419,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-19T23:47:44Z",
-    "organization":null,
     "owner_login":"putsi",
     "owner_id":5388424,
     "owner_node_id":"MDQ6VXNlcjUzODg0MjQ=",
@@ -327,7 +444,10 @@
     "matched_list":[
       "exploit"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   },
   {
     "id":25837336,
@@ -410,10 +530,10 @@
       "pull":true
     },
     "temp_clone_token":"",
+    "organization":null,
     "network_count":0,
     "subscribers_count":1,
     "matched_at":"2021-08-19T23:54:59Z",
-    "organization":null,
     "owner_login":"eheymann",
     "owner_id":9084043,
     "owner_node_id":"MDQ6VXNlcjkwODQwNDM=",
@@ -435,6 +555,9 @@
     "matched_list":[
       "command injection"
     ],
-    "matched_count":1
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
   }
 ]
