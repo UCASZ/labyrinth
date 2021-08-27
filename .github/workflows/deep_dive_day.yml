@@ -1,23 +1,18 @@
-name: Deep Dive Day
+name: Deep Dive 2021
 
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-    inputs:
-      year:
-        description: "YYYY"
-        required: true
-      month:
-        description: "MM"
-        required: true
-      day:
-        description: "DD"
-        required: true
 
 jobs:
   deep dive:
     runs-on: ubuntu-latest
        
+    strategy:
+      max-parallel: 1
+      matrix:
+        month: ['08', '07', '06', '05', '04', '03', '02', '01']
+      
     steps:
       - name: checkout
         uses: actions/checkout@v2
@@ -35,13 +30,13 @@ jobs:
         run: git pull
         
       - name: do_deep_dive
-        run: crawl_files --verbose results/${{ github.event.inputs.year }}/${{ github.event.inputs.month }}/${{ github.event.inputs.day }}/${{ github.event.inputs.year }}-${{ github.event.inputs.month }}-${{ github.event.inputs.day }}_summary.json
+        run: crawl_files --verbose results/2021/${{ matrix.month }}/2021-${{ matrix.month }}_summary.json
           
       - name: add and commit
         uses: ./.github/actions/commit_results
         with:
           results_dir: data
-          commit_msg: ${{ github.workflow }} deep dive ${{ github.event.inputs.year }}/${{ github.event.inputs.month }}/${{ github.event.inputs.day }}
+          commit_msg: ${{ github.workflow }} deep dive 2021/${{ matrix.month }}
           
       - name: push result
         uses: ./.github/actions/pull_rebase_push_retry
