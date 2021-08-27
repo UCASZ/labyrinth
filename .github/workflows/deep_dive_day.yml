@@ -30,9 +30,12 @@ jobs:
       - name: setup env
         uses: ./.github/actions/setup_my_env
   
+      # in case things have changed since we we spawned
+      - name: git pull
+        run: git pull
+        
       - name: do_deep_dive
-        run: |
-          crawl_files --verbose results/${{ github.event.inputs.year }}/${{ github.event.inputs.month }}/${{ github.event.inputs.day }}/${{ github.event.inputs.year }}-${{ github.event.inputs.month }}-${{ github.event.inputs.day }}_summary.json
+        run: crawl_files --verbose results/${{ github.event.inputs.year }}/${{ github.event.inputs.month }}/${{ github.event.inputs.day }}/${{ github.event.inputs.year }}-${{ github.event.inputs.month }}-${{ github.event.inputs.day }}_summary.json
           
       - name: add and commit
         uses: ./.github/actions/commit_results
