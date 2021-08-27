@@ -67,11 +67,11 @@ def process_row(row):
             return df
 
     repo_path = os.path.join(REPO_ID_RESULTS_HOME, repo_id_to_path(repo_id))
-    repo_json = os.path.join(repo_path, f"{repo_id}.json")
+    csvfile = os.path.join(repo_path, f"{repo_id}.csv")
 
     # do we already have results for repo?
-    if os.path.exists(repo_json):
-        mtime = os.path.getmtime(repo_json)
+    if os.path.exists(csvfile):
+        mtime = os.path.getmtime(csvfile)
         age_seconds = time.time() - mtime
         age_days = age_seconds / DAYSEC
         # are they recent?
@@ -85,9 +85,9 @@ def process_row(row):
     else:
         # write an empty json file to at least record that we looked at this repo
         # it will get overwritten later if we have results
-        logger.debug(f"No existing results found for {repo_json}, creating placeholder")
+        logger.debug(f"No existing results found for {csvfile}, creating placeholder")
         os.makedirs(repo_path, exist_ok=True)
-        _dump_json(df, repo_json)
+        df.to_csv(csvfile, index=False)
 
     cols2check = [
         "full_name",
