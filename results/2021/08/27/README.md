@@ -1,12 +1,13 @@
 
 # Summary for results/2021/08/27
     
-12 records found after deduplication
+13 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-08-27 00:30:39+00:00 | 564800 | 24925 | Ruby | 11502 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-08-27 00:17:01+00:00 | 102143 | 243 | Ruby | 74 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-08-27 02:09:49+00:00 | 60419 | 1125 | JavaScript | 228 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-08-27 00:52:03+00:00 | 1138 | 212 | Rust | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-08-27 00:52:24+00:00 | 19082 | 21 | | 13 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-27 00:03:06+00:00 | 413970 | 29 | | 15 | [] |
