@@ -17,6 +17,8 @@ on:
       - scripts/**
       - labyrinth/**
       - setup.py
+      - '!data/**'
+
     tags-ignore:
       - simple_driller
 
