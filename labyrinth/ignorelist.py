@@ -9,6 +9,10 @@ created_at: 8/26/21 3:12 PM
 _IGNORE_REPOS = {
     "owner_login": ["alaial90"],
     "name": ["PatrowlHearsData", "NVD-Exploit-LIst-Ja"],
+    "full_name": [
+        "lsst-uk/lsst-ir-fusion",
+        "dcs4cop/xcube",
+    ],
 }
 
 IGNORE_REPOS = {}
@@ -17,6 +21,9 @@ for k, values in _IGNORE_REPOS.items():
 
 IGNORE_FILE_EXTS = [
     ".json",
+    ".png",
+    ".jpg",
+    ".gif",
 ]
 
 IGNORE_DIRS = [

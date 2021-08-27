@@ -14,7 +14,7 @@ import pandas as pd
 import re
 
 
-from labyrinth import DEBUG
+import labyrinth
 from labyrinth.errors import LabyrinthError
 from labyrinth.file_processor import process_dir
 from labyrinth.patterns import find_vul_ids, id_to_path, repo_id_to_path
@@ -167,45 +167,41 @@ def dump_results_by_vul_id(df):
         group_dir = os.path.join(outdir, group_path)
         os.makedirs(group_dir, exist_ok=True)
 
-        jsonfile = os.path.join(group_dir, f"{gname}.json")
-        mdfile = os.path.join(group_dir, "README.md")
+        csvfile = os.path.join(group_dir, f"{gname}.csv")
 
-        if os.path.exists(jsonfile):
-            logger.debug(f"Loading existing results for {gname} from {jsonfile}")
-            json_df = pd.read_json(jsonfile)
-            new_df = json_df.append(group)
+        if os.path.exists(csvfile):
+            logger.debug(f"Loading existing results for {gname} from {csvfile}")
+            old_df = pd.read_csv(csvfile)
+            new_df = old_df.append(group)
         else:
             new_df = group
 
-        # because json_df has old results before the new ones we just got
+        # because old_df has old results before the new ones we just got
         # this will keep the most recent result for each repo
         new_df = new_df.drop_duplicates(
             subset="repo_id",
             keep="last",
         )
 
-        logger.debug(f"Write {gname} results to {mdfile} ({len(new_df)})")
-        # but output sorted by highest weight first
-        new_df = new_df.sort_values(by="match_weight", ascending=False)
-        md = new_df.to_markdown(tablefmt="github", index=False)
-        # github won't display markdown files over 5MB
-        # so we can squeeze out the extraneous whitespace from
-        # our table before writing it out
-        # len(content)
-        # Out[50]: 5514594
-        # len(re.sub(' +', ' ', content))
-        # Out[51]: 1551856
-        # note: don't use \s because it clobbers \n too
-        md = re.sub(" +", " ", md)
+        logger.debug(f"Write {gname} results to {csvfile} ({len(new_df)})")
+        # goal is to avoid merge conflicts
+        # sort by repo_id to keep the row ordering consistent across runs
+        # new_df = new_df.sort_values(by="repo_id", ascending=True)
 
-        with open(mdfile, "a") as fp:
-            fp.write(md)
-            fp.write("\n")
+        # sort by match_weight to keep the most likely single-exploits repos
+        # at the top. This will cause some rows to move around as new repos
+        # are scanned
+        new_df = new_df.sort_values(by="match_weight", ascending=True)
 
-        logger.debug(f"Write {gname} results to {jsonfile} ({len(new_df)})")
-        # sort by repo_id to keep the json ordering consistent across runs
-        new_df = new_df.sort_values(by="repo_id", ascending=True)
-        _dump_json(new_df, jsonfile)
+        col_order = [
+            "match",
+            "match_weight",
+            "repo_full_name",
+            "repo_html_url",
+            "repo_id",
+        ]
+        new_df = new_df[col_order]
+        new_df.to_csv(csvfile, index=False)
 
 
 def dump_results_by_repo(df):
@@ -227,8 +223,7 @@ def dump_results_by_repo(df):
         group_dir = os.path.join(outdir, group_path)
         os.makedirs(group_dir, exist_ok=True)
 
-        jsonfile = os.path.join(group_dir, f"{gname}.json")
-        mdfile = os.path.join(group_dir, "README.md")
+        csvfile = os.path.join(group_dir, f"{gname}.csv")
 
         # we're just going to overwrite the old data since we just looked at the whole thing
         new_df = group
@@ -240,20 +235,19 @@ def dump_results_by_repo(df):
 
         repo_name = group["repo_full_name"].unique()[0]
 
-        logger.debug(f"Write {repo_name} results to {mdfile} ({len(new_df)})")
-        new_df.to_markdown(mdfile, index=False)
-
-        logger.debug(f"Write {repo_name} results to {jsonfile} ({len(new_df)})")
+        logger.debug(f"Write {repo_name} results to {csvfile} ({len(new_df)})")
         # sort by file_sha1 to keep the json ordering consistent across runs
         new_df = new_df.sort_values(by="file_sha1", ascending=True)
-        _dump_json(new_df, jsonfile)
+        new_df.to_csv(csvfile, index=False)
 
 
 def scan_repos_from(json_file):
     # read json to df
     in_df = pd.read_json(json_file)
-    if DEBUG:
-        in_df = in_df.sample(10)
+    if labyrinth.DEBUG:
+        # choose from the bottom three quartiles in terms of size
+        upper = in_df["size"].quantile(0.75)
+        in_df = in_df.loc[(in_df["size"] < upper)].sample(10)
 
     # start small
     in_df = in_df.sort_values(by="size", ascending=True)

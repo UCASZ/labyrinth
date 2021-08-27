@@ -7,8 +7,8 @@ created_at: 8/24/21 9:43 AM
 import argparse
 import logging
 
+import labyrinth
 from labyrinth.repo_processor import process_summary
-from labyrinth import DEBUG, VERBOSE
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -28,10 +28,10 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.verbose:
-        VERBOSE = True
+        labyrinth.VERBOSE = True
         logger.setLevel(logging.INFO)
     if args.debug:
-        DEBUG = True
+        labyrinth.DEBUG = True
         logger.setLevel(logging.DEBUG)
 
     process_summary(args.summary_file)
