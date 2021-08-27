@@ -1,12 +1,12 @@
 
 # Summary for results/2021/08/27
     
-27 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-08-27 00:30:39+00:00 | 564800 | 24925 | Ruby | 11502 | [] |
-| Pound123/Metasploit | None | https://github.com/Pound123/Metasploit | ['metasploit module OR payload'] | 1 | 2021-08-27 00:08:48+00:00 | 5 | 1 | Shell | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-27 05:06:48+00:00 | 184497 | 6379 | C | 1780 | [] |
 | Osuni-99/Web-Exploitation---picoCTF | picoCTF cookie exploitation | https://github.com/Osuni-99/Web-Exploitation---picoCTF | ['exploit'] | 1 | 2021-08-27 05:37:49+00:00 | 0 | 0 | | 0 | [] |
 | techwibi/xss-steal-cookies | Lab for Exploiting cross-site scripting to steal cookies - Web Security Academy | https://github.com/techwibi/xss-steal-cookies | ['exploit'] | 1 | 2021-08-27 03:50:20+00:00 | 208 | 0 | CSS | 0 | [] |
 | dabasanta/Ares-Ransomware | Ares ransomware is a PoC tool written in python 3 - demonstrate how ransomware attacks works in a basic way. | https://github.com/dabasanta/Ares-Ransomware | ['attack poc'] | 1 | 2021-08-27 00:41:53+00:00 | 6 | 0 | Python | 0 | [] |
@@ -18,10 +18,11 @@
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-08-27 00:40:26+00:00 | 28170 | 0 | Python | 0 | [] |
 | AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-27 01:32:21+00:00 | 48 | 0 | Haskell | 0 | [] |
 | fumamatar/crystalc2 | My attempt at a C2 framework and post-exploitation agent. | https://github.com/fumamatar/crystalc2 | ['exploit'] | 1 | 2021-08-27 05:37:55+00:00 | 2895 | 0 | PowerShell | 0 | [] |
+| Pound123/Metasploit | None | https://github.com/Pound123/Metasploit | ['metasploit module OR payload'] | 1 | 2021-08-27 00:08:48+00:00 | 5 | 1 | Shell | 0 | [] |
 | Nextrixcs/Basic-Exploit-Essentials | Basic Exploit Essentials is a multi-script for Basic Admin Essentials 2.0. | https://github.com/Nextrixcs/Basic-Exploit-Essentials | ['exploit'] | 1 | 2021-08-27 01:34:49+00:00 | 1622 | 1 | Lua | 1 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-27 05:06:48+00:00 | 184497 | 6379 | C | 1780 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-08-27 04:00:35+00:00 | 24518 | 108 | Python | 26 | [] |
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2021-08-27 01:15:37+00:00 | 169 | 7 | Shell | 1 | [] |
+| raidcraft/rcelevator | Complex elevator plugin to move players across multiple Floors in huge buildings like normal elevators | https://github.com/raidcraft/rcelevator | ['rce'] | 1 | 2021-08-27 07:04:30+00:00 | 1029 | 0 | Java | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-27 00:03:06+00:00 | 413970 | 29 | | 15 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2021-08-27 04:05:05+00:00 | 138227 | 94 | C | 15 | [] |
 | sneakerhax/C2PE | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | ['exploit'] | 1 | 2021-08-27 04:20:30+00:00 | 35 | 20 | Python | 4 | [] |
