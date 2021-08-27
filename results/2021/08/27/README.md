@@ -1,7 +1,7 @@
 
 # Summary for results/2021/08/27
     
-13 records found after deduplication
+15 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
@@ -16,5 +16,7 @@
 | Pound123/Metasploit | None | https://github.com/Pound123/Metasploit | ['metasploit module OR payload'] | 1 | 2021-08-27 00:08:48+00:00 | 5 | 1 | Shell | 0 | [] |
 | AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-27 01:32:21+00:00 | 48 | 0 | Haskell | 0 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-08-27 00:40:26+00:00 | 28170 | 0 | Python | 0 | [] |
+| Udyz/proxyshell-auto | Automatic ProxyShell Exploit | https://github.com/Udyz/proxyshell-auto | ['exploit'] | 1 | 2021-08-27 03:04:50+00:00 | 106 | 41 | Python | 11 | [] |
+| RAYTRAClNG/Exploits | None | https://github.com/RAYTRAClNG/Exploits | ['exploit'] | 1 | 2021-08-27 03:07:06+00:00 | 100 | 0 | | 0 | [] |
 | ApexPredator-InfoSec/OpenCRX | OpenCRX Exploit | https://github.com/ApexPredator-InfoSec/OpenCRX | ['exploit'] | 1 | 2021-08-27 01:00:10+00:00 | 7 | 0 | Python | 0 | [] |
 | dabasanta/Ares-Ransomware | Ares ransomware is a PoC tool written in python 3 - demonstrate how ransomware attacks works in a basic way. | https://github.com/dabasanta/Ares-Ransomware | ['attack poc'] | 1 | 2021-08-27 00:41:53+00:00 | 6 | 0 | Python | 0 | [] |
