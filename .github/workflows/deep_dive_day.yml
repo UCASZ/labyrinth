@@ -15,7 +15,7 @@ on:
         required: true
 
 jobs:
-  search:
+  deep dive:
     runs-on: ubuntu-latest
        
     steps:
