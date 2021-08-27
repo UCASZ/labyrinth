@@ -199,7 +199,7 @@ def dump_results_by_vul_id(df):
         # sort by match_weight to keep the most likely single-exploits repos
         # at the top. This will cause some rows to move around as new repos
         # are scanned
-        new_df = new_df.sort_values(by="match_weight", ascending=True)
+        new_df = new_df.sort_values(by="match_weight", ascending=False)
 
         col_order = [
             "match",
