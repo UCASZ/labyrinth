@@ -34,7 +34,7 @@ AGE_LIMIT_DAYS = 7
 
 
 def process_git_url(clone_from, workdir):
-    logger.info(f"Cloning {clone_from} to {workdir}")
+    logger.debug(f"Cloning {clone_from} to {workdir}")
     try:
         git.Repo().clone_from(
             url=clone_from,
@@ -59,6 +59,9 @@ def process_row(row):
     repo_name = row["full_name"]
     repo_id = row["id"]
     clone_url = row["clone_url"]
+
+    repo_num = row["index"]
+    repo_tot = row["total_repos"]
 
     df = pd.DataFrame()
 
@@ -107,6 +110,7 @@ def process_row(row):
         df["file_sha1"] = None
 
     with tempfile.TemporaryDirectory(prefix="git-clone-") as workdir:
+        logger.info(f"Cloning {clone_url} {repo_num} of {repo_tot}")
         _df = process_git_url(clone_url, workdir)
     # confirm cleanup
     if os.path.isdir(workdir):
@@ -251,6 +255,15 @@ def scan_repos_from(json_file):
 
     # start small
     in_df = in_df.sort_values(by="size", ascending=True)
+    # get a clean index
+    in_df = in_df.reset_index(drop=True)
+    # now index is a size rank from small to large
+    # reset it again so we get that as a column we can use
+    in_df = in_df.reset_index(drop=False)
+    # but it's zero based and we want a 1-based counter
+    in_df["index"] += 1
+    # so now the total is just the max of the index
+    in_df["total_repos"] = in_df["index"].max()
 
     # process it row-wise
     results = in_df.apply(process_row, axis=1).to_list()

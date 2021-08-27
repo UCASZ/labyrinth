@@ -13,6 +13,8 @@ from labyrinth.repo_processor import process_summary
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 hdlr = logging.StreamHandler()
+fmt = logging.Formatter("%(levelname)s %(name)s - %(message)s")
+hdlr.setFormatter(fmt)
 logger.addHandler(hdlr)
 
 if __name__ == "__main__":
