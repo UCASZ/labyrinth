@@ -19,6 +19,8 @@ _IGNORE_REPOS = {
         "hltfbk/E3C-Corpus",
         "darksideoftheshmoo/rcell2",
         "rcenvironment/rce",
+        "endgameinc/xori",
+        "vasileios-mavroeidis/semantic-stix-vulnerability",
     ],
 }
 
@@ -31,6 +33,7 @@ IGNORE_FILE_EXTS = [
     ".png",
     ".jpg",
     ".gif",
+    ".owl",
 ]
 
 IGNORE_DIRS = [
