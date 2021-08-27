@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  deep dive:
+  deep_dive:
     runs-on: ubuntu-latest
        
     strategy:
