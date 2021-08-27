@@ -184,7 +184,7 @@ def dump_results_by_vul_id(df):
             keep="last",
         )
 
-        logger.info(f"Write {gname} results to {mdfile} ({len(new_df)})")
+        logger.debug(f"Write {gname} results to {mdfile} ({len(new_df)})")
         # but output sorted by highest weight first
         new_df = new_df.sort_values(by="match_weight", ascending=False)
         md = new_df.to_markdown(tablefmt="github", index=False)
@@ -202,7 +202,7 @@ def dump_results_by_vul_id(df):
             fp.write(md)
             fp.write("\n")
 
-        logger.info(f"Write {gname} results to {jsonfile} ({len(new_df)})")
+        logger.debug(f"Write {gname} results to {jsonfile} ({len(new_df)})")
         # sort by repo_id to keep the json ordering consistent across runs
         new_df = new_df.sort_values(by="repo_id", ascending=True)
         _dump_json(new_df, jsonfile)
@@ -240,10 +240,10 @@ def dump_results_by_repo(df):
 
         repo_name = group["repo_full_name"].unique()[0]
 
-        logger.info(f"Write {repo_name} results to {mdfile} ({len(new_df)})")
+        logger.debug(f"Write {repo_name} results to {mdfile} ({len(new_df)})")
         new_df.to_markdown(mdfile, index=False)
 
-        logger.info(f"Write {repo_name} results to {jsonfile} ({len(new_df)})")
+        logger.debug(f"Write {repo_name} results to {jsonfile} ({len(new_df)})")
         # sort by file_sha1 to keep the json ordering consistent across runs
         new_df = new_df.sort_values(by="file_sha1", ascending=True)
         _dump_json(new_df, jsonfile)
