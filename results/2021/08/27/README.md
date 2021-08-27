@@ -1,12 +1,12 @@
 
 # Summary for results/2021/08/27
     
-20 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-------------------|
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-08-27 00:30:39+00:00 | 564800 | 24925 | Ruby | 11502 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-08-27 00:17:01+00:00 | 102143 | 243 | Ruby | 74 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-27 05:06:48+00:00 | 184497 | 6379 | C | 1780 | [] |
 | dabasanta/Ares-Ransomware | Ares ransomware is a PoC tool written in python 3 - demonstrate how ransomware attacks works in a basic way. | https://github.com/dabasanta/Ares-Ransomware | ['attack poc'] | 1 | 2021-08-27 00:41:53+00:00 | 6 | 0 | Python | 0 | [] |
 | ApexPredator-InfoSec/OpenCRX | OpenCRX Exploit | https://github.com/ApexPredator-InfoSec/OpenCRX | ['exploit'] | 1 | 2021-08-27 01:00:10+00:00 | 7 | 0 | Python | 0 | [] |
 | RAYTRAClNG/Exploits | None | https://github.com/RAYTRAClNG/Exploits | ['exploit'] | 1 | 2021-08-27 03:07:06+00:00 | 100 | 0 | | 0 | [] |
@@ -24,4 +24,6 @@
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-08-27 00:52:03+00:00 | 1138 | 212 | Rust | 12 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-08-27 02:09:49+00:00 | 60419 | 1125 | JavaScript | 228 | [] |
 | amboar/cve-2019-6260 | A Test and Debug Tool for ASPEED BMC AHB Interfaces | https://github.com/amboar/cve-2019-6260 | ['cve-2'] | 1 | 2021-08-27 04:15:25+00:00 | 339 | 18 | C | 8 | ['CVE-2019-6260'] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-08-27 00:17:01+00:00 | 102143 | 243 | Ruby | 74 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-27 00:05:05+00:00 | 1534755 | 1494 | Python | 514 | [] |
 | techwibi/xss-steal-cookies | Lab for Exploiting cross-site scripting to steal cookies - Web Security Academy | https://github.com/techwibi/xss-steal-cookies | ['exploit'] | 1 | 2021-08-27 03:50:20+00:00 | 208 | 0 | CSS | 0 | [] |
