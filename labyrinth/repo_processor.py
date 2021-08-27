@@ -53,6 +53,10 @@ def _dump_json(df, fpath):
     df.to_json(fpath, orient="records", indent=2, date_format="iso", date_unit="s")
 
 
+def _dump_csv(df, outfile):
+    df.to_csv(outfile, index=False, float_format="%.6f")
+
+
 def process_row(row):
     # each row is a record for a repository
 
@@ -205,7 +209,7 @@ def dump_results_by_vul_id(df):
             "repo_id",
         ]
         new_df = new_df[col_order]
-        new_df.to_csv(csvfile, index=False)
+        _dump_csv(new_df, csvfile)
 
 
 def dump_results_by_repo(df):
@@ -242,7 +246,7 @@ def dump_results_by_repo(df):
         logger.debug(f"Write {repo_name} results to {csvfile} ({len(new_df)})")
         # sort by file_sha1 to keep the json ordering consistent across runs
         new_df = new_df.sort_values(by="file_sha1", ascending=True)
-        new_df.to_csv(csvfile, index=False)
+        _dump_csv(new_df, csvfile)
 
 
 def scan_repos_from(json_file):
