@@ -1,18 +1,19 @@
 
 # Summary for results/2021/08/28
     
-37 records found after deduplication
+41 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-08-28 00:11:20+00:00 | 564942 | 24936 | Ruby | 11506 | [] |
-| k0rup710n/BinaryExploitation | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | ['exploit'] | 1 | 2021-08-28 00:37:23+00:00 | 13252 | 0 | C | 0 | [] |
 | Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2021-08-28 00:13:55+00:00 | 13 | 0 | | 0 | [] |
-| 4RG0S/2021-Summer-Some-Day-Exploit | None | https://github.com/4RG0S/2021-Summer-Some-Day-Exploit | ['exploit'] | 1 | 2021-08-28 08:38:18+00:00 | 2049 | 0 | | 1 | [] |
 | AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-08-28 00:32:17+00:00 | 66 | 0 | Haskell | 0 | [] |
+| G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-08-28 09:06:04+00:00 | 199 | 2 | Python | 0 | [] |
 | git3345678git/0day-security-software-vulnerability-analysis-technology | None | https://github.com/git3345678git/0day-security-software-vulnerability-analysis-technology | ['0day'] | 1 | 2021-08-28 07:26:14+00:00 | 128 | 0 | | 0 | [] |
 | obsrva/obsrva.org | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept explo | https://github.com/obsrva/obsrva.org | ['exploit'] | 1 | 2021-08-28 01:15:47+00:00 | 40628 | 1 | JavaScript | 0 | [] |
 | nmmcon/Exploits | I add my exploits here. | https://github.com/nmmcon/Exploits | ['exploit'] | 1 | 2021-08-28 06:15:05+00:00 | 4 | 0 | Shell | 0 | [] |
+| CalfCrusher/Exif-Maniac | A Remote Code Execution Post Exploitation Framework via Exif Data in images | https://github.com/CalfCrusher/Exif-Maniac | ['exploit', 'remote code execution'] | 2 | 2021-08-28 08:46:18+00:00 | 20 | 0 | Python | 0 | [] |
+| AravGarg/HEVD-myexploits | my exploits for HEVD on win10 Home 20H2 19042.1165 | https://github.com/AravGarg/HEVD-myexploits | ['exploit'] | 1 | 2021-08-28 08:52:52+00:00 | 404 | 7 | C | 3 | [] |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-28 08:16:27+00:00 | 0 | 1 | HTML | 0 | [] |
 | LucaGiudice/Simpati | Pathway-based classifier exploits patient similarity network paradigm for interpretability and explainability | https://github.com/LucaGiudice/Simpati | ['exploit'] | 1 | 2021-08-28 08:37:46+00:00 | 33127 | 0 | R | 0 | [] |
 | 0xmanjoos/apcs1 | AP Computer Science and Exploit Development Course | https://github.com/0xmanjoos/apcs1 | ['exploit'] | 1 | 2021-08-28 07:44:36+00:00 | 8 | 0 | C | 0 | [] |
@@ -22,10 +23,11 @@
 | lewisaarons/exploitation | None | https://github.com/lewisaarons/exploitation | ['exploit'] | 1 | 2021-08-28 05:04:57+00:00 | 0 | 0 | | 0 | [] |
 | BabyTeam1024/CVE-2016-3510 | None | https://github.com/BabyTeam1024/CVE-2016-3510 | ['cve-2'] | 1 | 2021-08-28 05:17:15+00:00 | 0 | 0 | Java | 0 | ['CVE-2016-3510'] |
 | sheikizin/exploit | None | https://github.com/sheikizin/exploit | ['exploit'] | 1 | 2021-08-28 06:32:42+00:00 | 0 | 0 | Python | 0 | [] |
+| NULLHE4D/kzexploits | A collection of exploit scripts I've written while learning reverse engineering (for reference). | https://github.com/NULLHE4D/kzexploits | ['exploit'] | 1 | 2021-08-28 08:17:34+00:00 | 0 | 0 | Python | 0 | [] |
+| 4RG0S/2021-Summer-Some-Day-Exploit | None | https://github.com/4RG0S/2021-Summer-Some-Day-Exploit | ['exploit'] | 1 | 2021-08-28 08:38:18+00:00 | 2049 | 0 | | 1 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-08-28 07:54:32+00:00 | 14032 | 158 | Go | 19 | [] |
-| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-08-28 07:17:10+00:00 | 98571 | 0 | JavaScript | 0 | [] |
 | v3n0m-Scanner/V3n0M-Scanner | Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns | https://github.com/v3n0m-Scanner/V3n0M-Scanner | ['exploit', 'metasploit module OR payload'] | 2 | 2021-08-28 03:54:51+00:00 | 32223 | 951 | Python | 362 | [] |
-| bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day', 'vulnerability poc'] | 2 | 2021-08-28 03:01:30+00:00 | 6163 | 105 | Python | 19 | [] |
+| k0rup710n/BinaryExploitation | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | ['exploit'] | 1 | 2021-08-28 00:37:23+00:00 | 13252 | 0 | C | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-28 05:06:53+00:00 | 186112 | 6381 | C | 1780 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-28 00:05:06+00:00 | 1534755 | 1495 | Python | 514 | [] |
 | cirosantilli/china-dictatorship | Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police mi | https://github.com/cirosantilli/china-dictatorship | ['attack poc', 'exploit'] | 2 | 2021-08-28 08:34:32+00:00 | 20521 | 556 | HTML | 90 | [] |
@@ -41,4 +43,6 @@
 | dock0d1/CVE-2021-3156 | None | https://github.com/dock0d1/CVE-2021-3156 | ['cve-2'] | 1 | 2021-08-28 02:17:02+00:00 | 26 | 3 | C | 1 | ['CVE-2021-3156'] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2021-08-28 07:05:04+00:00 | 152266 | 3 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-08-28 04:00:36+00:00 | 27149 | 108 | Python | 26 | [] |
-| NULLHE4D/kzexploits | A collection of exploit scripts I've written while learning reverse engineering (for reference). | https://github.com/NULLHE4D/kzexploits | ['exploit'] | 1 | 2021-08-28 08:17:34+00:00 | 0 | 0 | Python | 0 | [] |
+| bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day', 'vulnerability poc'] | 2 | 2021-08-28 03:01:30+00:00 | 6163 | 105 | Python | 19 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-08-28 07:17:10+00:00 | 98571 | 0 | JavaScript | 0 | [] |
+| NamikazeZero/Metasploit | Metasploit Tools [Termux Only!] | https://github.com/NamikazeZero/Metasploit | ['metasploit module OR payload'] | 1 | 2021-08-28 09:24:32+00:00 | 0 | 0 | Python | 0 | [] |
