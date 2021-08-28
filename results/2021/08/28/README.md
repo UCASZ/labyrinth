@@ -1,12 +1,14 @@
 
 # Summary for results/2021/08/28
     
-21 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-08-28 00:11:20+00:00 | 564942 | 24936 | Ruby | 11506 | [] |
 | dock0d1/CVE-2021-3156 | None | https://github.com/dock0d1/CVE-2021-3156 | ['cve-2'] | 1 | 2021-08-28 02:17:02+00:00 | 26 | 3 | C | 1 | ['CVE-2021-3156'] |
+| lewisaarons/exploitation | None | https://github.com/lewisaarons/exploitation | ['exploit'] | 1 | 2021-08-28 05:04:57+00:00 | 0 | 0 | | 0 | [] |
+| dinhbaouit/CVE-2021-36394 | None | https://github.com/dinhbaouit/CVE-2021-36394 | ['cve-2'] | 1 | 2021-08-28 04:34:02+00:00 | 0 | 0 | PHP | 0 | ['CVE-2021-36394'] |
 | k4miyo/CVE-2004-2687 | CVE-2004-2687 DistCC Daemon Command Execution | https://github.com/k4miyo/CVE-2004-2687 | ['cve-2'] | 1 | 2021-08-28 01:47:08+00:00 | 0 | 0 | Python | 0 | ['CVE-2004-2687'] |
 | jeryn-oss/hse-exploits | work arounds and bypasses for the hse school technological area | https://github.com/jeryn-oss/hse-exploits | ['exploit'] | 1 | 2021-08-28 01:09:30+00:00 | 3 | 0 | HTML | 0 | [] |
 | obsrva/obsrva.org | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept explo | https://github.com/obsrva/obsrva.org | ['exploit'] | 1 | 2021-08-28 01:15:47+00:00 | 40628 | 1 | JavaScript | 0 | [] |
@@ -24,5 +26,7 @@
 | YasserGersy/cazador_unr | Hacking tools | https://github.com/YasserGersy/cazador_unr | ['rce', 'rce poc'] | 2 | 2021-08-28 02:09:29+00:00 | 62706 | 100 | nan | 39 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-08-28 00:20:54+00:00 | 35678 | 5715 | Vue | 1193 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-08-28 00:16:33+00:00 | 103756 | 243 | Ruby | 74 | [] |
+| super-l/superl-url | 根据关键词，对搜索引擎内容检索结果的网址内容进行采集的一款轻量级软程序。 程序主要运用于安全渗透测试项目，以及批量评估各类CMS系统0DAY的影响程度，同时也是批量采集自己获取感兴趣的网站的一个小程序~~ 可自动从搜索引擎采集相关网站的真实地址与标题等信息，可保存为文件，自动去除重复URL。同时，也可以自定义忽略多条域名等。 | https://github.com/super-l/superl-url | ['0day'] | 1 | 2021-08-28 05:03:12+00:00 | 948 | 573 | Python | 140 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-08-28 00:05:06+00:00 | 1534755 | 1495 | Python | 514 | [] |
-| dinhbaouit/CVE-2021-36394 | None | https://github.com/dinhbaouit/CVE-2021-36394 | ['cve-2'] | 1 | 2021-08-28 04:34:02+00:00 | 0 | 0 | PHP | 0 | ['CVE-2021-36394'] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-08-28 05:06:53+00:00 | 186112 | 6381 | C | 1780 | [] |
+| BabyTeam1024/CVE-2016-3510 | None | https://github.com/BabyTeam1024/CVE-2016-3510 | ['cve-2'] | 1 | 2021-08-28 05:17:15+00:00 | 0 | 0 | Java | 0 | ['CVE-2016-3510'] |
