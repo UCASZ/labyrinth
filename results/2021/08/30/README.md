@@ -1,0 +1,23 @@
+
+# Summary for results/2021/08/30
+    
+16 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-08-30 00:16:58+00:00 | 106983 | 244 | Ruby | 74 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-30 00:03:19+00:00 | 407568 | 29 | | 15 | [] |
+| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-08-30 01:02:40+00:00 | 313 | 27 | | 2 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-08-30 00:43:25+00:00 | 287732 | 655 | nan | 124 | [] |
+| dock0d1/Exploit-Linux-Kernel-5.4---BleedingTooth-Bluetooth-Zero-Click-Remote-Code-Execution | Linux Kernel 5.4 - 'BleedingTooth' Bluetooth Zero-Click Remote Code Execution | https://github.com/dock0d1/Exploit-Linux-Kernel-5.4---BleedingTooth-Bluetooth-Zero-Click-Remote-Code-Execution | ['exploit', 'remote code execution'] | 2 | 2021-08-30 01:16:03+00:00 | 7 | 3 | C | 1 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-08-30 04:00:36+00:00 | 29648 | 109 | Python | 27 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-08-30 04:09:07+00:00 | 98574 | 0 | JavaScript | 0 | [] |
+| 0x1CA3/Duo | A post-exploitation framework for Windows and Linux. | https://github.com/0x1CA3/Duo | ['exploit'] | 1 | 2021-08-30 00:55:36+00:00 | 51 | 1 | Batchfile | 0 | [] |
+| hexachordanu/Pentest-Scripts-Py3 | This repo will contain tutorials for scripting in python and how various modules can be used by pentesters in their task automation / exploit writing. | https://github.com/hexachordanu/Pentest-Scripts-Py3 | ['exploit'] | 1 | 2021-08-30 04:28:57+00:00 | 11 | 0 | | 0 | [] |
+| Passive/discord-zeroday | Ban immunity discord zero day. | https://github.com/Passive/discord-zeroday | ['zeroday'] | 1 | 2021-08-30 01:55:13+00:00 | 7 | 0 | Python | 0 | [] |
+| ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-08-30 02:34:02+00:00 | 16 | 0 | Lua | 0 | [] |
+| non123dfsdf/UnfairSploit | nan | https://github.com/non123dfsdf/UnfairSploit | ['sploit'] | 1 | 2021-08-30 03:48:57+00:00 | 2 | 1 | nan | 0 | [] |
+| bunkerexplorer2000/roblox-exploiting | None | https://github.com/bunkerexplorer2000/roblox-exploiting | ['exploit'] | 1 | 2021-08-30 00:32:50+00:00 | 0 | 0 | | 0 | [] |
+| kkent030315/ZemanaLPE | A proof-of-concept of local privilege escalation by exploiting Zemana AntiMalware/AntiLogger | https://github.com/kkent030315/ZemanaLPE | ['exploit'] | 1 | 2021-08-30 01:46:19+00:00 | 68 | 0 | C++ | 0 | [] |
+| EthanMcDonagh/SycoleX | I am not the creator of this exploit, all credit goes to 7GrandDadPGN! | https://github.com/EthanMcDonagh/SycoleX | ['exploit'] | 1 | 2021-08-30 01:43:36+00:00 | 0 | 0 | Lua | 0 | [] |
+| guglia001/CVE-2019-19609 | Strapi <= 3.0.0-beta.17.8 authenticated remote code execution | https://github.com/guglia001/CVE-2019-19609 | ['cve-2', 'remote code execution'] | 2 | 2021-08-30 03:11:33+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-19609'] |
