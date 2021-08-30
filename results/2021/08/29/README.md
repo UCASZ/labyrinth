@@ -1,12 +1,12 @@
 
 # Summary for results/2021/08/29
     
-92 records found after deduplication
+93 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-08-29 21:20:01+00:00 | 567210 | 24945 | Ruby | 11509 | [] |
-| SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-29 06:06:39+00:00 | 1430 | 1 | HTML | 0 | [] |
+| Kira-Pgr/Github-CVE-Listener | Get newest GitHub CVE EXP/POC repos and send to WeChat (The Program runs with Github Actions, no need to use your own server) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2021-08-29 00:41:17+00:00 | 251 | 0 | Python | 0 | [] |
 | Vulnmachines/Ctirix_RCE-CVE-2019-19781 | Citrix ADC RCE cve-2019-19781 | https://github.com/Vulnmachines/Ctirix_RCE-CVE-2019-19781 | ['cve-2', 'rce'] | 2 | 2021-08-29 05:25:38+00:00 | 0 | 0 | | 0 | ['CVE-2019-19781'] |
 | BabyTeam1024/CVE-2017-3248 | None | https://github.com/BabyTeam1024/CVE-2017-3248 | ['cve-2'] | 1 | 2021-08-29 03:26:29+00:00 | 0 | 0 | Java | 0 | ['CVE-2017-3248'] |
 | MoonSecV2/MoonSecScripts | A collection of Roblox exploiting scripts which I currently use. | https://github.com/MoonSecV2/MoonSecScripts | ['exploit'] | 1 | 2021-08-29 01:31:38+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -14,10 +14,11 @@
 | wolfea/webdav_exploit | Instructions for a WebDAV exploit using Msfconsole in Kali: Target machine is Metasploitable. | https://github.com/wolfea/webdav_exploit | ['exploit'] | 1 | 2021-08-29 00:54:00+00:00 | 0 | 0 | | 0 | [] |
 | utkarsh24122/get-api | Template based scanning for API endpoints for further exploitation | https://github.com/utkarsh24122/get-api | ['exploit'] | 1 | 2021-08-29 07:28:45+00:00 | 11 | 1 | Shell | 0 | [] |
 | dinhbaouit/CVE-2021-36394 | None | https://github.com/dinhbaouit/CVE-2021-36394 | ['cve-2'] | 1 | 2021-08-29 12:36:47+00:00 | 55610 | 1 | PHP | 0 | ['CVE-2021-36394'] |
+| macklark/Pokemon-pod | Exploiting Pokemon API | https://github.com/macklark/Pokemon-pod | ['exploit'] | 1 | 2021-08-29 05:40:57+00:00 | 252 | 0 | JavaScript | 0 | [] |
 | grahman20/TLF | We present a framework called TLF that builds a classifier for the target domain having only few labeled training records by transferring knowledge from the source domain having many labeled records. While existing methods often focus on one issue and leav | https://github.com/grahman20/TLF | ['exploit'] | 1 | 2021-08-29 07:41:49+00:00 | 6171 | 0 | Java | 0 | [] |
-| Kira-Pgr/Github-CVE-Listener | Get newest GitHub CVE EXP/POC repos and send to WeChat (The Program runs with Github Actions, no need to use your own server) | https://github.com/Kira-Pgr/Github-CVE-Listener | ['cve poc'] | 1 | 2021-08-29 00:41:17+00:00 | 251 | 0 | Python | 0 | [] |
+| SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-08-29 06:06:39+00:00 | 1430 | 1 | HTML | 0 | [] |
+| pcmarcon/malduino-payload-samples | Scripts to simulate/POC ransomware attack on windows computer | https://github.com/pcmarcon/malduino-payload-samples | ['attack poc'] | 1 | 2021-08-29 13:12:19+00:00 | 3524 | 0 | C++ | 1 | [] |
 | AravGarg/HEVD-myexploits | my exploits for HEVD on win10 Home 20H2 19042.1165 | https://github.com/AravGarg/HEVD-myexploits | ['exploit'] | 1 | 2021-08-29 06:07:44+00:00 | 766 | 8 | C | 3 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-08-29 01:57:03+00:00 | 27113 | 8196 | Python | 1434 | [] |
 | CalfCrusher/Exif-Maniac | A Remote Code Execution Post Exploitation Framework via Exif Data in images | https://github.com/CalfCrusher/Exif-Maniac | ['exploit', 'rce', 'remote code execution'] | 3 | 2021-08-29 11:03:39+00:00 | 46 | 0 | Python | 0 | [] |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-08-29 05:05:35+00:00 | 43 | 0 | | 0 | [] |
 | iomoath/SharpStrike | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | ['exploit'] | 1 | 2021-08-29 04:35:32+00:00 | 76009 | 71 | C# | 18 | [] |
@@ -26,7 +27,6 @@
 | sparky23172/BinaryExploitation | Programs for my journey to getting the OSEE | https://github.com/sparky23172/BinaryExploitation | ['exploit'] | 1 | 2021-08-29 09:24:57+00:00 | 76 | 1 | Python | 0 | [] |
 | hupe1980/gopwn | Golang CTF framework and exploit development module | https://github.com/hupe1980/gopwn | ['exploit', 'shellcode'] | 2 | 2021-08-29 16:46:58+00:00 | 187 | 3 | Go | 1 | [] |
 | mutur4/BinaryExploitation | This is a topic on binary exploitation :smile: | https://github.com/mutur4/BinaryExploitation | ['exploit'] | 1 | 2021-08-29 08:31:05+00:00 | 80 | 0 | C | 0 | [] |
-| MrW0l05zyn/buffer-overflow | Explotación de buffer overflow. | https://github.com/MrW0l05zyn/buffer-overflow | ['exploit'] | 1 | 2021-08-29 04:24:55+00:00 | 25993 | 0 | Python | 0 | [] |
 | Jassim49/Metasploit | The Penetration Testing Tool | https://github.com/Jassim49/Metasploit | ['metasploit module OR payload'] | 1 | 2021-08-29 05:59:31+00:00 | 0 | 0 | | 0 | [] |
 | 0xXs7/alfa-perl-rce | Simple code alfa perl rce for termux | https://github.com/0xXs7/alfa-perl-rce | ['rce'] | 1 | 2021-08-29 06:13:54+00:00 | 0 | 0 | Python | 0 | [] |
 | Passive/mikrotik-0day | MikroTik 4.x router RCE vulnerability, found by me. Can be used to load hella bots. | https://github.com/Passive/mikrotik-0day | ['0day', 'exploit', 'rce'] | 3 | 2021-08-29 06:49:22+00:00 | 0 | 0 | Python | 0 | [] |
@@ -50,10 +50,11 @@
 | Team-774/gSploit-Web-Assembly-Reform | None | https://github.com/Team-774/gSploit-Web-Assembly-Reform | ['sploit'] | 1 | 2021-08-29 11:20:01+00:00 | 0 | 0 | Lua | 0 | [] |
 | Team-774/Kamil-s-Garden-2022-gSploit- | None | https://github.com/Team-774/Kamil-s-Garden-2022-gSploit- | ['sploit'] | 1 | 2021-08-29 11:05:38+00:00 | 0 | 0 | | 0 | [] |
 | papusethi/hackingtaoe | This repository contains the C program files that were taught in the book "Hacking The Art of Exploitation". | https://github.com/papusethi/hackingtaoe | ['exploit'] | 1 | 2021-08-29 10:18:53+00:00 | 3 | 0 | C | 0 | [] |
-| pcmarcon/malduino-payload-samples | Scripts to simulate/POC ransomware attack on windows computer | https://github.com/pcmarcon/malduino-payload-samples | ['attack poc'] | 1 | 2021-08-29 13:12:19+00:00 | 3524 | 0 | C++ | 1 | [] |
+| MrW0l05zyn/buffer-overflow | Explotación de buffer overflow. | https://github.com/MrW0l05zyn/buffer-overflow | ['exploit'] | 1 | 2021-08-29 04:24:55+00:00 | 25993 | 0 | Python | 0 | [] |
 | noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-08-29 12:44:20+00:00 | 2392 | 0 | Python | 0 | [] |
-| windpiaoxue/sc4cpp | sc4cpp is a shellcode framework based on C++ | https://github.com/windpiaoxue/sc4cpp | ['shellcode'] | 1 | 2021-08-29 11:22:10+00:00 | 17 | 37 | C++ | 12 | [] |
-| LasCC/Hack-Tools | The all-in-one Red Team extension for Web Pentester 🛠 | https://github.com/LasCC/Hack-Tools | ['metasploit module OR payload'] | 1 | 2021-08-29 17:44:19+00:00 | 1085 | 2524 | JavaScript | 276 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-08-29 01:57:03+00:00 | 27113 | 8196 | Python | 1434 | [] |
+| AlaBouali/bane | None | https://github.com/AlaBouali/bane | ['rce'] | 1 | 2021-08-29 06:59:46+00:00 | 254 | 50 | Python | 19 | [] |
+| th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-08-29 08:26:48+00:00 | 2905131 | 2 | Batchfile | 0 | [] |
 | MaherAzzouzi/LinuxExploitation | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | ['exploit'] | 1 | 2021-08-29 05:30:00+00:00 | 133596 | 53 | Python | 18 | [] |
 | AL-AlamySploit/metasploit1 | None | https://github.com/AL-AlamySploit/metasploit1 | ['metasploit module OR payload'] | 1 | 2021-08-29 02:05:09+00:00 | 10 | 0 | Shell | 0 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-08-29 08:23:56+00:00 | 17567 | 541 | Go | 109 | [] |
@@ -62,8 +63,8 @@
 | M0tHs3C/Argo | Multi camera gathering and exploiting tool | https://github.com/M0tHs3C/Argo | ['exploit'] | 1 | 2021-08-29 08:29:31+00:00 | 1134 | 31 | Python | 14 | [] |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-08-29 15:10:49+00:00 | 1329581 | 3376 | PowerShell | 1175 | [] |
 | YasserGersy/cazador_unr | Hacking tools | https://github.com/YasserGersy/cazador_unr | ['rce', 'rce poc'] | 2 | 2021-08-29 22:31:24+00:00 | 65075 | 100 | | 39 | [] |
-| AlaBouali/bane | None | https://github.com/AlaBouali/bane | ['rce'] | 1 | 2021-08-29 06:59:46+00:00 | 254 | 50 | Python | 19 | [] |
 | saucer-man/saucerframe | python3批量poc检测工具 | https://github.com/saucer-man/saucerframe | ['exploit'] | 1 | 2021-08-29 07:24:14+00:00 | 915 | 271 | Python | 72 | [] |
+| windpiaoxue/sc4cpp | sc4cpp is a shellcode framework based on C++ | https://github.com/windpiaoxue/sc4cpp | ['shellcode'] | 1 | 2021-08-29 11:22:10+00:00 | 17 | 37 | C++ | 12 | [] |
 | Lehona/Ikarus | A daedalus library for the game Gothic. Exploits the interpreter to allow arbitrary memory access and defines a lot of useful functions for interfacing with the engine. | https://github.com/Lehona/Ikarus | ['exploit'] | 1 | 2021-08-29 17:28:50+00:00 | 368 | 5 | D | 5 | [] |
 | captainGeech42/ctf-writeups | Writeups/exploit code for CTFs I've done | https://github.com/captainGeech42/ctf-writeups | ['exploit'] | 1 | 2021-08-29 15:02:24+00:00 | 12829 | 11 | Python | 1 | [] |
 | a13xp0p0v/linux-kernel-defence-map | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | ['exploit'] | 1 | 2021-08-29 20:24:00+00:00 | 9442 | 1249 | | 87 | [] |
@@ -73,10 +74,11 @@
 | xairy/linux-kernel-exploitation | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | ['exploit'] | 1 | 2021-08-29 02:11:39+00:00 | 365 | 3624 | | 789 | [] |
 | cirosantilli/china-dictatorship | Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police mi | https://github.com/cirosantilli/china-dictatorship | ['attack poc', 'exploit'] | 2 | 2021-08-29 11:14:22+00:00 | 20683 | 557 | HTML | 90 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-08-29 22:13:36+00:00 | 3297 | 2463 | PowerShell | 707 | [] |
-| th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-08-29 08:26:48+00:00 | 2905131 | 2 | Batchfile | 0 | [] |
+| LasCC/Hack-Tools | The all-in-one Red Team extension for Web Pentester 🛠 | https://github.com/LasCC/Hack-Tools | ['metasploit module OR payload'] | 1 | 2021-08-29 17:44:19+00:00 | 1085 | 2524 | JavaScript | 276 | [] |
 | MrW0l05zyn/bludit-cms-bypass-brute-force-protection-mechanism | Permite realizar bypass (eludir) el mecanismo de protección de fuerza bruta de Bludit CMS versión 3.9.2 o inferior, mediante el uso de diferentes encabezados HTTP X-Forwarded-For falsificados. | https://github.com/MrW0l05zyn/bludit-cms-bypass-brute-force-protection-mechanism | ['exploit'] | 1 | 2021-08-29 05:21:27+00:00 | 34 | 0 | Python | 0 | [] |
-| Vretlee/Metasploit | Install Metasploit Only One Click | https://github.com/Vretlee/Metasploit | ['metasploit module OR payload'] | 1 | 2021-08-29 01:36:43+00:00 | 217 | 3 | Shell | 0 | [] |
 | Hakkuraifu/PS4xploit | PS4 Exploit list | https://github.com/Hakkuraifu/PS4xploit | ['exploit'] | 1 | 2021-08-29 10:47:00+00:00 | 5023 | 56 | JavaScript | 16 | [] |
+| iaur/tde-wp | Remote code base of The Daily Exploits WordPress site. | https://github.com/iaur/tde-wp | ['exploit'] | 1 | 2021-08-29 02:50:47+00:00 | 329 | 0 | PHP | 0 | [] |
+| Vretlee/Metasploit | Install Metasploit Only One Click | https://github.com/Vretlee/Metasploit | ['metasploit module OR payload'] | 1 | 2021-08-29 01:36:43+00:00 | 217 | 3 | Shell | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-08-29 03:23:45+00:00 | 6803 | 2 | Python | 0 | [] |
 | iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-08-29 17:19:42+00:00 | 405 | 0 | Lua | 0 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-08-29 08:41:42+00:00 | 14038 | 160 | Go | 19 | [] |
@@ -95,5 +97,4 @@
 | dev-frog/templates | Programming - Payload - Exploit templates | https://github.com/dev-frog/templates | ['exploit'] | 1 | 2021-08-29 20:45:41+00:00 | 5 | 0 | C++ | 0 | [] |
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-08-29 04:26:09+00:00 | 302 | 26 | nan | 2 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-08-29 00:03:21+00:00 | 406417 | 29 | | 15 | [] |
-| iaur/tde-wp | Remote code base of The Daily Exploits WordPress site. | https://github.com/iaur/tde-wp | ['exploit'] | 1 | 2021-08-29 02:50:47+00:00 | 329 | 0 | PHP | 0 | [] |
 | guglia001/CVE-2019-18818 | None | https://github.com/guglia001/CVE-2019-18818 | ['cve-2'] | 1 | 2021-08-29 23:31:25+00:00 | 0 | 0 | | 0 | ['CVE-2019-18818'] |
