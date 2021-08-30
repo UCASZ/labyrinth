@@ -4,68 +4,34 @@ file: ignorelist
 author: adh
 created_at: 8/26/21 3:12 PM
 """
+import pkg_resources
+import pandas as pd
+
+_OWNER_LOGIN_LIST = pd.read_csv(
+    pkg_resources.resource_stream(__name__, "data/owner_logins.txt"), header=None
+)[0].to_list()
+
+_REPO_NAME_LIST = pd.read_csv(
+    pkg_resources.resource_stream(__name__, "data/repo_names.txt"), header=None
+)[0].to_list()
+
+_FULL_NAME_LIST = pd.read_csv(
+    pkg_resources.resource_stream(__name__, "data/full_names.txt"), header=None
+)[0].to_list()
+
 
 # Keys must match elements found in *_summary.json files
 _IGNORE_REPOS = {
-    "owner_login": [
-        "alaial90",
-        "Patrowl",
-        "ryx1412",
-        "davidecoluzzi",
-        "csyongdu",
-        "georgeslabreche",
-        "XiaoYangLiu-FinRL",
-        "tim-ings",
-    ],
-    "name": ["PatrowlHearsData", "NVD-Exploit-LIst-Ja", "rces-final-project"],
-    "full_name": [
-        "lsst-uk/lsst-ir-fusion",
-        "dcs4cop/xcube",
-        "CloudDefenseAI/cd",
-        "th3ken-dev/TH3KEN-EDITON",
-        "hesim-dev/rcea",
-        "bsalha1/Printer",
-        "hltfbk/E3C-Corpus",
-        "darksideoftheshmoo/rcell2",
-        "rcenvironment/rce",
-        "endgameinc/xori",
-        "vasileios-mavroeidis/semantic-stix-vulnerability",
-        "cgi-eoss/ftep",
-        "olie304/MW4-Cosmetics",
-        "WilliamYu1993/BAMSE",
-        "EdwardSmith1884/GEOMetrics",
-        "WeixiongLin/CS188-Proj1",
-        "Ajabeer/SVM-RCE-R-results-Omnibus-dataset",
-        "Tang1705/3D-Reconstruction-by-GF-4",
-        "jinglou/p2019-cns-sod",
-        "andrewgrider/dragonbook",
-        "shuangj00/HARMONIES",
-        "ejkim-dev/openCVex2",
-        "ArgusScheduler/Argus",
-        "cslab-ntua/contiguity-isca2020",
-        "vam-sin/pconsc4-distance",
-        "MathieuRita/SAR_denoising",
-        "iai-group/irj-types",
-        "ShixiangWang/absoluteCNVdata",
-        "osmose-model/osmose",
-        "theo-jaunet/visqa",
-        "dimitramav/thesis-sentiment-analysis-in-tourism",
-        "CedarVGC/Skeleton-extraction",
-        "DPHRC/PSID-Exploitation",
-        "CedricChing/DeepMRI",
-        "minkee77/CMPNet",
-        "AounEMuhammad/RCE-Sask-Group-D",
-        "carlosloza/spindles-HMM",
-        "rezvanshokranidev/RCE",
-        "ShamimShahraeini/Deep-CNNs-for-image-classification-by-exploiting-transfer-learning-and-feature-concatenation",
-        "thomasverelst/dynconv",
-        "mthh/gaspar",
-    ],
+    "owner_login": _OWNER_LOGIN_LIST,
+    "name": _REPO_NAME_LIST,
+    "full_name": _FULL_NAME_LIST,
 }
 
 IGNORE_REPOS = {}
 for k, values in _IGNORE_REPOS.items():
     IGNORE_REPOS[k] = [v.lower() for v in values]
+
+assert "certcc/labyrinth" in IGNORE_REPOS["full_name"]
 
 IGNORE_FILE_EXTS = [
     ".json",

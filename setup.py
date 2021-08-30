@@ -14,4 +14,10 @@ setup(
     author="adh",
     author_email="adh@cert.org",
     description="search github for exploits",
+    include_package_data=True,
+    package_data={
+        "": [
+            "data/*.txt",
+        ]
+    },
 )
