@@ -24,6 +24,7 @@ if __name__ == "__main__":
 
     # TODO: make this per day?
     parser.add_argument("summary_file", action="store", type=str)
+    parser.add_argument("--token", action="store", type=str, default=None)
     parser.add_argument("--verbose", "-v", action="store_true", default=False)
     parser.add_argument("--debug", "-d", action="store_true", default=False)
 
@@ -35,5 +36,8 @@ if __name__ == "__main__":
     if args.debug:
         labyrinth.DEBUG = True
         logger.setLevel(logging.DEBUG)
+
+    if args.token is not None:
+        labyrinth.GH_TOKEN = args.token
 
     process_summary(args.summary_file)

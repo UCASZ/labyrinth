@@ -11,10 +11,11 @@ import git
 import git.exc
 import time
 import pandas as pd
-import re
-
+from github import Github
+import datetime
 
 import labyrinth
+from labyrinth.rate_limit_helpers import check_rl_core
 from labyrinth.errors import LabyrinthError
 from labyrinth.file_processor import process_dir
 from labyrinth.patterns import find_vul_ids, id_to_path, repo_id_to_path
@@ -30,7 +31,7 @@ logger = logging.getLogger(__name__)
 DAYHOURS = 24
 DAYMIN = DAYHOURS * 60  # 1440
 DAYSEC = DAYMIN * 60  # 86400
-AGE_LIMIT_DAYS = 7
+AGE_LIMIT_DAYS = 14
 
 
 def process_git_url(clone_from, workdir):
@@ -82,7 +83,17 @@ def process_row(row):
         age_seconds = time.time() - mtime
         age_days = age_seconds / DAYSEC
         # are they recent?
-        # TODO: change this to use a github api request and compare mtime to repo.pushed_atgre
+
+        gh = Github(login_or_token=labyrinth.GH_TOKEN)
+        # be sensitive to rate limits
+        check_rl_core(gh)
+
+        repo = gh.get_repo(repo_name)
+        m_ts = datetime.datetime.fromtimestamp(mtime)
+
+        if m_ts >= repo.pushed_at:
+            logger.info(f"Repo has not changed since we last looked, skipping")
+            return df
 
         if age_days < AGE_LIMIT_DAYS:
             logger.info(

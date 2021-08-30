@@ -6,3 +6,4 @@ created_at: 8/10/21 10:45 AM
 """
 DEBUG = False
 VERBOSE = False
+GH_TOKEN = None

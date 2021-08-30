@@ -8,6 +8,7 @@ import datetime
 import time
 import random
 
+NAP_LIMIT = 50
 
 rl_timers = {
     "core": 3600,
@@ -56,7 +57,7 @@ def _rl_pause(rlkey, rl, threshold=10):
 
 
 def check_rate_limits(gh, nap_count=0):
-    if nap_count > 50:
+    if nap_count > NAP_LIMIT:
         raise RuntimeError("Too many naps. Try again when things aren't so busy.")
 
     limits = {
@@ -73,3 +74,14 @@ def check_rate_limits(gh, nap_count=0):
             nap_count += 1
             # we don't know what happened while we were asleep
             return check_rate_limits(gh, nap_count)
+
+
+def check_rl_core(gh, nap_count=0):
+    if nap_count > NAP_LIMIT:
+        raise RuntimeError("Too many naps. Try again when things aren't so busy.")
+
+    rl = gh.get_rate_limit().core
+    napped = _rl_pause("core", rl, threshold=100)
+    if napped:
+        nap_count += 1
+        return check_rl_core(gh, nap_count)

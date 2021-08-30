@@ -9,6 +9,7 @@ import datetime
 import pandas as pd
 from github import Github
 
+import labyrinth
 from labyrinth.date_helpers import fixup_start_date, fixup_end_date
 from labyrinth.rate_limit_helpers import check_rate_limits
 
@@ -21,7 +22,7 @@ if __name__ == "__main__":
     main()
 
 
-def do_search(query, token, start_date=None, end_date=None, page_size=100):
+def do_search(query, start_date=None, end_date=None, page_size=100):
 
     start_date = fixup_start_date(start_date)
     end_date = fixup_end_date(end_date)
@@ -46,7 +47,7 @@ def do_search(query, token, start_date=None, end_date=None, page_size=100):
 
     if page_size > 100:
         raise ValueError("Github requires page_size <= 100")
-    gh = Github(login_or_token=token, per_page=page_size, retry=2)
+    gh = Github(login_or_token=labyrinth.GH_TOKEN, per_page=page_size, retry=2)
 
     results = []
     for qualifiers in quals:

@@ -9,17 +9,13 @@ import os
 import re
 import argparse
 
+import labyrinth
 from labyrinth.date_helpers import fixup_start_date, fixup_end_date
 
 from labyrinth.dir_helpers import setup_daily_output_dirs, setup_output_dirs
 from labyrinth.search import do_search
 
 # TODO: add logging instead of prints
-
-try:
-    from labyrinth.secrets import GITHUB_TOKEN as token
-except ImportError as e:
-    token = None
 
 
 # cols to generate markdown summary table output
@@ -41,14 +37,14 @@ keep_cols = [
 ]
 
 
-def main(token, query, start_date=None, end_date=None, overwrite=False):
+def main(query, start_date=None, end_date=None, overwrite=False):
     # get rid of url encoded chars
     q_safe = re.sub("\%\d+", "_", query)
     # get rid of anything not alphanumeric
     q_safe = re.sub("\W+", "_", q_safe)
 
     # do queries
-    data = do_search(query, token, start_date, end_date)
+    data = do_search(query, start_date, end_date)
 
     if not len(data):
         print("No results found, exiting", flush=True)
@@ -180,7 +176,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Search Github Repositories for recent changes."
     )
-    parser.add_argument("--gh_token", action="store", type=str, default=token)
+    parser.add_argument("--gh_token", action="store", type=str, default=None)
     parser.add_argument(
         "search_str",
         nargs="+",
@@ -196,9 +192,11 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    gh_token = args.gh_token
+    if args.gh_token is not None:
+        labyrinth.GH_TOKEN = args.gh_token
+
     # search_str will be a list of args even if it's only one
     # so we need to join them together to make it one string
     search_str = " ".join(args.search_str)
 
-    main(gh_token, search_str, args.start_date, args.end_date, args.overwrite)
+    main(search_str, args.start_date, args.end_date, args.overwrite)

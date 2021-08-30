@@ -43,6 +43,8 @@ IDS = [
     "ZSL-[0-9]{4}-[0-9]+",
     # china nvd
     "CNVD[-_]\d[0-9]{4}[-_][0-9]+",
+    # find metasploit code mentioning CNVD IDs
+    "CNVD.?,\s+.?[0-9]{4}-[0-9]+",
     # china nvd
     "CNVD[-_]C[-_][0-9]{4}[-_][0-9]+",
     # china NNVD CNNVD-{YYYY}{MM}-{NNN}
@@ -157,25 +159,28 @@ def id_to_path(id_str):
         m = re.match("(VU)#(\d{2})", id_str)
         if m:
             parts = [m.groups()[0], m.groups()[1], id_str]
+    elif id_str.startswith("CNVD-C"):
+        m = re.match("CNVD-C-(\d+)-(\d+)", id_str)
+        if m:
+            # "CNVD-C-2010-10201801 --> CNVD, 2010, 10, CNVD-C-2010-10201801
+            parts = ["CNVD", m.groups()[0], m.groups()[1][:2], id_str]
     elif id_str.count("-") > 1:
-        parts = id_str.split("-")
-
-        # special handling for CNVD-C-YYYY etc
-        if parts[0] == "CNVD" and "C" in parts:
-            # remove the "C" from parts
-            parts.remove("C")
-
-        parts = parts[:-1]
-        parts.append(id_str)
+        # get the first two chunks
+        m = re.match("([^-]+)-([^-]+)-(.+)", id_str)
+        if m:
+            # "CVE-2010-10201801 --> CVE, 2010, 10, CVE-2010-10201801
+            parts = [m.groups()[0], m.groups()[1], m.groups()[2][:2], id_str]
     elif id_str.count("-") == 1:
         # MS08-067 like
         m = re.match("([a-z]+)(\d+)-(\d+)", id_str, re.IGNORECASE)
         if m:
+            # MS08-067 --> MS, 08, MS08-067
             parts = [m.groups()[0], m.groups()[1], id_str]
         else:
             # BID-10108 like - we just want the first 2 digits to spread the files out
             m = re.match("([a-z]+)-(\d{1,2})", id_str, re.IGNORECASE)
             if m:
+                # BID-10108 --> BID, 10, BID-10108
                 parts = [m.groups()[0], m.groups()[1], id_str]
 
     if parts is None:
@@ -197,3 +202,10 @@ def repo_id_to_path(id_str):
     parts.append(id_str)
 
     return os.path.join(*parts)
+
+
+def oldpath2newpath(oldpath):
+    if "CVE" in oldpath:
+        pattern = re.compile("(CVE-(\d+)-(\d+))")
+        cve_id, year, num = pattern.search(oldpath).groups()
+        return os.path.join("data/vul_id", id_to_path(cve_id))
