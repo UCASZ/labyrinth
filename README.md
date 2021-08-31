@@ -4,4 +4,5 @@
 [![Tag Vul IDs in Commits](https://github.com/CERTCC/labyrinth/actions/workflows/process_commits.yml/badge.svg)](https://github.com/CERTCC/labyrinth/actions/workflows/process_commits.yml)
 
 
-come explore the labyrinth
+"Things are not always what they seem in this place, so you can't take anything for granted."
+- The Worm
