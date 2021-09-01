@@ -134,7 +134,7 @@ jobs:
       - name: add and commit
         uses: ./.github/actions/commit_results
         with:
-          commit_msg: ${{ jobs.update_summaries.name }} for day ${{ steps.date.outputs.yesterday }}
+          commit_msg: ${{ github.job.name }} for day ${{ steps.date.outputs.yesterday }}
 
       - name: summarize today
         uses: ./.github/actions/generate_summaries
@@ -145,7 +145,7 @@ jobs:
       - name: add and commit
         uses: ./.github/actions/commit_results
         with:
-          commit_msg: ${{ jobs.update_summaries.name }} for day ${{ steps.date.outputs.today }}
+          commit_msg: ${{ github.job.name }} for day ${{ steps.date.outputs.today }}
 
       - name: summarize this month
         uses: ./.github/actions/generate_summaries
@@ -156,7 +156,7 @@ jobs:
       - name: add and commit
         uses: ./.github/actions/commit_results
         with:
-          commit_msg: ${{ jobs.update_summaries.name }} for month ${{ steps.date.outputs.this_month }}
+          commit_msg: ${{ github.job.name }} for month ${{ steps.date.outputs.this_month }}
 
       - name: push results
         uses: ./.github/actions/pull_rebase_push_retry
