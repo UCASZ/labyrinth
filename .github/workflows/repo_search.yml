@@ -95,3 +95,68 @@ jobs:
 
       - name: push results
         uses: ./.github/actions/pull_rebase_push_retry
+
+  update_summaries:
+    name: Update Summaries
+    needs: search
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get dates
+        id: date
+        run: |
+          echo "::set-output name=today::$(date +'%Y-%m-%d')"
+          echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
+          echo "::set-output name=this_month::$(date +'%Y-%m')"
+          echo "::set-output name=this_year::$(date +'%Y')"
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.VUL_DRILLER_TOKEN }}
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+
+      - name: git pull
+        run: git pull
+
+      - name: summarize yesterday
+        uses: ./.github/actions/generate_summaries
+        with:
+          ymd_option: '--day'
+          ymd_value: ${{ steps.date.outputs.yesterday }}
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ jobs.update_summaries.name }} for day ${{ steps.date.outputs.yesterday }}
+
+      - name: summarize today
+        uses: ./.github/actions/generate_summaries
+        with:
+          ymd_option: '--day'
+          ymd_value: ${{ steps.date.outputs.today }}
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ jobs.update_summaries.name }} for day ${{ steps.date.outputs.today }}
+
+      - name: summarize this month
+        uses: ./.github/actions/generate_summaries
+        with:
+          ymd_option: '--month'
+          ymd_value: ${{ steps.date.outputs.this_month }}
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          commit_msg: ${{ jobs.update_summaries.name }} for month ${{ steps.date.outputs.this_month }}
+
+      - name: push results
+        uses: ./.github/actions/pull_rebase_push_retry
