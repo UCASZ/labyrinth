@@ -730,7 +730,7 @@
     "temp_clone_token":"",
     "network_count":515,
     "subscribers_count":206,
-    "matched_at":"2021-09-01T00:42:13Z",
+    "matched_at":"2021-09-01T00:42:11Z",
     "owner_login":"offensive-security",
     "owner_id":2352090,
     "owner_node_id":"MDQ6VXNlcjIzNTIwOTA=",
@@ -985,7 +985,7 @@
     "temp_clone_token":"",
     "network_count":91,
     "subscribers_count":28,
-    "matched_at":"2021-09-01T10:34:08Z",
+    "matched_at":"2021-09-01T10:33:34Z",
     "owner_login":"cirosantilli",
     "owner_id":1429315,
     "owner_node_id":"MDQ6VXNlcjE0MjkzMTU=",
@@ -4197,7 +4197,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T08:34:18Z",
+    "matched_at":"2021-09-01T08:34:38Z",
     "owner_login":"ahussam",
     "owner_id":6137238,
     "owner_node_id":"MDQ6VXNlcjYxMzcyMzg=",
@@ -4797,7 +4797,7 @@
     "temp_clone_token":"",
     "network_count":321,
     "subscribers_count":40,
-    "matched_at":"2021-09-01T03:32:40Z",
+    "matched_at":"2021-09-01T03:32:35Z",
     "owner_login":"zhzyker",
     "owner_id":32918050,
     "owner_node_id":"MDQ6VXNlcjMyOTE4MDUw",
@@ -6637,16 +6637,16 @@
     "releases_url":"https:\/\/api.github.com\/repos\/stong\/CVE-2020-15368\/releases{\/id}",
     "deployments_url":"https:\/\/api.github.com\/repos\/stong\/CVE-2020-15368\/deployments",
     "created_at":"2021-06-29T04:38:24Z",
-    "updated_at":"2021-09-01T06:17:41Z",
-    "pushed_at":"2021-09-01T06:17:39Z",
+    "updated_at":"2021-09-02T01:52:04Z",
+    "pushed_at":"2021-09-01T07:56:19Z",
     "git_url":"git:\/\/github.com\/stong\/CVE-2020-15368.git",
     "ssh_url":"git@github.com:stong\/CVE-2020-15368.git",
     "clone_url":"https:\/\/github.com\/stong\/CVE-2020-15368.git",
     "svn_url":"https:\/\/github.com\/stong\/CVE-2020-15368",
     "homepage":"",
-    "size":353,
-    "stargazers_count":279,
-    "watchers_count":279,
+    "size":367,
+    "stargazers_count":280,
+    "watchers_count":280,
     "language":"C++",
     "has_issues":true,
     "has_projects":true,
@@ -6661,7 +6661,7 @@
     "license":null,
     "forks":24,
     "open_issues":0,
-    "watchers":279,
+    "watchers":280,
     "default_branch":"master",
     "permissions":{
       "admin":false,
@@ -6673,7 +6673,7 @@
     "temp_clone_token":"",
     "network_count":24,
     "subscribers_count":5,
-    "matched_at":"2021-09-01T06:35:35Z",
+    "matched_at":"2021-09-02T15:33:53Z",
     "owner_login":"stong",
     "owner_id":14918218,
     "owner_node_id":"MDQ6VXNlcjE0OTE4MjE4",
@@ -6695,9 +6695,10 @@
     "organization":null,
     "matched_list":[
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2020-15368"
     ]
@@ -8284,7 +8285,7 @@
     "temp_clone_token":"",
     "network_count":3,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T10:34:09Z",
+    "matched_at":"2021-09-01T10:33:34Z",
     "owner_login":"cirosantilli",
     "owner_id":1429315,
     "owner_node_id":"MDQ6VXNlcjE0MjkzMTU=",
@@ -8402,7 +8403,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T09:32:17Z",
+    "matched_at":"2021-09-01T09:32:33Z",
     "owner_login":"gaiththewolf",
     "owner_id":4011175,
     "owner_node_id":"MDQ6VXNlcjQwMTExNzU=",
@@ -9110,9 +9111,10 @@
     "organization":null,
     "matched_list":[
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2021-33831"
     ]
@@ -10683,9 +10685,10 @@
     "organization":null,
     "matched_list":[
       "cve-2",
+      "cve-2 OR cve_2",
       "rce"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2021-26084"
     ]
@@ -10912,9 +10915,10 @@
     "organization":null,
     "matched_list":[
       "cve poc",
-      "cve-2"
+      "cve-2",
+      "cve-2 OR cve_2"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2021-26084"
     ]
@@ -11134,9 +11138,10 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "cve-2"
+      "cve-2",
+      "cve-2 OR cve_2"
     ],
-    "matched_count":1,
+    "matched_count":2,
     "vul_ids":[
       "CVE-2021-26084"
     ]
@@ -11337,7 +11342,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2021-09-01T03:32:48Z",
+    "matched_at":"2021-09-01T03:32:35Z",
     "owner_login":"JKme",
     "owner_id":2935865,
     "owner_node_id":"MDQ6VXNlcjI5MzU4NjU=",
@@ -11359,10 +11364,11 @@
     "organization":null,
     "matched_list":[
       "cve-2",
+      "cve-2 OR cve_2",
       "rce",
       "remote code execution"
     ],
-    "matched_count":3,
+    "matched_count":4,
     "vul_ids":[
       "CVE-2021-26084"
     ]
@@ -11921,9 +11927,10 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "cve-2"
+      "cve-2",
+      "cve-2 OR cve_2"
     ],
-    "matched_count":1,
+    "matched_count":2,
     "vul_ids":[
       "CVE-2021-40352"
     ]
@@ -12011,7 +12018,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T08:34:17Z",
+    "matched_at":"2021-09-01T08:34:05Z",
     "owner_login":"r0ckysec",
     "owner_id":44518337,
     "owner_node_id":"MDQ6VXNlcjQ0NTE4MzM3",
@@ -12033,9 +12040,10 @@
     "organization":null,
     "matched_list":[
       "cve-2",
+      "cve-2 OR cve_2",
       "rce"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2021-26084"
     ]
@@ -12256,9 +12264,10 @@
     "organization":null,
     "matched_list":[
       "cve-2",
+      "cve-2 OR cve_2",
       "rce"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2021-26084"
     ]
@@ -12568,7 +12577,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T10:33:52Z",
+    "matched_at":"2021-09-01T10:33:38Z",
     "owner_login":"FanqXu",
     "owner_id":40891670,
     "owner_node_id":"MDQ6VXNlcjQwODkxNjcw",
@@ -13088,31 +13097,31 @@
     "releases_url":"https:\/\/api.github.com\/repos\/mstxq17\/CVE-2021-1675_RDL_LPE\/releases{\/id}",
     "deployments_url":"https:\/\/api.github.com\/repos\/mstxq17\/CVE-2021-1675_RDL_LPE\/deployments",
     "created_at":"2021-09-01T11:25:04Z",
-    "updated_at":"2021-09-01T11:25:25Z",
+    "updated_at":"2021-09-02T14:46:01Z",
     "pushed_at":"2021-09-01T11:25:22Z",
     "git_url":"git:\/\/github.com\/mstxq17\/CVE-2021-1675_RDL_LPE.git",
     "ssh_url":"git@github.com:mstxq17\/CVE-2021-1675_RDL_LPE.git",
     "clone_url":"https:\/\/github.com\/mstxq17\/CVE-2021-1675_RDL_LPE.git",
     "svn_url":"https:\/\/github.com\/mstxq17\/CVE-2021-1675_RDL_LPE",
     "homepage":null,
-    "size":0,
-    "stargazers_count":0,
-    "watchers_count":0,
+    "size":506,
+    "stargazers_count":48,
+    "watchers_count":48,
     "language":null,
     "has_issues":true,
     "has_projects":true,
     "has_downloads":true,
     "has_wiki":true,
     "has_pages":false,
-    "forks_count":0,
+    "forks_count":5,
     "mirror_url":null,
     "archived":false,
     "disabled":false,
     "open_issues_count":0,
     "license":null,
-    "forks":0,
+    "forks":5,
     "open_issues":0,
-    "watchers":0,
+    "watchers":48,
     "default_branch":"main",
     "permissions":{
       "admin":false,
@@ -13122,9 +13131,9 @@
       "pull":false
     },
     "temp_clone_token":"",
-    "network_count":0,
-    "subscribers_count":1,
-    "matched_at":"2021-09-01T11:30:05Z",
+    "network_count":5,
+    "subscribers_count":5,
+    "matched_at":"2021-09-02T15:33:54Z",
     "owner_login":"mstxq17",
     "owner_id":29624427,
     "owner_node_id":"MDQ6VXNlcjI5NjI0NDI3",
@@ -13145,9 +13154,10 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "cve-2"
+      "cve-2",
+      "cve-2 OR cve_2"
     ],
-    "matched_count":1,
+    "matched_count":2,
     "vul_ids":[
       "CVE-2021-1675"
     ]
@@ -13463,7 +13473,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T12:38:27Z",
+    "matched_at":"2021-09-01T12:38:34Z",
     "owner_login":"Vulnmachines",
     "owner_id":79006904,
     "owner_node_id":"MDQ6VXNlcjc5MDA2OTA0",
@@ -13597,9 +13607,10 @@
     "organization":null,
     "matched_list":[
       "cve-2",
+      "cve-2 OR cve_2",
       "remote code execution"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2021-26084"
     ]
@@ -13708,9 +13719,10 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "cve-2"
+      "cve-2",
+      "cve-2 OR cve_2"
     ],
-    "matched_count":1,
+    "matched_count":2,
     "vul_ids":[
       "CVE-2021-26084"
     ]
@@ -13820,10 +13832,11 @@
     "organization":null,
     "matched_list":[
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "remote code execution"
     ],
-    "matched_count":3,
+    "matched_count":4,
     "vul_ids":[
       "CVE-2012-4869"
     ]
@@ -14133,7 +14146,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T15:34:08Z",
+    "matched_at":"2021-09-01T15:33:52Z",
     "owner_login":"taythebot",
     "owner_id":60461479,
     "owner_node_id":"MDQ6VXNlcjYwNDYxNDc5",
@@ -14155,9 +14168,10 @@
     "organization":null,
     "matched_list":[
       "cve-2",
+      "cve-2 OR cve_2",
       "rce"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2021-26084"
     ]
@@ -14431,14 +14445,14 @@
     "releases_url":"https:\/\/api.github.com\/repos\/mrlihd\/CVE-2020-7471\/releases{\/id}",
     "deployments_url":"https:\/\/api.github.com\/repos\/mrlihd\/CVE-2020-7471\/deployments",
     "created_at":"2021-09-01T16:05:56Z",
-    "updated_at":"2021-09-01T16:31:31Z",
-    "pushed_at":"2021-09-01T16:31:28Z",
+    "updated_at":"2021-09-01T16:45:21Z",
+    "pushed_at":"2021-09-01T16:45:18Z",
     "git_url":"git:\/\/github.com\/mrlihd\/CVE-2020-7471.git",
     "ssh_url":"git@github.com:mrlihd\/CVE-2020-7471.git",
     "clone_url":"https:\/\/github.com\/mrlihd\/CVE-2020-7471.git",
     "svn_url":"https:\/\/github.com\/mrlihd\/CVE-2020-7471",
     "homepage":null,
-    "size":0,
+    "size":17,
     "stargazers_count":0,
     "watchers_count":0,
     "language":"Python",
@@ -14467,7 +14481,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T16:38:52Z",
+    "matched_at":"2021-09-02T15:33:56Z",
     "owner_login":"mrlihd",
     "owner_id":77404450,
     "owner_node_id":"MDQ6VXNlcjc3NDA0NDUw",
@@ -14488,9 +14502,10 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "cve-2"
+      "cve-2",
+      "cve-2 OR cve_2"
     ],
-    "matched_count":1,
+    "matched_count":2,
     "vul_ids":[
       "CVE-2020-7471"
     ]
@@ -14828,9 +14843,10 @@
     "organization":null,
     "matched_list":[
       "cve poc",
-      "cve-2"
+      "cve-2",
+      "cve-2 OR cve_2"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2021-26084"
     ]
@@ -15052,10 +15068,11 @@
     "matched_list":[
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "vulnerability poc"
     ],
-    "matched_count":4,
+    "matched_count":5,
     "vul_ids":[
       "CVE-2021-36928",
       "CVE-2021-36931"
@@ -15167,9 +15184,10 @@
     "matched_list":[
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit"
     ],
-    "matched_count":3,
+    "matched_count":4,
     "vul_ids":[
       "CVE-2021-31989"
     ]
@@ -15257,7 +15275,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:04Z",
+    "matched_at":"2021-09-01T17:35:34Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -15281,10 +15299,11 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "vulnerability poc"
     ],
-    "matched_count":5,
+    "matched_count":6,
     "vul_ids":[
       "CVE-2021-33015"
     ]
@@ -15343,7 +15362,7 @@
     "clone_url":"https:\/\/github.com\/AlAIAL90\/CVE-2013-7423.git",
     "svn_url":"https:\/\/github.com\/AlAIAL90\/CVE-2013-7423",
     "homepage":null,
-    "size":0,
+    "size":1935,
     "stargazers_count":0,
     "watchers_count":0,
     "language":"Shell",
@@ -15372,7 +15391,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:23Z",
+    "matched_at":"2021-09-02T15:33:55Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -15396,9 +15415,10 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit"
     ],
-    "matched_count":4,
+    "matched_count":5,
     "vul_ids":[
       "CVE-2013-7423"
     ]
@@ -15510,9 +15530,10 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit"
     ],
-    "matched_count":4,
+    "matched_count":5,
     "vul_ids":[
       "CVE-2015-7547"
     ]
@@ -15600,7 +15621,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:14Z",
+    "matched_at":"2021-09-01T17:35:24Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -15624,9 +15645,10 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit"
     ],
-    "matched_count":4,
+    "matched_count":5,
     "vul_ids":[
       "CVE-2016-1234"
     ]
@@ -15714,7 +15736,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:14Z",
+    "matched_at":"2021-09-01T17:35:24Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -15738,9 +15760,10 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit"
     ],
-    "matched_count":4,
+    "matched_count":5,
     "vul_ids":[
       "CVE-2013-1914"
     ]
@@ -15828,7 +15851,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:24Z",
+    "matched_at":"2021-09-01T17:35:14Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -15852,10 +15875,11 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow"
     ],
-    "matched_count":5,
+    "matched_count":6,
     "vul_ids":[
       "CVE-2015-0235"
     ]
@@ -15943,7 +15967,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:35Z",
+    "matched_at":"2021-09-01T17:35:05Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -15966,9 +15990,10 @@
     "matched_list":[
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit"
     ],
-    "matched_count":3,
+    "matched_count":4,
     "vul_ids":[
       "CVE-2021-0114"
     ]
@@ -16080,13 +16105,14 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "rce",
       "rce poc",
       "remote code execution",
       "vulnerability poc"
     ],
-    "matched_count":8,
+    "matched_count":9,
     "vul_ids":[
       "CVE-2020-19822"
     ]
@@ -16174,7 +16200,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:24Z",
+    "matched_at":"2021-09-02T15:33:57Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -16198,10 +16224,11 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "vulnerability poc"
     ],
-    "matched_count":5,
+    "matched_count":6,
     "vul_ids":[
       "CVE-2021-32995"
     ]
@@ -16260,7 +16287,7 @@
     "clone_url":"https:\/\/github.com\/AlAIAL90\/CVE-2021-39159.git",
     "svn_url":"https:\/\/github.com\/AlAIAL90\/CVE-2021-39159",
     "homepage":null,
-    "size":0,
+    "size":1935,
     "stargazers_count":0,
     "watchers_count":0,
     "language":"Shell",
@@ -16289,7 +16316,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:36Z",
+    "matched_at":"2021-09-02T15:33:57Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -16312,11 +16339,12 @@
     "matched_list":[
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "remote code execution",
       "vulnerability poc"
     ],
-    "matched_count":5,
+    "matched_count":6,
     "vul_ids":[
       "CVE-2021-39159"
     ]
@@ -16404,7 +16432,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:36Z",
+    "matched_at":"2021-09-01T17:35:19Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -16427,10 +16455,11 @@
     "matched_list":[
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "vulnerability poc"
     ],
-    "matched_count":4,
+    "matched_count":5,
     "vul_ids":[
       "CVE-2010-2632",
       "CVE-2010-4756"
@@ -16519,7 +16548,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:16Z",
+    "matched_at":"2021-09-01T17:35:06Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -16543,11 +16572,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21834"
     ]
@@ -16635,7 +16665,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:20Z",
+    "matched_at":"2021-09-01T17:35:16Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -16659,11 +16689,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21836"
     ]
@@ -16722,7 +16753,7 @@
     "clone_url":"https:\/\/github.com\/AlAIAL90\/CVE-2021-21840.git",
     "svn_url":"https:\/\/github.com\/AlAIAL90\/CVE-2021-21840",
     "homepage":null,
-    "size":0,
+    "size":1935,
     "stargazers_count":0,
     "watchers_count":0,
     "language":"Shell",
@@ -16751,7 +16782,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:16Z",
+    "matched_at":"2021-09-02T15:33:58Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -16775,11 +16806,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21840"
     ]
@@ -16867,7 +16899,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:06Z",
+    "matched_at":"2021-09-01T17:35:20Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -16891,11 +16923,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21841"
     ]
@@ -16983,7 +17016,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:17Z",
+    "matched_at":"2021-09-01T17:35:25Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -17007,11 +17040,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21842"
     ]
@@ -17123,11 +17157,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21848"
     ]
@@ -17239,11 +17274,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21849"
     ]
@@ -17355,11 +17391,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21850"
     ]
@@ -17447,7 +17484,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:38Z",
+    "matched_at":"2021-09-01T17:35:07Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -17471,11 +17508,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21837"
     ]
@@ -17563,7 +17601,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:17Z",
+    "matched_at":"2021-09-01T17:35:07Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -17587,11 +17625,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21838"
     ]
@@ -17650,7 +17689,7 @@
     "clone_url":"https:\/\/github.com\/AlAIAL90\/CVE-2021-21839.git",
     "svn_url":"https:\/\/github.com\/AlAIAL90\/CVE-2021-21839",
     "homepage":null,
-    "size":0,
+    "size":1935,
     "stargazers_count":0,
     "watchers_count":0,
     "language":"Shell",
@@ -17679,7 +17718,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:38Z",
+    "matched_at":"2021-09-02T15:33:59Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -17703,11 +17742,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21839"
     ]
@@ -17795,7 +17835,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:18Z",
+    "matched_at":"2021-09-01T17:35:07Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -17819,11 +17859,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21843"
     ]
@@ -17911,7 +17952,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:18Z",
+    "matched_at":"2021-09-01T17:35:22Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -17935,11 +17976,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21844"
     ]
@@ -17998,7 +18040,7 @@
     "clone_url":"https:\/\/github.com\/AlAIAL90\/CVE-2021-21845.git",
     "svn_url":"https:\/\/github.com\/AlAIAL90\/CVE-2021-21845",
     "homepage":null,
-    "size":0,
+    "size":1935,
     "stargazers_count":0,
     "watchers_count":0,
     "language":"Shell",
@@ -18027,7 +18069,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:18Z",
+    "matched_at":"2021-09-02T15:34:00Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -18051,11 +18093,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21845"
     ]
@@ -18167,11 +18210,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21846"
     ]
@@ -18259,7 +18303,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:18Z",
+    "matched_at":"2021-09-01T17:35:19Z",
     "owner_login":"AlAIAL90",
     "owner_id":86665563,
     "owner_node_id":"MDQ6VXNlcjg2NjY1NTYz",
@@ -18283,11 +18327,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21847"
     ]
@@ -18399,11 +18444,12 @@
       "attack poc",
       "cve poc",
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit",
       "heap overflow",
       "vulnerability poc"
     ],
-    "matched_count":6,
+    "matched_count":7,
     "vul_ids":[
       "CVE-2021-21853"
     ]
@@ -18462,7 +18508,7 @@
     "clone_url":"https:\/\/github.com\/mrlihd\/CVE-2021-35042.git",
     "svn_url":"https:\/\/github.com\/mrlihd\/CVE-2021-35042",
     "homepage":null,
-    "size":0,
+    "size":5,
     "stargazers_count":0,
     "watchers_count":0,
     "language":"Python",
@@ -18491,7 +18537,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T17:35:08Z",
+    "matched_at":"2021-09-02T15:34:01Z",
     "owner_login":"mrlihd",
     "owner_id":77404450,
     "owner_node_id":"MDQ6VXNlcjc3NDA0NDUw",
@@ -18512,9 +18558,10 @@
     "owner_site_admin":false,
     "organization":null,
     "matched_list":[
-      "cve-2"
+      "cve-2",
+      "cve-2 OR cve_2"
     ],
-    "matched_count":1,
+    "matched_count":2,
     "vul_ids":[
       "CVE-2021-35042"
     ]
@@ -18602,7 +18649,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T18:35:50Z",
+    "matched_at":"2021-09-01T18:35:11Z",
     "owner_login":"fu2x2000",
     "owner_id":34998869,
     "owner_node_id":"MDQ6VXNlcjM0OTk4ODY5",
@@ -18624,9 +18671,10 @@
     "organization":null,
     "matched_list":[
       "cve-2",
+      "cve-2 OR cve_2",
       "exploit"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2017-7529"
     ]
@@ -19047,7 +19095,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2021-09-01T23:32:23Z",
+    "matched_at":"2021-09-01T23:32:16Z",
     "owner_login":"darrenmartyn",
     "owner_id":49643587,
     "owner_node_id":"MDQ6VXNlcjQ5NjQzNTg3",
