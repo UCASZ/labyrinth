@@ -48,7 +48,7 @@ jobs:
          # 2267
          - rce 
          # 4626
-         - cve-2
+         - cve-2 OR cve_2
          # 18176
          - exploit
 #          # 2944
