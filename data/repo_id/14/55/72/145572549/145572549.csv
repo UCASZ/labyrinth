@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+145572549,C0dak/linux-exploit,CVE-2017-5753/README.md,0735d41a104826b82209db3e883c2d509d57f57f,CVE-2017-5753
+145572549,C0dak/linux-exploit,CVE-2018-3639/README.md,09697e45ea4c8e6dc406ed4b5dee7b7d5c8d2001,CVE-2018-3639
+145572549,C0dak/linux-exploit,CVE-2017-5753/poc.c,19784fa0a4389f026f71a89d361b37181fe117b6,CVE-2017-5753
+145572549,C0dak/linux-exploit,CVE-2018-3639/poc_non_root.c,1ae181c6116baa10747138e789fabc2a2c790a58,CVE-2018-3639
+145572549,C0dak/linux-exploit,exploit-remaining-spectre-gadget/README.md,2f3330ee9e51fb6269356d856d5ba48c82bfb743,CVE-2010-3437
+145572549,C0dak/linux-exploit,exploit-remaining-spectre-gadget/README.md,2f3330ee9e51fb6269356d856d5ba48c82bfb743,CVE-2013-2094
+145572549,C0dak/linux-exploit,exploit-remaining-spectre-gadget/README.md,2f3330ee9e51fb6269356d856d5ba48c82bfb743,CVE-2018-8087
+145572549,C0dak/linux-exploit,exploit-remaining-spectre-gadget/leak_perf_swevent.c,40845e55063bd7c53186091dc2f4ebf801b801da,CVE-2013-2094
+145572549,C0dak/linux-exploit,README.md,617360811e99a4768fba0f3c80263def07557bc8,CVE-2017-5753
+145572549,C0dak/linux-exploit,README.md,617360811e99a4768fba0f3c80263def07557bc8,CVE-2018-3639
+145572549,C0dak/linux-exploit,exploit-remaining-spectre-gadget/leak_pkt_devs.c,6ae526d7cb905f6092fa58ab87ac079f4bbb0bd3,CVE-2010-3437
+145572549,C0dak/linux-exploit,exploit-remaining-spectre-gadget/leak_mac_hwsim.c,f50d9d9dbb3834ac1809f091aff6bef03cd9c716,CVE-2018-8087
