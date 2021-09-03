@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+166197764,fabianHAW/exploit_analyzer,test/test_exploit_analyzer.py,1295f3c19d6ac1bcd7e0eefdfc21988ea50635cf,CVE-1234-5678
+166197764,fabianHAW/exploit_analyzer,test/test_exploit_analyzer.py,1295f3c19d6ac1bcd7e0eefdfc21988ea50635cf,CVE-1234-56789
+166197764,fabianHAW/exploit_analyzer,test/conftest.py,1ed9910bed98522f96e2505233191f189f190496,CVE-1234-5678
+166197764,fabianHAW/exploit_analyzer,test/conftest.py,1ed9910bed98522f96e2505233191f189f190496,CVE-9876-5432
+166197764,fabianHAW/exploit_analyzer,test/test_utils.py,87bac178e1b61a0117c257575b7264d8846bd46e,CVE-1234-5678
+166197764,fabianHAW/exploit_analyzer,test/test_utils.py,87bac178e1b61a0117c257575b7264d8846bd46e,CVE-9876-5432
+166197764,fabianHAW/exploit_analyzer,test/data/comments/comment_analyze.py,a77b0a76679ecd375dce12bf8cc6adfee4954394,CVE-1234-56789
+166197764,fabianHAW/exploit_analyzer,test/data/code/code_analyze.py,f7e19a94549fa15d97b405fa817ca637e45cbb8a,CVE-1234-5678
