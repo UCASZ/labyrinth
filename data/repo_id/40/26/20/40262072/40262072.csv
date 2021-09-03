@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+40262072,EmpireProject/Empire,data/module_source/exploitation/Exploit-EternalBlue.ps1,1c2786608e6f8b620b8436c85b8d55a32929ac54,MS17-010
+40262072,EmpireProject/Empire,data/module_source/privesc/Invoke-MS16135.ps1,437ff649bd83dc374c96247e818427f8f09b4ca1,CVE-2016-7255
+40262072,EmpireProject/Empire,data/module_source/privesc/Invoke-MS16135.ps1,437ff649bd83dc374c96247e818427f8f09b4ca1,MS16-135
+40262072,EmpireProject/Empire,lib/modules/powershell/privesc/ms16-032.py,4e5d5a1e1a34a7caa61f07f3e9f015c8a04ee867,MS16-032
+40262072,EmpireProject/Empire,changelog,5cae4dc8b8d1125bc665c8aaa26ddf076a5eb029,MS16-032
+40262072,EmpireProject/Empire,changelog,5cae4dc8b8d1125bc665c8aaa26ddf076a5eb029,MS16-135
+40262072,EmpireProject/Empire,data/module_source/privesc/Invoke-MS16032.ps1,c4c1b4d1b0702369c8c81256a84dfd1ef94b2e9f,MS16-032
+40262072,EmpireProject/Empire,lib/modules/powershell/privesc/ms16-135.py,ca66a27d5d9515b84630da8af13397fefafc3cd5,CVE-2016-7255
+40262072,EmpireProject/Empire,lib/modules/powershell/privesc/ms16-135.py,ca66a27d5d9515b84630da8af13397fefafc3cd5,MS16-135
+40262072,EmpireProject/Empire,lib/modules/powershell/exploitation/exploit_eternalblue.py,d57536f892b0629f0ed9d8cb4e7901553a1b4449,MS17-010
