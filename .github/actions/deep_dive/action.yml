@@ -1,0 +1,23 @@
+name: 'Deep Dive'
+description: 'Does a deep dive on a set of repositories'
+inputs:
+  in_dir:
+    description: "The dir to look in"
+    required: true
+    default: "results"
+  mod:
+    description: "The chunk (0-99) to dive into"
+    required: true
+    default: 0
+  token:
+    description: "a github token"
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - name: do_deep_dive
+      run: repo_deep_dive --verbose --mod ${{ inputs.mod }} --results_dir ${{ inputs.results_dir }}
+      shell: bash
+      env:
+        GH_TOKEN: ${{ inputs.token }}
