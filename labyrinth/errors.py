@@ -32,3 +32,7 @@ class LabyrinthRateLimitError(LabyrinthError):
 
 class LabyrinthSearchError(LabyrinthError):
     pass
+
+
+class LabyrinthRepoProcessorError(LabyrinthError):
+    pass

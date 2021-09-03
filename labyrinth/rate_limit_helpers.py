@@ -7,6 +7,9 @@ created_at: 8/12/21 12:54 PM
 import datetime
 import time
 import random
+import logging
+
+logger = logging.getLogger(__name__)
 
 NAP_LIMIT = 50
 
@@ -24,7 +27,7 @@ def _rl_pause(rlkey, rl, threshold=10):
     """
     remaining = rl.remaining
     if remaining < (5 * threshold):
-        print(f"Rate limit {rlkey} has {remaining} remaining", flush=True)
+        logger.info(f"Rate limit {rlkey} has {remaining} remaining")
 
     if remaining > threshold:
         return
@@ -48,9 +51,8 @@ def _rl_pause(rlkey, rl, threshold=10):
     # add some jitter up to a minute
     nap_seconds += random.random() * min(60, nap_seconds / 2)
 
-    print(
-        f"Pausing for {nap_seconds:.1f} to wait for {rlkey} rate limit to catch up ({remaining})",
-        flush=True,
+    logger.info(
+        f"Pausing for {nap_seconds:.1f} to wait for {rlkey} rate limit to catch up ({remaining})"
     )
     time.sleep(nap_seconds)
     return True

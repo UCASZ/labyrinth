@@ -22,29 +22,29 @@ IDS = [
     "securityfocus\.com/bid/\d+",
     # find metasploit code mentioning BIDs
     "BID.?,\s+.?[0-9]+",
-    "OSVDB-\d+",
+    "OSVDB[-_]\d+",
     # find metasploit code mentioning OSVDBIDs
     "OSVDB.?,\s+.?[0-9]+",
     # find VU# by urls
     "kb\.cert\.org/vuls/id/\d+",
     # ICSA
-    "ICSA-[0-9]{2}-[0-9]+-[0-9]+[A-Z]",
+    "ICSA[-_]0-9]{2}[-_][0-9]+[-_][0-9]+[A-Z]",
     # UVI https://github.com/cloudsecurityalliance/uvi-database
-    "UVI-[0-9]{4}-[0-9]+",
+    "UVI[-_][0-9]{4}[-_][0-9]+",
     # microsoft
-    "MS[0-9]{2}-[0-9]+",
+    "MS[0-9]{2}[-_][0-9]+",
     # zero day inititative (two ID formats)
-    "ZDI-CAN-[0-9]+",
-    "ZDI-[0-9]{2}-[0-9]+",
+    "ZDI[-_]CAN[-_][0-9]+",
+    "ZDI[-_][0-9]{2}[-_][0-9]+",
     # Google Project Zero
     "bugs\.chromium\.org/p/project-zero/issues/detail\?id=\d+",
     "code.google.com/p/google-security-research/issues/detail\?id=\d+",
     # Zero Science Lab
-    "ZSL-[0-9]{4}-[0-9]+",
+    "ZSL[-_][0-9]{4}[-_][0-9]+",
     # china nvd
     "CNVD[-_]\d[0-9]{4}[-_][0-9]+",
     # find metasploit code mentioning CNVD IDs
-    "CNVD.?,\s+.?[0-9]{4}-[0-9]+",
+    "CNVD.?,\s+.?[0-9]{4}[-_][0-9]+",
     # china nvd
     "CNVD[-_]C[-_][0-9]{4}[-_][0-9]+",
     # china NNVD CNNVD-{YYYY}{MM}-{NNN}
@@ -135,16 +135,16 @@ def normalize(id_str):
         if m:
             return f"GPZ-{m.groups()[0]}"
     elif id_str.startswith("CNVD"):
-        m = re.search("CNVD\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+        m = re.match("CNVD\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
         if m:
             return f"CNVD-{m.groups()[0]}-{m.groups()[1]}"
         # candidates?
-        m = re.search("CNVD[^C]+C\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+        m = re.match("CNVD[^C]+C\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
         if m:
             return f"CNVD-C-{m.groups()[0]}-{m.groups()[1]}"
 
     elif id_str.startswith("CNNVD"):
-        m = re.search("CNNVD\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+        m = re.match("CNNVD\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
         if m:
             return f"CNNVD-{m.groups()[0]}-{m.groups()[1]}"
 
