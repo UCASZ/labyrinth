@@ -88,7 +88,8 @@ def process_row(row):
     df = pd.DataFrame()
 
     for key, ignorelist in IGNORE_REPOS.items():
-        if row[key].lower() in ignorelist:
+
+        if str(row[key]).lower() in ignorelist:
             return pd.DataFrame()
 
     repo_path = os.path.join(REPO_ID_RESULTS_HOME, repo_id_to_path(repo_id))
