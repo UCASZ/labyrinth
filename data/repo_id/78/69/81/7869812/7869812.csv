@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+7869812,CERT-Polska/hsn2-swf-cve,src/main/assembly/hsn2.xml,0632429499f24255531debe4347516e5c65f0f96,CVE-2007-0071
+7869812,CERT-Polska/hsn2-swf-cve,src/main/assembly/hsn2.xml,0632429499f24255531debe4347516e5c65f0f96,CVE-2009-1869
+7869812,CERT-Polska/hsn2-swf-cve,pom.xml,23808690661ad9f9a99d904ebdea6fff5bcc0afb,CVE-2007-0071
+7869812,CERT-Polska/hsn2-swf-cve,pom.xml,23808690661ad9f9a99d904ebdea6fff5bcc0afb,CVE-2009-1869
+7869812,CERT-Polska/hsn2-swf-cve,src/test/java/pl/nask/hsn2/service/SwfServiceTest.java,7ee774cbedff24e2bfd9efd71b712b5b6f846269,CVE-2007-0071
+7869812,CERT-Polska/hsn2-swf-cve,src/test/java/pl/nask/hsn2/service/SwfServiceTest.java,7ee774cbedff24e2bfd9efd71b712b5b6f846269,CVE-2009-1869
+7869812,CERT-Polska/hsn2-swf-cve,src/test/resources/maliciousCVE_2009_1869.swf,c1da351e009d47e471583c98fbcb7a49ed678d7c,CVE-2009-1869
+7869812,CERT-Polska/hsn2-swf-cve,src/test/resources/maliciousCVE_2007_0071.swf,e339881ec154cab50762c907630f2b69b0caab42,CVE-2007-0071
