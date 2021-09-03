@@ -27,7 +27,10 @@ def process_file(fpath, workdir="/"):
     try:
         with open(fpath, "r", encoding="ISO-8859-1") as fp:
 
-            filematches = []
+            # start with the path to find matches
+            filematches = find_vul_ids(relpath)
+
+            # look in the file for more
             for line in fp.readlines():
                 linematches = find_vul_ids(line.strip())
                 filematches.extend(linematches)

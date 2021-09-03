@@ -165,6 +165,7 @@ def scan_repos(mod, top_dir):
     summary_files = glob.glob(glob_pattern, recursive=True)
 
     df = pd.DataFrame()
+    logger.info(f"Reading {len(summary_files)} search result summaries")
     # read in the files one at a time
     for f in summary_files:
         logger.debug(f"Reading results from {f}")
@@ -174,7 +175,9 @@ def scan_repos(mod, top_dir):
         _df = _df[mods == mod]
         # append them onto our collection
         df = pd.concat((df, _df)).drop_duplicates(subset=["id"])
-        logger.info(f"Found {len(df)} results so far")
+        logger.debug(f"Found {len(df)} results so far")
+
+    logger.info(f"Found {len(df)} search results to process")
 
     # start small, get bigger
     df = df.sort_values(by="size", ascending=True)
