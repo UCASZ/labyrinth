@@ -1,0 +1,211 @@
+repo_id,repo_full_name,file,file_sha1,match
+84555634,scipag/AttackToolKit,plugins/Kerio MailServer prior 6.0.1 buffer overflow smtp check.plugin,008a59845051b275e397a6a9cb3aeacc800a921e,BID-10936
+84555634,scipag/AttackToolKit,plugins/Ipswitch WS_FTP Server prior 4.0.0 ALLO handler buffer overflow.plugin,0272137eadd748ccc68e482dbf93760a483d4611,BID-9953
+84555634,scipag/AttackToolKit,plugins/ICECast AVLlib prior 1.3.12 trailing characters denial of service exploit.plugin,056582b10850920e0eedba3a93d3f0cb0c22b04e,BID-2933
+84555634,scipag/AttackToolKit,plugins/Blog Torrent btdownload.php directory traversal.plugin,0631137ecf57749217f2c001fa0c19ed3e87b137,BID-11795
+84555634,scipag/AttackToolKit,plugins/Cisco 675 router without password.plugin,067f6a68b7bfb7a0940c2e6795074bcd3595cb11,CVE-1999-0889
+84555634,scipag/AttackToolKit,plugins/WebMatic prior 1.9 unknown vulnerability.plugin,087e6b166e1fccb4e0b825d21585d0f035401c55,BID-11045
+84555634,scipag/AttackToolKit,plugins/Apache prior 1.3.26 chunked-encoding memory corruption.plugin,09059ca90bfe3dc65aa72c45b0cdf7b8806f4eaa,CVE-2002-0392
+84555634,scipag/AttackToolKit,plugins/Apache prior 1.3.26 chunked-encoding memory corruption.plugin,09059ca90bfe3dc65aa72c45b0cdf7b8806f4eaa,BID-5033
+84555634,scipag/AttackToolKit,plugins/Cisco VPN Concentrator 3000 prior 3.5.4 extended enumeration.plugin,0a172b73d32ced4341c8b35d74adb653522da065,BID-5624
+84555634,scipag/AttackToolKit,plugins/Stalker Internet Mail Server 1.6 buffer overflow.plugin,0a3261147db2c9cde12c56ae1e62f0948befcf9a,BID-62
+84555634,scipag/AttackToolKit,plugins/Post-Nuke pnTresMailer codebrowserpntm.php directory traversal.plugin,0b45b2105f0aaeccbb4e2c870633a3495d6c3aa2,BID-11767
+84555634,scipag/AttackToolKit,plugins/w-Agora multiple input validation vulnerabilities.plugin,0c36b5b259a262978df400891b48a4be861c2634,BID-11283
+84555634,scipag/AttackToolKit,plugins/HTTP index.html check.plugin,0d815513f9027a00cc5b16cf0b95ade343db9e7d,CVE-1999-0633
+84555634,scipag/AttackToolKit,plugins/PHP-CSL 0.8 index_php cat_select Cross Site Scripting.plugin,11a42ec04814fb854377ca2cb517db16c49c8bea,BID-11038
+84555634,scipag/AttackToolKit,plugins/phpMyAdmin prior 2.5.2 db_details_importdocsql.php directory traversal.plugin,12ff16603fb91c2e3afbd2ec78b6f66632d20bad,BID-7962
+84555634,scipag/AttackToolKit,plugins/Microsoft FTP Service 5_1 detection.plugin,141e86e6ad1a77099efd06f8f4a1ab24722fd981,CVE-1999-0614
+84555634,scipag/AttackToolKit,plugins/phpMyFAQ action parameter arbitrary file disclosure.plugin,16190b0fbb3dbaa6740312a4d276fc10ca81f821,BID-10374
+84555634,scipag/AttackToolKit,plugins/Symantec Raptor Firewall 6.5 weak ISN detection.plugin,16498ac8ec0b58ea4d772759c0313902b694f27b,BID-5387
+84555634,scipag/AttackToolKit,plugins/MailEnable prior 1.5.1 unspecified vulnerability.plugin,195038604a14f055b5a83f9b6d8d32d0b5a32066,BID-11578
+84555634,scipag/AttackToolKit,plugins/Password Protect SQL injection.plugin,1cd41b858b8c45a21dc1bab3e2f1aaf0473a7691,BID-11073
+84555634,scipag/AttackToolKit,plugins/Keene Digital Media Server prior 1.0.3 dlasx.kspx Cross Site Scripting.plugin,1dd2030d98aa293a2a6e306847e78b58cf618696,BID-11111
+84555634,scipag/AttackToolKit,plugins/Courier IMAP up to 3.0.0 buffer overflow.plugin,1f4948c638ed292af4443072bf9635607a1cc2a7,BID-9845
+84555634,scipag/AttackToolKit,plugins/Citrix NFuse prior 1.6 launch.asp getLastError Cross Site Scripting.plugin,208e7a47de7c242893fc2daa65c800c526f1a706,BID-4372
+84555634,scipag/AttackToolKit,plugins/Macintosh OS X FTP server detection.plugin,210b154adb3a22e93397a3af0838bed9fe3df333,CVE-1999-0614
+84555634,scipag/AttackToolKit,plugins/vHost up to 3.1.0r1 cross site scripting.plugin,2304eb8e22f71f9361234622f23d39c0224e1470,BID-9860
+84555634,scipag/AttackToolKit,plugins/Turbo Seek prior 1.7.2 tseekdir_cgi directory traversal.plugin,23ebe6e90e398cbe5c209cf57560afc0f58103c0,BID-11163
+84555634,scipag/AttackToolKit,plugins/rsync prior 2.6.3 path sanitation vulnerability.plugin,261a75ee9f588d482c3165aab765f65e1ca91edb,BID-10938
+84555634,scipag/AttackToolKit,plugins/Sun Solaris 5_6 FTP server detection.plugin,271240efa4bb1079913affadf6632c0bd0fb2299,CVE-1999-0614
+84555634,scipag/AttackToolKit,plugins/SapparoWorks BlackJumboDog FTP server multiple command buffer overflow.plugin,274e70534e0c81adddde36007c756f2204eeb0b2,BID-10834
+84555634,scipag/AttackToolKit,plugins/Squid proxy up to 2.5 NTLM authentication ntlm_fetch_string Denial of Service.plugin,2781ec84cf27d234583f0f3419090dacb1898161,BID-10500
+84555634,scipag/AttackToolKit,plugins/HTTP version 1.1 detection.plugin,28cf8a863b3a526565fd4360e0316c23cf253a49,CVE-1999-0633
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.50 mod_ssl Denial of Service.plugin,2990c8e8ec68f8521de8fbc1d5c6e03cfcef9f21,BID-9826
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.47 SSLCipherSuite weak CipherSuite renegotiation.plugin,2b5cf04610a76cf7f086d4fc25947038e34ff577,BID-8134
+84555634,scipag/AttackToolKit,plugins/BEA WebLogic prior 8.1 multiple vulnerabilities.plugin,2c7c5a835a8980e997d151ae9724dc812b15777d,BID-11168
+84555634,scipag/AttackToolKit,plugins/Mercur Mailserver 3.2 multiple buffer overflows.plugin,2c7e6e4b620ea24d5e35b5a90b430d68305dbcdf,BID-1051
+84555634,scipag/AttackToolKit,plugins/Cerbere HTTP Proxy prior 1.2 HTTP Host field Denial of Service.plugin,2cde2db482ce1e4d0275ff4fd1515882966a5292,BID-11085
+84555634,scipag/AttackToolKit,plugins/Cisco Secure ACS Management Login Overflow.plugin,2d7b59688880f25fb5f2831c7990f2720068be46,BID-7413
+84555634,scipag/AttackToolKit,plugins/Cherokee prior 0.4.8 error page cross site scripting.plugin,2ecef9c758521efcf6848997a431535b5913c672,BID-9496
+84555634,scipag/AttackToolKit,plugins/Apache 2.x HTTPS mod_php hijacking.plugin,32678d7d338feae3fac875942166f05f79c08d06,BID-9302
+84555634,scipag/AttackToolKit,plugins/YaPiG 0.92b remote server-side script execution.plugin,338078182480b3f9dbdf3e27b3bf436b93aa1d9d,BID-10891
+84555634,scipag/AttackToolKit,plugins/YaPiG 0.92b remote server-side script execution.plugin,338078182480b3f9dbdf3e27b3bf436b93aa1d9d,CVE-1999-0259
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.49 HTTP response splitting.plugin,34aa73dc1705e0e89ee58f0e9c72b92276a44a55,BID-9804
+84555634,scipag/AttackToolKit,plugins/SSH server protocol mismatch detection.plugin,3a375bfe39459a98e2408c2a0e05fc6c72b990d9,CVE-2001-0080
+84555634,scipag/AttackToolKit,plugins/QotD service tcp years detection.plugin,3af72db5f597a76744b7b4c579265295fbc746a6,CVE-1999-0103
+84555634,scipag/AttackToolKit,plugins/phpBB viewforum.php cross site scripting.plugin,3cd50da87c32107605e2aec88e14aa3000c33862,BID-9866
+84555634,scipag/AttackToolKit,plugins/PsNews prior 1.2 index.php function Cross Site Scripting.plugin,3d8895a9e1ec39042a51d03d49c6ce3857bf541b,BID-11124
+84555634,scipag/AttackToolKit,plugins/WebAPP 0.9.9 index.cgi Directory Traversal.plugin,3e195a3d0102c1f945a59809d9d813b88fa9b0b4,BID-11028
+84555634,scipag/AttackToolKit,plugins/Cat Soft Serv-U FTP server prior 2.5f zero string denial of service.plugin,40324d912ed72078838832d389cd5d1bffbb7b14,BID-1543
+84555634,scipag/AttackToolKit,plugins/Cat Soft Serv-U FTP server prior 2.5f zero string denial of service.plugin,40324d912ed72078838832d389cd5d1bffbb7b14,CVE-2000-0837
+84555634,scipag/AttackToolKit,plugins/AtomicBoard prior 0.9.42 Directory Traversal.plugin,419170208cae51487c3f4f6d6fd83bc768a98792,BID-8236
+84555634,scipag/AttackToolKit,plugins/Invision PowerBoard cross site scripting.plugin,427bda9c8b6cb91637e121f8eb1adfa0d7e7194b,BID-9822
+84555634,scipag/AttackToolKit,plugins/ISC INN prior 2.2.2 news articles buffer overflows.plugin,4aa100ddcaf9ea42018428b2a63ae2dd5b9f0ab4,CVE-2000-0360
+84555634,scipag/AttackToolKit,plugins/ISC INN prior 2.2.2 news articles buffer overflows.plugin,4aa100ddcaf9ea42018428b2a63ae2dd5b9f0ab4,BID-1249
+84555634,scipag/AttackToolKit,plugins/Microsoft FTP Service 3_0 detection.plugin,4c529f5e006c6a121e7990039f692fab0e8694de,CVE-1999-0614
+84555634,scipag/AttackToolKit,plugins/RhinoSoft Serv-U FTP Server Default Administration Account Vulnerability.plugin,4c970bba357130622bdf90f48972f0ea14e04eaf,BID-10886
+84555634,scipag/AttackToolKit,plugins/Microsoft FTP Service 5_0 detection.plugin,4e95db3081c8e78a6c5a3fa5da46870d095ac552,CVE-1999-0614
+84555634,scipag/AttackToolKit,plugins/OpenCA prior 0.9.2-RC6 HTML injection.plugin,4e9d5edbe16128569677327d69550d955e2fda7c,BID-11113
+84555634,scipag/AttackToolKit,plugins/Mercury Mail up to 4.01 IMAP buffer overflow.plugin,4efacf0598c99f56565d88f24890826c2da1062b,BID-11775
+84555634,scipag/AttackToolKit,plugins/Mercury Mail up to 4.01 IMAP buffer overflow.plugin,4efacf0598c99f56565d88f24890826c2da1062b,BID-11788
+84555634,scipag/AttackToolKit,plugins/Cat Soft Serv-U FTP server prior 4.2.0 chmod buffer overflow.plugin,50839158852f36ffe2050735dbc1446c751271f8,BID-9483
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.48 mod_cgid CGI data redirection.plugin,5117f4a51dfbc857979baa7cdbaa91074490d1c5,BID-8926
+84555634,scipag/AttackToolKit,plugins/phpMyAdmin prior 2.6.0-pl2 remote command execution.plugin,546249e4f8c82acaf30a8f0786c30cd5e85af660,BID-11391
+84555634,scipag/AttackToolKit,plugins/PHPNews prior 1.2.4 sendtofriend.php SQL injection.plugin,547efec309b1e1c48189f33e0b9dbc5713feb298,BID-11748
+84555634,scipag/AttackToolKit,plugins/HTTP 404 enumeration.plugin,5550eea08da7461669703ac4fdc9dca685ef9174,CVE-1999-0633
+84555634,scipag/AttackToolKit,plugins/BEA WebLogic 8.1 HTTP response splitting.plugin,55c3159177c70d4f4dd0618b52c2d92382fdeed2,BID-9804
+84555634,scipag/AttackToolKit,plugins/Mercur Mailserver 3.3 to 4.2 IMAP Auth remote buffer overflow.plugin,5794bbbb82adda3cfce81b20a22b494b0483690c,BID-8861
+84555634,scipag/AttackToolKit,plugins/Microsoft Internet Information Server 4.0 non existent file .ida path disclosure.plugin,57bf52c0ca670a14881829f1c0ca2d6ce2e2ab5c,BID-1065
+84555634,scipag/AttackToolKit,plugins/Ipswitch WS_FTP Server prior 3.0.1 PASV connection hijacking.plugin,58bf878a5370d9632ba8c40912be85645d609299,BID-6051
+84555634,scipag/AttackToolKit,plugins/phpBB viewtopic.php cross site scripting.plugin,58d171903f125bb1216fd5abc9c30d92b1c3f5f4,BID-9865
+84555634,scipag/AttackToolKit,plugins/Merak Mail Server prior 5.2.7 address_html Cross Site Scripting.plugin,5b254081fe67d12cccdabcdf9f0a5755c89b68b1,BID-10966
+84555634,scipag/AttackToolKit,plugins/Finger daemon pipe file read.plugin,5ba8a2131b9fcfb2c0e3e60d713b286bac0557bf,CVE-1999-0152
+84555634,scipag/AttackToolKit,plugins/Merak Mail Server prior 5.2.7 attachment_html Cross Site Scripting.plugin,5c009bc0a0d9c3d57fb8155c05222b205622c98c,BID-10966
+84555634,scipag/AttackToolKit,plugins/QuiXplorer prior 2.3.1 index.php directory traversal.plugin,5cb7d7aac808362d47a919b527d186e2b7fe3217,BID-10949
+84555634,scipag/AttackToolKit,plugins/Kerio MailServer prior 6.0.1 buffer overflow http check.plugin,5cbbf6d7941cddef79e4ab646647ce683f75bdfb,BID-10936
+84555634,scipag/AttackToolKit,plugins/Exim 3.0 to 4.20 EHLO-HELO remote headp corruption.plugin,5e6466ed7fd1b3ba2101419dd5c2e4b75e0ea7f1,BID-8518
+84555634,scipag/AttackToolKit,plugins/cfingerd search information disclosure.plugin,60099cbc4e8847e8f8f855177c67e7c95a1b4ef5,CVE-1999-0259
+84555634,scipag/AttackToolKit,plugins/Apache 2.0.35 to 2.0.50 apr-util library IPv6 URL parsing denial of service.plugin,603b891d553293a8a43b26debf82591fe5d28d6d,BID-11187
+84555634,scipag/AttackToolKit,plugins/TYPSoft FTP prior 0.97.5 directory traversal.plugin,611257c8324ab39af9415ce447a614e63fd1cb8b,BID-2489
+84555634,scipag/AttackToolKit,plugins/Youngzsoft CMailServer prior 5.2.1 multiple remote vulnerabilities.plugin,648b47ba35aafa2f72e481e40f486956dc0766b1,BID-11742
+84555634,scipag/AttackToolKit,plugins/Citrix Server detection.plugin,655bad1e89ed26889f52b4dcaa98a4bfccbaa9d8,BID-7276
+84555634,scipag/AttackToolKit,plugins/MailEnable 1.5a to 1.5e IMAP search denial of service.plugin,65a7e008330cd9934d341ae93be1f3e59358fea0,BID-11578
+84555634,scipag/AttackToolKit,plugins/Microsoft FTP Service 4_0 detection.plugin,65be3f743bb6b50f8fbbc69d1427a2e6c1249cb0,CVE-1999-0614
+84555634,scipag/AttackToolKit,plugins/Washington University wu-ftpd prior 2.6.3 MAIL_ADMIN overflow.plugin,68992f2dfea4e8adaadeb9c024b11616eda7b47b,BID-8668
+84555634,scipag/AttackToolKit,plugins/Keene Digital Media Server prior 1.0.3 slideshow.kspx Cross Site Scripting.plugin,70ecba4f81addbe25d93b36ddce3c0eca3f72370,BID-11111
+84555634,scipag/AttackToolKit,plugins/Ipswitch WS_FTP Server prior 4.0.0 unknown system privileges elevation.plugin,72cf432d37a02fb4afb75d6fc1fb6ad37e253c62,BID-9953
+84555634,scipag/AttackToolKit,plugins/SMTP mail relay test.plugin,73edec4a85de29ce9813b7aba436df349767b981,BID-6118
+84555634,scipag/AttackToolKit,plugins/OpenSSL SSL-TLS handshake denial of service.plugin,760d5255c4539f2c23ca495bacbe95e1858048f2,BID-9899
+84555634,scipag/AttackToolKit,plugins/TorrentTrader SQL Injection.plugin,764402ad7bb82fab80884a3a79ac8116c323d6de,BID-11087
+84555634,scipag/AttackToolKit,plugins/HotOpenTickets privilege escalation.plugin,798de62943b1fb24c9377288f73a95f90e8a7aa7,BID-9790
+84555634,scipag/AttackToolKit,plugins/Cat Soft Serv-U FTP server prior 5.x STOU commando DOS device names denial of service.plugin,798e4841d3f053bc35a20d86d79982606c743acd,BID-11155
+84555634,scipag/AttackToolKit,plugins/FreeBSD 4.1.1 finger daemon file read.plugin,79dd28490a99489304d497742442a0f8ed19cd4a,CVE-2000-0915
+84555634,scipag/AttackToolKit,plugins/Apache prior 1.3.29 and 2.0.48 multiple modules locale buffer overflows.plugin,7a934f638dd74f7713d9be9a37c6b0d3bbaab544,BID-9811
+84555634,scipag/AttackToolKit,plugins/Apache prior 1.3.29 and 2.0.48 multiple modules locale buffer overflows.plugin,7a934f638dd74f7713d9be9a37c6b0d3bbaab544,BID-8911
+84555634,scipag/AttackToolKit,plugins/Apache prior 1.3.31 and prior 2.0.49 connection blocking denial of service.plugin,7b4233564f578b97e4d41edfa30d2aaebcc2c698,BID-9921
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.49 mod_userdir information disclosure.plugin,7bf4fbf5c64759d3213fa181814052d2d8b0af70,BID-10789
+84555634,scipag/AttackToolKit,plugins/Oracle prior 10.0.2 port tcp-1521 DBS_SCHEDULER SQL command execution.plugin,7e653294f1750ff0435feeca810f15a72c8039f2,BID-11091
+84555634,scipag/AttackToolKit,plugins/Microsoft Internet Information Server 4.0 non existent file .idq path disclosure.plugin,7eb329796cefbd5f35b41a8c67a02373124928b4,BID-1065
+84555634,scipag/AttackToolKit,plugins/Sun Solaris 4_1 FTP server detection.plugin,7f3d0f5ff954cd4ae620c61bff237e9b18ce7d72,CVE-1999-0614
+84555634,scipag/AttackToolKit,plugins/Merak Mail Server prior 5.2.7 folder_html Cross Site Scripting.plugin,7fd09b5ccff26b7f1420dcb511ee115be6cf5ea7,BID-10966
+84555634,scipag/AttackToolKit,plugins/Jerod Moemeka Xedus 1.0 Cross Site Scripting.plugin,80ff7be5db32695fa48dced4b3033e5790da4660,BID-11071
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.50 mod_ssl SSL_Util_UUEncode_Binary buffer overflow.plugin,84a8e2822feccbe2bc94714b21c5cabecc5d3eaf,BID-10355
+84555634,scipag/AttackToolKit,plugins/Jerod Moemeka Xedus 1.0 Directory Traversal.plugin,84ebd40733959a5000957b43983a47469acbdad7,BID-11071
+84555634,scipag/AttackToolKit,plugins/Ecommerce Corp. Online Store Kit More.php SQL Injection.plugin,85aefc0c20e8e939104cac7fd6cc1dae379cd4f2,BID-9676
+84555634,scipag/AttackToolKit,plugins/Apache prior 1.3.30 MIME boundary information disclosure.plugin,862497da06c874106c50ee5231185a527a568321,BID-6943
+84555634,scipag/AttackToolKit,plugins/ICECast AVLlib prior 1.3.12 trailing characters denial of service detection.plugin,867669b21f4713ff90c0debf9db9d8366024f350,BID-2933
+84555634,scipag/AttackToolKit,plugins/Kerio MailServer prior 6.0.3 unknown flaw.plugin,89e1b065c825c4afebc79f0538db6f2c2397f15e,BID-11300
+84555634,scipag/AttackToolKit,plugins/Ipswitch WS_FTP Server prior 5.0.2 CWD path denial of service.plugin,89ea46fa78a6c7cced3744f53355ffe2edee80ca,CVE-1999-0362
+84555634,scipag/AttackToolKit,plugins/cfWebStore up to 5.0.0 SQL injection.plugin,8a766415dc081fea93efa0afe08ad2ae0c4f88c9,BID-9856
+84555634,scipag/AttackToolKit,plugins/ICECast AVLlib prior 1.3.12 remote buffer overflow.plugin,8ba80775ccc37013002b47f3df6193b1a9ff6eb5,BID-4415
+84555634,scipag/AttackToolKit,plugins/4D WebStar up to 5.3.3 symbolic link vulnerability.plugin,8fa6587159b15dc6cbb535708be159f8e5f7b34c,BID-10714
+84555634,scipag/AttackToolKit,plugins/HTTP Proxy port tcp-8080 detection.plugin,90fc66bb8ddf9e83bfd7941468ed490d5f7aef70,CVE-1999-0633
+84555634,scipag/AttackToolKit,plugins/HTTP version 1.0 detection.plugin,926f606001cbd3e234c5f5d026d8b6e1aa01f762,CVE-1999-0633
+84555634,scipag/AttackToolKit,plugins/Cisco Catalyst http configuration download.plugin,92d1f07ccf70f4d56a422f9881cc3c45477e9394,CVE-2000-0945
+84555634,scipag/AttackToolKit,plugins/Cisco Catalyst http configuration download.plugin,92d1f07ccf70f4d56a422f9881cc3c45477e9394,BID-1846
+84555634,scipag/AttackToolKit,plugins/YaBB Gold 1 prior SP 1.3.2 multiple input validation.plugin,936b24bfa35f43a2ead56fd5eff91a7a2f38852b,BID-11235
+84555634,scipag/AttackToolKit,plugins/RiSearch prior 0.99.8 show.pl directory traversal.plugin,95529279544fdd22ae34b580e7bd2f7a1a74577b,BID-10812
+84555634,scipag/AttackToolKit,plugins/Cyrus IMAP server prior 2.2.10 multiple remote vulnerabilities.plugin,96feb004f9076d27c67e1ad6102b49d7f4a5c8dc,BID-11729
+84555634,scipag/AttackToolKit,plugins/Ipswitch IMail prior 8.13 multiple buffer overflows.plugin,9924d0b3d6e40df13e6ab314f79017fb586382b1,BID-11106
+84555634,scipag/AttackToolKit,plugins/SWsoft Plesk login_up.php3 reloaded cross site scripting.plugin,99dae9cf82bba0acfd4ed194cabd00c43abda295,BID-11024
+84555634,scipag/AttackToolKit,plugins/Monkey Webserver POST Denial of Service.plugin,9aeb8c8dc33f901070d3a2682c9ecc292a7e6784,BID-6096
+84555634,scipag/AttackToolKit,plugins/dasBlog prior 1.6.0 Referer and User-Agent HTML injection.plugin,9b8dbc5af664807fe638f0a8efd67ad36da87b74,BID-11086
+84555634,scipag/AttackToolKit,plugins/Apache prior 1.3.33 mod_include priviledge escalation.plugin,9c2d7ff3a3feaaeafa7dc91e07b746b8dd3bbefa,BID-11471
+84555634,scipag/AttackToolKit,plugins/Finger daemon detection.plugin,9c72167e6699bf131a7a8044554d4d790f5a4de4,CVE-1999-0612
+84555634,scipag/AttackToolKit,plugins/Silent-Storm Portal multiple input validation vulnerabilities.plugin,9cd43706755179a6a7051aa40d1c5bf28a0c41d1,BID-11284
+84555634,scipag/AttackToolKit,plugins/Microsoft Windows chargen service tcp detection.plugin,9d50517057351980a26440e5dd345a363fe023a1,CVE-1999-0103
+84555634,scipag/AttackToolKit,plugins/Apache prior 1.3.31 and prior 2.0.49 error log escape sequence injection.plugin,9eaf92ccb527dc3bcb3c1996dfacd53f2a946e95,BID-9930
+84555634,scipag/AttackToolKit,plugins/WS_FTP Server prior 5.0.3 multiple flaws.plugin,a374fd1f5bf13ef1521453ad1d121e6bb99ef308,BID-11772
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.49 htaccess LIMIT directive bypass.plugin,a5257bc9d713b3efea839f1b7e76c06c096058cc,BID-9874
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.49 cygwin directory traversal.plugin,a59dc3cc07bbaee2e9c5ff57a2d9697898f8db7c,BID-9874
+84555634,scipag/AttackToolKit,plugins/Cisco PIX Firewall prior 5.2 SMTP content filter HELP bypass.plugin,a5d1d7cd1b227d048bf41bb380f7d69b336688b3,CVE-2000-1022
+84555634,scipag/AttackToolKit,plugins/Cisco PIX Firewall prior 5.2 SMTP content filter HELP bypass.plugin,a5d1d7cd1b227d048bf41bb380f7d69b336688b3,BID-1698
+84555634,scipag/AttackToolKit,plugins/Daytime service tcp detection.plugin,a76870b5f96394ed31b3eb5c03d8843bff72814f,CVE-1999-0103
+84555634,scipag/AttackToolKit,plugins/Daytime service tcp detection.plugin,a76870b5f96394ed31b3eb5c03d8843bff72814f,CVE-1999-0638
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.51-dev mod_dav denial of service.plugin,a7e25fbb4022ce680bb22d8c47a3d125c854ba8f,BID-11185
+84555634,scipag/AttackToolKit,plugins/Virgil CGI Scanner command execution.plugin,a817064644138803f7ff258af0bb52ac6d1fde8b,BID-6031
+84555634,scipag/AttackToolKit,plugins/Emumail WebMail detection.plugin,a923f78fb91d552c9331ecea61b1590a086e5fdc,BID-9861
+84555634,scipag/AttackToolKit,plugins/Citrix NFuse prior 1.6 launch.jsp getLastError Cross Site Scripting.plugin,a9ba06900e113eed0ddb72e43b9babe708beedba,BID-4372
+84555634,scipag/AttackToolKit,plugins/TikiWiki prior 1.8.2 multiple input validation vulnerabilities.plugin,aa1882bb8675952203b91f1ec0fb14870cda8c43,BID-10100
+84555634,scipag/AttackToolKit,plugins/Apache 2.0.47 to 2.0.49 ap_escape_html memory allocation denial of service.plugin,ae69fe287bd3756b340e526bc4c64f2bb03e25bb,BID-10619
+84555634,scipag/AttackToolKit,plugins/INL ulog-php prior 0.8.2 port.php SQL Injection.plugin,b021e22152626ecbcfa58646456f5905301747eb,BID-11018
+84555634,scipag/AttackToolKit,plugins/Sun Solaris finger unused accounts disclosure.plugin,b438a4abfb318b07d6c9081e99709f56e7135c64,BID-3457
+84555634,scipag/AttackToolKit,plugins/Serendipity prior 0.7.0beta3 SQL injections.plugin,b5a68948d068f68397f2f8832f18acfb7f1016fe,BID-11269
+84555634,scipag/AttackToolKit,plugins/Apache2 Double Slash Dir Index.plugin,b62d27e3626e90bbbbbd425e1eab05f7501329a5,BID-8898
+84555634,scipag/AttackToolKit,plugins/Cat Soft Serv-U FTP server prior 2.5e CWD directory traversal.plugin,b6cf912bff889c90ab1653c34b2bad8369e9cbad,BID-1016
+84555634,scipag/AttackToolKit,plugins/InMail inmail.pl cross site scripting.plugin,b7749d23e4bb67ff0fa39d1228722b23694237c8,BID-11758
+84555634,scipag/AttackToolKit,plugins/CVSTrac up to 1.1.4 filediff vulnerability.plugin,b7b63cf8c680822aa4a3fa570d1070fe064ea24c,BID-10878
+84555634,scipag/AttackToolKit,plugins/Horde IMP prior 2.2.8 status.php3 cross site scripting.plugin,b8c80a568eef932bd967f1de127d29d9ca1664c7,BID-4444
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.49 mod_php global variables information disclosure.plugin,ba32b119464ec47e3b2f00f133e75a966a6a3f9c,BID-9599
+84555634,scipag/AttackToolKit,plugins/InShop inshop.pl cross site scripting.plugin,bdb06bf9a15803a3b7a77b123dde164b6e68fa3e,BID-11758
+84555634,scipag/AttackToolKit,plugins/Alt-N MDaemon prior 7.2.1 local privilege escalation vulnerability.plugin,bdfffbaa82ed3e1eea3e2bb2e2624bba4c357244,BID-11736
+84555634,scipag/AttackToolKit,plugins/Squid proxy prior 2.4.STABLE7 various buffer overflows.plugin,bf2ade367b1b81d4033ece668bacc7f3a5b1bd20,CVE-2002-0068
+84555634,scipag/AttackToolKit,plugins/Squid proxy prior 2.4.STABLE7 various buffer overflows.plugin,bf2ade367b1b81d4033ece668bacc7f3a5b1bd20,BID-4148
+84555634,scipag/AttackToolKit,plugins/Sun Solaris 5_7 FTP server detection.plugin,c040b4cd37f50b07c2ff46453e2575d07cb78933,CVE-1999-0614
+84555634,scipag/AttackToolKit,plugins/PHP prior 5.0.2 rfc1867.c unspecified file upload.plugin,c12486dbd8c2b643563de15f52f006f1bca8bf2c,BID-11038
+84555634,scipag/AttackToolKit,plugins/Ipswitch WS_FTP Server prior 4.0.0 file REST argument Denial Of Service.plugin,c183feac2c1e731b8cca35892ce30cc174436224,BID-9953
+84555634,scipag/AttackToolKit,plugins/PhpGroupWare prior 0.9.16.003 cross site scripting.plugin,c3ce2bdd4b47db84eefe0fd39418fc3908b41fc7,BID-11144
+84555634,scipag/AttackToolKit,plugins/Cisco 675 http get Denial of Service.plugin,c4af550ce9fa32bc9212f783a68701bb66538aeb,CVE-2001-0058
+84555634,scipag/AttackToolKit,plugins/Moodle up to 1.4 post.php cross site scripting.plugin,c575fad7ca8da80d370c2c6844f5268db5fff994,BID-10884
+84555634,scipag/AttackToolKit,plugins/LogicNow PerlDesk pdesk.cgi directory traversal.plugin,c6cf41908d1516b46a7744eb4220eae313e34820,BID-11160
+84555634,scipag/AttackToolKit,plugins/Apache prior 1.3.28 ETag header inode number information disclosure.plugin,c84237f114bc85b01d1c4a55594c19cdf347b8f0,BID-6939
+84555634,scipag/AttackToolKit,plugins/Easy File Sharing Webserver 1.25 Access Control Bypass.plugin,cab13d4e6cc73606f0a2afbfc2e560756201513e,BID-11034
+84555634,scipag/AttackToolKit,plugins/Cisco tcp-7161 Denial of Service.plugin,cac1f0afd167f8132fedd8b5fc7a1d8dd483f737,CVE-1999-0430
+84555634,scipag/AttackToolKit,plugins/Cisco tcp-7161 Denial of Service.plugin,cac1f0afd167f8132fedd8b5fc7a1d8dd483f737,BID-705
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.49 mod_perl file descriptor leakage.plugin,cc36cddc5f8e10da1856220547b3e038cdb7d0aa,BID-9471
+84555634,scipag/AttackToolKit,plugins/Post-Nuke News Module sid cross site scripting.plugin,ccb3926631083101eaa9afbc65e8bdc7816b2d04,BID-5809
+84555634,scipag/AttackToolKit,plugins/XOOPS Dictionary Module Cross Scripting.plugin,cd73a37f31bc7d81ca709b65c61eeead87eeb638,BID-11064
+84555634,scipag/AttackToolKit,plugins/Ipswitch WS_FTP Server prior 3.0.1 FTP bounce detection.plugin,ce45888429b310e84d6f0c5cf307aded8bff7133,BID-6050
+84555634,scipag/AttackToolKit,plugins/Cart32 ChangeAdminPassword.plugin,ce778f7922493b9c6c1be265ac48af04f7fe9e51,BID-1153
+84555634,scipag/AttackToolKit,plugins/Microsoft Windows QotD service tcp detection.plugin,d06838e8c9e13a0a0aa266759deb52471da318be,CVE-1999-0103
+84555634,scipag/AttackToolKit,plugins/Merak Mail Server prior 5.2.7 calendar_html Cross Site Scripting.plugin,d3f06b496b716f2b758315d264c7d6c9cea6c56f,BID-10966
+84555634,scipag/AttackToolKit,plugins/Novell Netware 5.1 and 6.0 Netbasic Scripting Server -5C directory traversal.plugin,d4f8dd6dbbc448ea6beba6107a7816f1af64a671,BID-5523
+84555634,scipag/AttackToolKit,plugins/Jerod Moemeka Xedus detection.plugin,d689c657c6dc51602e7147291fea59819ee097be,BID-11071
+84555634,scipag/AttackToolKit,plugins/SCO i2odialogd buffer overflow.plugin,d69549a2f4fd34e231edd8864e14039eb6c96ff7,CVE-2000-0026
+84555634,scipag/AttackToolKit,plugins/phpScheduleIt prior 1.0.0 RC1 HTML Injection.plugin,d79cda2abc55a7e8fc4e8d85202f34db6eecd171,BID-11080
+84555634,scipag/AttackToolKit,plugins/Keene Digital Media Server prior 1.0.3 mediashowplay.kspx Cross Site Scripting.plugin,d8cc804edae0d6f633d18f0d855a1e0120ba975b,BID-11111
+84555634,scipag/AttackToolKit,plugins/ShopCartCGI arbitrary file reading.plugin,d9ee7f116f92bf1088e5a36d6adc7ceb3614e4e6,BID-9670
+84555634,scipag/AttackToolKit,plugins/OpenCA prior 0.9.1.4 multiple signature validation bypass.plugin,dc6b1dae093e78cc6aa394344bb0c3c93ed74d39,BID-9123
+84555634,scipag/AttackToolKit,plugins/SMTP spam filter test.plugin,de3fd89c859c4d4d8fd3b929f25390e7d937c8bd,BID-6118
+84555634,scipag/AttackToolKit,plugins/OpenCA prior 0.9.1.6 signature verification bypass.plugin,df7645d4ec573b521f1e155a071754db6c5478a8,BID-9435
+84555634,scipag/AttackToolKit,plugins/HastyMail prior 1.2.0 HTML attachement script execution.plugin,dfc0f6d37d7a87e0211cf14ffba4b3e92eab8d86,BID-8893
+84555634,scipag/AttackToolKit,plugins/Cherokee prior 0.4.17.1 auth_pam format string.plugin,e216477bcd65ab80d275e06ec4a7a5c5df46a639,BID-11574
+84555634,scipag/AttackToolKit,plugins/Cisco ATA-186 http password.plugin,e356635926d8b459ebad026c5bfd8513816117bb,BID-4711
+84555634,scipag/AttackToolKit,plugins/Echo service tcp detection.plugin,e4f1a677625e7d2cf35d18ea787afab3d74b9b32,CVE-1999-0103
+84555634,scipag/AttackToolKit,plugins/Echo service tcp detection.plugin,e4f1a677625e7d2cf35d18ea787afab3d74b9b32,CVE-1999-0635
+84555634,scipag/AttackToolKit,plugins/MailEnable prior 1.52 IMAP service buffer overflows.plugin,e5da0a1cb67b32fac52e9538c3c45de043f17f23,BID-11755
+84555634,scipag/AttackToolKit,plugins/KorWeblog prior 1.6.2 directory listing.plugin,e67d0040499b4b4b40d278551c5032d9ee836037,BID-11744
+84555634,scipag/AttackToolKit,plugins/FTP server detection.plugin,e7286b7b184f8b928ad6c96ff480b939d661af47,CVE-1999-0614
+84555634,scipag/AttackToolKit,plugins/MailEnable SMTP Connector Service 1.x DNS Lookup denial of service.plugin,e7bbde3b3700e50721e9f69c023911eccf28e3cb,BID-5261
+84555634,scipag/AttackToolKit,plugins/JanaServer prior 2.4.5 malformed request denial of service.plugin,eb6cadf25bc8f7d1cee8e0e5a48c5187dcac07a5,BID-11780
+84555634,scipag/AttackToolKit,plugins/Microsoft NNTP server prior 5.0.2195 and prior 6.0.3790 long message buffer overflow.plugin,ecf00cb3d7d12956b47d120153d069aabcc93025,CVE-2004-0574
+84555634,scipag/AttackToolKit,plugins/Microsoft NNTP server prior 5.0.2195 and prior 6.0.3790 long message buffer overflow.plugin,ecf00cb3d7d12956b47d120153d069aabcc93025,MS04-036
+84555634,scipag/AttackToolKit,plugins/Merak Mail Server prior 5.2.7 settings_html Cross Site Scripting.plugin,ed7bc99ee917b7bf9616fa1f0d789b6903200daf,BID-10966
+84555634,scipag/AttackToolKit,plugins/APC SmartSlot factory account.plugin,ed8e497f5a7d86908b776ede45f53e0ed098499c,BID-9681
+84555634,scipag/AttackToolKit,plugins/Courier SMTP up to 0.45 buffer overflow.plugin,eecef24984f9a8da4e87102b9c8262666ad3675a,BID-9845
+84555634,scipag/AttackToolKit,plugins/Oracle prior 10.0.2 port tcp-1541 DBS_SCHEDULER SQL command execution.plugin,f0ab7841cd78e054799ec7faf55fbffc70690ff3,BID-11091
+84555634,scipag/AttackToolKit,plugins/Apache prior 2.0.49 mod_disk_cache module client authentication weak encryption.plugin,f0fcb7f1ca6a0c598823249591b358d5c6e90069,BID-9933
+84555634,scipag/AttackToolKit,plugins/Standard and Poors detection.plugin,f208b101a860ba98ca2f558eb5af6bce3d6a16f4,BID-1080
+84555634,scipag/AttackToolKit,plugins/phpCMS prior 1.2.1pl1 parser.php cross site scripting.plugin,f2acda1ea76dc3dccbce67addc30ace45358c8c9,BID-11765
+84555634,scipag/AttackToolKit,plugins/Cat Soft Serv-U FTP server prior 4.3.0 MDTM buffer overflow.plugin,f3bd3a43340c646891e020088c53eed652fbb756,BID-9483
+84555634,scipag/AttackToolKit,plugins/Cat Soft Serv-U FTP server prior 4.3.0 MDTM buffer overflow.plugin,f3bd3a43340c646891e020088c53eed652fbb756,BID-9751
+84555634,scipag/AttackToolKit,plugins/Cat Soft Serv-U FTP server prior 2.5i CWD ..-20 directory traversal.plugin,f5250ec540554320643dc9e17a2439d6825bcb05,BID-2052
+84555634,scipag/AttackToolKit,plugins/Cat Soft Serv-U FTP server prior 2.5i CWD ..-20 directory traversal.plugin,f5250ec540554320643dc9e17a2439d6825bcb05,CVE-2001-0054
+84555634,scipag/AttackToolKit,plugins/YaBB Gold 1 prior SP 1.4 Shadow BBCode tag JavaScript injection.plugin,f5917b282b71811d05e30fe0689e15b34f1d1546,BID-11764
+84555634,scipag/AttackToolKit,plugins/Washington University wu-ftpd prior 2.6.2 S-KEY authentication overflow.plugin,f5b6e668267b6f98dc2ffc7cc27943ea1ddc33d3,BID-8893
+84555634,scipag/AttackToolKit,plugins/Novell Groupwise 6.0 Servlet Manager default password.plugin,f6d7c63cb302d57cc2acfac824b7c9a9c61c3b8f,BID-3697
+84555634,scipag/AttackToolKit,plugins/TYPSoft FTP up to 1.10 ntdll.dll empty user name denial of service.plugin,f7ea75579b081a2465949fa0def24ae19e93c497,BID-9573
+84555634,scipag/AttackToolKit,plugins/SandSurfer login.cgi cross site scripting.plugin,f8acb5964ea89ce6a1a3cda4b4eef9d6b7835ea3,BID-9801
+84555634,scipag/AttackToolKit,plugins/Washington University wu-ftpd up to 2.6.2 restricted-gid unauthorized access.plugin,fb4b791e2e1c59d7657ef3947a711611ee04694f,BID-9832
+84555634,scipag/AttackToolKit,plugins/CuteNews prior 1.3.6 index.php Cross Site Scripting.plugin,fc580248d14df69b7bf6214cfb1f2f3b22950707,BID-11097
+84555634,scipag/AttackToolKit,plugins/SpiderSales Shopping Cart SQL injection.plugin,fc741e213eb55f1dc3edc2bf5bd8881cc15580ef,BID-9799
