@@ -1,23 +1,24 @@
 
 # Summary for results/2021/09/04
     
-46 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-04 05:30:12+00:00 | 21983 | 5931 | JavaScript | 1402 | [] |
-| sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-04 02:31:37+00:00 | 0 | 0 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-04 06:25:37+00:00 | 7795 | 2 | Python | 0 | [] |
+| k0rup710n/BinaryExploitation | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | ['exploit'] | 1 | 2021-09-04 07:26:18+00:00 | 13263 | 0 | C | 0 | [] |
 | websecnl/CVE-2021-36934 | SeriousSAM Auto Exploiter | https://github.com/websecnl/CVE-2021-36934 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-04 09:27:49+00:00 | 19396 | 0 | Python | 1 | ['CVE-2021-36934'] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-04 08:47:48+00:00 | 147 | 2 | Python | 0 | [] |
+| shangbuhuan13/SO-Pose | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | ['exploit'] | 1 | 2021-09-04 11:18:42+00:00 | 39386 | 12 | Python | 2 | [] |
 | slyautomation/astar_pathfinding_node_networks | This project extracts the canvas data on https://www.osrsmap.net/ and converts each canvas display as an png file. This is done by exploiting html elements on the website and adding javascript parameter functions such as .toDataURL. .toDataURL() method r | https://github.com/slyautomation/astar_pathfinding_node_networks | ['exploit'] | 1 | 2021-09-04 05:22:26+00:00 | 16891 | 0 | Python | 0 | [] |
 | non123dfsdf/UnfairSploit | None | https://github.com/non123dfsdf/UnfairSploit | ['sploit'] | 1 | 2021-09-04 06:03:43+00:00 | 24 | 1 | | 0 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-09-04 02:49:45+00:00 | 27 | 0 | Python | 0 | [] |
 | h3v0x/CVE-2021-26084_Confluence | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | ['cve-2 OR cve_2'] | 1 | 2021-09-04 02:26:54+00:00 | 16 | 159 | Python | 38 | ['CVE-2021-26084'] |
 | L31thal5/8042_A2_z5235100 | This repository contains a deliberately vulnerable program that incorporates multiple security measures to prevent exploitation. The package includes a script designed to bypass the implemented security measures delivers a reverse shell | https://github.com/L31thal5/8042_A2_z5235100 | ['exploit'] | 1 | 2021-09-04 02:44:02+00:00 | 36 | 0 | | 0 | [] |
+| darrenmartyn/CVE-2020-8515 | Draytek CVE-2020-8515 PoC | https://github.com/darrenmartyn/CVE-2020-8515 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-04 10:45:18+00:00 | 7 | 0 | Python | 1 | ['CVE-2020-8515'] |
 | 6x2/otax | blowing the whistle on the apparent "otax" discord exploit. | https://github.com/6x2/otax | ['exploit'] | 1 | 2021-09-04 01:41:46+00:00 | 19 | 0 | | 0 | [] |
+| sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-04 02:31:37+00:00 | 0 | 0 | Python | 0 | [] |
 | SOROM2/exploits | Public repo for exploits I write. | https://github.com/SOROM2/exploits | ['exploit'] | 1 | 2021-09-04 03:01:03+00:00 | 0 | 0 | | 0 | [] |
-| hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2021-09-04 05:40:13+00:00 | 13508 | 1667 | C++ | 271 | [] |
 | JohnHammond/CVE-2012-2982 | A Python replicated exploit for Webmin 1.580 /file/show.cgi Remote Code Execution | https://github.com/JohnHammond/CVE-2012-2982 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2021-09-04 04:01:56+00:00 | 0 | 0 | | 0 | ['CVE-2012-2982'] |
 | G1nM0o/Pwnable-Exploit-Code-flatform | None | https://github.com/G1nM0o/Pwnable-Exploit-Code-flatform | ['exploit'] | 1 | 2021-09-04 04:32:24+00:00 | 0 | 0 | Python | 0 | [] |
 | dtgvfck/ShellCode-Injection | None | https://github.com/dtgvfck/ShellCode-Injection | ['shellcode'] | 1 | 2021-09-04 04:34:57+00:00 | 0 | 0 | | 0 | [] |
@@ -27,10 +28,10 @@
 | Lk3vin/goShellcodeLoader | None | https://github.com/Lk3vin/goShellcodeLoader | ['shellcode'] | 1 | 2021-09-04 08:36:59+00:00 | 0 | 0 | | 0 | [] |
 | Abdulrahman-Kamel/public_exploits | None | https://github.com/Abdulrahman-Kamel/public_exploits | ['exploit'] | 1 | 2021-09-04 09:09:05+00:00 | 0 | 0 | Java | 0 | [] |
 | Dinandpower/DisterEX | Roblox Exploit | https://github.com/Dinandpower/DisterEX | ['exploit'] | 1 | 2021-09-04 09:30:53+00:00 | 0 | 0 | | 0 | [] |
-| k0rup710n/BinaryExploitation | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | ['exploit'] | 1 | 2021-09-04 07:26:18+00:00 | 13263 | 0 | C | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-04 06:25:37+00:00 | 7795 | 2 | Python | 0 | [] |
 | kienquoc102/CVE-2018-9995-2 | None | https://github.com/kienquoc102/CVE-2018-9995-2 | ['cve-2 OR cve_2'] | 1 | 2021-09-04 09:17:47+00:00 | 4918 | 1 | Python | 0 | ['CVE-2018-9995'] |
+| hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2021-09-04 05:40:13+00:00 | 13508 | 1667 | C++ | 271 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-04 08:07:19+00:00 | 24854 | 0 | Python | 0 | [] |
-| florian9721/Exploit-Scripts | ROBLOX exploit scripts. | https://github.com/florian9721/Exploit-Scripts | ['exploit'] | 1 | 2021-09-04 01:39:59+00:00 | 379 | 0 | Lua | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-04 00:16:33+00:00 | 111825 | 245 | Ruby | 75 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-09-04 01:46:20+00:00 | 39956 | 6661 | Python | 1565 | [] |
 | STEELISI/LEADER | Defense Against Exploit-Based Denial-of-Service Attacks on Web Servers | https://github.com/STEELISI/LEADER | ['exploit'] | 1 | 2021-09-04 04:19:51+00:00 | 30017 | 0 | Logos | 0 | [] |
@@ -48,6 +49,8 @@
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2021-09-04 00:02:22+00:00 | 181 | 4 | Python | 0 | [] |
 | MeepWagon/Exploit-Stuff | idk | https://github.com/MeepWagon/Exploit-Stuff | ['exploit'] | 1 | 2021-09-04 05:23:17+00:00 | 14 | 0 | Lua | 0 | [] |
 | jaiguptanick/CVE-2019-0232 | Vulnerability analysis and PoC for the Apache Tomcat - CGIServlet enableCmdLineArguments Remote Code Execution (RCE) | https://github.com/jaiguptanick/CVE-2019-0232 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'remote code execution', 'vulnerability poc'] | 6 | 2021-09-04 00:45:00+00:00 | 7759 | 1 | Python | 4 | ['CVE-2019-0232'] |
+| Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-09-04 02:13:31+00:00 | 4262 | 43 | HTML | 18 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-04 04:01:00+00:00 | 44001 | 111 | Python | 30 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2021-09-04 05:48:55+00:00 | 47 | 8 | Python | 3 | [] |
+| florian9721/Exploit-Scripts | ROBLOX exploit scripts. | https://github.com/florian9721/Exploit-Scripts | ['exploit'] | 1 | 2021-09-04 01:39:59+00:00 | 379 | 0 | Lua | 0 | [] |
 | gggyan07/Insta-Exploit | None | https://github.com/gggyan07/Insta-Exploit | ['exploit'] | 1 | 2021-09-04 09:37:39+00:00 | 0 | 0 | | 0 | [] |
