@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/05
     
-79 records found after deduplication
+87 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
@@ -13,11 +13,13 @@
 | Charly-Rodri/ngploit | ngrok tunnels to metasploit | https://github.com/Charly-Rodri/ngploit | ['metasploit module OR payload'] | 1 | 2021-09-05 03:03:58+00:00 | 0 | 0 | Shell | 0 | [] |
 | SkillartzHD/HomeGuard-CCTV_exploit | None | https://github.com/SkillartzHD/HomeGuard-CCTV_exploit | ['exploit'] | 1 | 2021-09-05 02:32:04+00:00 | 0 | 0 | | 0 | [] |
 | Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2021-09-05 02:06:16+00:00 | 360 | 1 | Lua | 0 | [] |
+| Cinnamon1212/CVE-2018-15877-RCE | Wordpress Plainview Activity Monitor Plugin RCE (20161228) | https://github.com/Cinnamon1212/CVE-2018-15877-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-09-05 18:46:19+00:00 | 2 | 1 | Python | 0 | ['CVE-2018-15877'] |
 | a-rey/exploits | None | https://github.com/a-rey/exploits | ['exploit'] | 1 | 2021-09-05 00:29:01+00:00 | 1546 | 0 | Python | 0 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-05 00:32:34+00:00 | 45847 | 5 | Python | 1 | [] |
 | HromasDev/HagSploit | None | https://github.com/HromasDev/HagSploit | ['sploit'] | 1 | 2021-09-05 10:23:41+00:00 | 1 | 0 | | 0 | [] |
 | AnanSoli/Stabilizing-a-reverse-shell | How to create a more stable reverse shell while exploiting a target. | https://github.com/AnanSoli/Stabilizing-a-reverse-shell | ['exploit'] | 1 | 2021-09-05 15:51:00+00:00 | 4 | 0 | | 0 | [] |
 | crazyeights225/WinEventLogExplorer | Capture all events across all logs produced during the running of a particular exploit/script. Search and filter events | https://github.com/crazyeights225/WinEventLogExplorer | ['exploit'] | 1 | 2021-09-05 15:49:24+00:00 | 0 | 0 | PowerShell | 0 | [] |
+| raging-loon/disassembler | Reverse Engineering Toolkit. A project for reverse engineering and possibly malware analysis. | https://github.com/raging-loon/disassembler | ['shellcode'] | 1 | 2021-09-05 18:52:05+00:00 | 88 | 0 | C++ | 0 | [] |
 | 360rce/360rce.github.io | Hexo Blog | https://github.com/360rce/360rce.github.io | ['rce'] | 1 | 2021-09-05 08:07:10+00:00 | 254736 | 0 | HTML | 0 | [] |
 | Kara-4search/NewNtdllBypassInlineHook_CSharp | Load a fresh new copy of ntdll.dll via file mapping to bypass API inline hook. | https://github.com/Kara-4search/NewNtdllBypassInlineHook_CSharp | ['shellcode'] | 1 | 2021-09-05 10:32:15+00:00 | 44 | 20 | C# | 6 | [] |
 | safe6Sec/tp5rce | payload | https://github.com/safe6Sec/tp5rce | ['rce'] | 1 | 2021-09-05 15:14:52+00:00 | 0 | 1 | | 0 | [] |
@@ -26,16 +28,18 @@
 | adia65691/123Movies-Watch-Girl-in-the-Basement-2021-Full-Movie-Online-FREE | "11 sec ago !~Foxnetv-OFFICIAL+]~SOUND.Cloud++!~JWPLayer*GoogleDrive/4K.Downloads-! How to watch Girl in the Basement online Free? HQ Reddit Video [DVD-ENGLISH] Girl in the Basement (2021) Full Movie Watch online free Dailymotion [#Girl in the Basement ] G | https://github.com/adia65691/123Movies-Watch-Girl-in-the-Basement-2021-Full-Movie-Online-FREE | ['exploit'] | 1 | 2021-09-05 05:59:34+00:00 | 0 | 0 | | 0 | [] |
 | DeadManINDIA/PickelRCE | None | https://github.com/DeadManINDIA/PickelRCE | ['rce'] | 1 | 2021-09-05 08:22:48+00:00 | 0 | 0 | | 0 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-09-05 00:01:43+00:00 | 41 | 0 | Python | 0 | [] |
-| ThottySploity/Nomios | Rust Post-Exploitation Framework | https://github.com/ThottySploity/Nomios | ['exploit'] | 1 | 2021-09-05 16:14:25+00:00 | 50 | 0 | Rust | 0 | [] |
+| khanh8910/exploit-study | None | https://github.com/khanh8910/exploit-study | ['exploit'] | 1 | 2021-09-05 14:31:16+00:00 | 0 | 0 | | 0 | [] |
+| RyouYoo/Ruby2.x-RCE-Deserialization | Code execution by using a Ruby Universal Gadget when an attacker controls the data passed to Marshal.load(). | https://github.com/RyouYoo/Ruby2.x-RCE-Deserialization | ['rce'] | 1 | 2021-09-05 19:08:47+00:00 | 0 | 0 | | 0 | [] |
+| mobdk/Core | Core bypass Windows Defender and execute any binary converted to shellcode | https://github.com/mobdk/Core | ['shellcode'] | 1 | 2021-09-05 18:29:11+00:00 | 0 | 0 | | 0 | [] |
 | Its-AfraL/PyExploit | PyExploit is a Python pentest tool to generate FUD python Payload to exploit your target | https://github.com/Its-AfraL/PyExploit | ['exploit'] | 1 | 2021-09-05 17:41:00+00:00 | 0 | 0 | | 0 | [] |
 | Prodrious/CVE-2020-13942 | None | https://github.com/Prodrious/CVE-2020-13942 | ['cve-2 OR cve_2'] | 1 | 2021-09-05 16:39:28+00:00 | 0 | 0 | Shell | 0 | ['CVE-2020-13942'] |
 | Prodrious/https-github.com-blackmarketer-CVE-2020-13942 | None | https://github.com/Prodrious/https-github.com-blackmarketer-CVE-2020-13942 | ['cve-2 OR cve_2'] | 1 | 2021-09-05 16:33:36+00:00 | 0 | 0 | | 0 | ['CVE-2020-13942'] |
 | self-m4de/Exploitation-Toolkit | None | https://github.com/self-m4de/Exploitation-Toolkit | ['exploit'] | 1 | 2021-09-05 16:03:27+00:00 | 0 | 0 | Shell | 0 | [] |
 | sh4m2hwz/win_exp_resoures | Windows exploitation resources | https://github.com/sh4m2hwz/win_exp_resoures | ['exploit'] | 1 | 2021-09-05 15:26:25+00:00 | 0 | 0 | | 0 | [] |
 | duc-nt/RCE-0-day-for-GhostScript-9.50 | RCE 0-day for GhostScript 9.50 - Payload generator | https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50 | ['rce'] | 1 | 2021-09-05 15:13:49+00:00 | 0 | 0 | Python | 0 | [] |
-| khanh8910/exploit-study | None | https://github.com/khanh8910/exploit-study | ['exploit'] | 1 | 2021-09-05 14:31:16+00:00 | 0 | 0 | | 0 | [] |
-| K1llf0rce/K1llf0rce | My personal repository | https://github.com/K1llf0rce/K1llf0rce | ['rce'] | 1 | 2021-09-05 14:14:21+00:00 | 0 | 0 | | 0 | [] |
+| ThottySploity/Nomios | Rust Post-Exploitation Framework | https://github.com/ThottySploity/Nomios | ['exploit'] | 1 | 2021-09-05 16:14:25+00:00 | 50 | 0 | Rust | 0 | [] |
 | rootsmadi/CVE-2021-26084 | An OGNL injection vulnerability exists that would allow an authenticated user, and in some instances unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance | https://github.com/rootsmadi/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-09-05 09:31:30+00:00 | 0 | 0 | | 0 | ['CVE-2021-26084'] |
+| K1llf0rce/K1llf0rce | My personal repository | https://github.com/K1llf0rce/K1llf0rce | ['rce'] | 1 | 2021-09-05 14:14:21+00:00 | 0 | 0 | | 0 | [] |
 | risacker/Vulnerable_Machine | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system | https://github.com/risacker/Vulnerable_Machine | ['exploit'] | 1 | 2021-09-05 12:15:35+00:00 | 0 | 0 | | 0 | [] |
 | TakentNo/DexSploit | None | https://github.com/TakentNo/DexSploit | ['sploit'] | 1 | 2021-09-05 12:15:14+00:00 | 0 | 0 | | 0 | [] |
 | hawk-unity/vftpd-exploit | VSFTPD 2.3.4 EXPLOİT :) | https://github.com/hawk-unity/vftpd-exploit | ['exploit'] | 1 | 2021-09-05 12:10:19+00:00 | 0 | 0 | Python | 0 | [] |
@@ -47,6 +51,7 @@
 | h4r5h1t-hrs/webcopilot | An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities. | https://github.com/h4r5h1t-hrs/webcopilot | ['rce'] | 1 | 2021-09-05 07:13:46+00:00 | 50 | 4 | Shell | 0 | [] |
 | danielga/gmsv_serversecure | A module for Garry's Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | ['exploit'] | 1 | 2021-09-05 16:05:46+00:00 | 389 | 70 | C++ | 18 | [] |
 | AlaBouali/bane | None | https://github.com/AlaBouali/bane | ['rce'] | 1 | 2021-09-05 10:38:22+00:00 | 491 | 51 | Python | 20 | [] |
+| KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2021-09-05 05:01:56+00:00 | 746 | 2402 | | 405 | [] |
 | shelld3v/PwnVPN | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | ['0day', 'exploit'] | 2 | 2021-09-05 12:05:50+00:00 | 53 | 47 | Python | 16 | [] |
 | ind3p3nd3nt/BlueRDPSploit | Auto IP range scanner & exploit tool for BlueKeep metasploit module | https://github.com/ind3p3nd3nt/BlueRDPSploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-05 12:18:23+00:00 | 15 | 14 | | 8 | [] |
 | sh4rknado/MetasploitScanner | python Automatisation metasploit scanner (msfrpc) | https://github.com/sh4rknado/MetasploitScanner | ['metasploit module OR payload'] | 1 | 2021-09-05 09:00:04+00:00 | 47 | 0 | Python | 1 | [] |
@@ -55,7 +60,8 @@
 | BuildAPKs/db.BuildAPKs | BuildAPKs' database for built APKs from open source accounts at https://github.com | https://github.com/BuildAPKs/db.BuildAPKs | ['shellcode'] | 1 | 2021-09-05 01:18:06+00:00 | 1263 | 4 | Shell | 1 | [] |
 | bsauce/CTF | Something about CTF and vulnerability environment, mainly about kernel exploit. | https://github.com/bsauce/CTF | ['exploit'] | 1 | 2021-09-05 14:16:57+00:00 | 84210 | 22 | C | 5 | [] |
 | Lehona/Ikarus | A daedalus library for the game Gothic. Exploits the interpreter to allow arbitrary memory access and defines a lot of useful functions for interfacing with the engine. | https://github.com/Lehona/Ikarus | ['exploit'] | 1 | 2021-09-05 14:54:45+00:00 | 371 | 5 | D | 5 | [] |
-| 0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | None | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | ['exploit'] | 1 | 2021-09-05 15:27:31+00:00 | 7439 | 0 | | 0 | [] |
+| strjonas/10fastfingers.com-exploit | If you run the script is basically logs you in (You have to put in you logindata from the website) and types for you | https://github.com/strjonas/10fastfingers.com-exploit | ['exploit'] | 1 | 2021-09-05 18:40:39+00:00 | 1 | 0 | | 0 | [] |
+| M4DM0e/BadMod | CMS auto detect and exploit. | https://github.com/M4DM0e/BadMod | ['exploit'] | 1 | 2021-09-05 18:36:29+00:00 | 1040 | 301 | PHP | 109 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-05 00:16:50+00:00 | 113724 | 246 | Ruby | 75 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2021-09-05 10:17:42+00:00 | 14656 | 1669 | C++ | 271 | [] |
 | firmianay/CTF-All-In-One | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | ['exploit'] | 1 | 2021-09-05 13:58:23+00:00 | 48515 | 2644 | C | 541 | [] |
@@ -63,11 +69,12 @@
 | RUB-NDS/PRET | Printer Exploitation Toolkit - The tool that made dumpster diving obsolete. | https://github.com/RUB-NDS/PRET | ['exploit'] | 1 | 2021-09-05 09:21:33+00:00 | 1798 | 2804 | Python | 530 | [] |
 | Spacial/awesome-csirt | Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities. | https://github.com/Spacial/awesome-csirt | ['cve poc'] | 1 | 2021-09-05 02:27:53+00:00 | 2353 | 191 | C | 44 | [] |
 | GuardedOperators/OpGuard | Spigot plugin that protects against op exploits & malicious plugins. | https://github.com/GuardedOperators/OpGuard | ['exploit'] | 1 | 2021-09-05 05:05:12+00:00 | 1351 | 9 | Java | 5 | [] |
-| KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2021-09-05 05:01:56+00:00 | 746 | 2402 | | 405 | [] |
-| Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-09-05 13:39:51+00:00 | 134808 | 242 | Batchfile | 73 | [] |
+| fanyao/branchspec | Proof of concept code for the BranchSpec exploit. | https://github.com/fanyao/branchspec | ['exploit'] | 1 | 2021-09-05 19:13:51+00:00 | 13266 | 2 | C | 4 | [] |
+| 0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | None | https://github.com/0xturazzi/Um-Livrinho-Sobre-Exploit-Dev | ['exploit'] | 1 | 2021-09-05 15:27:31+00:00 | 7439 | 0 | | 0 | [] |
 | lintstar/About-Attack | 一个旨在通过应用场景 / 标签对 Github 红队向工具 / 资源进行分类收集，降低红队技术门槛的手册【持续更新】 | https://github.com/lintstar/About-Attack | ['rce'] | 1 | 2021-09-05 14:27:14+00:00 | 16167 | 9 | | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-05 09:23:33+00:00 | 7854 | 2 | Python | 0 | [] |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-09-05 09:31:09+00:00 | 1714 | 2 | HTML | 1 | [] |
+| fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-09-05 18:35:55+00:00 | 52 | 1 | Go | 0 | [] |
 | iDongle/NoExploit | POC or EXP | https://github.com/iDongle/NoExploit | ['exploit'] | 1 | 2021-09-05 15:20:49+00:00 | 131 | 1 | Java | 0 | [] |
 | slyautomation/astar_pathfinding_node_networks | This project extracts the canvas data on https://www.osrsmap.net/ and converts each canvas display as an png file. This is done by exploiting html elements on the website and adding javascript parameter functions such as .toDataURL. .toDataURL() method r | https://github.com/slyautomation/astar_pathfinding_node_networks | ['exploit'] | 1 | 2021-09-05 07:02:15+00:00 | 36615 | 0 | Python | 0 | [] |
 | lichen-lab/TLVar | Exploiting deep transfer learning for the prediction of functional noncoding variants using DNA sequence | https://github.com/lichen-lab/TLVar | ['exploit'] | 1 | 2021-09-05 02:36:46+00:00 | 3874 | 0 | Python | 0 | [] |
@@ -75,12 +82,13 @@
 | rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-09-05 04:17:35+00:00 | 8553 | 0 | HTML | 0 | [] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-05 10:04:26+00:00 | 165 | 2 | Python | 0 | [] |
 | cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-09-05 06:00:21+00:00 | 907 | 0 | Python | 2 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-05 00:03:31+00:00 | 395456 | 29 | | 16 | [] |
+| Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-09-05 13:39:51+00:00 | 134808 | 242 | Batchfile | 73 | [] |
 | RickdeJager/binexp-practice | Practice repository for binary exploitation and fuzzing | https://github.com/RickdeJager/binexp-practice | ['exploit'] | 1 | 2021-09-05 12:29:17+00:00 | 335 | 0 | Rust | 0 | [] |
 | kienquoc102/CVE-2018-9995-2 | None | https://github.com/kienquoc102/CVE-2018-9995-2 | ['cve-2 OR cve_2'] | 1 | 2021-09-05 09:33:37+00:00 | 4920 | 1 | Python | 0 | ['CVE-2018-9995'] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-05 02:33:57+00:00 | 32868 | 0 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-05 04:00:38+00:00 | 47261 | 112 | Python | 30 | [] |
 | IdanBanani/Binary-exploitation-Pwn | None | https://github.com/IdanBanani/Binary-exploitation-Pwn | ['exploit'] | 1 | 2021-09-05 12:31:44+00:00 | 9874 | 0 | C | 0 | [] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-09-05 16:38:33+00:00 | 5360 | 87 | Python | 33 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-09-05 16:38:19+00:00 | 5360 | 87 | Python | 33 | [] |
 | whichbuffer/WindowsExploitDev | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | ['exploit', 'shellcode'] | 2 | 2021-09-05 17:23:30+00:00 | 15562 | 8 | Python | 1 | [] |
-| mobdk/Core | Core bypass Windows Defender and execute any binary converted to shellcode | https://github.com/mobdk/Core | ['shellcode'] | 1 | 2021-09-05 18:29:11+00:00 | 0 | 0 | | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-05 00:03:31+00:00 | 395456 | 29 | | 16 | [] |
+| apellon-exploit/exploit-docs | None | https://github.com/apellon-exploit/exploit-docs | ['exploit'] | 1 | 2021-09-05 19:26:19+00:00 | 0 | 0 | | 0 | [] |
