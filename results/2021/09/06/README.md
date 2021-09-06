@@ -1,22 +1,24 @@
 
 # Summary for results/2021/09/06
     
-45 records found after deduplication
+50 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-06 00:27:52+00:00 | 565243 | 25012 | Ruby | 11528 | [] |
-| TheMrExploit/TheMrExploit | Config files for my GitHub profile. | https://github.com/TheMrExploit/TheMrExploit | ['exploit'] | 1 | 2021-09-06 04:56:55+00:00 | 1 | 0 | | 0 | [] |
+| C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-06 01:10:35+00:00 | 0 | 0 | Python | 0 | [] |
+| Relkss/Testing_Exploit | None | https://github.com/Relkss/Testing_Exploit | ['exploit'] | 1 | 2021-09-06 06:02:28+00:00 | 88 | 0 | | 0 | [] |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-09-06 05:28:22+00:00 | 1741 | 2 | HTML | 1 | [] |
 | kienquoc102/Netwave-GoAhead-Exploits | None | https://github.com/kienquoc102/Netwave-GoAhead-Exploits | ['exploit'] | 1 | 2021-09-06 02:32:12+00:00 | 1144 | 1 | Python | 0 | [] |
 | aesophor/requiem | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-06 04:17:32+00:00 | 123 | 5 | Python | 0 | [] |
 | kcin2/FurnacePatch1.13-1.16 | Patches the furnace item swapping exploit. | https://github.com/kcin2/FurnacePatch1.13-1.16 | ['exploit'] | 1 | 2021-09-06 08:41:53+00:00 | 7 | 0 | Java | 0 | [] |
+| 360rce/360rce.github.io | Hexo Blog | https://github.com/360rce/360rce.github.io | ['rce'] | 1 | 2021-09-06 10:23:27+00:00 | 267894 | 0 | HTML | 0 | [] |
 | adriangs1996/pymop | Like Metasploit framework, but a little bit better (eventually) | https://github.com/adriangs1996/pymop | ['metasploit module OR payload'] | 1 | 2021-09-06 01:18:16+00:00 | 23 | 0 | Python | 0 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-06 02:56:41+00:00 | 45851 | 6 | Python | 1 | [] |
 | dtgvfck/ShellCode-Injection | nan | https://github.com/dtgvfck/ShellCode-Injection | ['shellcode'] | 1 | 2021-09-06 03:06:41+00:00 | 7 | 0 | C# | 0 | [] |
 | BGPavelAng/shellcodeWin | nan | https://github.com/BGPavelAng/shellcodeWin | ['shellcode'] | 1 | 2021-09-06 00:38:48+00:00 | 4 | 0 | Assembly | 0 | [] |
-| C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-06 01:10:35+00:00 | 0 | 0 | Python | 0 | [] |
 | 0x1CA3/Discord-Unban-Exploit | Explanation coming soon. | https://github.com/0x1CA3/Discord-Unban-Exploit | ['exploit'] | 1 | 2021-09-06 01:31:45+00:00 | 0 | 0 | Python | 0 | [] |
+| longld/peda | PEDA - Python Exploit Development Assistance for GDB | https://github.com/longld/peda | ['exploit'] | 1 | 2021-09-06 00:27:22+00:00 | 289 | 4721 | Python | 757 | [] |
 | k4miyo/FreePBX-Elastix-RCE-exploit | Elastix remote code execution exploit | https://github.com/k4miyo/FreePBX-Elastix-RCE-exploit | ['exploit', 'rce', 'remote code execution'] | 3 | 2021-09-06 02:04:53+00:00 | 0 | 0 | Python | 0 | [] |
 | zwjjustdoit/CVE-2021-34371.jar | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | ['cve-2 OR cve_2'] | 1 | 2021-09-06 02:04:15+00:00 | 0 | 1 | | 0 | ['CVE-2021-34371'] |
 | DKBARB10/Exploit_Dev | This repository Contain Tools Of Exploiter Dev | https://github.com/DKBARB10/Exploit_Dev | ['exploit'] | 1 | 2021-09-06 04:51:37+00:00 | 0 | 0 | | 0 | [] |
@@ -26,12 +28,14 @@
 | watisdatikalikffffali/CringeHub | Cringe Hub a roblox exploit only for synapse x | https://github.com/watisdatikalikffffali/CringeHub | ['exploit'] | 1 | 2021-09-06 06:35:46+00:00 | 0 | 0 | | 0 | [] |
 | Y3A/CVE-2021-3156 | None | https://github.com/Y3A/CVE-2021-3156 | ['cve-2 OR cve_2'] | 1 | 2021-09-06 06:50:03+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-3156'] |
 | p1gz/CVE-2021-26084-Confluence-OGNL | asjhdsajdlksavksapfoka | https://github.com/p1gz/CVE-2021-26084-Confluence-OGNL | ['cve-2 OR cve_2'] | 1 | 2021-09-06 06:58:31+00:00 | 0 | 1 | Python | 1 | ['CVE-2021-26084'] |
-| Relkss/Testing_Exploit | None | https://github.com/Relkss/Testing_Exploit | ['exploit'] | 1 | 2021-09-06 06:02:28+00:00 | 88 | 0 | | 0 | [] |
+| Poropichu/Personal-Data-Exploitation | The problem of using personal data online to perform cashless transactions | https://github.com/Poropichu/Personal-Data-Exploitation | ['exploit'] | 1 | 2021-09-06 08:19:25+00:00 | 0 | 0 | | 0 | [] |
+| TheMrExploit/TheMrExploit | Config files for my GitHub profile. | https://github.com/TheMrExploit/TheMrExploit | ['exploit'] | 1 | 2021-09-06 04:56:55+00:00 | 1 | 0 | | 0 | [] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-06 06:05:10+00:00 | 194 | 2 | Python | 0 | [] |
-| longld/peda | PEDA - Python Exploit Development Assistance for GDB | https://github.com/longld/peda | ['exploit'] | 1 | 2021-09-06 00:27:22+00:00 | 289 | 4721 | Python | 757 | [] |
-| Sma-Das/TryHackMe | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | ['exploit'] | 1 | 2021-09-06 07:13:22+00:00 | 61812 | 7 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-06 10:26:17+00:00 | 8047 | 2 | Python | 0 | [] |
+| denys-volodarkyi/DV-REV | Temporary working repository for my RCE code | https://github.com/denys-volodarkyi/DV-REV | ['rce'] | 1 | 2021-09-06 09:45:00+00:00 | 14 | 0 | C# | 0 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-09-06 07:58:58+00:00 | 7523 | 3933 | Python | 563 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-06 00:17:13+00:00 | 113725 | 246 | Ruby | 75 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-06 09:47:27+00:00 | 292191 | 77 | Python | 13 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2021-09-06 02:54:54+00:00 | 135 | 80 | | 16 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-09-06 07:47:25+00:00 | 3769 | 1974 | Python | 562 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-06 08:55:06+00:00 | 60710 | 1182 | JavaScript | 239 | [] |
@@ -46,7 +50,8 @@
 | RaulXH/MetasPloitXH | Instalador De Metasploit con version de ruby 2.7.2 en TERMUX | https://github.com/RaulXH/MetasPloitXH | ['metasploit module OR payload'] | 1 | 2021-09-06 04:05:45+00:00 | 173 | 7 | Shell | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-06 04:00:38+00:00 | 50529 | 113 | Python | 30 | [] |
 | GaryOderNichts/bluubomb | Exploits the Wii U's bluetooth stack to gain IOSU kernel access via bluetooth. | https://github.com/GaryOderNichts/bluubomb | ['exploit'] | 1 | 2021-09-06 02:27:26+00:00 | 24 | 57 | C | 1 | [] |
-| zerodayrat/ZeroDayRAT | Config files for my GitHub profile. | https://github.com/zerodayrat/ZeroDayRAT | ['zeroday'] | 1 | 2021-09-06 02:52:26+00:00 | 0 | 0 | nan | 0 | [] |
+| zerodayrat/ZeroDayRAT | Config files for my GitHub profile. | https://github.com/zerodayrat/ZeroDayRAT | ['zeroday'] | 1 | 2021-09-06 02:52:26+00:00 | 0 | 0 | | 0 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-06 04:23:54+00:00 | 39388 | 0 | Python | 0 | [] |
 | PRBonn/LiDAR-MOS | Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | ['exploit'] | 1 | 2021-09-06 08:27:27+00:00 | 42678 | 146 | Python | 26 | [] |
-| Poropichu/Personal-Data-Exploitation | The problem of using personal data online to perform cashless transactions | https://github.com/Poropichu/Personal-Data-Exploitation | ['exploit'] | 1 | 2021-09-06 08:19:25+00:00 | 0 | 0 | | 0 | [] |
+| Sma-Das/TryHackMe | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | ['exploit'] | 1 | 2021-09-06 07:13:22+00:00 | 61812 | 7 | Python | 0 | [] |
+| JNDreviews/est-Smartphones-under-Rs.15000- | WHICH ARE THE BEST SMARTPHONES UNDER 15000 . Best Smartphones under Rs.15000 models 2021 Step by step instructions to track down the best cell phones under Rs.15,000?Take a look Cell phones have turned into a central piece of our life. We can't ponder ou | https://github.com/JNDreviews/est-Smartphones-under-Rs.15000- | ['exploit'] | 1 | 2021-09-06 10:03:00+00:00 | 0 | 0 | | 0 | [] |
