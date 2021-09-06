@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/06
     
-83 records found after deduplication
+84 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-06 00:27:52+00:00 | 565243 | 25012 | Ruby | 11528 | [] |
-| BGPavelAng/shellcodeWin | None | https://github.com/BGPavelAng/shellcodeWin | ['shellcode'] | 1 | 2021-09-06 00:38:48+00:00 | 4 | 0 | Assembly | 0 | [] |
+| kcin2/FurnacePatch1.13-1.16 | Patches the furnace item swapping exploit. | https://github.com/kcin2/FurnacePatch1.13-1.16 | ['exploit'] | 1 | 2021-09-06 08:41:53+00:00 | 7 | 0 | Java | 0 | [] |
 | mdakh404/easyWP-RCE | a simple script created to find an easy RCE on WordPress based sites. | https://github.com/mdakh404/easyWP-RCE | ['rce'] | 1 | 2021-09-06 15:50:37+00:00 | 31 | 0 | Python | 0 | [] |
 | dtgvfck/ShellCode-Injection | None | https://github.com/dtgvfck/ShellCode-Injection | ['shellcode'] | 1 | 2021-09-06 03:06:41+00:00 | 7 | 0 | C# | 0 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-06 02:56:41+00:00 | 45851 | 6 | Python | 1 | [] |
@@ -15,8 +15,8 @@
 | raging-loon/disassembler | A project for reverse engineering and possibly malware analysis. | https://github.com/raging-loon/disassembler | ['shellcode'] | 1 | 2021-09-06 15:30:10+00:00 | 90 | 0 | C++ | 0 | [] |
 | 360rce/360rce.github.io | Hexo Blog | https://github.com/360rce/360rce.github.io | ['rce'] | 1 | 2021-09-06 10:23:27+00:00 | 267894 | 0 | HTML | 0 | [] |
 | Kara-4search/NewNtdllBypassInlineHook_CSharp | Load a fresh new copy of ntdll.dll via file mapping to bypass API inline hook. | https://github.com/Kara-4search/NewNtdllBypassInlineHook_CSharp | ['shellcode'] | 1 | 2021-09-06 13:59:58+00:00 | 43 | 21 | C# | 7 | [] |
-| kcin2/FurnacePatch1.13-1.16 | Patches the furnace item swapping exploit. | https://github.com/kcin2/FurnacePatch1.13-1.16 | ['exploit'] | 1 | 2021-09-06 08:41:53+00:00 | 7 | 0 | Java | 0 | [] |
 | aesophor/requiem | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-06 04:17:32+00:00 | 123 | 5 | Python | 0 | [] |
+| longld/peda | PEDA - Python Exploit Development Assistance for GDB | https://github.com/longld/peda | ['exploit'] | 1 | 2021-09-06 00:27:22+00:00 | 289 | 4721 | Python | 757 | [] |
 | kienquoc102/Netwave-GoAhead-Exploits | None | https://github.com/kienquoc102/Netwave-GoAhead-Exploits | ['exploit'] | 1 | 2021-09-06 02:32:12+00:00 | 1144 | 1 | Python | 0 | [] |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-09-06 05:28:22+00:00 | 1741 | 2 | HTML | 1 | [] |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-09-06 12:35:29+00:00 | 51 | 0 | | 0 | [] |
@@ -24,9 +24,10 @@
 | parzuko/kiba | remote code execution engine based on piston | https://github.com/parzuko/kiba | ['remote code execution'] | 1 | 2021-09-06 17:09:00+00:00 | 129 | 1 | JavaScript | 0 | [] |
 | TheMrExploit/TheMrExploit | Config files for my GitHub profile. | https://github.com/TheMrExploit/TheMrExploit | ['exploit'] | 1 | 2021-09-06 04:56:55+00:00 | 1 | 0 | | 0 | [] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-06 06:05:10+00:00 | 194 | 2 | Python | 0 | [] |
+| pcmarcon/malduino-payload-samples | Scripts to simulate/POC ransomware attack on windows computer | https://github.com/pcmarcon/malduino-payload-samples | ['attack poc'] | 1 | 2021-09-06 17:34:39+00:00 | 3531 | 0 | C++ | 1 | [] |
 | risacker/Vulnerable_Machine | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system | https://github.com/risacker/Vulnerable_Machine | ['exploit'] | 1 | 2021-09-06 11:20:37+00:00 | 0 | 0 | | 0 | [] |
+| BGPavelAng/shellcodeWin | None | https://github.com/BGPavelAng/shellcodeWin | ['shellcode'] | 1 | 2021-09-06 00:38:48+00:00 | 4 | 0 | Assembly | 0 | [] |
 | C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-06 01:10:35+00:00 | 0 | 0 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-06 10:26:17+00:00 | 8047 | 2 | Python | 0 | [] |
 | 0x1CA3/Discord-Unban-Exploit | Explanation coming soon. | https://github.com/0x1CA3/Discord-Unban-Exploit | ['exploit'] | 1 | 2021-09-06 01:31:45+00:00 | 0 | 0 | Python | 0 | [] |
 | rezaJOY/Local-File-Inclusion-Payloads | Local File inclusion (LFI), or simply File Inclusion, refers to an inclusion attack through which an attacker can trick the web application into including files on the web server by exploiting a functionality that dynamically includes local files or script | https://github.com/rezaJOY/Local-File-Inclusion-Payloads | ['exploit', 'remote code execution'] | 2 | 2021-09-06 16:49:10+00:00 | 0 | 1 | | 0 | [] |
 | bigthenn/Hacking-Tools | Trojan Rat Builder(310), Ransomware Builder(7), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, t | https://github.com/bigthenn/Hacking-Tools | ['exploit'] | 1 | 2021-09-06 16:02:45+00:00 | 0 | 0 | | 0 | [] |
@@ -45,9 +46,9 @@
 | DKBARB10/Exploit_Dev | This repository Contain Tools Of Exploiter Dev | https://github.com/DKBARB10/Exploit_Dev | ['exploit'] | 1 | 2021-09-06 04:51:37+00:00 | 0 | 0 | | 0 | [] |
 | zwjjustdoit/CVE-2021-34371.jar | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | ['cve-2 OR cve_2'] | 1 | 2021-09-06 02:04:15+00:00 | 0 | 1 | | 0 | ['CVE-2021-34371'] |
 | k4miyo/FreePBX-Elastix-RCE-exploit | Elastix remote code execution exploit | https://github.com/k4miyo/FreePBX-Elastix-RCE-exploit | ['exploit', 'rce', 'remote code execution'] | 3 | 2021-09-06 02:04:53+00:00 | 0 | 0 | Python | 0 | [] |
-| pcmarcon/malduino-payload-samples | Scripts to simulate/POC ransomware attack on windows computer | https://github.com/pcmarcon/malduino-payload-samples | ['attack poc'] | 1 | 2021-09-06 17:34:39+00:00 | 3531 | 0 | C++ | 1 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-06 10:26:17+00:00 | 8047 | 2 | Python | 0 | [] |
 | denys-volodarkyi/DV-REV | Temporary working repository for my RCE code | https://github.com/denys-volodarkyi/DV-REV | ['rce'] | 1 | 2021-09-06 09:45:00+00:00 | 14 | 0 | C# | 0 | [] |
-| longld/peda | PEDA - Python Exploit Development Assistance for GDB | https://github.com/longld/peda | ['exploit'] | 1 | 2021-09-06 00:27:22+00:00 | 289 | 4721 | Python | 757 | [] |
+| Sma-Das/TryHackMe | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | ['exploit'] | 1 | 2021-09-06 07:13:22+00:00 | 61812 | 7 | Python | 0 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-09-06 08:42:58+00:00 | 603 | 448 | Java | 40 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-06 06:52:32+00:00 | 23039 | 22 | | 14 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-06 08:55:06+00:00 | 60710 | 1182 | JavaScript | 239 | [] |
@@ -68,9 +69,8 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-06 16:30:45+00:00 | 3364 | 2469 | PowerShell | 709 | [] |
 | ind3p3nd3nt/BlueRDPSploit | Auto IP range scanner & exploit tool for BlueKeep metasploit module | https://github.com/ind3p3nd3nt/BlueRDPSploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-06 09:15:13+00:00 | 17 | 14 | Shell | 8 | [] |
 | rng70/Hacking-Resources | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | ['exploit'] | 1 | 2021-09-06 11:46:31+00:00 | 1927945 | 7 | Python | 0 | [] |
-| Sma-Das/TryHackMe | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | ['exploit'] | 1 | 2021-09-06 07:13:22+00:00 | 61812 | 7 | Python | 0 | [] |
-| lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2021-09-06 16:30:14+00:00 | 247522 | 0 | Jupyter Notebook | 0 | [] |
 | stong/CVE-2020-15368 | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys | https://github.com/stong/CVE-2020-15368 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-06 15:05:21+00:00 | 367 | 282 | C++ | 25 | ['CVE-2020-15368'] |
+| lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2021-09-06 16:30:14+00:00 | 247522 | 0 | Jupyter Notebook | 0 | [] |
 | PRBonn/LiDAR-MOS | Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | ['exploit'] | 1 | 2021-09-06 08:27:27+00:00 | 42678 | 146 | Python | 26 | [] |
 | Angus-C-git/binaliser | A basic binary diagnostics tool/analyser for common binary exploitation tactics. | https://github.com/Angus-C-git/binaliser | ['exploit'] | 1 | 2021-09-06 13:41:07+00:00 | 61 | 0 | Python | 0 | [] |
 | TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-09-06 15:01:06+00:00 | 5373 | 0 | Python | 1 | [] |
@@ -86,5 +86,6 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-06 00:03:18+00:00 | 395473 | 29 | | 17 | [] |
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-09-06 14:51:16+00:00 | 135287 | 243 | Batchfile | 73 | [] |
 | RoundofThree/exploit-resources | Solutions to common exploit exercises. | https://github.com/RoundofThree/exploit-resources | ['exploit'] | 1 | 2021-09-06 13:45:00+00:00 | 849 | 0 | HTML | 0 | [] |
+| driesdaems10/Resoc | Model of resource exploitation of Iron Age communities in southwest Anatolia. To be presented at ReSoc conference | https://github.com/driesdaems10/Resoc | ['exploit'] | 1 | 2021-09-06 18:24:07+00:00 | 71831 | 1 | NetLogo | 1 | [] |
 | zhzyker/vulmap | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | ['exploit', 'rce'] | 2 | 2021-09-06 06:10:30+00:00 | 3389 | 1669 | Python | 322 | [] |
 | YTZirex/Zirexium-Exploit | None | https://github.com/YTZirex/Zirexium-Exploit | ['exploit'] | 1 | 2021-09-06 17:03:10+00:00 | 0 | 0 | | 0 | [] |
