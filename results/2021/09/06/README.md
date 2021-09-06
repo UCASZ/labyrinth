@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/06
     
-50 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-06 00:27:52+00:00 | 565243 | 25012 | Ruby | 11528 | [] |
-| C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-06 01:10:35+00:00 | 0 | 0 | Python | 0 | [] |
+| longld/peda | PEDA - Python Exploit Development Assistance for GDB | https://github.com/longld/peda | ['exploit'] | 1 | 2021-09-06 00:27:22+00:00 | 289 | 4721 | Python | 757 | [] |
 | Relkss/Testing_Exploit | None | https://github.com/Relkss/Testing_Exploit | ['exploit'] | 1 | 2021-09-06 06:02:28+00:00 | 88 | 0 | | 0 | [] |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-09-06 05:28:22+00:00 | 1741 | 2 | HTML | 1 | [] |
 | kienquoc102/Netwave-GoAhead-Exploits | None | https://github.com/kienquoc102/Netwave-GoAhead-Exploits | ['exploit'] | 1 | 2021-09-06 02:32:12+00:00 | 1144 | 1 | Python | 0 | [] |
@@ -16,9 +16,10 @@
 | adriangs1996/pymop | Like Metasploit framework, but a little bit better (eventually) | https://github.com/adriangs1996/pymop | ['metasploit module OR payload'] | 1 | 2021-09-06 01:18:16+00:00 | 23 | 0 | Python | 0 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-06 02:56:41+00:00 | 45851 | 6 | Python | 1 | [] |
 | dtgvfck/ShellCode-Injection | nan | https://github.com/dtgvfck/ShellCode-Injection | ['shellcode'] | 1 | 2021-09-06 03:06:41+00:00 | 7 | 0 | C# | 0 | [] |
+| risacker/Vulnerable_Machine | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system | https://github.com/risacker/Vulnerable_Machine | ['exploit'] | 1 | 2021-09-06 11:20:37+00:00 | 0 | 0 | | 0 | [] |
 | BGPavelAng/shellcodeWin | nan | https://github.com/BGPavelAng/shellcodeWin | ['shellcode'] | 1 | 2021-09-06 00:38:48+00:00 | 4 | 0 | Assembly | 0 | [] |
+| C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-06 01:10:35+00:00 | 0 | 0 | Python | 0 | [] |
 | 0x1CA3/Discord-Unban-Exploit | Explanation coming soon. | https://github.com/0x1CA3/Discord-Unban-Exploit | ['exploit'] | 1 | 2021-09-06 01:31:45+00:00 | 0 | 0 | Python | 0 | [] |
-| longld/peda | PEDA - Python Exploit Development Assistance for GDB | https://github.com/longld/peda | ['exploit'] | 1 | 2021-09-06 00:27:22+00:00 | 289 | 4721 | Python | 757 | [] |
 | k4miyo/FreePBX-Elastix-RCE-exploit | Elastix remote code execution exploit | https://github.com/k4miyo/FreePBX-Elastix-RCE-exploit | ['exploit', 'rce', 'remote code execution'] | 3 | 2021-09-06 02:04:53+00:00 | 0 | 0 | Python | 0 | [] |
 | zwjjustdoit/CVE-2021-34371.jar | CVE-2021-34371.jar | https://github.com/zwjjustdoit/CVE-2021-34371.jar | ['cve-2 OR cve_2'] | 1 | 2021-09-06 02:04:15+00:00 | 0 | 1 | | 0 | ['CVE-2021-34371'] |
 | DKBARB10/Exploit_Dev | This repository Contain Tools Of Exploiter Dev | https://github.com/DKBARB10/Exploit_Dev | ['exploit'] | 1 | 2021-09-06 04:51:37+00:00 | 0 | 0 | | 0 | [] |
@@ -32,18 +33,19 @@
 | TheMrExploit/TheMrExploit | Config files for my GitHub profile. | https://github.com/TheMrExploit/TheMrExploit | ['exploit'] | 1 | 2021-09-06 04:56:55+00:00 | 1 | 0 | | 0 | [] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-06 06:05:10+00:00 | 194 | 2 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-06 10:26:17+00:00 | 8047 | 2 | Python | 0 | [] |
-| denys-volodarkyi/DV-REV | Temporary working repository for my RCE code | https://github.com/denys-volodarkyi/DV-REV | ['rce'] | 1 | 2021-09-06 09:45:00+00:00 | 14 | 0 | C# | 0 | [] |
+| zhzyker/vulmap | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | ['exploit', 'rce'] | 2 | 2021-09-06 06:10:30+00:00 | 3389 | 1669 | Python | 322 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-09-06 07:58:58+00:00 | 7523 | 3933 | Python | 563 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-06 00:17:13+00:00 | 113725 | 246 | Ruby | 75 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-06 09:47:27+00:00 | 292191 | 77 | Python | 13 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2021-09-06 02:54:54+00:00 | 135 | 80 | | 16 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-09-06 07:47:25+00:00 | 3769 | 1974 | Python | 562 | [] |
+| Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-06 11:28:43+00:00 | 1332221 | 3431 | PowerShell | 1193 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-06 08:55:06+00:00 | 60710 | 1182 | JavaScript | 239 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-06 06:52:32+00:00 | 23039 | 22 | | 14 | [] |
 | ind3p3nd3nt/BlueRDPSploit | Auto IP range scanner & exploit tool for BlueKeep metasploit module | https://github.com/ind3p3nd3nt/BlueRDPSploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-06 09:15:13+00:00 | 17 | 14 | Shell | 8 | [] |
 | wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-09-06 08:42:58+00:00 | 603 | 448 | Java | 40 | [] |
-| zhzyker/vulmap | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | ['exploit', 'rce'] | 2 | 2021-09-06 06:10:30+00:00 | 3389 | 1669 | Python | 322 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-06 00:03:18+00:00 | 395473 | 29 | | 17 | [] |
+| denys-volodarkyi/DV-REV | Temporary working repository for my RCE code | https://github.com/denys-volodarkyi/DV-REV | ['rce'] | 1 | 2021-09-06 09:45:00+00:00 | 14 | 0 | C# | 0 | [] |
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-09-06 08:27:17+00:00 | 324 | 29 | | 2 | [] |
 | Malam-X/DragonMS | DragonMS is Tools for ddos, scanner, tracker, payload generator msfvenom and scraping | https://github.com/Malam-X/DragonMS | ['metasploit module OR payload'] | 1 | 2021-09-06 06:08:46+00:00 | 373 | 18 | Python | 8 | [] |
 | NeverMANE-debug/0daybotvk | nan | https://github.com/NeverMANE-debug/0daybotvk | ['0day'] | 1 | 2021-09-06 07:15:09+00:00 | 202 | 0 | Python | 0 | [] |
