@@ -1,2 +1,3 @@
-match,match_weight,repo_full_name,repo_html_url,repo_id
-VU#47,1.0,handfields/go-rce-kubernetes,https://github.com/handfields/go-rce-kubernetes,340492086
+match,match_weight,repo_url,repo_full_name,repo_id
+VU#47,1.00000000,https://github.com/handfields/go-rce-kubernetes,handfields/go-rce-kubernetes,340492086
+VU#47,0.33333333,https://github.com/patrickhener/CVE-2020-15492,patrickhener/CVE-2020-15492,298218272
