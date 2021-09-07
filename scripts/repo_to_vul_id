@@ -1,0 +1,97 @@
+#!/usr/bin/env python
+"""
+file: repo_to_vul_id
+author: adh
+created_at: 9/7/21 1:00 PM
+"""
+import argparse
+import glob
+import logging
+import os
+import pandas as pd
+from pandas.errors import EmptyDataError
+
+import labyrinth
+from labyrinth.patterns import normalize, id_to_path
+
+
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+hdlr = logging.StreamHandler()
+fmt = logging.Formatter("%(levelname)s %(name)s - %(message)s")
+hdlr.setFormatter(fmt)
+logger.addHandler(hdlr)
+
+_IN_DIR = "data/repo_id"
+
+
+def main(in_dir):
+    glob_pattern = f"{in_dir}/**/*.csv"
+    repo_files = glob.glob(glob_pattern, recursive=True)
+    logger.info(f"Found {len(repo_files)} data files")
+    # read them all
+    _data = []
+    for f in repo_files:
+        try:
+            _data.append(pd.read_csv(f))
+            logger.debug(f"Read {len(_data[-1])} records from {f}")
+        except EmptyDataError as e:
+            continue
+
+    df = pd.concat(_data)
+    df = clean_df(df)
+
+    for gname, group in df.groupby("match"):
+        # gname is a vul id
+        outpath = os.path.join("data", "vul_id", id_to_path(gname))
+        outfile = os.path.join(outpath, f"{gname}.csv")
+
+        if labyrinth.DEBUG:
+            import random
+
+            if random.random() < 0.001:
+                # gname is a vul id
+                print(gname, outfile)
+                print(group.to_csv(index=False, float_format="%0.8f"))
+
+        os.makedirs(outpath, exist_ok=True)
+        group.to_csv(outfile, index=False, float_format="%0.8f")
+
+
+def clean_df(df):
+    # renormalize match strings
+    df["match"] = df["match"].apply(normalize)
+    df = df.drop_duplicates(subset=["repo_id", "match"])
+    df = df.join(
+        df.groupby("repo_id")["match"].nunique(), on="repo_id", rsuffix="_nunique"
+    )
+    df["match_weight"] = 1.0 / df["match_nunique"]
+    df["repo_url"] = df["repo_full_name"].apply(lambda x: f"https://github.com/{x}")
+    keep_cols = ["match", "match_weight", "repo_url", "repo_full_name", "repo_id"]
+    df = pd.DataFrame(df[keep_cols].reset_index(drop=True))
+    df = df.sort_values(by="match_weight", ascending=False)
+    return df
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Process repo/file/match results to list per vul ID"
+    )
+    parser.add_argument("--input_dir", action="store", type=str, default=_IN_DIR)
+
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument("--verbose", "-v", action="store_true", default=False)
+    group.add_argument("--debug", "-d", action="store_true", default=False)
+
+    args = parser.parse_args()
+
+    if args.verbose:
+        labyrinth.VERBOSE = True
+        logger.setLevel(logging.INFO)
+        logger.info("log level: INFO")
+    if args.debug:
+        labyrinth.DEBUG = True
+        logger.setLevel(logging.DEBUG)
+        logger.debug("log level: DEBUG")
+
+    main(args.input_dir)

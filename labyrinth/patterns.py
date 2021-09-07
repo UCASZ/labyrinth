@@ -74,19 +74,19 @@ def normalize(id_str):
     if id_str.startswith("CVE"):
         m = re.match("CVE\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
         if m:
-            return f"CVE-{m.groups()[0]}-{m.groups()[1]}"
+            return f"CVE-{m.groups()[0]}-{int(m.groups()[1]):04d}"
     elif id_str.startswith("BID"):
         m = re.match("BID\D+(\d+)", id_str, re.IGNORECASE)
         if m:
-            return f"BID-{m.groups()[0]}"
+            return f"BID-{int(m.groups()[0])}"
     elif id_str.startswith("SECURITYFOCUS.COM"):
         m = re.match("SECURITYFOCUS\.COM/BID/(\d+)", id_str, re.IGNORECASE)
         if m:
-            return f"BID-{m.groups()[0]}"
+            return f"BID-{int(m.groups()[0])}"
     elif id_str.startswith("OSVDB"):
         m = re.match("OSVDB\D+(\d+)", id_str, re.IGNORECASE)
         if m:
-            return f"OSVDB-{m.groups()[0]}"
+            return f"OSVDB-{int(m.groups()[0])}"
     elif id_str.startswith("VU"):
         m = re.match("VU\D+(\d+)", id_str, re.IGNORECASE)
         if m:
@@ -94,7 +94,7 @@ def normalize(id_str):
     elif id_str.startswith("KB.CERT.ORG"):
         m = re.match("KB\.CERT\.ORG/VULS/ID/(\d+)", id_str, re.IGNORECASE)
         if m:
-            return f"VU#{m.groups()[0]}"
+            return f"VU#{int(m.groups()[0])}"
     elif id_str.startswith("ICSA"):
         m = re.match("ICSA\D+(\d+)\D+(\d+)\D+(\d+\w?)", id_str, re.IGNORECASE)
         if m:
@@ -106,7 +106,7 @@ def normalize(id_str):
     elif id_str.startswith("MS"):
         m = re.match("MS(\d+)\D+(\d+)", id_str, re.IGNORECASE)
         if m:
-            return f"MS{m.groups()[0]}-{m.groups()[1]}"
+            return f"MS{m.groups()[0]}-{int(m.groups()[1]):03d}"
     elif id_str.startswith("ZDI"):
         # Zero Day Initiative has two ID formats
         if id_str.startswith("ZDI-CAN"):
