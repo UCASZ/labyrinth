@@ -11,6 +11,7 @@ on:
 
 jobs:
   search:
+    name: Search
     runs-on: ubuntu-latest
 
     strategy:
@@ -91,7 +92,7 @@ jobs:
       - name: add and commit
         uses: ./.github/actions/commit_results
         with:
-          commit_msg: ${{ github.workflow }} search ${{ steps.date.outputs.yesterday }}..${{ steps.date.outputs.today }} ${{ matrix.search_str }}
+          commit_msg: ${{ jobs.search.name }} for ${{ steps.date.outputs.yesterday }}..${{ steps.date.outputs.today }} ${{ matrix.search_str }}
 
       - name: push results
         uses: ./.github/actions/pull_rebase_push_retry
@@ -134,7 +135,7 @@ jobs:
       - name: add and commit
         uses: ./.github/actions/commit_results
         with:
-          commit_msg: ${{ github.job.name }} for day ${{ steps.date.outputs.yesterday }}
+          commit_msg: ${{ jobs.update_summaries.name }} for day ${{ steps.date.outputs.yesterday }}
 
       - name: summarize today
         uses: ./.github/actions/generate_summaries
@@ -145,7 +146,7 @@ jobs:
       - name: add and commit
         uses: ./.github/actions/commit_results
         with:
-          commit_msg: ${{ github.job.name }} for day ${{ steps.date.outputs.today }}
+          commit_msg: ${{ jobs.update_summaries.name }} for day ${{ steps.date.outputs.today }}
 
       - name: summarize this month
         uses: ./.github/actions/generate_summaries
@@ -156,7 +157,75 @@ jobs:
       - name: add and commit
         uses: ./.github/actions/commit_results
         with:
-          commit_msg: ${{ github.job.name }} for month ${{ steps.date.outputs.this_month }}
+          commit_msg: ${{ jobs.update_summaries.name }} for month ${{ steps.date.outputs.this_month }}
 
       - name: push results
+        uses: ./.github/actions/pull_rebase_push_retry
+
+  deep_dive:
+    name: Deep Dive
+    needs: update_summaries
+    runs-on: ubuntu-latest
+
+    strategy:
+      max-parallel: 11
+      fail-fast: false
+      matrix:
+        mod: [ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9 ]
+
+    steps:
+      - name: Get dates
+        id: date
+        run: |
+          echo "::set-output name=today::$(date +'%Y-%m-%d')"
+          echo "::set-output name=yesterday::$(date -d yesterday '+%Y-%m-%d')"
+          echo "::set-output name=last_day::$(date -d yesterday +'%d')"
+          echo "::set-output name=this_day::$(date +'%d')"
+          echo "::set-output name=this_month::$(date +'%m')"
+          echo "::set-output name=this_year::$(date +'%Y')"
+
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+
+      # in case things have changed since we spawned
+      - name: git pull
+        run: git pull
+
+      - name: do_deep_dive
+        uses: ./.github/actions/deep_dive
+        with:
+          in_dir: results/${{ steps.date.outputs.this_year }}/${{ steps.date.outputs.this_month }}/${{ steps.date.outputs.last_day }}
+          mod: ${{ matrix.mod }}
+          divisor: ${{ 10 }}
+          token: ${{ secrets.VUL_DRILLER_TOKEN }}
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          results_dir: data
+          commit_msg: ${{ jobs.deep_dive.name }} for ${{ steps.date.output.today }} chunk ${{ matrix.mod }}/10
+
+      - name: do_deep_dive
+        uses: ./.github/actions/deep_dive
+        with:
+          in_dir: results/${{ steps.date.outputs.this_year }}/${{ steps.date.outputs.this_month }}/${{ steps.date.outputs.this_day }}
+          mod: ${{ matrix.mod }}
+          divisor: ${{ 10 }}
+          token: ${{ secrets.VUL_DRILLER_TOKEN }}
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          results_dir: data
+          commit_msg: ${{ jobs.deep_dive.name }} for ${{ steps.date.output.today }} chunk ${{ matrix.mod }}/10
+
+      - name: push result
         uses: ./.github/actions/pull_rebase_push_retry

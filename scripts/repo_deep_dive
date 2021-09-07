@@ -8,7 +8,7 @@ import argparse
 import logging
 import os
 import labyrinth
-from labyrinth.repo_processor_2 import process_modulo
+from labyrinth.repo_processor import process_modulo
 
 
 logger = logging.getLogger()
@@ -18,14 +18,18 @@ fmt = logging.Formatter("%(levelname)s %(name)s - %(message)s")
 hdlr.setFormatter(fmt)
 logger.addHandler(hdlr)
 
+_MOD = None
+_DIVISOR = 100
+_RESULTS_DIR = "results"
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Process a set of git repos from a summary and look for patterns in all files within it"
     )
 
-    parser.add_argument("--mod", action="store", type=int)
-    parser.add_argument("--results_dir", action="store", type=str, default="results")
+    parser.add_argument("--mod", action="store", type=int, default=_MOD)
+    parser.add_argument("--divisor", action="store", type=int, default=_DIVISOR)
+    parser.add_argument("--results_dir", action="store", type=str, default=_RESULTS_DIR)
     parser.add_argument("--token", action="store", type=str, default=None)
 
     group = parser.add_mutually_exclusive_group()
@@ -46,4 +50,4 @@ if __name__ == "__main__":
     if args.token is not None:
         labyrinth.GH_TOKEN = args.token
 
-    process_modulo(args.mod, args.results_dir)
+    process_modulo(args.results_dir, args.mod, args.divisor)

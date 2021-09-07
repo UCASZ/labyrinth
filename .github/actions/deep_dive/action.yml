@@ -9,6 +9,10 @@ inputs:
     description: "The chunk (0-99) to dive into"
     required: true
     default: 0
+  divisor:
+    description: "The divisor for the modulo"
+    required: false
+    default: 100
   token:
     description: "a github token"
     required: true
@@ -17,7 +21,7 @@ runs:
   using: "composite"
   steps:
     - name: do_deep_dive
-      run: repo_deep_dive --verbose --mod ${{ inputs.mod }} --results_dir ${{ inputs.in_dir }}
+      run: repo_deep_dive --verbose --mod ${{ inputs.mod }} --divisor ${{ inputs.divisor }} --results_dir ${{ inputs.in_dir }}
       shell: bash
       env:
         GH_TOKEN: ${{ inputs.token }}

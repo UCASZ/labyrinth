@@ -8,7 +8,7 @@ import argparse
 import logging
 
 import labyrinth
-from labyrinth.repo_processor import process_summary
+from labyrinth.repo_processor_old import process_summary
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
