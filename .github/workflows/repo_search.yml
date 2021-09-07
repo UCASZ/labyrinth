@@ -207,12 +207,6 @@ jobs:
           divisor: ${{ 10 }}
           token: ${{ secrets.VUL_DRILLER_TOKEN }}
 
-      - name: add and commit
-        uses: ./.github/actions/commit_results
-        with:
-          results_dir: data
-          commit_msg: Deep Dive for ${{ steps.date.output.today }} chunk ${{ matrix.mod }}/10
-
       - name: do_deep_dive
         uses: ./.github/actions/deep_dive
         with:
@@ -225,7 +219,7 @@ jobs:
         uses: ./.github/actions/commit_results
         with:
           results_dir: data
-          commit_msg: Deep Dive for ${{ steps.date.output.today }} chunk ${{ matrix.mod }}/10
+          commit_msg: Deep Dive for ${{ steps.date.outputs.yesterday }}..${{ steps.date.outputs.today }} chunk ${{ matrix.mod }}/10
 
       - name: push result
         uses: ./.github/actions/pull_rebase_push_retry
