@@ -1,13 +1,12 @@
 
 # Summary for results/2021/09/07
     
-89 records found after deduplication
+91 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-07 00:31:57+00:00 | 565243 | 25015 | Ruby | 11535 | [] |
-| MishDotCom/MDC-WebSploit | Complete set of tools for web level pen testing. | https://github.com/MishDotCom/MDC-WebSploit | ['sploit'] | 1 | 2021-09-07 00:03:43+00:00 | 344 | 3 | C# | 0 | [] |
-| C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-07 16:13:00+00:00 | 37 | 0 | Python | 0 | [] |
+| 32bitmeterpreterwastaken/LucidHub | Cringe Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | ['exploit'] | 1 | 2021-09-07 04:04:07+00:00 | 108 | 0 | | 0 | [] |
 | risacker/Vulnerable_Machine | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system | https://github.com/risacker/Vulnerable_Machine | ['exploit'] | 1 | 2021-09-07 12:23:01+00:00 | 2 | 0 | | 0 | [] |
 | Dinandpower/DisterEX | Roblox Exploit | https://github.com/Dinandpower/DisterEX | ['exploit'] | 1 | 2021-09-07 13:59:07+00:00 | 1 | 0 | PowerShell | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-09-07 09:03:25+00:00 | 65 | 0 | TypeScript | 0 | [] |
@@ -26,10 +25,11 @@
 | Mdot0/Pentesting-Methodology- | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF. | https://github.com/Mdot0/Pentesting-Methodology- | ['exploit'] | 1 | 2021-09-07 17:50:41+00:00 | 758 | 1 | | 0 | [] |
 | Vretlee/Metasploit | Metasploit, Metasploit-FramWork,Install Metasploit Only One Click, Noob Hacker | https://github.com/Vretlee/Metasploit | ['metasploit module OR payload'] | 1 | 2021-09-07 12:32:18+00:00 | 249 | 4 | Shell | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-07 02:05:50+00:00 | 8180 | 2 | Python | 0 | [] |
-| 32bitmeterpreterwastaken/LucidHub | Cringe Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | ['exploit'] | 1 | 2021-09-07 04:04:07+00:00 | 108 | 0 | | 0 | [] |
+| TheSquanch-147/Rugpulls-Hacks-Exploits-List | None | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | ['exploit'] | 1 | 2021-09-07 17:46:47+00:00 | 18 | 25 | | 0 | [] |
+| C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-07 16:13:00+00:00 | 37 | 0 | Python | 0 | [] |
 | Y3A/CVE-2021-3156 | None | https://github.com/Y3A/CVE-2021-3156 | ['cve-2 OR cve_2'] | 1 | 2021-09-07 03:36:31+00:00 | 3 | 0 | Python | 0 | ['CVE-2021-3156'] |
+| deaddlocust/csharp-print-exploit | Print to Roblox console using C# | https://github.com/deaddlocust/csharp-print-exploit | ['exploit'] | 1 | 2021-09-07 07:29:51+00:00 | 417 | 0 | C# | 0 | [] |
 | RyouYoo/CVE-2019-5420 | A vulnerability can allow an attacker to guess the automatically generated development mode secret token. | https://github.com/RyouYoo/CVE-2019-5420 | ['cve-2 OR cve_2'] | 1 | 2021-09-07 12:28:25+00:00 | 0 | 1 | Python | 0 | ['CVE-2019-5420'] |
-| sdushantha/dora | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | ['exploit'] | 1 | 2021-09-07 11:25:23+00:00 | 0 | 0 | Python | 0 | [] |
 | NyDubh3/CuiRi | 一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马 | https://github.com/NyDubh3/CuiRi | ['shellcode'] | 1 | 2021-09-07 15:18:40+00:00 | 0 | 0 | Go | 0 | [] |
 | rcerdab/rcerdab | Config files for my GitHub profile. | https://github.com/rcerdab/rcerdab | ['rce'] | 1 | 2021-09-07 14:50:46+00:00 | 0 | 0 | | 0 | [] |
 | alikarimi999/CVE-2021-21315 | None | https://github.com/alikarimi999/CVE-2021-21315 | ['cve-2 OR cve_2'] | 1 | 2021-09-07 14:38:01+00:00 | 669 | 0 | Python | 0 | ['CVE-2021-21315'] |
@@ -38,8 +38,8 @@
 | GhostFoxSledgehammer/ShellCodeInsertion | None | https://github.com/GhostFoxSledgehammer/ShellCodeInsertion | ['shellcode'] | 1 | 2021-09-07 13:47:02+00:00 | 0 | 0 | Java | 0 | [] |
 | Aviksaikat/CVE-2016-0792 | Modified Verion of CVE-2016-0792 | https://github.com/Aviksaikat/CVE-2016-0792 | ['cve-2 OR cve_2'] | 1 | 2021-09-07 13:16:14+00:00 | 0 | 0 | Python | 0 | ['CVE-2016-0792'] |
 | GlennPegden2/cve-2021-26084-confluence | A quick and dirty PoC of cve-2010-26084 as none of the existing ones worked for me. | https://github.com/GlennPegden2/cve-2021-26084-confluence | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-07 12:23:21+00:00 | 0 | 0 | Python | 0 | ['CVE-2010-26084', 'CVE-2021-26084'] |
+| sdushantha/dora | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | ['exploit'] | 1 | 2021-09-07 11:25:23+00:00 | 0 | 0 | Python | 0 | [] |
 | windows-exploits/windows-exploits.github.io | None | https://github.com/windows-exploits/windows-exploits.github.io | ['exploit'] | 1 | 2021-09-07 11:16:20+00:00 | 0 | 0 | | 0 | [] |
-| c4dr01d/shellcode | Shellcode store | https://github.com/c4dr01d/shellcode | ['shellcode'] | 1 | 2021-09-07 00:12:03+00:00 | 0 | 0 | | 0 | [] |
 | zodi4cx/SQLPwner | Tool for enumerating and exploiting misconfigurations in MS SQL Server | https://github.com/zodi4cx/SQLPwner | ['exploit'] | 1 | 2021-09-07 10:58:57+00:00 | 0 | 0 | C# | 0 | [] |
 | PetrusViet/CVE-2021-39115 | Template Injection in Email Templates leads to code execution on Jira Service Management Server | https://github.com/PetrusViet/CVE-2021-39115 | ['cve-2 OR cve_2'] | 1 | 2021-09-07 17:08:20+00:00 | 5 | 0 | | 0 | ['CVE-2021-39115'] |
 | rekkatz/OctoExploit | OctoPrint - Remmote Command Execution [Authenticated Admin Rights] | https://github.com/rekkatz/OctoExploit | ['exploit'] | 1 | 2021-09-07 09:05:07+00:00 | 0 | 0 | Python | 0 | [] |
@@ -48,10 +48,11 @@
 | git-cardoso/Desenvolvimento_exploits_x86 | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | ['exploit'] | 1 | 2021-09-07 01:57:13+00:00 | 0 | 0 | Assembly | 0 | [] |
 | 1ZRR4H/CVE-2021-26084 | Atlassian Confluence CVE-2021-26084 one-liner mass checker | https://github.com/1ZRR4H/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-09-07 01:16:15+00:00 | 0 | 0 | | 0 | ['CVE-2021-26084'] |
 | synap5e/razor-eop-XIAO | Razor installer elevation of privilege trigger + automation with Seeeduino XIAO | https://github.com/synap5e/razor-eop-XIAO | ['exploit'] | 1 | 2021-09-07 00:55:09+00:00 | 0 | 0 | Python | 0 | [] |
-| TheSquanch-147/Rugpulls-Hacks-Exploits-List | None | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | ['exploit'] | 1 | 2021-09-07 17:46:47+00:00 | 18 | 25 | | 0 | [] |
-| deaddlocust/csharp-print-exploit | Print to Roblox console using C# | https://github.com/deaddlocust/csharp-print-exploit | ['exploit'] | 1 | 2021-09-07 07:29:51+00:00 | 417 | 0 | C# | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-07 05:40:58+00:00 | 21823 | 5943 | JavaScript | 1407 | [] |
+| c4dr01d/shellcode | Shellcode store | https://github.com/c4dr01d/shellcode | ['shellcode'] | 1 | 2021-09-07 00:12:03+00:00 | 0 | 0 | | 0 | [] |
+| MishDotCom/MDC-WebSploit | Complete set of tools for web level pen testing. | https://github.com/MishDotCom/MDC-WebSploit | ['sploit'] | 1 | 2021-09-07 00:03:43+00:00 | 344 | 3 | C# | 0 | [] |
 | gregorycoleman/zeroday-podcast | None | https://github.com/gregorycoleman/zeroday-podcast | ['zeroday'] | 1 | 2021-09-07 07:10:27+00:00 | 5122 | 0 | SCSS | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-07 05:40:58+00:00 | 21823 | 5943 | JavaScript | 1407 | [] |
+| io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-07 19:53:24+00:00 | 352 | 222 | Rust | 12 | [] |
 | mai-lang-chai/Middleware-Vulnerability-detection | CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15 | https://github.com/mai-lang-chai/Middleware-Vulnerability-detection | ['cve poc', 'vulnerability poc'] | 2 | 2021-09-07 02:24:22+00:00 | 346522 | 2014 | Python | 572 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-07 03:11:25+00:00 | 60754 | 1182 | JavaScript | 239 | [] |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-07 13:04:00+00:00 | 1332282 | 3435 | PowerShell | 1194 | [] |
@@ -72,23 +73,24 @@
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-09-07 16:30:28+00:00 | 7524 | 3936 | Python | 564 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-07 05:07:03+00:00 | 234750 | 6431 | C | 1785 | [] |
 | dedsecurity/dedsecurity-framework | Ded Security - Toolkit | https://github.com/dedsecurity/dedsecurity-framework | ['exploit'] | 1 | 2021-09-07 06:39:31+00:00 | 861 | 10 | Python | 8 | [] |
-| io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-07 19:53:24+00:00 | 352 | 222 | Rust | 12 | [] |
 | BuildAPKs/db.BuildAPKs | BuildAPKs' database for built APKs from open source accounts at https://github.com | https://github.com/BuildAPKs/db.BuildAPKs | ['shellcode'] | 1 | 2021-09-07 12:50:43+00:00 | 1369 | 4 | Shell | 1 | [] |
-| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-09-07 18:32:00+00:00 | 5394 | 88 | Python | 33 | [] |
 | PRBonn/LiDAR-MOS | Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | ['exploit'] | 1 | 2021-09-07 15:30:18+00:00 | 42690 | 152 | Python | 26 | [] |
+| amin-tayebi/pentest.smb | penetration test with metasploit to SMB protocol in Windows machine | https://github.com/amin-tayebi/pentest.smb | ['metasploit module OR payload'] | 1 | 2021-09-07 09:32:07+00:00 | 4 | 0 | | 0 | [] |
 | k0rup710n/BinaryExploitation | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | ['exploit'] | 1 | 2021-09-07 12:05:40+00:00 | 13300 | 0 | C | 0 | [] |
 | TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-09-07 13:23:18+00:00 | 6306 | 0 | Python | 1 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-07 00:14:55+00:00 | 43687 | 0 | Python | 0 | [] |
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-09-07 14:03:45+00:00 | 3749 | 0 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-07 04:03:44+00:00 | 53249 | 113 | Python | 30 | [] |
+| Coayala/MetaboDirect | A comprehensive command-line based pipeline for the analysis of direct injection FT-ICR mass spectrometry data | https://github.com/Coayala/MetaboDirect | ['command injection'] | 1 | 2021-09-07 21:14:47+00:00 | 14246 | 0 | R | 0 | [] |
 | IdanBanani/Binary-exploitation-Pwn | None | https://github.com/IdanBanani/Binary-exploitation-Pwn | ['exploit'] | 1 | 2021-09-07 15:06:27+00:00 | 9874 | 0 | C | 0 | [] |
 | abundov/web-exploits | Tools and Exploits | https://github.com/abundov/web-exploits | ['exploit'] | 1 | 2021-09-07 17:07:55+00:00 | 69 | 1 | PHP | 0 | [] |
+| EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-09-07 18:32:00+00:00 | 5394 | 88 | Python | 33 | [] |
 | Gallopsled/gallopsled.github.io | Pwntools Blog | https://github.com/Gallopsled/gallopsled.github.io | ['exploit'] | 1 | 2021-09-07 13:51:10+00:00 | 4926 | 0 | CSS | 1 | [] |
-| amin-tayebi/pentest.smb | penetration test with metasploit to SMB protocol in Windows machine | https://github.com/amin-tayebi/pentest.smb | ['metasploit module OR payload'] | 1 | 2021-09-07 09:32:07+00:00 | 4 | 0 | | 0 | [] |
 | binarytrails/prober | Pentester's toolbox | https://github.com/binarytrails/prober | ['exploit'] | 1 | 2021-09-07 19:39:01+00:00 | 5948 | 4 | Go | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-07 00:03:07+00:00 | 395749 | 29 | | 17 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2021-09-07 10:20:15+00:00 | 151107 | 103 | C | 18 | [] |
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-09-07 10:17:55+00:00 | 2974 | 0 | JavaScript | 1 | [] |
+| Accenture/AARO-Bugs | Vulnerabilities, exploits, and PoCs | https://github.com/Accenture/AARO-Bugs | ['exploit', 'vulnerability poc'] | 2 | 2021-09-07 20:57:22+00:00 | 3081 | 23 | C | 13 | [] |
 | lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2021-09-07 09:48:13+00:00 | 247580 | 0 | Jupyter Notebook | 0 | [] |
 | cribdragg3r/Alaris | A protective and Low Level Shellcode Loader that defeats modern EDR systems. | https://github.com/cribdragg3r/Alaris | ['shellcode'] | 1 | 2021-09-07 15:29:00+00:00 | 1278 | 582 | C | 99 | [] |
 | hugsy/pwn-- | A (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2021-09-07 01:27:55+00:00 | 991 | 30 | C++ | 2 | [] |
