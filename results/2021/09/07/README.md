@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/07
     
-57 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-07 00:31:57+00:00 | 565243 | 25015 | Ruby | 11535 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-07 02:05:50+00:00 | 8180 | 2 | Python | 0 | [] |
+| MishDotCom/MDC-WebSploit | Complete set of tools for web level pen testing. | https://github.com/MishDotCom/MDC-WebSploit | ['sploit'] | 1 | 2021-09-07 00:03:43+00:00 | 344 | 3 | C# | 0 | [] |
+| Vretlee/Metasploit | Metasploit, Metasploit-FramWork,Install Metasploit Only One Click, Noob Hacker | https://github.com/Vretlee/Metasploit | ['metasploit module OR payload'] | 1 | 2021-09-07 12:32:18+00:00 | 249 | 4 | Shell | 0 | [] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-07 09:40:26+00:00 | 227 | 2 | Python | 0 | [] |
 | rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-09-07 11:24:31+00:00 | 8556 | 0 | HTML | 0 | [] |
 | CYBERDEVILZ/Content-Length-Calculator | A console tool developed using Python to calculate the Content-Length of a given Request Body. Perfect for bug bounty hunting. Especially for exploiting HTTP REQUEST SMUGGLING (specifically CL-TE server chain). Now let this tool calculate the Content-Leng | https://github.com/CYBERDEVILZ/Content-Length-Calculator | ['exploit'] | 1 | 2021-09-07 11:31:37+00:00 | 135 | 0 | Python | 0 | [] |
@@ -32,10 +33,11 @@
 | zodi4cx/SQLPwner | Tool for enumerating and exploiting misconfigurations in MS SQL Server | https://github.com/zodi4cx/SQLPwner | ['exploit'] | 1 | 2021-09-07 10:58:57+00:00 | 0 | 0 | C# | 0 | [] |
 | windows-exploits/windows-exploits.github.io | None | https://github.com/windows-exploits/windows-exploits.github.io | ['exploit'] | 1 | 2021-09-07 11:16:20+00:00 | 0 | 0 | | 0 | [] |
 | sdushantha/dora | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | ['exploit'] | 1 | 2021-09-07 11:25:23+00:00 | 0 | 0 | Python | 0 | [] |
-| Vretlee/Metasploit | Metasploit, Metasploit-FramWork,Install Metasploit Only One Click, Noob Hacker | https://github.com/Vretlee/Metasploit | ['metasploit module OR payload'] | 1 | 2021-09-07 12:32:18+00:00 | 249 | 4 | Shell | 0 | [] |
-| MishDotCom/MDC-WebSploit | Complete set of tools for web level pen testing. | https://github.com/MishDotCom/MDC-WebSploit | ['sploit'] | 1 | 2021-09-07 00:03:43+00:00 | 344 | 3 | C# | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-07 05:40:58+00:00 | 21823 | 5943 | JavaScript | 1407 | [] |
+| GlennPegden2/cve-2021-26084-confluence | A quick and dirty PoC of cve-2010-26084 as none of the existing ones worked for me. | https://github.com/GlennPegden2/cve-2021-26084-confluence | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-07 12:23:21+00:00 | 0 | 0 | Python | 0 | ['CVE-2010-26084', 'CVE-2021-26084'] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-07 02:05:50+00:00 | 8180 | 2 | Python | 0 | [] |
 | deaddlocust/csharp-print-exploit | Print to Roblox console using C# | https://github.com/deaddlocust/csharp-print-exploit | ['exploit'] | 1 | 2021-09-07 07:29:51+00:00 | 417 | 0 | C# | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-07 05:40:58+00:00 | 21823 | 5943 | JavaScript | 1407 | [] |
+| gregorycoleman/zeroday-podcast | None | https://github.com/gregorycoleman/zeroday-podcast | ['zeroday'] | 1 | 2021-09-07 07:10:27+00:00 | 5122 | 0 | SCSS | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-07 05:07:03+00:00 | 234750 | 6431 | C | 1785 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-07 00:05:14+00:00 | 1534756 | 1503 | Python | 515 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-07 10:00:14+00:00 | 6158 | 3892 | Python | 536 | [] |
@@ -48,9 +50,11 @@
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-07 05:48:10+00:00 | 292211 | 77 | Python | 13 | [] |
 | carotene4035/os-command-injection | 徳丸本4.11 OSコマンド呼び出しの際に発生する脆弱性 の章まとめです。 | https://github.com/carotene4035/os-command-injection | ['command injection'] | 1 | 2021-09-07 07:44:30+00:00 | 7 | 0 | Perl | 0 | [] |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2021-09-07 09:15:22+00:00 | 987 | 6 | C | 2 | [] |
+| Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-07 13:04:00+00:00 | 1332282 | 3435 | PowerShell | 1194 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-07 03:11:25+00:00 | 60754 | 1182 | JavaScript | 239 | [] |
 | mai-lang-chai/Middleware-Vulnerability-detection | CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15 | https://github.com/mai-lang-chai/Middleware-Vulnerability-detection | ['cve poc', 'vulnerability poc'] | 2 | 2021-09-07 02:24:22+00:00 | 346522 | 2014 | Python | 572 | [] |
 | dedsecurity/dedsecurity-framework | Ded Security - Toolkit | https://github.com/dedsecurity/dedsecurity-framework | ['exploit'] | 1 | 2021-09-07 06:39:31+00:00 | 861 | 10 | Python | 8 | [] |
+| BuildAPKs/db.BuildAPKs | BuildAPKs' database for built APKs from open source accounts at https://github.com | https://github.com/BuildAPKs/db.BuildAPKs | ['shellcode'] | 1 | 2021-09-07 12:50:43+00:00 | 1369 | 4 | Shell | 1 | [] |
 | amin-tayebi/pentest.smb | penetration test with metasploit to SMB protocol in Windows machine | https://github.com/amin-tayebi/pentest.smb | ['metasploit module OR payload'] | 1 | 2021-09-07 09:32:07+00:00 | 4 | 0 | | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-07 06:52:33+00:00 | 23124 | 22 | | 14 | [] |
 | lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2021-09-07 09:48:13+00:00 | 247580 | 0 | Jupyter Notebook | 0 | [] |
@@ -59,6 +63,6 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-07 00:03:07+00:00 | 395749 | 29 | | 17 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-07 04:03:44+00:00 | 53249 | 113 | Python | 30 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-07 00:14:55+00:00 | 43687 | 0 | Python | 0 | [] |
+| TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-09-07 13:23:18+00:00 | 6306 | 0 | Python | 1 | [] |
 | k0rup710n/BinaryExploitation | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | ['exploit'] | 1 | 2021-09-07 12:05:40+00:00 | 13300 | 0 | C | 0 | [] |
-| gregorycoleman/zeroday-podcast | None | https://github.com/gregorycoleman/zeroday-podcast | ['zeroday'] | 1 | 2021-09-07 07:10:27+00:00 | 5122 | 0 | SCSS | 0 | [] |
-| GlennPegden2/cve-2021-26084-confluence | A quick and dirty PoC of cve-2010-26084 as none of the existing ones worked for me. | https://github.com/GlennPegden2/cve-2021-26084-confluence | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-07 12:23:21+00:00 | 0 | 0 | Python | 0 | ['CVE-2010-26084', 'CVE-2021-26084'] |
+| Aviksaikat/CVE-2016-0792 | Modified Verion of CVE-2016-0792 | https://github.com/Aviksaikat/CVE-2016-0792 | ['cve-2 OR cve_2'] | 1 | 2021-09-07 13:16:14+00:00 | 0 | 0 | Python | 0 | ['CVE-2016-0792'] |
