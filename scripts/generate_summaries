@@ -67,7 +67,8 @@ jsonfile_suffix = "_summary.json"
 
 
 def summarize_dir(basedir):
-    df = aggregate_results(basedir)
+    df = read_search_results(basedir)
+    df = prepare_data(df)
 
     dump_json(basedir, df)
     dump_markdown(basedir, df)
@@ -128,52 +129,44 @@ def dump_markdown(basedir, df):
         fp.write("\n")
 
 
-def aggregate_results(basedir):
-    glob_str = os.path.join(basedir, "**", "*.json")
-    logger.info(f"Searching for files matching {glob_str}")
-    file_list = glob.glob(glob_str, recursive=True)
-
-    # we need to ignore our own output
-    file_list = [f for f in file_list if not f.endswith(jsonfile_suffix)]
-
-    logger.info(f"Found {len(file_list)} files")
-    _data = []
-    for f in file_list:
-        _df = pd.read_json(f)
-        _data.append(_df)
-
-    df = pd.concat(_data)
-    df = df.set_index("id")
-    df = df.sort_index()
-
+def prepare_data(df):
+    df = df.sort_values(by="id")
     # clean matches (we don't care about the push dates here)
     df["matched"] = df["matched_on"].replace("\s+pushed:.+", "", regex=True)
-
     # aggregate matches into a list
     df["matched_list"] = (
-        df.reset_index().groupby("id")["matched"].apply(set).apply(list).apply(sorted)
+        df.groupby("id")["matched"].apply(set).apply(list).apply(sorted)
     )
-
     # count the number of matches
     df["matched_count"] = df["matched_list"].apply(len)
-
     # deduplicate, keeping only one row for each github id
-    df = df.reset_index().drop_duplicates(subset="id")
-
+    df = df.drop_duplicates(subset="id")
     # get rid of cols we no longer need
-    df = df.drop(columns=["matched_on", "matched"])
+    df = df.drop(columns=["matched_on", "matched"], errors="ignore")
 
     _concatenated_strings = concat_string_fields(df)
     df["vul_ids"] = _concatenated_strings.apply(find_vul_ids)
-
     # truncate descriptions
     df["description"] = df["description"].astype(str)
     df["description"] = df["description"].str.slice(0, 256)
     # pipe chars mess up our tables
     df["description"] = df["description"].str.replace("|", "_", regex=False)
-
     df = df.sort_values(by="id")
+    return df
 
+
+def read_search_results(basedir):
+    glob_str = os.path.join(basedir, "**", "*.json")
+    logger.info(f"Searching for files matching {glob_str}")
+    file_list = glob.glob(glob_str, recursive=True)
+    # we need to ignore our own output
+    file_list = [f for f in file_list if not f.endswith(jsonfile_suffix)]
+    logger.info(f"Found {len(file_list)} files")
+    _data = []
+    for f in file_list:
+        _df = pd.read_json(f)
+        _data.append(_df)
+    df = pd.concat(_data)
     return df
 
 
