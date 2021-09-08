@@ -131,12 +131,13 @@ def aggregate_results(basedir):
     file_list = [f for f in file_list if not f.endswith(jsonfile_suffix)]
 
     print(f"Found {len(file_list)} files")
-    df = pd.DataFrame()
+    _data = []
     for f in file_list:
         _df = pd.read_json(f)
         # print(f"Adding {len(_df)} lines from {f}")
-        df = df.append(_df)
+        _data.append(_df)
 
+    df = pd.concat(_data)
     df = df.set_index("id")
     df = df.sort_index()
 
