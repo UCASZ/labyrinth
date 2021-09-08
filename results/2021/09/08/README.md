@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/08
     
-55 records found after deduplication
+56 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-08 03:31:32+00:00 | 566226 | 25023 | Ruby | 11537 | [] |
-| C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-08 02:09:28+00:00 | 44 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-08 04:05:41+00:00 | 21823 | 5945 | JavaScript | 1408 | [] |
 | Vedant-Bhalgama/OSCP-buffer-overflow-prep | So recently, I started off with some basic exploit development, Here is a collection of all the stack overflow exploits I programmed for practicing Buffer OverFlows! | https://github.com/Vedant-Bhalgama/OSCP-buffer-overflow-prep | ['exploit'] | 1 | 2021-09-08 03:01:08+00:00 | 8 | 4 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-08 03:22:52+00:00 | 8342 | 2 | Python | 0 | [] |
 | Edgarloyola/CVE-2021-36563 | None | https://github.com/Edgarloyola/CVE-2021-36563 | ['cve-2 OR cve_2'] | 1 | 2021-09-08 08:56:37+00:00 | 3249 | 0 | | 0 | ['CVE-2021-36563'] |
@@ -18,22 +18,23 @@
 | exploiteverythingtamil/exploiteverythingtamil.github.io | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-09-08 10:58:17+00:00 | 5298 | 1 | CSS | 0 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-09-08 12:39:18+00:00 | 85664 | 0 | PowerShell | 0 | [] |
 | duc-nt/RCE-0-day-for-GhostScript-9.50 | RCE 0-day for GhostScript 9.50 - Payload generator | https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50 | ['rce'] | 1 | 2021-09-08 05:18:42+00:00 | 6 | 318 | Python | 80 | [] |
+| C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-08 02:09:28+00:00 | 44 | 0 | Python | 0 | [] |
 | 32bitmeterpreterwastaken/LucidHub | Cringe Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | ['exploit'] | 1 | 2021-09-08 00:32:37+00:00 | 140 | 0 | | 0 | [] |
-| FishyBreak/DiscSploit | A Discord Server Destroyer | https://github.com/FishyBreak/DiscSploit | ['sploit'] | 1 | 2021-09-08 01:38:56+00:00 | 51 | 1 | JavaScript | 0 | [] |
 | knight0x07/ImpulsiveDLLHijack | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's. | https://github.com/knight0x07/ImpulsiveDLLHijack | ['exploit'] | 1 | 2021-09-08 12:12:56+00:00 | 2081 | 0 | C# | 0 | [] |
-| NyDubh3/CuiRi | 一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马。 | https://github.com/NyDubh3/CuiRi | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-09-08 02:46:20+00:00 | 3602 | 4 | Go | 0 | [] |
+| NyDubh3/CuiRi | 一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马 | https://github.com/NyDubh3/CuiRi | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-09-08 02:34:00+00:00 | 3595 | 2 | Go | 0 | [] |
+| cccyclops/skoop-secure | a meme exploit script obfuscator (only runs on synapse x). | https://github.com/cccyclops/skoop-secure | ['exploit'] | 1 | 2021-09-08 11:15:34+00:00 | 463 | 0 | C++ | 0 | [] |
 | iiRezux/Exploit | None | https://github.com/iiRezux/Exploit | ['exploit'] | 1 | 2021-09-08 00:14:25+00:00 | 0 | 0 | | 0 | [] |
 | HudsonDuke19/prison-life-gun-giver | A Roblox exploit script that gives you a gun in Prison Life | https://github.com/HudsonDuke19/prison-life-gun-giver | ['exploit'] | 1 | 2021-09-08 01:39:40+00:00 | 0 | 0 | Lua | 0 | [] |
 | 4RG0S/2021-Fall-Some-Day-Exploit | None | https://github.com/4RG0S/2021-Fall-Some-Day-Exploit | ['exploit'] | 1 | 2021-09-08 01:16:18+00:00 | 0 | 0 | | 0 | [] |
 | ethicalhackersrepo/Os_Command_Injection_Payload_List | nan | https://github.com/ethicalhackersrepo/Os_Command_Injection_Payload_List | ['command injection'] | 1 | 2021-09-08 01:24:48+00:00 | 0 | 0 | nan | 0 | [] |
 | havannam/shellcodebase64 | None | https://github.com/havannam/shellcodebase64 | ['shellcode'] | 1 | 2021-09-08 01:43:37+00:00 | 0 | 0 | | 0 | [] |
 | deathflash1411/Exploits | None | https://github.com/deathflash1411/Exploits | ['exploit'] | 1 | 2021-09-08 04:35:01+00:00 | 0 | 0 | Python | 0 | [] |
-| ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-08 08:33:45+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-40444'] |
+| ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-08 08:33:45+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
 | dock0d1/CVE-2021-26084_Confluence | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-08 11:04:53+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-26084'] |
 | wafinfo/Bypass | 免杀shellcode | https://github.com/wafinfo/Bypass | ['shellcode'] | 1 | 2021-09-08 11:10:43+00:00 | 0 | 1 | | 0 | [] |
 | PRBonn/LiDAR-MOS | Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | ['exploit'] | 1 | 2021-09-08 06:20:44+00:00 | 42693 | 153 | Python | 27 | [] |
+| FishyBreak/DiscSploit | A Discord Server Destroyer | https://github.com/FishyBreak/DiscSploit | ['sploit'] | 1 | 2021-09-08 01:38:56+00:00 | 51 | 1 | JavaScript | 0 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-08 07:19:10+00:00 | 98577 | 0 | JavaScript | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-08 04:05:41+00:00 | 21823 | 5945 | JavaScript | 1408 | [] |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-08 11:33:05+00:00 | 1332344 | 3439 | PowerShell | 1196 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-08 08:24:15+00:00 | 45850 | 844 | Python | 198 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-08 05:07:01+00:00 | 221010 | 6437 | C | 1787 | [] |
