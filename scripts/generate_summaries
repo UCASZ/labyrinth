@@ -17,7 +17,7 @@ import logging
 import labyrinth
 from labyrinth.date_helpers import day_type, month_type, year_type
 from labyrinth.patterns import find_vul_ids
-from labyrinth.repo_processor_old import concat_string_fields
+from labyrinth.repo_processor import concat_string_fields
 
 logger = logging.getLogger()
 hdlr = logging.StreamHandler()
@@ -134,8 +134,11 @@ def prepare_data(df):
     # clean matches (we don't care about the push dates here)
     df["matched"] = df["matched_on"].replace("\s+pushed:.+", "", regex=True)
     # aggregate matches into a list
-    df["matched_list"] = (
-        df.groupby("id")["matched"].apply(set).apply(list).apply(sorted)
+
+    df = df.join(
+        df.groupby("id")["matched"].apply(set).apply(list).apply(sorted),
+        on="id",
+        rsuffix="_list",
     )
     # count the number of matches
     df["matched_count"] = df["matched_list"].apply(len)
