@@ -17,7 +17,7 @@ import logging
 import labyrinth
 from labyrinth.date_helpers import day_type, month_type, year_type
 from labyrinth.patterns import find_vul_ids
-from labyrinth.repo_processor_old import concat_string_fields
+from labyrinth.repo_processor import concat_string_fields
 
 logger = logging.getLogger()
 hdlr = logging.StreamHandler()

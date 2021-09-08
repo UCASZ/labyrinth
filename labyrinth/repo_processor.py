@@ -258,3 +258,19 @@ def process_modulo(top_dir, mod=None, divisor=100):
         dump_results_by_repo(df)
     else:
         logger.warning("No results found")
+
+
+def concat_string_fields(df):
+    cols2check = [
+        "full_name",
+        "html_url",
+        "description",
+        "url",
+        "homepage",
+    ]
+    # concatenate some string columns so we can do a single vul ID pattern match
+    # note that this has to be done before we truncate the descriptions in the next step
+    _concatenated_strings = (
+        df[cols2check].fillna("").applymap(str).agg(" ".join, axis=1)
+    )
+    return _concatenated_strings
