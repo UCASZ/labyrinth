@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/08
     
-24 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -12,7 +12,7 @@
 | 4RG0S/2021-Fall-Some-Day-Exploit | None | https://github.com/4RG0S/2021-Fall-Some-Day-Exploit | ['exploit'] | 1 | 2021-09-08 01:16:18+00:00 | 0 | 0 | | 0 | [] |
 | HudsonDuke19/prison-life-gun-giver | A Roblox exploit script that gives you a gun in Prison Life | https://github.com/HudsonDuke19/prison-life-gun-giver | ['exploit'] | 1 | 2021-09-08 01:39:40+00:00 | 0 | 0 | Lua | 0 | [] |
 | iiRezux/Exploit | None | https://github.com/iiRezux/Exploit | ['exploit'] | 1 | 2021-09-08 00:14:25+00:00 | 0 | 0 | | 0 | [] |
-| NyDubh3/CuiRi | 一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马。 | https://github.com/NyDubh3/CuiRi | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-09-08 02:46:20+00:00 | 3602 | 4 | Go | 0 | [] |
+| NyDubh3/CuiRi | 一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马 | https://github.com/NyDubh3/CuiRi | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-09-08 02:34:00+00:00 | 3595 | 2 | Go | 0 | [] |
 | 32bitmeterpreterwastaken/LucidHub | Cringe Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | ['exploit'] | 1 | 2021-09-08 00:32:37+00:00 | 140 | 0 | | 0 | [] |
 | C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-08 02:09:28+00:00 | 44 | 0 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-08 02:31:04+00:00 | 21 | 2 | JavaScript | 1 | [] |
@@ -25,7 +25,9 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-08 00:03:31+00:00 | 402265 | 30 | | 17 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-08 00:52:34+00:00 | 23783 | 22 | | 14 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-08 03:00:28+00:00 | 60755 | 1182 | JavaScript | 240 | [] |
+| Haquor/cloudme-exploit | BOF exploit for CloudMe concept code | https://github.com/Haquor/cloudme-exploit | ['exploit'] | 1 | 2021-09-08 05:18:40+00:00 | 1 | 1 | Python | 0 | [] |
 | Al1ex/CVE-2017-16995 | CVE-2017-16995（Ubuntu本地提权漏洞） | https://github.com/Al1ex/CVE-2017-16995 | ['cve-2 OR cve_2'] | 1 | 2021-09-08 03:53:24+00:00 | 5 | 5 | C | 5 | ['CVE-2017-16995'] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-08 00:16:57+00:00 | 113726 | 247 | Ruby | 75 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-08 00:05:16+00:00 | 1534756 | 1503 | Python | 515 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-08 05:07:01+00:00 | 221010 | 6437 | C | 1787 | [] |
 | deathflash1411/Exploits | None | https://github.com/deathflash1411/Exploits | ['exploit'] | 1 | 2021-09-08 04:35:01+00:00 | 0 | 0 | Python | 0 | [] |
