@@ -12,11 +12,17 @@ import numpy as np
 import argparse
 import re
 
-# TODO: add logging instead of prints
+import logging
 
+import labyrinth
 from labyrinth.date_helpers import day_type, month_type, year_type
 from labyrinth.patterns import find_vul_ids
 from labyrinth.repo_processor_old import concat_string_fields
+
+logger = logging.getLogger()
+hdlr = logging.StreamHandler()
+logger.addHandler(hdlr)
+logger.setLevel(logging.INFO)
 
 keep_cols = [
     # "id",
@@ -80,7 +86,7 @@ def get_name_pfx_from_path(p):
 def dump_json(basedir, df):
     pfx = get_name_pfx_from_path(basedir)
     outfile = os.path.join(basedir, f"{pfx}{jsonfile_suffix}")
-    print(f"Writing {outfile}", flush=True)
+    logger.info(f"Writing {outfile}")
     df.to_json(
         path_or_buf=outfile,
         indent=2,
@@ -100,7 +106,7 @@ def dump_markdown(basedir, df):
 {len(df)} records found after deduplication
 
 """
-    print(f"Writing {outfile}", flush=True)
+    logger.info(f"Writing {outfile}")
 
     with open(outfile, "w") as fp:
         fp.write(preamble)
@@ -124,17 +130,16 @@ def dump_markdown(basedir, df):
 
 def aggregate_results(basedir):
     glob_str = os.path.join(basedir, "**", "*.json")
-    print(f"Searching for files matching {glob_str}")
+    logger.info(f"Searching for files matching {glob_str}")
     file_list = glob.glob(glob_str, recursive=True)
 
     # we need to ignore our own output
     file_list = [f for f in file_list if not f.endswith(jsonfile_suffix)]
 
-    print(f"Found {len(file_list)} files")
+    logger.info(f"Found {len(file_list)} files")
     _data = []
     for f in file_list:
         _df = pd.read_json(f)
-        # print(f"Adding {len(_df)} lines from {f}")
         _data.append(_df)
 
     df = pd.concat(_data)
@@ -253,7 +258,20 @@ if __name__ == "__main__":
         help="Generate year, month, and day summaries for --year or month and day summaries for --month",
     )
 
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument("--verbose", "-v", action="store_true", default=False)
+    group.add_argument("--debug", "-d", action="store_true", default=False)
+
     args = parser.parse_args()
+
+    if args.verbose:
+        labyrinth.VERBOSE = True
+        logger.setLevel(logging.INFO)
+        logger.info("log level: INFO")
+    if args.debug:
+        labyrinth.DEBUG = True
+        logger.setLevel(logging.DEBUG)
+        logger.debug("log level: DEBUG")
 
     results_dir = args.results_dir
 
@@ -277,5 +295,4 @@ if __name__ == "__main__":
         if os.path.exists(dd):
             md, d = os.path.split(dd)
             day = int(d)
-            print(dd, md, d, day)
             summarize_day(day, md)
