@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/08
     
-20 records found after deduplication
+24 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-08 03:31:32+00:00 | 566226 | 25023 | Ruby | 11537 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-08 00:05:16+00:00 | 1534756 | 1503 | Python | 515 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-08 04:05:41+00:00 | 21823 | 5945 | JavaScript | 1408 | [] |
+| havannam/shellcodebase64 | None | https://github.com/havannam/shellcodebase64 | ['shellcode'] | 1 | 2021-09-08 01:43:37+00:00 | 0 | 0 | | 0 | [] |
 | ethicalhackersrepo/Os_Command_Injection_Payload_List | nan | https://github.com/ethicalhackersrepo/Os_Command_Injection_Payload_List | ['command injection'] | 1 | 2021-09-08 01:24:48+00:00 | 0 | 0 | nan | 0 | [] |
 | 4RG0S/2021-Fall-Some-Day-Exploit | None | https://github.com/4RG0S/2021-Fall-Some-Day-Exploit | ['exploit'] | 1 | 2021-09-08 01:16:18+00:00 | 0 | 0 | | 0 | [] |
 | HudsonDuke19/prison-life-gun-giver | A Roblox exploit script that gives you a gun in Prison Life | https://github.com/HudsonDuke19/prison-life-gun-giver | ['exploit'] | 1 | 2021-09-08 01:39:40+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -20,8 +21,11 @@
 | Vedant-Bhalgama/OSCP-buffer-overflow-prep | So recently, I started off with some basic exploit development, Here is a collection of all the stack overflow exploits I programmed for practicing Buffer OverFlows! | https://github.com/Vedant-Bhalgama/OSCP-buffer-overflow-prep | ['exploit'] | 1 | 2021-09-08 03:01:08+00:00 | 8 | 4 | Python | 0 | [] |
 | FishyBreak/DiscSploit | A Discord Server Destroyer | https://github.com/FishyBreak/DiscSploit | ['sploit'] | 1 | 2021-09-08 01:38:56+00:00 | 51 | 1 | JavaScript | 0 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-08 01:57:37+00:00 | 50464 | 0 | Python | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-08 04:02:39+00:00 | 56518 | 114 | Python | 30 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-08 00:03:31+00:00 | 402265 | 30 | | 17 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-08 00:52:34+00:00 | 23783 | 22 | | 14 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-08 03:00:28+00:00 | 60755 | 1182 | JavaScript | 240 | [] |
+| Al1ex/CVE-2017-16995 | CVE-2017-16995（Ubuntu本地提权漏洞） | https://github.com/Al1ex/CVE-2017-16995 | ['cve-2 OR cve_2'] | 1 | 2021-09-08 03:53:24+00:00 | 5 | 5 | C | 5 | ['CVE-2017-16995'] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-08 00:16:57+00:00 | 113726 | 247 | Ruby | 75 | [] |
-| havannam/shellcodebase64 | None | https://github.com/havannam/shellcodebase64 | ['shellcode'] | 1 | 2021-09-08 01:43:37+00:00 | 0 | 0 | | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-08 00:05:16+00:00 | 1534756 | 1503 | Python | 515 | [] |
+| deathflash1411/Exploits | None | https://github.com/deathflash1411/Exploits | ['exploit'] | 1 | 2021-09-08 04:35:01+00:00 | 0 | 0 | Python | 0 | [] |
