@@ -6,9 +6,8 @@ created_at: 9/2/21 2:58 PM
 """
 import argparse
 import logging
-import os
 import labyrinth
-from labyrinth.repo_processor import process_modulo
+from labyrinth.repo_processor import process_modulo, set_max_age
 
 
 logger = logging.getLogger()
@@ -21,6 +20,7 @@ logger.addHandler(hdlr)
 _MOD = None
 _DIVISOR = 100
 _RESULTS_DIR = "results"
+_MAX_AGE = 14  # in days, how long until we revisit a repo we already looked at?
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
@@ -31,6 +31,7 @@ if __name__ == "__main__":
     parser.add_argument("--divisor", action="store", type=int, default=_DIVISOR)
     parser.add_argument("--results_dir", action="store", type=str, default=_RESULTS_DIR)
     parser.add_argument("--token", action="store", type=str, default=None)
+    parser.add_argument("--max_age", action="store", type=int, default=_MAX_AGE)
 
     group = parser.add_mutually_exclusive_group()
     group.add_argument("--verbose", "-v", action="store_true", default=False)
@@ -49,5 +50,7 @@ if __name__ == "__main__":
 
     if args.token is not None:
         labyrinth.GH_TOKEN = args.token
+
+    set_max_age(args.max_age)
 
     process_modulo(args.results_dir, args.mod, args.divisor)

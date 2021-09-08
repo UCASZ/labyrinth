@@ -206,6 +206,7 @@ jobs:
           mod: ${{ matrix.mod }}
           divisor: ${{ 10 }}
           token: ${{ secrets.VUL_DRILLER_TOKEN }}
+          max_age: 1
 
       - name: do_deep_dive
         uses: ./.github/actions/deep_dive
@@ -214,6 +215,7 @@ jobs:
           mod: ${{ matrix.mod }}
           divisor: ${{ 10 }}
           token: ${{ secrets.VUL_DRILLER_TOKEN }}
+          max_age: 1
 
       - name: add and commit
         uses: ./.github/actions/commit_results

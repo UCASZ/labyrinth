@@ -16,12 +16,16 @@ inputs:
   token:
     description: "a github token"
     required: true
+  max_age:
+    description: "days to wait before rechecking a repo"
+    required: false
+    default: 14
 
 runs:
   using: "composite"
   steps:
     - name: do_deep_dive
-      run: repo_deep_dive --verbose --mod ${{ inputs.mod }} --divisor ${{ inputs.divisor }} --results_dir ${{ inputs.in_dir }}
+      run: repo_deep_dive --verbose --mod ${{ inputs.mod }} --divisor ${{ inputs.divisor }} --results_dir ${{ inputs.in_dir }} --max_age ${{ inputs.max_age }}
       shell: bash
       env:
         GH_TOKEN: ${{ inputs.token }}

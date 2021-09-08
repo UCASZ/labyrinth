@@ -26,7 +26,12 @@ logger = logging.getLogger(__name__)
 DAYHOURS = 24
 DAYMIN = DAYHOURS * 60  # 1440
 DAYSEC = DAYMIN * 60  # 86400
-AGE_LIMIT_DAYS = 14
+AGE_LIMIT_DAYS = 14  # might get overwritten at runtime
+
+
+def set_max_age(age_limit):
+    global AGE_LIMIT_DAYS
+    AGE_LIMIT_DAYS = age_limit
 
 
 def process_git_url(clone_from, workdir):
