@@ -31,12 +31,20 @@ def main(in_dir):
     logger.info(f"Found {len(repo_files)} data files")
     # read them all
     _data = []
-    for f in repo_files:
+    for i, f in enumerate(repo_files):
+        if i % 100 == 0:
+            logger.info(f"{i} files read so far from {in_dir}")
+
         try:
-            _data.append(pd.read_csv(f))
-            logger.debug(f"Read {len(_data[-1])} records from {f}")
+            _df = pd.read_csv(f)
         except EmptyDataError as e:
             continue
+
+        _n_read = len(_df)
+        _df["match"] = _df["match"].apply(normalize)
+        _df = _df.drop_duplicates(subset=["repo_id", "match"])
+        logger.debug(f"Adding {len(_df)} / {_n_read} records from {f}")
+        _data.append(_df)
 
     df = pd.concat(_data)
     df = clean_df(df)
