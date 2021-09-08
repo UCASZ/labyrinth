@@ -180,6 +180,8 @@ def scan_repos(top_dir, mod=None, divisor=100):
         logger.debug(f"Found {len(df)} results so far")
 
     logger.info(f"Found {len(df)} search results to process")
+    if len(df) == 0:
+        return pd.DataFrame()
 
     # start small, get bigger
     df = df.sort_values(by="size", ascending=True)
