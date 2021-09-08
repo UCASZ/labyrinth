@@ -223,3 +223,36 @@ jobs:
 
       - name: push result
         uses: ./.github/actions/pull_rebase_push_retry
+
+  repo2vulid:
+    name: Repo to Vul IDs
+    needs: deep_dive
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: setup env
+        uses: ./.github/actions/setup_my_env
+
+      # in case things have changed since we spawned
+      - name: git pull
+        run: git pull
+
+      - name: do_deep_dive
+        run: repo_to_vul_id --verbose --input_dir data/repo_id
+
+      - name: add and commit
+        uses: ./.github/actions/commit_results
+        with:
+          results_dir: data/vul_id
+          commit_msg: Update vulnerability ID data
+
+      - name: push result
+        uses: ./.github/actions/pull_rebase_push_retry
