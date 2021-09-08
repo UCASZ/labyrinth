@@ -8,6 +8,7 @@ import argparse
 import glob
 import logging
 import os
+import random
 import pandas as pd
 from pandas.errors import EmptyDataError
 
@@ -26,6 +27,42 @@ _IN_DIR = "data/repo_id"
 
 
 def main(in_dir):
+    df = read_repo_summaries(in_dir)
+    write_vul_id_summaries(df)
+
+
+def write_vul_id_summaries(df):
+    for gname, group in df.groupby("match"):
+        _write_vul_id_summary(gname, group)
+
+
+def _write_vul_id_summary(vul_id, df):
+    outpath = os.path.join("data", "vul_id", id_to_path(vul_id))
+    outfile = os.path.join(outpath, f"{vul_id}.csv")
+    if labyrinth.DEBUG:
+        _maybe_log(df, outfile, vul_id)
+    os.makedirs(outpath, exist_ok=True)
+    df.to_csv(outfile, index=False, float_format="%0.8f")
+
+
+def _maybe_log(df, outfile, vul_id):
+    if random.random() < 0.001:
+        print(vul_id, outfile)
+        print(df.to_csv(index=False, float_format="%0.8f"))
+
+
+def _read_repo_summary(csvfile):
+    try:
+        df = pd.read_csv(csvfile)
+    except EmptyDataError as e:
+        return None
+
+    df["match"] = df["match"].apply(normalize)
+    df = df.drop_duplicates(subset=["repo_id", "match"])
+    return df
+
+
+def read_repo_summaries(in_dir):
     glob_pattern = f"{in_dir}/**/*.csv"
     repo_files = glob.glob(glob_pattern, recursive=True)
     logger.info(f"Found {len(repo_files)} data files")
@@ -35,38 +72,18 @@ def main(in_dir):
         if i % 100 == 0:
             logger.info(f"{i} files read so far from {in_dir}")
 
-        try:
-            _df = pd.read_csv(f)
-        except EmptyDataError as e:
+        _df = _read_repo_summary(csvfile=f)
+        if _df is None:
             continue
 
-        _n_read = len(_df)
-        _df["match"] = _df["match"].apply(normalize)
-        _df = _df.drop_duplicates(subset=["repo_id", "match"])
-        logger.debug(f"Adding {len(_df)} / {_n_read} records from {f}")
+        logger.debug(f"Adding {len(_df)} records from {f}")
         _data.append(_df)
-
     df = pd.concat(_data)
-    df = clean_df(df)
-
-    for gname, group in df.groupby("match"):
-        # gname is a vul id
-        outpath = os.path.join("data", "vul_id", id_to_path(gname))
-        outfile = os.path.join(outpath, f"{gname}.csv")
-
-        if labyrinth.DEBUG:
-            import random
-
-            if random.random() < 0.001:
-                # gname is a vul id
-                print(gname, outfile)
-                print(group.to_csv(index=False, float_format="%0.8f"))
-
-        os.makedirs(outpath, exist_ok=True)
-        group.to_csv(outfile, index=False, float_format="%0.8f")
+    df = _clean_df(df)
+    return df
 
 
-def clean_df(df):
+def _clean_df(df):
     # renormalize match strings
     df["match"] = df["match"].apply(normalize)
     df = df.drop_duplicates(subset=["repo_id", "match"])
