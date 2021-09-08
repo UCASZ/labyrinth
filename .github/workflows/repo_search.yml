@@ -245,7 +245,7 @@ jobs:
       - name: git pull
         run: git pull
 
-      - name: do_deep_dive
+      - name: extract vul ids
         run: repo_to_vul_id --verbose --input_dir data/repo_id
 
       - name: add and commit

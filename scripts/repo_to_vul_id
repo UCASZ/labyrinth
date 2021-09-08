@@ -69,7 +69,7 @@ def clean_df(df):
     df["repo_url"] = df["repo_full_name"].apply(lambda x: f"https://github.com/{x}")
     keep_cols = ["match", "match_weight", "repo_url", "repo_full_name", "repo_id"]
     df = pd.DataFrame(df[keep_cols].reset_index(drop=True))
-    df = df.sort_values(by="match_weight", ascending=False)
+    df = df.sort_values(by=["match_weight", "repo_id"], ascending=False)
     return df
 
 
