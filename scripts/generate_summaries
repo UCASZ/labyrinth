@@ -134,8 +134,11 @@ def prepare_data(df):
     # clean matches (we don't care about the push dates here)
     df["matched"] = df["matched_on"].replace("\s+pushed:.+", "", regex=True)
     # aggregate matches into a list
-    df["matched_list"] = (
-        df.groupby("id")["matched"].apply(set).apply(list).apply(sorted)
+
+    df = df.join(
+        df.groupby("id")["matched"].apply(set).apply(list).apply(sorted),
+        on="id",
+        rsuffix="_list",
     )
     # count the number of matches
     df["matched_count"] = df["matched_list"].apply(len)
