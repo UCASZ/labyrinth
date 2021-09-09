@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/08
     
-94 records found after deduplication
+95 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------------------------|
@@ -28,8 +28,8 @@
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-09-08 19:02:17+00:00 | 28430 | 0 | Python | 0 | [] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-08 17:32:52+00:00 | 265 | 2 | Python | 0 | [] |
 | sdushantha/dora | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | ['exploit'] | 1 | 2021-09-08 16:28:12+00:00 | 2254 | 35 | Python | 5 | [] |
-| NyDubh3/CuiRi | 一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马 | https://github.com/NyDubh3/CuiRi | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-09-08 02:34:00+00:00 | 3595 | 2 | Go | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-08 04:05:41+00:00 | 21823 | 5945 | JavaScript | 1408 | [] |
+| NyDubh3/CuiRi | 一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马。 | https://github.com/NyDubh3/CuiRi | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-09-08 02:46:20+00:00 | 3602 | 4 | Go | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-08 03:22:52+00:00 | 8342 | 2 | Python | 0 | [] |
 | illicitco/Working-POC-of-Fei-Protocol-Vulnerability | None | https://github.com/illicitco/Working-POC-of-Fei-Protocol-Vulnerability | ['vulnerability poc'] | 1 | 2021-09-08 11:21:33+00:00 | 0 | 0 | | 0 | [] |
 | Quark064/Wii-U-Exploit-Automation | ??? Maybe this will work?? | https://github.com/Quark064/Wii-U-Exploit-Automation | ['exploit'] | 1 | 2021-09-08 21:58:37+00:00 | 0 | 0 | | 0 | [] |
 | parrothacker1/rust-metasploit-example | An practical application of rust-metasploit | https://github.com/parrothacker1/rust-metasploit-example | ['metasploit module OR payload'] | 1 | 2021-09-08 20:18:33+00:00 | 0 | 0 | | 0 | [] |
@@ -52,11 +52,11 @@
 | HudsonDuke19/prison-life-gun-giver | A Roblox exploit script that gives you a gun in Prison Life | https://github.com/HudsonDuke19/prison-life-gun-giver | ['exploit'] | 1 | 2021-09-08 01:39:40+00:00 | 0 | 0 | Lua | 0 | [] |
 | iiRezux/Exploit | None | https://github.com/iiRezux/Exploit | ['exploit'] | 1 | 2021-09-08 00:14:25+00:00 | 0 | 0 | | 0 | [] |
 | Edgarloyola/CVE-2021-36563 | None | https://github.com/Edgarloyola/CVE-2021-36563 | ['cve-2 OR cve_2'] | 1 | 2021-09-08 08:56:37+00:00 | 3249 | 0 | | 0 | ['CVE-2021-36563'] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-08 03:22:52+00:00 | 8342 | 2 | Python | 0 | [] |
 | Jonah246/tfusd-flashloan-attack-write-up | Write-up and functional exploit of tfUSD (TrueFi ) 50M worth of bug. | https://github.com/Jonah246/tfusd-flashloan-attack-write-up | ['exploit'] | 1 | 2021-09-08 14:30:16+00:00 | 26 | 4 | Solidity | 1 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-08 04:05:41+00:00 | 21823 | 5945 | JavaScript | 1408 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-08 08:30:09+00:00 | 292244 | 77 | Python | 13 | [] |
-| preco21/destiny-macros | A collection of Destiny 2 macros built with AutoHotKey | https://github.com/preco21/destiny-macros | ['exploit'] | 1 | 2021-09-08 10:10:49+00:00 | 193 | 19 | AutoHotkey | 7 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-08 03:00:28+00:00 | 60755 | 1182 | JavaScript | 240 | [] |
+| hkzhang91/ST-CLSTM | Code of paper: Exploiting temporal consistency for real-time video depth estimation (ICCV 2019) | https://github.com/hkzhang91/ST-CLSTM | ['exploit'] | 1 | 2021-09-08 01:20:24+00:00 | 316205 | 76 | Python | 18 | [] |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-08 11:33:05+00:00 | 1332344 | 3439 | PowerShell | 1196 | [] |
 | Haquor/cloudme-exploit | BOF exploit for CloudMe concept code | https://github.com/Haquor/cloudme-exploit | ['exploit'] | 1 | 2021-09-08 05:18:40+00:00 | 1 | 1 | Python | 0 | [] |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2021-09-08 06:25:12+00:00 | 992 | 6 | C | 2 | [] |
@@ -65,7 +65,7 @@
 | pieromacaluso/Deep-RL-Autonomous-Systems | Designing a control system to exploit model-free deep reinforcement learning algorithms to solve a real-world autonomous driving task of a small robot. | https://github.com/pieromacaluso/Deep-RL-Autonomous-Systems | ['exploit'] | 1 | 2021-09-08 01:42:38+00:00 | 334554 | 7 | Python | 2 | [] |
 | Al1ex/CVE-2017-16995 | CVE-2017-16995（Ubuntu本地提权漏洞） | https://github.com/Al1ex/CVE-2017-16995 | ['cve-2 OR cve_2'] | 1 | 2021-09-08 03:53:24+00:00 | 5 | 5 | C | 5 | ['CVE-2017-16995'] |
 | zi0Black/POC-CVE-2018-0114 | This repository contains the POC of an exploit for node-jose < 0.11.0 | https://github.com/zi0Black/POC-CVE-2018-0114 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-09-08 09:46:24+00:00 | 12 | 23 | Python | 10 | ['CVE-2018-0114'] |
-| sogonsec/ViolentFungus-C2 | Violent Fungus is a command and control (C2) software suite, providing red teams post-exploitation persistence and other juicy stuff. WIP. | https://github.com/sogonsec/ViolentFungus-C2 | ['exploit'] | 1 | 2021-09-08 20:38:30+00:00 | 61 | 13 | C++ | 0 | [] |
+| io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-08 19:15:12+00:00 | 352 | 223 | Rust | 12 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2021-09-08 20:21:54+00:00 | 3523 | 977 | C | 150 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-08 00:16:57+00:00 | 113726 | 247 | Ruby | 75 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2021-09-08 20:21:17+00:00 | 15583 | 1690 | C++ | 272 | [] |
@@ -75,10 +75,10 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-08 00:05:16+00:00 | 1534756 | 1503 | Python | 515 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-08 05:07:01+00:00 | 221010 | 6437 | C | 1787 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-08 08:24:15+00:00 | 45850 | 844 | Python | 198 | [] |
-| io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-08 19:15:12+00:00 | 352 | 223 | Rust | 12 | [] |
+| preco21/destiny-macros | A collection of Destiny 2 macros built with AutoHotKey | https://github.com/preco21/destiny-macros | ['exploit'] | 1 | 2021-09-08 10:10:49+00:00 | 193 | 19 | AutoHotkey | 7 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-08 00:52:34+00:00 | 23783 | 22 | | 14 | [] |
-| cefriel/rdf-lowerer | A template-based lowerer for RDF repositories exploiting Apache Velocity. | https://github.com/cefriel/rdf-lowerer | ['exploit'] | 1 | 2021-09-08 15:33:21+00:00 | 143 | 1 | Java | 0 | [] |
-| jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-09-08 09:15:08+00:00 | 17579 | 543 | Go | 110 | [] |
+| sogonsec/ViolentFungus-C2 | Violent Fungus is a command and control (C2) software suite, providing red teams post-exploitation persistence and other juicy stuff. WIP. | https://github.com/sogonsec/ViolentFungus-C2 | ['exploit'] | 1 | 2021-09-08 20:38:30+00:00 | 61 | 13 | C++ | 0 | [] |
+| IdanBanani/Binary-exploitation-Pwn | None | https://github.com/IdanBanani/Binary-exploitation-Pwn | ['exploit'] | 1 | 2021-09-08 14:46:17+00:00 | 9877 | 0 | C | 1 | [] |
 | Vedant-Bhalgama/OSCP-buffer-overflow-prep | So recently, I started off with some basic exploit development, Here is a collection of all the stack overflow exploits I programmed for practicing Buffer OverFlows! | https://github.com/Vedant-Bhalgama/OSCP-buffer-overflow-prep | ['exploit'] | 1 | 2021-09-08 03:01:08+00:00 | 8 | 4 | Python | 0 | [] |
 | parrothacker1/rust-metasploit | None | https://github.com/parrothacker1/rust-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-08 16:18:56+00:00 | 232 | 0 | Rust | 0 | [] |
 | SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | A unique, multithreaded Slow DoS exploit against web servers that use vulnerable versions of thread-based web server software (Apache 1.x, Apache 2.x, httpd, etc.); and is effective against even some mitigation mechanisms such as poorly implemented reverse | https://github.com/SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | ['exploit'] | 1 | 2021-09-08 19:40:56+00:00 | 1000 | 1 | Python | 0 | [] |
@@ -88,8 +88,8 @@
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-08 01:57:37+00:00 | 50464 | 0 | Python | 0 | [] |
 | Ki11i0n4ir3/metasploit_setup.sh | ShellScript for setups to Metasploit in ubuntu or LinuxMint | https://github.com/Ki11i0n4ir3/metasploit_setup.sh | ['metasploit module OR payload'] | 1 | 2021-09-08 08:39:20+00:00 | 4 | 0 | Shell | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-08 04:02:39+00:00 | 56518 | 114 | Python | 30 | [] |
-| IdanBanani/Binary-exploitation-Pwn | None | https://github.com/IdanBanani/Binary-exploitation-Pwn | ['exploit'] | 1 | 2021-09-08 14:46:17+00:00 | 9877 | 0 | C | 1 | [] |
 | zAbuQasem/CVE-2019-12840 | CVE-2019-12840 | https://github.com/zAbuQasem/CVE-2019-12840 | ['cve-2 OR cve_2'] | 1 | 2021-09-08 15:35:04+00:00 | 10 | 0 | Python | 0 | ['CVE-2019-12840'] |
+| cefriel/rdf-lowerer | A template-based lowerer for RDF repositories exploiting Apache Velocity. | https://github.com/cefriel/rdf-lowerer | ['exploit'] | 1 | 2021-09-08 15:33:21+00:00 | 143 | 1 | Java | 0 | [] |
 | Pen-Test3rs/binary_exploits_frontend | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | ['exploit'] | 1 | 2021-09-08 18:33:12+00:00 | 2581 | 0 | TypeScript | 0 | [] |
 | Fricciolosa-Red-Team/mobile-heavy-artillery | 🔥Ready, Aim, Fire.🔥 | https://github.com/Fricciolosa-Red-Team/mobile-heavy-artillery | ['exploit'] | 1 | 2021-09-08 06:53:47+00:00 | 109 | 5 | Shell | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-08 00:03:31+00:00 | 402265 | 30 | | 17 | [] |
@@ -98,4 +98,5 @@
 | reybango/Exploits | None | https://github.com/reybango/Exploits | ['exploit'] | 1 | 2021-09-08 19:08:50+00:00 | 595 | 0 | | 0 | [] |
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-09-08 07:24:38+00:00 | 3121 | 0 | JavaScript | 1 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-08 08:10:27+00:00 | 2941664 | 2 | Batchfile | 0 | [] |
+| jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-09-08 09:15:08+00:00 | 17579 | 543 | Go | 110 | [] |
 | knqyf263/CVE-2021-40346 | CVE-2021-40346 PoC (HAProxy HTTP Smuggling) | https://github.com/knqyf263/CVE-2021-40346 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-08 22:26:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-40346'] |
