@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/08
     
-95 records found after deduplication
+96 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-08 03:31:32+00:00 | 566226 | 25023 | Ruby | 11537 | [] |
-| SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-09-08 14:23:03+00:00 | 1745 | 2 | HTML | 1 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-08 04:05:41+00:00 | 21823 | 5945 | JavaScript | 1408 | [] |
+| sdushantha/dora | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | ['exploit'] | 1 | 2021-09-08 16:28:12+00:00 | 2254 | 35 | Python | 5 | [] |
 | git-cardoso/Desenvolvimento_exploits_x86 | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | ['exploit'] | 1 | 2021-09-08 21:27:08+00:00 | 0 | 0 | Assembly | 0 | [] |
 | 32bitmeterpreterwastaken/LucidHub | Cringe Hub a roblox exploit only for synapse x | https://github.com/32bitmeterpreterwastaken/LucidHub | ['exploit'] | 1 | 2021-09-08 00:32:37+00:00 | 140 | 0 | | 0 | [] |
 | C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | tarea-4-RCERVANT3S created by GitHub Classroom | https://github.com/C-CCM-TC1028-102-2113/tarea-4-RCERVANT3S | ['rce'] | 1 | 2021-09-08 02:09:28+00:00 | 44 | 0 | Python | 0 | [] |
@@ -16,8 +17,8 @@
 | dragon3091/meta-sploit-easy-download | None | https://github.com/dragon3091/meta-sploit-easy-download | ['sploit'] | 1 | 2021-09-08 20:31:55+00:00 | 24 | 0 | Python | 0 | [] |
 | kikiokol/AndroidDown | Exploit android devices via the Android Debugging Bridge | https://github.com/kikiokol/AndroidDown | ['exploit'] | 1 | 2021-09-08 16:13:15+00:00 | 14 | 0 | Python | 0 | [] |
 | EagleTube/B2CPrintExploit | B2CPrint Web Template Shell Upload Vulnerability checker and shell upload | https://github.com/EagleTube/B2CPrintExploit | ['exploit'] | 1 | 2021-09-08 15:01:13+00:00 | 48 | 0 | Python | 0 | [] |
+| SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-09-08 14:23:03+00:00 | 1745 | 2 | HTML | 1 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-09-08 12:39:18+00:00 | 85664 | 0 | PowerShell | 0 | [] |
-| knight0x07/ImpulsiveDLLHijack | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's. | https://github.com/knight0x07/ImpulsiveDLLHijack | ['exploit'] | 1 | 2021-09-08 12:12:56+00:00 | 2081 | 0 | C# | 0 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-09-08 10:58:17+00:00 | 5298 | 1 | CSS | 0 | [] |
 | evildrummer/CVE-2021-XYZ2 | None | https://github.com/evildrummer/CVE-2021-XYZ2 | ['cve-2 OR cve_2'] | 1 | 2021-09-08 11:56:43+00:00 | 1 | 0 | | 0 | [] |
 | evildrummer/CVE-2021-XYZ | None | https://github.com/evildrummer/CVE-2021-XYZ | ['cve-2 OR cve_2'] | 1 | 2021-09-08 11:56:11+00:00 | 37 | 0 | | 0 | [] |
@@ -27,9 +28,9 @@
 | bstank/bstank.github.io | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | ['exploit'] | 1 | 2021-09-08 01:27:33+00:00 | 405 | 0 | SCSS | 0 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-09-08 19:02:17+00:00 | 28430 | 0 | Python | 0 | [] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-08 17:32:52+00:00 | 265 | 2 | Python | 0 | [] |
-| sdushantha/dora | Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found | https://github.com/sdushantha/dora | ['exploit'] | 1 | 2021-09-08 16:28:12+00:00 | 2254 | 35 | Python | 5 | [] |
+| knight0x07/ImpulsiveDLLHijack | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's. | https://github.com/knight0x07/ImpulsiveDLLHijack | ['exploit'] | 1 | 2021-09-08 12:12:56+00:00 | 2081 | 0 | C# | 0 | [] |
+| GhostFoxSledgehammer/ShellCodeInsertion | None | https://github.com/GhostFoxSledgehammer/ShellCodeInsertion | ['shellcode'] | 1 | 2021-09-08 08:11:22+00:00 | 9171 | 0 | Java | 0 | [] |
 | NyDubh3/CuiRi | 一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马。 | https://github.com/NyDubh3/CuiRi | ['metasploit module OR payload', 'shellcode'] | 2 | 2021-09-08 02:46:20+00:00 | 3602 | 4 | Go | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-08 03:22:52+00:00 | 8342 | 2 | Python | 0 | [] |
 | illicitco/Working-POC-of-Fei-Protocol-Vulnerability | None | https://github.com/illicitco/Working-POC-of-Fei-Protocol-Vulnerability | ['vulnerability poc'] | 1 | 2021-09-08 11:21:33+00:00 | 0 | 0 | | 0 | [] |
 | Quark064/Wii-U-Exploit-Automation | ??? Maybe this will work?? | https://github.com/Quark064/Wii-U-Exploit-Automation | ['exploit'] | 1 | 2021-09-08 21:58:37+00:00 | 0 | 0 | | 0 | [] |
 | parrothacker1/rust-metasploit-example | An practical application of rust-metasploit | https://github.com/parrothacker1/rust-metasploit-example | ['metasploit module OR payload'] | 1 | 2021-09-08 20:18:33+00:00 | 0 | 0 | | 0 | [] |
@@ -43,7 +44,7 @@
 | wafinfo/Bypass | 免杀shellcode | https://github.com/wafinfo/Bypass | ['shellcode'] | 1 | 2021-09-08 11:10:43+00:00 | 0 | 1 | | 0 | [] |
 | cccyclops/skoop-secure | a meme exploit script obfuscator (only runs on synapse x). | https://github.com/cccyclops/skoop-secure | ['exploit'] | 1 | 2021-09-08 11:15:34+00:00 | 463 | 0 | C++ | 0 | [] |
 | dock0d1/CVE-2021-26084_Confluence | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-08 11:04:53+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-26084'] |
-| ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-08 08:33:45+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
+| ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-08 08:33:45+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-40444'] |
 | vlasebian/predicting-exploitation-of-cves | None | https://github.com/vlasebian/predicting-exploitation-of-cves | ['exploit'] | 1 | 2021-09-08 22:17:04+00:00 | 2 | 0 | Python | 0 | [] |
 | deathflash1411/Exploits | None | https://github.com/deathflash1411/Exploits | ['exploit'] | 1 | 2021-09-08 04:35:01+00:00 | 0 | 0 | Python | 0 | [] |
 | havannam/shellcodebase64 | None | https://github.com/havannam/shellcodebase64 | ['shellcode'] | 1 | 2021-09-08 01:43:37+00:00 | 0 | 0 | | 0 | [] |
@@ -52,8 +53,8 @@
 | HudsonDuke19/prison-life-gun-giver | A Roblox exploit script that gives you a gun in Prison Life | https://github.com/HudsonDuke19/prison-life-gun-giver | ['exploit'] | 1 | 2021-09-08 01:39:40+00:00 | 0 | 0 | Lua | 0 | [] |
 | iiRezux/Exploit | None | https://github.com/iiRezux/Exploit | ['exploit'] | 1 | 2021-09-08 00:14:25+00:00 | 0 | 0 | | 0 | [] |
 | Edgarloyola/CVE-2021-36563 | None | https://github.com/Edgarloyola/CVE-2021-36563 | ['cve-2 OR cve_2'] | 1 | 2021-09-08 08:56:37+00:00 | 3249 | 0 | | 0 | ['CVE-2021-36563'] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-08 03:22:52+00:00 | 8342 | 2 | Python | 0 | [] |
 | Jonah246/tfusd-flashloan-attack-write-up | Write-up and functional exploit of tfUSD (TrueFi ) 50M worth of bug. | https://github.com/Jonah246/tfusd-flashloan-attack-write-up | ['exploit'] | 1 | 2021-09-08 14:30:16+00:00 | 26 | 4 | Solidity | 1 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-08 04:05:41+00:00 | 21823 | 5945 | JavaScript | 1408 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-08 08:30:09+00:00 | 292244 | 77 | Python | 13 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-08 03:00:28+00:00 | 60755 | 1182 | JavaScript | 240 | [] |
 | hkzhang91/ST-CLSTM | Code of paper: Exploiting temporal consistency for real-time video depth estimation (ICCV 2019) | https://github.com/hkzhang91/ST-CLSTM | ['exploit'] | 1 | 2021-09-08 01:20:24+00:00 | 316205 | 76 | Python | 18 | [] |
