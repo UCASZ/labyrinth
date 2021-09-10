@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/10
     
-56 records found after deduplication
+59 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-10 10:43:22+00:00 | 568797 | 25042 | Ruby | 11542 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-10 00:17:26+00:00 | 21866 | 5950 | JavaScript | 1410 | [] |
+| ZeroM3m0ry/vcxproj-infecter | vcxproj-infecter is an Advanced malware that will infect all your visual studio projects (still under developing) | https://github.com/ZeroM3m0ry/vcxproj-infecter | ['rce'] | 1 | 2021-09-10 00:02:43+00:00 | 0 | 3 | C++ | 0 | [] |
 | rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-09-10 11:06:31+00:00 | 8559 | 0 | HTML | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-10 00:38:37+00:00 | 36 | 2 | JavaScript | 2 | [] |
 | obsrva/obsrva.org | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept explo | https://github.com/obsrva/obsrva.org | ['exploit'] | 1 | 2021-09-10 03:20:22+00:00 | 95209 | 1 | JavaScript | 0 | [] |
@@ -14,12 +14,13 @@
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-09-10 07:10:49+00:00 | 1944 | 4 | HTML | 2 | [] |
 | non123dfsdf/UnfairSploit | None | https://github.com/non123dfsdf/UnfairSploit | ['sploit'] | 1 | 2021-09-10 06:59:10+00:00 | 26 | 1 | | 0 | [] |
 | 0xFenrik/Shellcode_DumpLsass | Shellcode for creating a minidump file of the lsass.exe process. | https://github.com/0xFenrik/Shellcode_DumpLsass | ['shellcode'] | 1 | 2021-09-10 11:47:41+00:00 | 104 | 3 | Python | 0 | [] |
+| raging-loon/disassembler | A project for reverse engineering and possibly malware analysis. | https://github.com/raging-loon/disassembler | ['shellcode'] | 1 | 2021-09-10 13:08:10+00:00 | 94 | 0 | C++ | 0 | [] |
 | git-cardoso/Desenvolvimento_exploits_x86 | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | ['exploit'] | 1 | 2021-09-10 02:41:05+00:00 | 6 | 0 | Assembly | 0 | [] |
 | GhostFoxSledgehammer/ShellCodeInsertion | None | https://github.com/GhostFoxSledgehammer/ShellCodeInsertion | ['shellcode'] | 1 | 2021-09-10 06:27:30+00:00 | 9171 | 0 | Java | 0 | [] |
 | BoofSec/Ubersicht-rce-0day | Übersicht remote command execution 0day exploit | https://github.com/BoofSec/Ubersicht-rce-0day | ['0day', 'exploit', 'rce'] | 3 | 2021-09-10 06:45:09+00:00 | 362 | 5 | Python | 0 | [] |
 | X1cT34m/CVE-and-PoC | None | https://github.com/X1cT34m/CVE-and-PoC | ['cve poc'] | 1 | 2021-09-10 01:01:06+00:00 | 189 | 0 | C | 0 | [] |
-| ZeroM3m0ry/vcxproj-infecter | vcxproj-infecter is an Advanced malware that will infect all your visual studio projects (still under developing) | https://github.com/ZeroM3m0ry/vcxproj-infecter | ['rce'] | 1 | 2021-09-10 00:02:43+00:00 | 0 | 3 | C++ | 0 | [] |
 | ddozzi/rce | None | https://github.com/ddozzi/rce | ['rce'] | 1 | 2021-09-10 00:36:41+00:00 | 0 | 0 | Java | 0 | [] |
+| G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-10 11:23:56+00:00 | 316 | 2 | Python | 0 | [] |
 | Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2021-09-10 01:10:01+00:00 | 0 | 0 | | 0 | [] |
 | tobiphoenix/MultiAuto_Phoenix | ALL TOOLS HACKER IN 1 , AUTO UPLOAD SHELL AUTO SQLI AUTO INJECT AUTO ADD EXPLOIT , DDOS , ENCRYPTE FILE , ETC .ALL IN ONE | https://github.com/tobiphoenix/MultiAuto_Phoenix | ['exploit'] | 1 | 2021-09-10 05:59:47+00:00 | 0 | 0 | Shell | 0 | [] |
 | Offensive-Cyber/Binary-Exploitation | CPU Functionality Content For Binary Exploitation | https://github.com/Offensive-Cyber/Binary-Exploitation | ['exploit'] | 1 | 2021-09-10 07:31:33+00:00 | 0 | 0 | | 0 | [] |
@@ -33,9 +34,9 @@
 | ricardojoserf/CVE-2021-40845 | None | https://github.com/ricardojoserf/CVE-2021-40845 | ['cve-2 OR cve_2'] | 1 | 2021-09-10 10:23:56+00:00 | 0 | 0 | | 0 | ['CVE-2021-40845'] |
 | c0decave/Win32_Exploitation | My little repository relating to exploitation of win32 processes. | https://github.com/c0decave/Win32_Exploitation | ['exploit'] | 1 | 2021-09-10 10:29:59+00:00 | 0 | 0 | | 0 | [] |
 | JHH20/Writing-Shellcode | Useful techniques for writing shellcode | https://github.com/JHH20/Writing-Shellcode | ['shellcode'] | 1 | 2021-09-10 05:13:36+00:00 | 1 | 0 | Assembly | 0 | [] |
-| G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-10 11:23:56+00:00 | 316 | 2 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-10 11:19:54+00:00 | 8710 | 2 | Python | 0 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-10 00:52:35+00:00 | 25229 | 22 | | 14 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-10 00:17:26+00:00 | 21866 | 5950 | JavaScript | 1410 | [] |
+| jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-09-10 05:40:43+00:00 | 17589 | 545 | Go | 110 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-10 05:07:12+00:00 | 223053 | 6444 | C | 1789 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-10 00:05:17+00:00 | 1534756 | 1502 | Python | 515 | [] |
 | nsonaniya2010/testing | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | ['exploit'] | 1 | 2021-09-10 06:24:27+00:00 | 63 | 0 | PostScript | 1 | [] |
@@ -47,9 +48,9 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-09-10 10:08:28+00:00 | 35680 | 5791 | Vue | 1208 | [] |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-10 11:46:22+00:00 | 1332466 | 3447 | PowerShell | 1198 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-10 02:48:33+00:00 | 60815 | 1184 | JavaScript | 242 | [] |
-| jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-09-10 05:40:43+00:00 | 17589 | 545 | Go | 110 | [] |
-| cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-09-10 05:44:34+00:00 | 1548 | 1 | Python | 2 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-10 00:52:35+00:00 | 25229 | 22 | | 14 | [] |
 | myReposJY/co-exploitation-discovery | data and codes for exploitability prediction | https://github.com/myReposJY/co-exploitation-discovery | ['exploit'] | 1 | 2021-09-10 00:20:08+00:00 | 0 | 0 | | 0 | [] |
+| cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-09-10 05:44:34+00:00 | 1548 | 1 | Python | 2 | [] |
 | righter83/CVE-2020-0688 | Exchange Scanner CVE-2020-0688 | https://github.com/righter83/CVE-2020-0688 | ['cve-2 OR cve_2'] | 1 | 2021-09-10 12:10:09+00:00 | 33 | 1 | PHP | 2 | ['CVE-2020-0688'] |
 | tobiphoenix/laravelbot | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | ['exploit'] | 1 | 2021-09-10 04:05:00+00:00 | 3 | 2 | Python | 2 | [] |
 | Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2021-09-10 09:19:29+00:00 | 1662 | 19 | PHP | 8 | [] |
@@ -58,6 +59,8 @@
 | Malam-X/DragonMS | DragonMS is Tools for ddos, scanner, tracker, payload generator msfvenom and scraping | https://github.com/Malam-X/DragonMS | ['metasploit module OR payload'] | 1 | 2021-09-10 03:58:40+00:00 | 608 | 18 | Python | 8 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-09-10 02:23:55+00:00 | 287778 | 675 | | 134 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-10 01:28:18+00:00 | 60 | 0 | PHP | 0 | [] |
+| 0iphor13/Scripts-and-Exploits | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-10 13:08:51+00:00 | 37 | 1 | Ruby | 0 | [] |
+| gittina/expressyouRcell | None | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2021-09-10 13:06:12+00:00 | 2104 | 0 | R | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-10 04:02:42+00:00 | 59811 | 114 | Python | 30 | [] |
 | hosch3n/ProxyVulns | CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit | https://github.com/hosch3n/ProxyVulns | ['exploit'] | 1 | 2021-09-10 06:21:15+00:00 | 4 | 3 | Python | 1 | ['CVE-2021-26855', 'CVE-2021-27065'] |
 | matitanium/WebDav-Exploit | Exploit for iis 6 | https://github.com/matitanium/WebDav-Exploit | ['exploit'] | 1 | 2021-09-10 12:34:16+00:00 | 0 | 0 | Python | 0 | [] |
