@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/10
     
-93 records found after deduplication
+94 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
@@ -17,7 +17,7 @@
 | raging-loon/disassembler | A project for reverse engineering and possibly malware analysis. | https://github.com/raging-loon/disassembler | ['shellcode'] | 1 | 2021-09-10 13:08:10+00:00 | 94 | 0 | C++ | 0 | [] |
 | h3v0x/CVE-2021-26084_Confluence | Confluence Server Webwork OGNL injection | https://github.com/h3v0x/CVE-2021-26084_Confluence | ['cve-2 OR cve_2'] | 1 | 2021-09-10 19:42:33+00:00 | 20 | 208 | Python | 47 | ['CVE-2021-26084'] |
 | non123dfsdf/UnfairSploit | None | https://github.com/non123dfsdf/UnfairSploit | ['sploit'] | 1 | 2021-09-10 06:59:10+00:00 | 26 | 1 | | 0 | [] |
-| cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-09-10 05:44:34+00:00 | 1548 | 1 | Python | 2 | [] |
+| Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2021-09-10 01:10:01+00:00 | 0 | 0 | | 0 | [] |
 | SilentsReplacement/Octagon | Octagon is a fully fledged modular server sided anti exploit designed to detect many exploits reliably without interrupting user experience. | https://github.com/SilentsReplacement/Octagon | ['exploit'] | 1 | 2021-09-10 07:10:49+00:00 | 1944 | 4 | HTML | 2 | [] |
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-09-10 09:07:10+00:00 | 388 | 66 | Go | 12 | [] |
 | obsrva/obsrva.org | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept explo | https://github.com/obsrva/obsrva.org | ['exploit'] | 1 | 2021-09-10 03:20:22+00:00 | 95209 | 1 | JavaScript | 0 | [] |
@@ -28,19 +28,20 @@
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-10 11:23:56+00:00 | 316 | 2 | Python | 0 | [] |
 | MicroFox-HD/Exploits | None | https://github.com/MicroFox-HD/Exploits | ['exploit'] | 1 | 2021-09-10 16:51:18+00:00 | 233 | 0 | | 0 | [] |
 | ddozzi/rce | None | https://github.com/ddozzi/rce | ['rce'] | 1 | 2021-09-10 00:36:41+00:00 | 0 | 0 | Java | 0 | [] |
-| Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2021-09-10 01:10:01+00:00 | 0 | 0 | | 0 | [] |
 | SolomonSklash/SleepyCrypt | A shellcode function to encrypt a running process image when sleeping. | https://github.com/SolomonSklash/SleepyCrypt | ['shellcode'] | 1 | 2021-09-10 19:06:35+00:00 | 26 | 1 | C | 0 | [] |
-| tobiphoenix/MultiAuto_Phoenix | ALL TOOLS HACKER IN 1 , AUTO UPLOAD SHELL AUTO SQLI AUTO INJECT AUTO ADD EXPLOIT , DDOS , ENCRYPTE FILE , ETC .ALL IN ONE | https://github.com/tobiphoenix/MultiAuto_Phoenix | ['exploit'] | 1 | 2021-09-10 05:59:47+00:00 | 0 | 0 | Shell | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-10 00:17:26+00:00 | 21866 | 5950 | JavaScript | 1410 | [] |
+| matitanium/WebDav-Exploit | Exploit for iis 6 | https://github.com/matitanium/WebDav-Exploit | ['exploit'] | 1 | 2021-09-10 12:34:16+00:00 | 0 | 0 | Python | 0 | [] |
+| iknowyourpassword/Metasploitable2-tutorial | METASPLOITABLE BEGINNERS GUIDE | https://github.com/iknowyourpassword/Metasploitable2-tutorial | ['metasploit module OR payload'] | 1 | 2021-09-10 19:29:11+00:00 | 0 | 0 | | 0 | [] |
 | TariqAlhajri/metasploitable2-Kali-linux-VSFTP-2.3.4 | this project is about exploiting matasploitable2 vulnerability VSFTP 2.3.4 using kali linux | https://github.com/TariqAlhajri/metasploitable2-Kali-linux-VSFTP-2.3.4 | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-10 19:20:36+00:00 | 0 | 0 | | 0 | [] |
 | sha0coder/self-evolving_exploit_offsets | None | https://github.com/sha0coder/self-evolving_exploit_offsets | ['exploit'] | 1 | 2021-09-10 18:31:08+00:00 | 0 | 0 | C | 0 | [] |
 | mrnobody888/shellcode | None | https://github.com/mrnobody888/shellcode | ['shellcode'] | 1 | 2021-09-10 17:26:52+00:00 | 0 | 0 | | 0 | [] |
-| lockedbyte/CVE-2021-40444 | Reproduce steps for CVE-2021-40444 | https://github.com/lockedbyte/CVE-2021-40444 | ['cve-2 OR cve_2'] | 1 | 2021-09-10 17:28:42+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-40444'] |
+| lockedbyte/CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-10 23:29:10+00:00 | 669 | 21 | HTML | 13 | ['CVE-2021-40444'] |
 | hecker-code/exploits | None | https://github.com/hecker-code/exploits | ['exploit'] | 1 | 2021-09-10 16:34:30+00:00 | 0 | 0 | | 0 | [] |
 | Dying-Doomer/bf3 | browser fuzzing framework | https://github.com/Dying-Doomer/bf3 | ['0day'] | 1 | 2021-09-10 16:35:21+00:00 | 0 | 1 | C | 0 | [] |
 | zaneGittins/CVE-2021-40444-evtx | Event logs from running CVE-2021-40444 samples | https://github.com/zaneGittins/CVE-2021-40444-evtx | ['cve-2 OR cve_2'] | 1 | 2021-09-10 15:37:14+00:00 | 108 | 0 | | 0 | ['CVE-2021-40444'] |
 | u238/ctf-writeups | CTF writeups and exploits | https://github.com/u238/ctf-writeups | ['exploit'] | 1 | 2021-09-10 15:08:15+00:00 | 0 | 0 | Python | 0 | [] |
-| matitanium/WebDav-Exploit | Exploit for iis 6 | https://github.com/matitanium/WebDav-Exploit | ['exploit'] | 1 | 2021-09-10 12:34:16+00:00 | 0 | 0 | Python | 0 | [] |
 | c0decave/Win32_Exploitation | My little repository relating to exploitation of win32 processes. | https://github.com/c0decave/Win32_Exploitation | ['exploit'] | 1 | 2021-09-10 10:29:59+00:00 | 0 | 0 | | 0 | [] |
+| tobiphoenix/MultiAuto_Phoenix | ALL TOOLS HACKER IN 1 , AUTO UPLOAD SHELL AUTO SQLI AUTO INJECT AUTO ADD EXPLOIT , DDOS , ENCRYPTE FILE , ETC .ALL IN ONE | https://github.com/tobiphoenix/MultiAuto_Phoenix | ['exploit'] | 1 | 2021-09-10 05:59:47+00:00 | 0 | 0 | Shell | 0 | [] |
 | ricardojoserf/CVE-2021-40845 | None | https://github.com/ricardojoserf/CVE-2021-40845 | ['cve-2 OR cve_2'] | 1 | 2021-09-10 10:23:56+00:00 | 0 | 0 | | 0 | ['CVE-2021-40845'] |
 | SilentsReplacement/BoboWarrior | A simple modular anti exploit designed to detect common exploits reliably | https://github.com/SilentsReplacement/BoboWarrior | ['exploit'] | 1 | 2021-09-10 10:13:52+00:00 | 0 | 0 | | 0 | [] |
 | Udyz/CVE-2021-40444-Sample | CVE-2021-40444 Sample | https://github.com/Udyz/CVE-2021-40444-Sample | ['cve-2 OR cve_2'] | 1 | 2021-09-10 09:55:16+00:00 | 0 | 0 | HTML | 1 | ['CVE-2021-40444'] |
@@ -51,8 +52,8 @@
 | Ccamm/Polyglot-JPEG-XSS | Creates a polyglot JPEG for exploiting XSS javascript vulnerabilities to bypass CSP. | https://github.com/Ccamm/Polyglot-JPEG-XSS | ['exploit'] | 1 | 2021-09-10 08:12:34+00:00 | 0 | 0 | Python | 0 | [] |
 | Offensive-Cyber/Binary-Exploitation | CPU Functionality Content For Binary Exploitation | https://github.com/Offensive-Cyber/Binary-Exploitation | ['exploit'] | 1 | 2021-09-10 07:31:33+00:00 | 0 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-10 11:19:54+00:00 | 8710 | 2 | Python | 0 | [] |
+| cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-09-10 05:44:34+00:00 | 1548 | 1 | Python | 2 | [] |
 | ltran38/Mcafee-ENS-Rules | A collection of all of the Mcafee Expert Rules I've created for various exploits | https://github.com/ltran38/Mcafee-ENS-Rules | ['exploit'] | 1 | 2021-09-10 18:07:37+00:00 | 2 | 0 | Tcl | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-10 00:17:26+00:00 | 21866 | 5950 | JavaScript | 1410 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2021-09-10 11:38:54+00:00 | 3613 | 979 | C | 151 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-10 18:26:26+00:00 | 385 | 226 | Rust | 12 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-10 02:48:33+00:00 | 60815 | 1184 | JavaScript | 242 | [] |
@@ -97,4 +98,4 @@
 | tobiphoenix/laravelbot | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | ['exploit'] | 1 | 2021-09-10 04:05:00+00:00 | 3 | 2 | Python | 2 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-10 15:31:05+00:00 | 2986066 | 2 | Batchfile | 0 | [] |
 | righter83/CVE-2020-0688 | Exchange Scanner CVE-2020-0688 | https://github.com/righter83/CVE-2020-0688 | ['cve-2 OR cve_2'] | 1 | 2021-09-10 12:10:09+00:00 | 33 | 1 | PHP | 2 | ['CVE-2020-0688'] |
-| iknowyourpassword/Metasploitable2-tutorial | METASPLOITABLE BEGINNERS GUIDE | https://github.com/iknowyourpassword/Metasploitable2-tutorial | ['metasploit module OR payload'] | 1 | 2021-09-10 19:29:11+00:00 | 0 | 0 | | 0 | [] |
+| alikarimi999/CVE-2021-40346 | None | https://github.com/alikarimi999/CVE-2021-40346 | ['cve-2 OR cve_2'] | 1 | 2021-09-10 23:10:22+00:00 | 0 | 0 | | 0 | ['CVE-2021-40346'] |
