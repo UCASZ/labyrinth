@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/10
     
-61 records found after deduplication
+64 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-10 10:43:22+00:00 | 568797 | 25042 | Ruby | 11542 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-10 11:19:54+00:00 | 8710 | 2 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-10 00:17:26+00:00 | 21866 | 5950 | JavaScript | 1410 | [] |
+| G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-10 11:23:56+00:00 | 316 | 2 | Python | 0 | [] |
 | JHH20/Writing-Shellcode | Useful techniques for writing shellcode | https://github.com/JHH20/Writing-Shellcode | ['shellcode'] | 1 | 2021-09-10 05:13:36+00:00 | 1 | 0 | Assembly | 0 | [] |
 | rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-09-10 11:06:31+00:00 | 8559 | 0 | HTML | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-10 00:38:37+00:00 | 36 | 2 | JavaScript | 2 | [] |
@@ -34,10 +35,11 @@
 | SilentsReplacement/BoboWarrior | A simple modular anti exploit designed to detect common exploits reliably | https://github.com/SilentsReplacement/BoboWarrior | ['exploit'] | 1 | 2021-09-10 10:13:52+00:00 | 0 | 0 | | 0 | [] |
 | ricardojoserf/CVE-2021-40845 | None | https://github.com/ricardojoserf/CVE-2021-40845 | ['cve-2 OR cve_2'] | 1 | 2021-09-10 10:23:56+00:00 | 0 | 0 | | 0 | ['CVE-2021-40845'] |
 | c0decave/Win32_Exploitation | My little repository relating to exploitation of win32 processes. | https://github.com/c0decave/Win32_Exploitation | ['exploit'] | 1 | 2021-09-10 10:29:59+00:00 | 0 | 0 | | 0 | [] |
-| G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-10 11:23:56+00:00 | 316 | 2 | Python | 0 | [] |
+| matitanium/WebDav-Exploit | Exploit for iis 6 | https://github.com/matitanium/WebDav-Exploit | ['exploit'] | 1 | 2021-09-10 12:34:16+00:00 | 0 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-10 11:19:54+00:00 | 8710 | 2 | Python | 0 | [] |
 | cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-09-10 05:44:34+00:00 | 1548 | 1 | Python | 2 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-10 00:17:26+00:00 | 21866 | 5950 | JavaScript | 1410 | [] |
 | hosch3n/ProxyVulns | CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit | https://github.com/hosch3n/ProxyVulns | ['exploit'] | 1 | 2021-09-10 06:21:15+00:00 | 4 | 3 | Python | 1 | ['CVE-2021-26855', 'CVE-2021-27065'] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-09-10 14:05:37+00:00 | 1215 | 242 | C | 11 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-10 05:07:12+00:00 | 223053 | 6444 | C | 1789 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-10 00:05:17+00:00 | 1534756 | 1502 | Python | 515 | [] |
 | nsonaniya2010/testing | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | ['exploit'] | 1 | 2021-09-10 06:24:27+00:00 | 63 | 0 | PostScript | 1 | [] |
@@ -46,14 +48,16 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-10 00:17:20+00:00 | 116488 | 247 | Ruby | 75 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2021-09-10 11:38:54+00:00 | 3613 | 979 | C | 151 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-10 10:16:45+00:00 | 292759 | 79 | Python | 13 | [] |
+| jbizzle21/metasploit-framework | None | https://github.com/jbizzle21/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-10 15:21:57+00:00 | 13 | 0 | | 0 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-09-10 10:08:28+00:00 | 35680 | 5791 | Vue | 1208 | [] |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-10 11:46:22+00:00 | 1332466 | 3447 | PowerShell | 1198 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-10 02:48:33+00:00 | 60815 | 1184 | JavaScript | 242 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-10 00:52:35+00:00 | 25229 | 22 | | 14 | [] |
-| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-09-10 14:05:37+00:00 | 1215 | 242 | C | 11 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-09-10 05:40:43+00:00 | 17589 | 545 | Go | 110 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-10 04:02:42+00:00 | 59811 | 114 | Python | 30 | [] |
 | myReposJY/co-exploitation-discovery | data and codes for exploitability prediction | https://github.com/myReposJY/co-exploitation-discovery | ['exploit'] | 1 | 2021-09-10 00:20:08+00:00 | 0 | 0 | | 0 | [] |
 | righter83/CVE-2020-0688 | Exchange Scanner CVE-2020-0688 | https://github.com/righter83/CVE-2020-0688 | ['cve-2 OR cve_2'] | 1 | 2021-09-10 12:10:09+00:00 | 33 | 1 | PHP | 2 | ['CVE-2020-0688'] |
+| th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-10 15:31:05+00:00 | 2986066 | 2 | Batchfile | 0 | [] |
 | tobiphoenix/laravelbot | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | ['exploit'] | 1 | 2021-09-10 04:05:00+00:00 | 3 | 2 | Python | 2 | [] |
 | Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2021-09-10 09:19:29+00:00 | 1662 | 19 | PHP | 8 | [] |
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-09-10 11:38:22+00:00 | 135291 | 250 | Batchfile | 75 | [] |
@@ -64,5 +68,4 @@
 | 0iphor13/Scripts-and-Exploits | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-10 13:08:51+00:00 | 37 | 1 | Ruby | 0 | [] |
 | gittina/expressyouRcell | None | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2021-09-10 13:06:12+00:00 | 2104 | 0 | R | 0 | [] |
 | issa-project/visualization | The aim of this project is to develop a web interface for visualizing indexed documents, enriched by exploiting the semantic index | https://github.com/issa-project/visualization | ['exploit'] | 1 | 2021-09-10 14:02:50+00:00 | 1043 | 0 | JavaScript | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-10 04:02:42+00:00 | 59811 | 114 | Python | 30 | [] |
-| matitanium/WebDav-Exploit | Exploit for iis 6 | https://github.com/matitanium/WebDav-Exploit | ['exploit'] | 1 | 2021-09-10 12:34:16+00:00 | 0 | 0 | Python | 0 | [] |
+| u238/ctf-writeups | CTF writeups and exploits | https://github.com/u238/ctf-writeups | ['exploit'] | 1 | 2021-09-10 15:08:15+00:00 | 0 | 0 | Python | 0 | [] |
