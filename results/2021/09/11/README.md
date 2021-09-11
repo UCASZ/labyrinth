@@ -1,26 +1,26 @@
 
 # Summary for results/2021/09/11
     
-65 records found after deduplication
+69 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-11 12:39:09+00:00 | 21873 | 5955 | JavaScript | 1412 | [] |
-| King-Sign/Javascript-Exploitation | XSS | https://github.com/King-Sign/Javascript-Exploitation | ['exploit'] | 1 | 2021-09-11 05:15:17+00:00 | 5 | 0 | Python | 0 | [] |
-| BinaryExploiter/CTF-s-Exploits | None | https://github.com/BinaryExploiter/CTF-s-Exploits | ['exploit'] | 1 | 2021-09-11 10:46:17+00:00 | 20550 | 0 | Python | 0 | [] |
-| rexguowork/phantom-attack | POC for Phantom Attack | https://github.com/rexguowork/phantom-attack | ['attack poc'] | 1 | 2021-09-11 16:50:17+00:00 | 53 | 10 | C | 1 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-11 03:22:50+00:00 | 9001 | 2 | Python | 0 | [] |
-| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-11 00:29:16+00:00 | 72 | 2 | JavaScript | 2 | [] |
-| fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-09-11 16:04:50+00:00 | 56 | 1 | Go | 0 | [] |
-| 0xFenrik/Shellcode_DumpLsass | Shellcode for creating a minidump file of the lsass.exe process. | https://github.com/0xFenrik/Shellcode_DumpLsass | ['shellcode'] | 1 | 2021-09-11 13:24:30+00:00 | 119 | 3 | Python | 0 | [] |
-| ArcModz/HDX | Private exploit scripts for Roblox games with HD Admin. | https://github.com/ArcModz/HDX | ['exploit'] | 1 | 2021-09-11 16:36:47+00:00 | 70 | 0 | Lua | 0 | [] |
-| aesophor/requiem | 🎻 Exploit metaprogramming: Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-11 17:14:40+00:00 | 75 | 5 | Python | 0 | [] |
 | 2k20/CSGO-Exploits | FakePrime and drawothermodels (It is equivalent to the integrated version of the first two repository) | https://github.com/2k20/CSGO-Exploits | ['exploit'] | 1 | 2021-09-11 00:01:43+00:00 | 1563 | 1 | C++ | 1 | [] |
-| gosirys/Exploits | Archive: exploits/advisories from 2008-2011 | https://github.com/gosirys/Exploits | ['exploit', 'rce'] | 2 | 2021-09-11 06:51:24+00:00 | 89 | 0 | Perl | 0 | [] |
-| dtgvfck/ShellCode-Injection | None | https://github.com/dtgvfck/ShellCode-Injection | ['shellcode'] | 1 | 2021-09-11 05:49:03+00:00 | 20 | 1 | C# | 1 | [] |
-| AirRhyme/CreeperSploitDependencies | None | https://github.com/AirRhyme/CreeperSploitDependencies | ['sploit'] | 1 | 2021-09-11 17:33:35+00:00 | 6 | 0 | | 0 | [] |
-| Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2021-09-11 04:52:52+00:00 | 9637 | 0 | | 0 | [] |
 | SolomonSklash/SleepyCrypt | A shellcode function to encrypt a running process image when sleeping. | https://github.com/SolomonSklash/SleepyCrypt | ['shellcode'] | 1 | 2021-09-11 00:27:33+00:00 | 26 | 1 | C | 0 | [] |
+| Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2021-09-11 04:52:52+00:00 | 9637 | 0 | | 0 | [] |
+| AirRhyme/CreeperSploitDependencies | None | https://github.com/AirRhyme/CreeperSploitDependencies | ['sploit'] | 1 | 2021-09-11 17:33:35+00:00 | 6 | 0 | | 0 | [] |
+| twentybel0w/CVE-2020-25223 | None | https://github.com/twentybel0w/CVE-2020-25223 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 18:13:03+00:00 | 2 | 0 | Python | 0 | ['CVE-2020-25223'] |
+| dtgvfck/ShellCode-Injection | None | https://github.com/dtgvfck/ShellCode-Injection | ['shellcode'] | 1 | 2021-09-11 05:49:03+00:00 | 20 | 1 | C# | 1 | [] |
+| gosirys/Exploits | Archive: exploits/advisories from 2008-2011 | https://github.com/gosirys/Exploits | ['exploit', 'rce'] | 2 | 2021-09-11 06:51:24+00:00 | 89 | 0 | Perl | 0 | [] |
+| aesophor/requiem | 🎻 Exploit metaprogramming: Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-11 17:14:40+00:00 | 75 | 5 | Python | 0 | [] |
+| BinaryExploiter/CTF-s-Exploits | None | https://github.com/BinaryExploiter/CTF-s-Exploits | ['exploit'] | 1 | 2021-09-11 10:46:17+00:00 | 20550 | 0 | Python | 0 | [] |
+| ArcModz/HDX | Private exploit scripts for Roblox games with HD Admin. | https://github.com/ArcModz/HDX | ['exploit'] | 1 | 2021-09-11 16:36:47+00:00 | 70 | 0 | Lua | 0 | [] |
+| 0xFenrik/Shellcode_DumpLsass | Shellcode for creating a minidump file of the lsass.exe process. | https://github.com/0xFenrik/Shellcode_DumpLsass | ['shellcode'] | 1 | 2021-09-11 13:24:30+00:00 | 119 | 3 | Python | 0 | [] |
+| fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-09-11 16:04:50+00:00 | 56 | 1 | Go | 0 | [] |
+| Rajchowdhury420/Unobtainium-HTB-Exploit | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | ['exploit'] | 1 | 2021-09-11 18:16:45+00:00 | 282 | 1 | Python | 0 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-11 00:29:16+00:00 | 72 | 2 | JavaScript | 2 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-11 03:22:50+00:00 | 9001 | 2 | Python | 0 | [] |
 | Offensive-Cyber/Binary-Exploitation | CPU Functionality Content For Binary Exploitation | https://github.com/Offensive-Cyber/Binary-Exploitation | ['exploit'] | 1 | 2021-09-11 08:11:20+00:00 | 266 | 2 | | 0 | [] |
 | Udyz/CVE-2021-40444-Sample | CVE-2021-40444 Sample | https://github.com/Udyz/CVE-2021-40444-Sample | ['cve-2 OR cve_2'] | 1 | 2021-09-11 06:34:36+00:00 | 2 | 30 | HTML | 28 | ['CVE-2021-40444'] |
 | c0decave/Win32_Exploitation | My little repository relating to exploitation of win32 processes. | https://github.com/c0decave/Win32_Exploitation | ['exploit'] | 1 | 2021-09-11 08:13:18+00:00 | 69371 | 0 | Python | 0 | [] |
@@ -36,24 +36,26 @@
 | EagleTube/ShellcodeConverter | Convert binary file into shellcode | https://github.com/EagleTube/ShellcodeConverter | ['shellcode'] | 1 | 2021-09-11 08:19:38+00:00 | 0 | 0 | Python | 0 | [] |
 | nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | None | https://github.com/nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-09-11 09:21:39+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-40444'] |
 | pablogonlez16/HackTheBox_exploits | None | https://github.com/pablogonlez16/HackTheBox_exploits | ['exploit'] | 1 | 2021-09-11 12:02:16+00:00 | 0 | 0 | | 0 | [] |
+| nivdolgin/CVE-2018-13379 | Hunting CVE-2018-13379 | https://github.com/nivdolgin/CVE-2018-13379 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 13:27:38+00:00 | 0 | 0 | | 0 | ['CVE-2018-13379'] |
+| kozmer/CVE-2021-40444 | Demo for CVE-2021-40444 | https://github.com/kozmer/CVE-2021-40444 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 18:07:22+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-40444'] |
+| rexguowork/phantom-attack | POC for Phantom Attack | https://github.com/rexguowork/phantom-attack | ['attack poc'] | 1 | 2021-09-11 16:50:17+00:00 | 53 | 10 | C | 1 | [] |
 | T-Dynamos/Metasploit | Install Metasploit latest version in all linux devices including Termux (Android) | https://github.com/T-Dynamos/Metasploit | ['metasploit module OR payload'] | 1 | 2021-09-11 15:16:40+00:00 | 1251 | 0 | Python | 0 | [] |
-| HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-09-11 00:24:46+00:00 | 328 | 1 | Lua | 1 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-09-11 12:53:48+00:00 | 27113 | 8244 | Python | 1437 | [] |
-| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-11 07:16:38+00:00 | 100445 | 0 | JavaScript | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-11 00:05:18+00:00 | 1534757 | 1502 | Python | 515 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-09-11 09:03:07+00:00 | 5301 | 2886 | Python | 632 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-11 17:27:55+00:00 | 6634 | 3906 | Python | 539 | [] |
-| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2021-09-11 10:24:10+00:00 | 1010 | 0 | Python | 0 | [] |
-| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-11 11:35:05+00:00 | 70354 | 10028 | Python | 1678 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-11 00:16:50+00:00 | 118011 | 247 | Ruby | 75 | [] |
-| YasserGersy/cazador_unr | Hacking tools | https://github.com/YasserGersy/cazador_unr | ['rce', 'rce poc'] | 2 | 2021-09-11 04:35:07+00:00 | 71522 | 101 | | 39 | [] |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-11 07:39:00+00:00 | 1332467 | 3449 | PowerShell | 1198 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-11 00:52:36+00:00 | 26010 | 22 | | 14 | [] |
-| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-09-11 02:26:17+00:00 | 1217 | 242 | C | 11 | [] |
-| 0xb0bb/karkinos | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | ['exploit'] | 1 | 2021-09-11 08:08:59+00:00 | 544143 | 178 | Python | 16 | [] |
-| gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2021-09-11 06:36:54+00:00 | 122345 | 260 | Go | 48 | [] |
-| th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-11 05:51:51+00:00 | 3007536 | 2 | Batchfile | 0 | [] |
 | ezluci/Roblox-scripts | This repository contains one Roblox cheat script made by me and other scripts made by other persons which I use to exploit Roblox. | https://github.com/ezluci/Roblox-scripts | ['exploit'] | 1 | 2021-09-11 10:38:03+00:00 | 236 | 1 | Lua | 0 | [] |
+| th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-11 05:51:51+00:00 | 3007536 | 2 | Batchfile | 0 | [] |
+| gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2021-09-11 06:36:54+00:00 | 122345 | 260 | Go | 48 | [] |
+| 0xb0bb/karkinos | A thorough library database to assist with binary exploitation tasks. | https://github.com/0xb0bb/karkinos | ['exploit'] | 1 | 2021-09-11 08:08:59+00:00 | 544143 | 178 | Python | 16 | [] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-09-11 02:26:17+00:00 | 1217 | 242 | C | 11 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-11 00:52:36+00:00 | 26010 | 22 | | 14 | [] |
+| YasserGersy/cazador_unr | Hacking tools | https://github.com/YasserGersy/cazador_unr | ['rce', 'rce poc'] | 2 | 2021-09-11 04:35:07+00:00 | 71522 | 101 | | 39 | [] |
+| King-Sign/Javascript-Exploitation | XSS | https://github.com/King-Sign/Javascript-Exploitation | ['exploit'] | 1 | 2021-09-11 05:15:17+00:00 | 5 | 0 | Python | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-11 00:16:50+00:00 | 118011 | 247 | Ruby | 75 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-11 11:35:05+00:00 | 70354 | 10028 | Python | 1678 | [] |
+| veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2021-09-11 10:24:10+00:00 | 1010 | 0 | Python | 0 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-11 17:27:55+00:00 | 6634 | 3906 | Python | 539 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-09-11 09:03:07+00:00 | 5301 | 2886 | Python | 632 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-11 00:05:18+00:00 | 1534757 | 1502 | Python | 515 | [] |
 | Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2021-09-11 16:28:08+00:00 | 1663 | 19 | PHP | 8 | [] |
 | stephen-fox/proof-of-concept-exploits | Proof of concept exploits for various vulnerabilities. | https://github.com/stephen-fox/proof-of-concept-exploits | ['exploit'] | 1 | 2021-09-11 16:06:58+00:00 | 5 | 1 | Go | 0 | [] |
 | fanyao/branchspec | Proof of concept code for the BranchSpec exploit. | https://github.com/fanyao/branchspec | ['exploit'] | 1 | 2021-09-11 00:26:32+00:00 | 13274 | 2 | C | 4 | [] |
@@ -69,4 +71,6 @@
 | ulexec/Exploits | Repository of exploits for research purposes | https://github.com/ulexec/Exploits | ['exploit'] | 1 | 2021-09-11 00:12:28+00:00 | 298902 | 0 | Python | 0 | [] |
 | zekgt/Zyrix | Roblox Exploit | https://github.com/zekgt/Zyrix | ['exploit'] | 1 | 2021-09-11 10:14:31+00:00 | 10899 | 0 | Lua | 0 | [] |
 | HarrysExploit/Harrys-exploit-api | None | https://github.com/HarrysExploit/Harrys-exploit-api | ['exploit'] | 1 | 2021-09-11 16:30:49+00:00 | 112211 | 0 | | 0 | [] |
-| nivdolgin/CVE-2018-13379 | Hunting CVE-2018-13379 | https://github.com/nivdolgin/CVE-2018-13379 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 13:27:38+00:00 | 0 | 0 | | 0 | ['CVE-2018-13379'] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-11 07:16:38+00:00 | 100445 | 0 | JavaScript | 0 | [] |
+| HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-09-11 00:24:46+00:00 | 328 | 1 | Lua | 1 | [] |
+| Code-Fludex/Fludev-tool | Dev Tools For Roblox Exploiters (Only Synapse x) | https://github.com/Code-Fludex/Fludev-tool | ['exploit'] | 1 | 2021-09-11 18:28:37+00:00 | 0 | 0 | | 0 | [] |
