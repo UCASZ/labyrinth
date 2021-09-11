@@ -1,13 +1,13 @@
 
 # Summary for results/2021/09/11
     
-46 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-11 00:05:18+00:00 | 1534757 | 1502 | Python | 515 | [] |
-| lockedbyte/CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-11 08:27:00+00:00 | 669 | 122 | HTML | 68 | ['CVE-2021-40444'] |
-| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-11 00:29:16+00:00 | 72 | 2 | JavaScript | 2 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-11 12:39:09+00:00 | 21873 | 5955 | JavaScript | 1412 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-11 03:22:50+00:00 | 9001 | 2 | Python | 0 | [] |
+| 0xFenrik/Shellcode_DumpLsass | Shellcode for creating a minidump file of the lsass.exe process. | https://github.com/0xFenrik/Shellcode_DumpLsass | ['shellcode'] | 1 | 2021-09-11 13:24:30+00:00 | 119 | 3 | Python | 0 | [] |
 | 2k20/CSGO-Exploits | FakePrime and drawothermodels (It is equivalent to the integrated version of the first two repository) | https://github.com/2k20/CSGO-Exploits | ['exploit'] | 1 | 2021-09-11 00:01:43+00:00 | 1563 | 1 | C++ | 1 | [] |
 | gosirys/Exploits | Archive: exploits/advisories from 2008-2011 | https://github.com/gosirys/Exploits | ['exploit', 'rce'] | 2 | 2021-09-11 06:51:24+00:00 | 89 | 0 | Perl | 0 | [] |
 | dtgvfck/ShellCode-Injection | None | https://github.com/dtgvfck/ShellCode-Injection | ['shellcode'] | 1 | 2021-09-11 05:49:03+00:00 | 20 | 1 | C# | 1 | [] |
@@ -16,8 +16,8 @@
 | Offensive-Cyber/Binary-Exploitation | CPU Functionality Content For Binary Exploitation | https://github.com/Offensive-Cyber/Binary-Exploitation | ['exploit'] | 1 | 2021-09-11 08:11:20+00:00 | 266 | 2 | | 0 | [] |
 | Udyz/CVE-2021-40444-Sample | CVE-2021-40444 Sample | https://github.com/Udyz/CVE-2021-40444-Sample | ['cve-2 OR cve_2'] | 1 | 2021-09-11 06:34:36+00:00 | 2 | 30 | HTML | 28 | ['CVE-2021-40444'] |
 | c0decave/Win32_Exploitation | My little repository relating to exploitation of win32 processes. | https://github.com/c0decave/Win32_Exploitation | ['exploit'] | 1 | 2021-09-11 08:13:18+00:00 | 69371 | 0 | Python | 0 | [] |
+| lockedbyte/CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-11 08:27:00+00:00 | 669 | 122 | HTML | 68 | ['CVE-2021-40444'] |
 | iknowyourpassword/Metasploitable2 | METASPLOITABLE BEGINNERS GUIDE | https://github.com/iknowyourpassword/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2021-09-11 02:08:26+00:00 | 46 | 0 | | 1 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-09-11 09:03:07+00:00 | 5301 | 2886 | Python | 632 | [] |
 | alikarimi999/CVE-2021-40346 | None | https://github.com/alikarimi999/CVE-2021-40346 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 00:12:03+00:00 | 3115 | 0 | C | 0 | ['CVE-2021-40346'] |
 | fengjixuchui/CVE-2021-40444-docx-Generate | None | https://github.com/fengjixuchui/CVE-2021-40444-docx-Generate | ['cve-2 OR cve_2'] | 1 | 2021-09-11 02:49:31+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
 | Lagal1990/CVE-2021-40444-docx-Generate | None | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | ['cve-2 OR cve_2'] | 1 | 2021-09-11 03:11:34+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
@@ -27,10 +27,12 @@
 | D3m0nicw0lf/CVE-2019-19609 | Strapi Remote Code Execution | https://github.com/D3m0nicw0lf/CVE-2019-19609 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-11 07:04:25+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-19609'] |
 | EagleTube/ShellcodeConverter | Convert binary file into shellcode | https://github.com/EagleTube/ShellcodeConverter | ['shellcode'] | 1 | 2021-09-11 08:19:38+00:00 | 0 | 0 | Python | 0 | [] |
 | nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | None | https://github.com/nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-09-11 09:21:39+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-40444'] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-11 03:22:50+00:00 | 9001 | 2 | Python | 0 | [] |
+| pablogonlez16/HackTheBox_exploits | None | https://github.com/pablogonlez16/HackTheBox_exploits | ['exploit'] | 1 | 2021-09-11 12:02:16+00:00 | 0 | 0 | | 0 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-11 00:29:16+00:00 | 72 | 2 | JavaScript | 2 | [] |
 | BinaryExploiter/CTF-s-Exploits | None | https://github.com/BinaryExploiter/CTF-s-Exploits | ['exploit'] | 1 | 2021-09-11 10:46:17+00:00 | 20550 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-11 00:05:18+00:00 | 1534757 | 1502 | Python | 515 | [] |
 | King-Sign/Javascript-Exploitation | XSS | https://github.com/King-Sign/Javascript-Exploitation | ['exploit'] | 1 | 2021-09-11 05:15:17+00:00 | 5 | 0 | Python | 0 | [] |
-| HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-09-11 00:24:46+00:00 | 328 | 1 | Lua | 1 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-09-11 09:03:07+00:00 | 5301 | 2886 | Python | 632 | [] |
 | veltzer/pytconf | Configuration, command line and injection framework for python | https://github.com/veltzer/pytconf | ['command injection'] | 1 | 2021-09-11 10:24:10+00:00 | 1010 | 0 | Python | 0 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-11 11:35:05+00:00 | 70354 | 10028 | Python | 1678 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-11 00:16:50+00:00 | 118011 | 247 | Ruby | 75 | [] |
@@ -50,4 +52,5 @@
 | ulexec/Exploits | Repository of exploits for research purposes | https://github.com/ulexec/Exploits | ['exploit'] | 1 | 2021-09-11 00:12:28+00:00 | 298902 | 0 | Python | 0 | [] |
 | zekgt/Zyrix | Roblox Exploit | https://github.com/zekgt/Zyrix | ['exploit'] | 1 | 2021-09-11 10:14:31+00:00 | 10899 | 0 | Lua | 0 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-11 07:16:38+00:00 | 100445 | 0 | JavaScript | 0 | [] |
-| pablogonlez16/HackTheBox_exploits | None | https://github.com/pablogonlez16/HackTheBox_exploits | ['exploit'] | 1 | 2021-09-11 12:02:16+00:00 | 0 | 0 | | 0 | [] |
+| HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-09-11 00:24:46+00:00 | 328 | 1 | Lua | 1 | [] |
+| nivdolgin/CVE-2018-13379 | Hunting CVE-2018-13379 | https://github.com/nivdolgin/CVE-2018-13379 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 13:27:38+00:00 | 0 | 0 | | 0 | ['CVE-2018-13379'] |
