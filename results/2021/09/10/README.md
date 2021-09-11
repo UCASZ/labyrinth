@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/10
     
-94 records found after deduplication
+95 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
@@ -29,13 +29,13 @@
 | MicroFox-HD/Exploits | None | https://github.com/MicroFox-HD/Exploits | ['exploit'] | 1 | 2021-09-10 16:51:18+00:00 | 233 | 0 | | 0 | [] |
 | ddozzi/rce | None | https://github.com/ddozzi/rce | ['rce'] | 1 | 2021-09-10 00:36:41+00:00 | 0 | 0 | Java | 0 | [] |
 | SolomonSklash/SleepyCrypt | A shellcode function to encrypt a running process image when sleeping. | https://github.com/SolomonSklash/SleepyCrypt | ['shellcode'] | 1 | 2021-09-10 19:06:35+00:00 | 26 | 1 | C | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-10 00:17:26+00:00 | 21866 | 5950 | JavaScript | 1410 | [] |
+| cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-09-10 05:44:34+00:00 | 1548 | 1 | Python | 2 | [] |
 | matitanium/WebDav-Exploit | Exploit for iis 6 | https://github.com/matitanium/WebDav-Exploit | ['exploit'] | 1 | 2021-09-10 12:34:16+00:00 | 0 | 0 | Python | 0 | [] |
 | iknowyourpassword/Metasploitable2-tutorial | METASPLOITABLE BEGINNERS GUIDE | https://github.com/iknowyourpassword/Metasploitable2-tutorial | ['metasploit module OR payload'] | 1 | 2021-09-10 19:29:11+00:00 | 0 | 0 | | 0 | [] |
 | TariqAlhajri/metasploitable2-Kali-linux-VSFTP-2.3.4 | this project is about exploiting matasploitable2 vulnerability VSFTP 2.3.4 using kali linux | https://github.com/TariqAlhajri/metasploitable2-Kali-linux-VSFTP-2.3.4 | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-10 19:20:36+00:00 | 0 | 0 | | 0 | [] |
 | sha0coder/self-evolving_exploit_offsets | None | https://github.com/sha0coder/self-evolving_exploit_offsets | ['exploit'] | 1 | 2021-09-10 18:31:08+00:00 | 0 | 0 | C | 0 | [] |
 | mrnobody888/shellcode | None | https://github.com/mrnobody888/shellcode | ['shellcode'] | 1 | 2021-09-10 17:26:52+00:00 | 0 | 0 | | 0 | [] |
-| lockedbyte/CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-10 23:29:10+00:00 | 669 | 21 | HTML | 13 | ['CVE-2021-40444'] |
+| lockedbyte/CVE-2021-40444 | Reproduce steps for CVE-2021-40444 | https://github.com/lockedbyte/CVE-2021-40444 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-10 17:28:42+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-40444'] |
 | hecker-code/exploits | None | https://github.com/hecker-code/exploits | ['exploit'] | 1 | 2021-09-10 16:34:30+00:00 | 0 | 0 | | 0 | [] |
 | Dying-Doomer/bf3 | browser fuzzing framework | https://github.com/Dying-Doomer/bf3 | ['0day'] | 1 | 2021-09-10 16:35:21+00:00 | 0 | 1 | C | 0 | [] |
 | zaneGittins/CVE-2021-40444-evtx | Event logs from running CVE-2021-40444 samples | https://github.com/zaneGittins/CVE-2021-40444-evtx | ['cve-2 OR cve_2'] | 1 | 2021-09-10 15:37:14+00:00 | 108 | 0 | | 0 | ['CVE-2021-40444'] |
@@ -52,8 +52,8 @@
 | Ccamm/Polyglot-JPEG-XSS | Creates a polyglot JPEG for exploiting XSS javascript vulnerabilities to bypass CSP. | https://github.com/Ccamm/Polyglot-JPEG-XSS | ['exploit'] | 1 | 2021-09-10 08:12:34+00:00 | 0 | 0 | Python | 0 | [] |
 | Offensive-Cyber/Binary-Exploitation | CPU Functionality Content For Binary Exploitation | https://github.com/Offensive-Cyber/Binary-Exploitation | ['exploit'] | 1 | 2021-09-10 07:31:33+00:00 | 0 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-10 11:19:54+00:00 | 8710 | 2 | Python | 0 | [] |
-| cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-09-10 05:44:34+00:00 | 1548 | 1 | Python | 2 | [] |
 | ltran38/Mcafee-ENS-Rules | A collection of all of the Mcafee Expert Rules I've created for various exploits | https://github.com/ltran38/Mcafee-ENS-Rules | ['exploit'] | 1 | 2021-09-10 18:07:37+00:00 | 2 | 0 | Tcl | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-10 00:17:26+00:00 | 21866 | 5950 | JavaScript | 1410 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2021-09-10 11:38:54+00:00 | 3613 | 979 | C | 151 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-10 18:26:26+00:00 | 385 | 226 | Rust | 12 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-10 02:48:33+00:00 | 60815 | 1184 | JavaScript | 242 | [] |
@@ -65,7 +65,7 @@
 | jbizzle21/metasploit-framework | None | https://github.com/jbizzle21/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-10 15:21:57+00:00 | 13 | 0 | | 0 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-10 10:16:45+00:00 | 292759 | 79 | Python | 13 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-10 00:17:20+00:00 | 116488 | 247 | Ruby | 75 | [] |
-| izabela-am/Heap-Exploitation | learning various heap exploitation techniques | https://github.com/izabela-am/Heap-Exploitation | ['exploit'] | 1 | 2021-09-10 20:02:03+00:00 | 2 | 0 | C | 0 | [] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-09-10 14:05:37+00:00 | 1215 | 242 | C | 11 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2021-09-10 11:33:36+00:00 | 16242 | 1694 | C++ | 275 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-10 11:35:05+00:00 | 70170 | 10022 | Python | 1673 | [] |
 | nsonaniya2010/testing | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | ['exploit'] | 1 | 2021-09-10 06:24:27+00:00 | 63 | 0 | PostScript | 1 | [] |
@@ -76,9 +76,9 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-10 05:07:12+00:00 | 223053 | 6444 | C | 1789 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-10 21:05:01+00:00 | 3398 | 2470 | PowerShell | 709 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-10 00:52:35+00:00 | 25229 | 22 | | 14 | [] |
-| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-09-10 14:05:37+00:00 | 1215 | 242 | C | 11 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-09-10 05:40:43+00:00 | 17589 | 545 | Go | 110 | [] |
-| myReposJY/co-exploitation-discovery | data and codes for exploitability prediction | https://github.com/myReposJY/co-exploitation-discovery | ['exploit'] | 1 | 2021-09-10 00:20:08+00:00 | 0 | 0 | | 0 | [] |
+| izabela-am/Heap-Exploitation | learning various heap exploitation techniques | https://github.com/izabela-am/Heap-Exploitation | ['exploit'] | 1 | 2021-09-10 20:02:03+00:00 | 2 | 0 | C | 0 | [] |
+| neumaneuma/appseccheat.codes | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | ['exploit'] | 1 | 2021-09-10 16:32:03+00:00 | 341 | 3 | HTML | 1 | [] |
 | HarrysExploit/Harrys-exploit-setup | None | https://github.com/HarrysExploit/Harrys-exploit-setup | ['exploit'] | 1 | 2021-09-10 21:00:56+00:00 | 294136 | 0 | | 0 | [] |
 | HarrysExploit/Harrys-exploit-api | None | https://github.com/HarrysExploit/Harrys-exploit-api | ['exploit'] | 1 | 2021-09-10 18:50:49+00:00 | 105308 | 0 | | 0 | [] |
 | vi11ain/nebula-writeup | Writeup for exploit.education/nebula | https://github.com/vi11ain/nebula-writeup | ['exploit'] | 1 | 2021-09-10 16:32:55+00:00 | 107 | 1 | | 0 | [] |
@@ -88,8 +88,8 @@
 | gittina/expressyouRcell | None | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2021-09-10 13:06:12+00:00 | 2104 | 0 | R | 0 | [] |
 | 0iphor13/Scripts-and-Exploits | Random scripts and exploits I used, modified or wrote. | https://github.com/0iphor13/Scripts-and-Exploits | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-10 13:08:51+00:00 | 37 | 1 | Ruby | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-10 01:28:18+00:00 | 60 | 0 | PHP | 0 | [] |
-| neumaneuma/appseccheat.codes | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | ['exploit'] | 1 | 2021-09-10 16:32:03+00:00 | 341 | 3 | HTML | 1 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-09-10 02:23:55+00:00 | 287778 | 675 | | 134 | [] |
+| myReposJY/co-exploitation-discovery | data and codes for exploitability prediction | https://github.com/myReposJY/co-exploitation-discovery | ['exploit'] | 1 | 2021-09-10 00:20:08+00:00 | 0 | 0 | | 0 | [] |
 | Malam-X/DragonMS | DragonMS is Tools for ddos, scanner, tracker, payload generator msfvenom and scraping | https://github.com/Malam-X/DragonMS | ['metasploit module OR payload'] | 1 | 2021-09-10 03:58:40+00:00 | 608 | 18 | Python | 8 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-10 00:03:19+00:00 | 417299 | 30 | | 17 | [] |
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-09-10 11:38:22+00:00 | 135291 | 250 | Batchfile | 75 | [] |
@@ -97,5 +97,6 @@
 | Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2021-09-10 09:19:29+00:00 | 1662 | 19 | PHP | 8 | [] |
 | tobiphoenix/laravelbot | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | ['exploit'] | 1 | 2021-09-10 04:05:00+00:00 | 3 | 2 | Python | 2 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-10 15:31:05+00:00 | 2986066 | 2 | Batchfile | 0 | [] |
+| moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-09-10 09:48:47+00:00 | 499 | 76 | Java | 18 | [] |
 | righter83/CVE-2020-0688 | Exchange Scanner CVE-2020-0688 | https://github.com/righter83/CVE-2020-0688 | ['cve-2 OR cve_2'] | 1 | 2021-09-10 12:10:09+00:00 | 33 | 1 | PHP | 2 | ['CVE-2020-0688'] |
 | alikarimi999/CVE-2021-40346 | None | https://github.com/alikarimi999/CVE-2021-40346 | ['cve-2 OR cve_2'] | 1 | 2021-09-10 23:10:22+00:00 | 0 | 0 | | 0 | ['CVE-2021-40346'] |
