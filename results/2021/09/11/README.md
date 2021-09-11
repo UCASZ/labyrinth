@@ -1,46 +1,47 @@
 
 # Summary for results/2021/09/11
     
-69 records found after deduplication
+70 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-11 12:39:09+00:00 | 21873 | 5955 | JavaScript | 1412 | [] |
-| 2k20/CSGO-Exploits | FakePrime and drawothermodels (It is equivalent to the integrated version of the first two repository) | https://github.com/2k20/CSGO-Exploits | ['exploit'] | 1 | 2021-09-11 00:01:43+00:00 | 1563 | 1 | C++ | 1 | [] |
-| SolomonSklash/SleepyCrypt | A shellcode function to encrypt a running process image when sleeping. | https://github.com/SolomonSklash/SleepyCrypt | ['shellcode'] | 1 | 2021-09-11 00:27:33+00:00 | 26 | 1 | C | 0 | [] |
+| aesophor/requiem | 🎻 Exploit metaprogramming: Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-11 17:14:40+00:00 | 75 | 5 | Python | 0 | [] |
 | Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2021-09-11 04:52:52+00:00 | 9637 | 0 | | 0 | [] |
 | AirRhyme/CreeperSploitDependencies | None | https://github.com/AirRhyme/CreeperSploitDependencies | ['sploit'] | 1 | 2021-09-11 17:33:35+00:00 | 6 | 0 | | 0 | [] |
 | twentybel0w/CVE-2020-25223 | None | https://github.com/twentybel0w/CVE-2020-25223 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 18:13:03+00:00 | 2 | 0 | Python | 0 | ['CVE-2020-25223'] |
 | dtgvfck/ShellCode-Injection | None | https://github.com/dtgvfck/ShellCode-Injection | ['shellcode'] | 1 | 2021-09-11 05:49:03+00:00 | 20 | 1 | C# | 1 | [] |
 | gosirys/Exploits | Archive: exploits/advisories from 2008-2011 | https://github.com/gosirys/Exploits | ['exploit', 'rce'] | 2 | 2021-09-11 06:51:24+00:00 | 89 | 0 | Perl | 0 | [] |
-| aesophor/requiem | 🎻 Exploit metaprogramming: Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-11 17:14:40+00:00 | 75 | 5 | Python | 0 | [] |
-| BinaryExploiter/CTF-s-Exploits | None | https://github.com/BinaryExploiter/CTF-s-Exploits | ['exploit'] | 1 | 2021-09-11 10:46:17+00:00 | 20550 | 0 | Python | 0 | [] |
+| 2k20/CSGO-Exploits | FakePrime and drawothermodels (It is equivalent to the integrated version of the first two repository) | https://github.com/2k20/CSGO-Exploits | ['exploit'] | 1 | 2021-09-11 00:01:43+00:00 | 1563 | 1 | C++ | 1 | [] |
 | ArcModz/HDX | Private exploit scripts for Roblox games with HD Admin. | https://github.com/ArcModz/HDX | ['exploit'] | 1 | 2021-09-11 16:36:47+00:00 | 70 | 0 | Lua | 0 | [] |
+| Offensive-Cyber/Binary-Exploitation | CPU Functionality Content For Binary Exploitation | https://github.com/Offensive-Cyber/Binary-Exploitation | ['exploit'] | 1 | 2021-09-11 08:11:20+00:00 | 266 | 2 | | 0 | [] |
 | 0xFenrik/Shellcode_DumpLsass | Shellcode for creating a minidump file of the lsass.exe process. | https://github.com/0xFenrik/Shellcode_DumpLsass | ['shellcode'] | 1 | 2021-09-11 13:24:30+00:00 | 119 | 3 | Python | 0 | [] |
 | fadhilthomas/go-firebase-exploit | go-firebase-exploit or gfe is a tool for exploiting insecure firebase databases | https://github.com/fadhilthomas/go-firebase-exploit | ['exploit'] | 1 | 2021-09-11 16:04:50+00:00 | 56 | 1 | Go | 0 | [] |
+| BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-09-11 19:29:08+00:00 | 101640 | 0 | PowerShell | 0 | [] |
 | Rajchowdhury420/Unobtainium-HTB-Exploit | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | ['exploit'] | 1 | 2021-09-11 18:16:45+00:00 | 282 | 1 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-11 00:29:16+00:00 | 72 | 2 | JavaScript | 2 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-11 03:22:50+00:00 | 9001 | 2 | Python | 0 | [] |
-| Offensive-Cyber/Binary-Exploitation | CPU Functionality Content For Binary Exploitation | https://github.com/Offensive-Cyber/Binary-Exploitation | ['exploit'] | 1 | 2021-09-11 08:11:20+00:00 | 266 | 2 | | 0 | [] |
+| SolomonSklash/SleepyCrypt | A shellcode function to encrypt a running process image when sleeping. | https://github.com/SolomonSklash/SleepyCrypt | ['shellcode'] | 1 | 2021-09-11 00:27:33+00:00 | 26 | 1 | C | 0 | [] |
 | Udyz/CVE-2021-40444-Sample | CVE-2021-40444 Sample | https://github.com/Udyz/CVE-2021-40444-Sample | ['cve-2 OR cve_2'] | 1 | 2021-09-11 06:34:36+00:00 | 2 | 30 | HTML | 28 | ['CVE-2021-40444'] |
-| c0decave/Win32_Exploitation | My little repository relating to exploitation of win32 processes. | https://github.com/c0decave/Win32_Exploitation | ['exploit'] | 1 | 2021-09-11 08:13:18+00:00 | 69371 | 0 | Python | 0 | [] |
-| lockedbyte/CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-11 08:27:00+00:00 | 669 | 122 | HTML | 68 | ['CVE-2021-40444'] |
-| iknowyourpassword/Metasploitable2 | METASPLOITABLE BEGINNERS GUIDE | https://github.com/iknowyourpassword/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2021-09-11 02:08:26+00:00 | 46 | 0 | | 1 | [] |
-| alikarimi999/CVE-2021-40346 | None | https://github.com/alikarimi999/CVE-2021-40346 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 00:12:03+00:00 | 3115 | 0 | C | 0 | ['CVE-2021-40346'] |
-| fengjixuchui/CVE-2021-40444-docx-Generate | None | https://github.com/fengjixuchui/CVE-2021-40444-docx-Generate | ['cve-2 OR cve_2'] | 1 | 2021-09-11 02:49:31+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
-| Lagal1990/CVE-2021-40444-docx-Generate | None | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | ['cve-2 OR cve_2'] | 1 | 2021-09-11 03:11:34+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
-| rcely/rcely | Config files for my GitHub profile. | https://github.com/rcely/rcely | ['rce'] | 1 | 2021-09-11 03:20:29+00:00 | 0 | 0 | | 0 | [] |
-| FanqXu/CVE-2021-40444 | CVE-2021-40444 Microsoft MSHTML Remote Code Execution Vulnerability | https://github.com/FanqXu/CVE-2021-40444 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-11 04:13:13+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
-| Pluviophile-BT/shellcode-calc | None | https://github.com/Pluviophile-BT/shellcode-calc | ['shellcode'] | 1 | 2021-09-11 05:26:24+00:00 | 0 | 0 | Assembly | 0 | [] |
-| D3m0nicw0lf/CVE-2019-19609 | Strapi Remote Code Execution | https://github.com/D3m0nicw0lf/CVE-2019-19609 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-11 07:04:25+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-19609'] |
-| EagleTube/ShellcodeConverter | Convert binary file into shellcode | https://github.com/EagleTube/ShellcodeConverter | ['shellcode'] | 1 | 2021-09-11 08:19:38+00:00 | 0 | 0 | Python | 0 | [] |
-| nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | None | https://github.com/nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-09-11 09:21:39+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-40444'] |
-| pablogonlez16/HackTheBox_exploits | None | https://github.com/pablogonlez16/HackTheBox_exploits | ['exploit'] | 1 | 2021-09-11 12:02:16+00:00 | 0 | 0 | | 0 | [] |
-| nivdolgin/CVE-2018-13379 | Hunting CVE-2018-13379 | https://github.com/nivdolgin/CVE-2018-13379 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 13:27:38+00:00 | 0 | 0 | | 0 | ['CVE-2018-13379'] |
-| kozmer/CVE-2021-40444 | Demo for CVE-2021-40444 | https://github.com/kozmer/CVE-2021-40444 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 18:07:22+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-40444'] |
-| rexguowork/phantom-attack | POC for Phantom Attack | https://github.com/rexguowork/phantom-attack | ['attack poc'] | 1 | 2021-09-11 16:50:17+00:00 | 53 | 10 | C | 1 | [] |
-| T-Dynamos/Metasploit | Install Metasploit latest version in all linux devices including Termux (Android) | https://github.com/T-Dynamos/Metasploit | ['metasploit module OR payload'] | 1 | 2021-09-11 15:16:40+00:00 | 1251 | 0 | Python | 0 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-09-11 12:53:48+00:00 | 27113 | 8244 | Python | 1437 | [] |
+| Pluviophile-BT/shellcode-calc | None | https://github.com/Pluviophile-BT/shellcode-calc | ['shellcode'] | 1 | 2021-09-11 05:26:24+00:00 | 0 | 0 | Assembly | 0 | [] |
+| kozmer/CVE-2021-40444 | Demo for CVE-2021-40444 | https://github.com/kozmer/CVE-2021-40444 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 18:07:22+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-40444'] |
+| nivdolgin/CVE-2018-13379 | Hunting CVE-2018-13379 | https://github.com/nivdolgin/CVE-2018-13379 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 13:27:38+00:00 | 0 | 0 | | 0 | ['CVE-2018-13379'] |
+| pablogonlez16/HackTheBox_exploits | None | https://github.com/pablogonlez16/HackTheBox_exploits | ['exploit'] | 1 | 2021-09-11 12:02:16+00:00 | 0 | 0 | | 0 | [] |
+| nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | None | https://github.com/nightrelax/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-09-11 09:21:39+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-40444'] |
+| EagleTube/ShellcodeConverter | Convert binary file into shellcode | https://github.com/EagleTube/ShellcodeConverter | ['shellcode'] | 1 | 2021-09-11 08:19:38+00:00 | 0 | 0 | Python | 0 | [] |
+| D3m0nicw0lf/CVE-2019-19609 | Strapi Remote Code Execution | https://github.com/D3m0nicw0lf/CVE-2019-19609 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-11 07:04:25+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-19609'] |
+| FanqXu/CVE-2021-40444 | CVE-2021-40444 Microsoft MSHTML Remote Code Execution Vulnerability | https://github.com/FanqXu/CVE-2021-40444 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-11 04:13:13+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
+| c0decave/Win32_Exploitation | My little repository relating to exploitation of win32 processes. | https://github.com/c0decave/Win32_Exploitation | ['exploit'] | 1 | 2021-09-11 08:13:18+00:00 | 69371 | 0 | Python | 0 | [] |
+| rcely/rcely | Config files for my GitHub profile. | https://github.com/rcely/rcely | ['rce'] | 1 | 2021-09-11 03:20:29+00:00 | 0 | 0 | | 0 | [] |
+| Lagal1990/CVE-2021-40444-docx-Generate | None | https://github.com/Lagal1990/CVE-2021-40444-docx-Generate | ['cve-2 OR cve_2'] | 1 | 2021-09-11 03:11:34+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
+| fengjixuchui/CVE-2021-40444-docx-Generate | None | https://github.com/fengjixuchui/CVE-2021-40444-docx-Generate | ['cve-2 OR cve_2'] | 1 | 2021-09-11 02:49:31+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
+| alikarimi999/CVE-2021-40346 | None | https://github.com/alikarimi999/CVE-2021-40346 | ['cve-2 OR cve_2'] | 1 | 2021-09-11 00:12:03+00:00 | 3115 | 0 | C | 0 | ['CVE-2021-40346'] |
+| iknowyourpassword/Metasploitable2 | METASPLOITABLE BEGINNERS GUIDE | https://github.com/iknowyourpassword/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2021-09-11 02:08:26+00:00 | 46 | 0 | | 1 | [] |
+| lockedbyte/CVE-2021-40444 | CVE-2021-40444 PoC | https://github.com/lockedbyte/CVE-2021-40444 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-11 08:27:00+00:00 | 669 | 122 | HTML | 68 | ['CVE-2021-40444'] |
+| rexguowork/phantom-attack | POC for Phantom Attack | https://github.com/rexguowork/phantom-attack | ['attack poc'] | 1 | 2021-09-11 16:50:17+00:00 | 53 | 10 | C | 1 | [] |
+| BinaryExploiter/CTF-s-Exploits | None | https://github.com/BinaryExploiter/CTF-s-Exploits | ['exploit'] | 1 | 2021-09-11 10:46:17+00:00 | 20550 | 0 | Python | 0 | [] |
+| T-Dynamos/Metasploit | Install Metasploit latest version in all linux devices including Termux (Android) | https://github.com/T-Dynamos/Metasploit | ['metasploit module OR payload'] | 1 | 2021-09-11 15:16:40+00:00 | 1251 | 0 | Python | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-11 07:39:00+00:00 | 1332467 | 3449 | PowerShell | 1198 | [] |
 | ezluci/Roblox-scripts | This repository contains one Roblox cheat script made by me and other scripts made by other persons which I use to exploit Roblox. | https://github.com/ezluci/Roblox-scripts | ['exploit'] | 1 | 2021-09-11 10:38:03+00:00 | 236 | 1 | Lua | 0 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-11 05:51:51+00:00 | 3007536 | 2 | Batchfile | 0 | [] |
