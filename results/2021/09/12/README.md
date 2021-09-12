@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/12
     
-77 records found after deduplication
+78 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -15,7 +15,7 @@
 | parrothacker1/rust-metasploit-example | An practical application of rust-metasploit | https://github.com/parrothacker1/rust-metasploit-example | ['metasploit module OR payload'] | 1 | 2021-09-12 16:27:06+00:00 | 10 | 0 | Rust | 0 | [] |
 | MuirlandOracle/CVE-2019-17662 | Exploit code for CVE-2019-17662 | https://github.com/MuirlandOracle/CVE-2019-17662 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-12 14:43:25+00:00 | 2 | 2 | Python | 0 | ['CVE-2019-17662'] |
 | kikiokol/AndroidDown | Exploit android devices via the Android Debugging Bridge | https://github.com/kikiokol/AndroidDown | ['exploit'] | 1 | 2021-09-12 12:05:48+00:00 | 33 | 1 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-12 18:25:16+00:00 | 9000 | 2 | Python | 0 | [] |
+| F1R3xS1NN3R/sebos-Ps4-exploit | ps4 jailbrake exploit | https://github.com/F1R3xS1NN3R/sebos-Ps4-exploit | ['exploit'] | 1 | 2021-09-12 00:17:29+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | sti2d-company/wallet | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | ['exploit'] | 1 | 2021-09-12 17:03:44+00:00 | 14517 | 0 | Vue | 2 | [] |
 | renatus-cartesius/infosec | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | ['exploit'] | 1 | 2021-09-12 17:53:51+00:00 | 24 | 0 | C | 0 | [] |
 | cirosantilli/china-dictatorship-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorship-2 | ['attack poc', 'exploit'] | 2 | 2021-09-12 14:41:31+00:00 | 5834 | 10 | HTML | 7 | [] |
@@ -24,17 +24,18 @@
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-12 08:29:51+00:00 | 330 | 2 | Python | 0 | [] |
 | MicroFox-HD/Exploits | None | https://github.com/MicroFox-HD/Exploits | ['exploit'] | 1 | 2021-09-12 18:46:18+00:00 | 236 | 0 | | 0 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2021-09-12 09:08:09+00:00 | 44 | 0 | | 0 | [] |
-| F1R3xS1NN3R/sebos-Ps4-exploit | ps4 jailbrake exploit | https://github.com/F1R3xS1NN3R/sebos-Ps4-exploit | ['exploit'] | 1 | 2021-09-12 00:17:29+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | R0fM1a/CVE-2021-40444-pocv | None | https://github.com/R0fM1a/CVE-2021-40444-pocv | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-12 00:25:15+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
-| zenmenu/ZENITSU-EXPLOIT | None | https://github.com/zenmenu/ZENITSU-EXPLOIT | ['exploit'] | 1 | 2021-09-12 00:38:51+00:00 | 0 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-12 01:58:15+00:00 | 21873 | 5957 | JavaScript | 1413 | [] |
+| xen0vas/Windows-x86-Reverse-TCP-Shellcode | Windows/x86 Reverse TCP Shellcode (192.168.201.11:4444) (330 Bytes) | https://github.com/xen0vas/Windows-x86-Reverse-TCP-Shellcode | ['shellcode'] | 1 | 2021-09-12 16:05:52+00:00 | 0 | 0 | C | 0 | [] |
+| cubaaaa/fishy-fishy-squad-exploit | None | https://github.com/cubaaaa/fishy-fishy-squad-exploit | ['exploit'] | 1 | 2021-09-12 18:50:45+00:00 | 0 | 0 | Lua | 0 | [] |
 | LakenCodes/msfdepends | This is a script that properly initializes the Metasploit-Framework that is install on your machine. Tested on Kali Linux. | https://github.com/LakenCodes/msfdepends | ['metasploit module OR payload'] | 1 | 2021-09-12 18:26:22+00:00 | 0 | 0 | Shell | 0 | [] |
 | dock0d1/Exploit-Title-Joomla-3.9.0-3.9.7---CSV-Injection | Exploit Title: Joomla 3.9.0 < 3.9.7 - CSV Injection | https://github.com/dock0d1/Exploit-Title-Joomla-3.9.0-3.9.7---CSV-Injection | ['exploit'] | 1 | 2021-09-12 18:15:54+00:00 | 0 | 0 | Python | 0 | [] |
 | aslitsecurity/CVE-2021-40444_builders | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-12 18:23:15+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-40444'] |
 | RyouYoo/CVE-2018-18925 | Exploitation of CVE-2018-18925 a Remote Code Execution against the Git self hosted tool: Gogs. | https://github.com/RyouYoo/CVE-2018-18925 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2021-09-12 18:00:06+00:00 | 0 | 1 | | 0 | ['CVE-2018-18925'] |
 | SploiterMan/SploiterMan | Config files for my GitHub profile. | https://github.com/SploiterMan/SploiterMan | ['sploit'] | 1 | 2021-09-12 16:46:53+00:00 | 0 | 0 | | 0 | [] |
 | psauxxx/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/psauxxx/All-Discord-Exploits | ['exploit'] | 1 | 2021-09-12 16:05:19+00:00 | 0 | 0 | | 0 | [] |
-| xen0vas/Windows-x86-Reverse-TCP-Shellcode | Windows/x86 Reverse TCP Shellcode (192.168.201.11:4444) (330 Bytes) | https://github.com/xen0vas/Windows-x86-Reverse-TCP-Shellcode | ['shellcode'] | 1 | 2021-09-12 16:05:52+00:00 | 0 | 0 | C | 0 | [] |
 | xen0vas/Windows-x86-Reverse-TCP-Shellcode- | Windows/x86 - Reverse TCP Shellcode (192.168.201.11:4444) (330 Bytes) | https://github.com/xen0vas/Windows-x86-Reverse-TCP-Shellcode- | ['shellcode'] | 1 | 2021-09-12 15:32:08+00:00 | 0 | 0 | | 0 | [] |
+| zenmenu/ZENITSU-EXPLOIT | None | https://github.com/zenmenu/ZENITSU-EXPLOIT | ['exploit'] | 1 | 2021-09-12 00:38:51+00:00 | 0 | 0 | | 0 | [] |
 | luizfvitorino/course07-Java_poly | Bytebank system made to exploit polymorphism, inheritance and interfaces in Java SE 16 (Unfinished) | https://github.com/luizfvitorino/course07-Java_poly | ['exploit'] | 1 | 2021-09-12 14:24:41+00:00 | 0 | 0 | | 0 | [] |
 | RyouYoo/CVE-2021-24499 | Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme. | https://github.com/RyouYoo/CVE-2021-24499 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2021-09-12 12:59:14+00:00 | 0 | 1 | Shell | 0 | ['CVE-2021-24499'] |
 | cerodah/overlayFS-CVE-2021-3493 | 2021 kernel vulnerability in Ubuntu | https://github.com/cerodah/overlayFS-CVE-2021-3493 | ['cve-2 OR cve_2'] | 1 | 2021-09-12 12:25:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-3493'] |
@@ -43,8 +44,8 @@
 | jclel/tools | Rewritten exploits and automated scripts | https://github.com/jclel/tools | ['exploit'] | 1 | 2021-09-12 02:33:27+00:00 | 0 | 0 | Python | 0 | [] |
 | Legacy775/PipSqeak-Executor | Script executor for Roblox exploits | https://github.com/Legacy775/PipSqeak-Executor | ['exploit'] | 1 | 2021-09-12 01:33:55+00:00 | 0 | 0 | | 0 | [] |
 | noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-12 13:00:18+00:00 | 3206 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-12 18:25:16+00:00 | 9000 | 2 | Python | 0 | [] |
 | DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-09-12 10:33:26+00:00 | 2559 | 5 | Java | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-12 01:58:15+00:00 | 21873 | 5957 | JavaScript | 1413 | [] |
 | dhondta/python-sploitkit | Devkit for building Metasploit-like consoles | https://github.com/dhondta/python-sploitkit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-09-12 08:15:57+00:00 | 2112 | 158 | Python | 45 | [] |
 | fr0g2s/HackCTF-pwnable- | exploit code(incomplete) | https://github.com/fr0g2s/HackCTF-pwnable- | ['exploit'] | 1 | 2021-09-12 05:12:16+00:00 | 347 | 0 | Python | 0 | [] |
 | n4ru/1vyrain | LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking. | https://github.com/n4ru/1vyrain | ['exploit'] | 1 | 2021-09-12 13:22:50+00:00 | 17127 | 614 | Shell | 48 | [] |
@@ -81,4 +82,4 @@
 | skynet-jpg/exploit | None | https://github.com/skynet-jpg/exploit | ['exploit'] | 1 | 2021-09-12 01:37:34+00:00 | 17475 | 0 | Hack | 0 | [] |
 | hhj4ck/CVE-2016-2067 | None | https://github.com/hhj4ck/CVE-2016-2067 | ['cve-2 OR cve_2'] | 1 | 2021-09-12 10:03:55+00:00 | 18 | 2 | C | 0 | ['CVE-2016-2067'] |
 | tobiphoenix/laravelbot | Bot Laravel Auto Exploit And Upload Backdoor | https://github.com/tobiphoenix/laravelbot | ['exploit'] | 1 | 2021-09-12 10:01:46+00:00 | 16 | 2 | Python | 2 | [] |
-| cubaaaa/fishy-fishy-squad-exploit | None | https://github.com/cubaaaa/fishy-fishy-squad-exploit | ['exploit'] | 1 | 2021-09-12 18:50:45+00:00 | 0 | 0 | Lua | 0 | [] |
+| Wayyllon/dumb-exploit-scripts | includes things like equality mod | https://github.com/Wayyllon/dumb-exploit-scripts | ['exploit'] | 1 | 2021-09-12 23:17:13+00:00 | 0 | 1 | | 0 | [] |
