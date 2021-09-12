@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/12
     
-5 records found after deduplication
+6 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
@@ -10,3 +10,4 @@
 | F1R3xS1NN3R/sebos-Ps4-exploit | ps4 jailbrake exploit | https://github.com/F1R3xS1NN3R/sebos-Ps4-exploit | ['exploit'] | 1 | 2021-09-12 00:17:29+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | R0fM1a/CVE-2021-40444-pocv | nan | https://github.com/R0fM1a/CVE-2021-40444-pocv | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-12 00:25:15+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-40444'] |
 | zenmenu/ZENITSU-EXPLOIT | None | https://github.com/zenmenu/ZENITSU-EXPLOIT | ['exploit'] | 1 | 2021-09-12 00:38:51+00:00 | 0 | 0 | | 0 | [] |
+| Legacy775/PipSqeak-Executor | Script executor for Roblox exploits | https://github.com/Legacy775/PipSqeak-Executor | ['exploit'] | 1 | 2021-09-12 01:33:55+00:00 | 0 | 0 | | 0 | [] |
