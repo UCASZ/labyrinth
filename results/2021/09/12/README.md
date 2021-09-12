@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/12
     
-75 records found after deduplication
+76 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-12 07:20:05+00:00 | 568797 | 25046 | Ruby | 11549 | [] |
-| F1R3xS1NN3R/sebos-Ps4-exploit | ps4 jailbrake exploit | https://github.com/F1R3xS1NN3R/sebos-Ps4-exploit | ['exploit'] | 1 | 2021-09-12 00:17:29+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| aesophor/requiem | 🎻 Exploit metaprogramming: Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-12 05:43:44+00:00 | 87 | 5 | Python | 0 | [] |
 | luizfvitorino/course06-Java_OO | Bytebank system made to exploit object orientation in Java SE 16 (Finished) | https://github.com/luizfvitorino/course06-Java_OO | ['exploit'] | 1 | 2021-09-12 07:32:52+00:00 | 32 | 0 | Java | 0 | [] |
 | iknowyourpassword/Metasploitable2 | METASPLOITABLE BEGINNERS GUIDE TUTORIAL | https://github.com/iknowyourpassword/Metasploitable2 | ['metasploit module OR payload'] | 1 | 2021-09-12 15:51:35+00:00 | 67 | 0 | | 1 | [] |
 | in-future-world/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(7), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, t | https://github.com/in-future-world/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-09-12 14:45:32+00:00 | 39 | 4 | | 2 | [] |
@@ -14,17 +14,18 @@
 | Kappaladi/exploitupdate | None | https://github.com/Kappaladi/exploitupdate | ['exploit'] | 1 | 2021-09-12 05:19:24+00:00 | 9642 | 0 | Batchfile | 0 | [] |
 | parrothacker1/rust-metasploit-example | An practical application of rust-metasploit | https://github.com/parrothacker1/rust-metasploit-example | ['metasploit module OR payload'] | 1 | 2021-09-12 16:27:06+00:00 | 10 | 0 | Rust | 0 | [] |
 | MuirlandOracle/CVE-2019-17662 | Exploit code for CVE-2019-17662 | https://github.com/MuirlandOracle/CVE-2019-17662 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-12 14:43:25+00:00 | 2 | 2 | Python | 0 | ['CVE-2019-17662'] |
-| aesophor/requiem | 🎻 Exploit metaprogramming: Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-12 05:43:44+00:00 | 87 | 5 | Python | 0 | [] |
 | kikiokol/AndroidDown | Exploit android devices via the Android Debugging Bridge | https://github.com/kikiokol/AndroidDown | ['exploit'] | 1 | 2021-09-12 12:05:48+00:00 | 33 | 1 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-12 01:58:15+00:00 | 21873 | 5957 | JavaScript | 1413 | [] |
 | sti2d-company/wallet | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | ['exploit'] | 1 | 2021-09-12 17:03:44+00:00 | 14517 | 0 | Vue | 2 | [] |
 | renatus-cartesius/infosec | Some files for information security exploits | https://github.com/renatus-cartesius/infosec | ['exploit'] | 1 | 2021-09-12 17:53:51+00:00 | 24 | 0 | C | 0 | [] |
 | cirosantilli/china-dictatorship-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorship-2 | ['attack poc', 'exploit'] | 2 | 2021-09-12 14:41:31+00:00 | 5834 | 10 | HTML | 7 | [] |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-09-12 15:19:59+00:00 | 14 | 0 | | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that I developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-12 03:16:59+00:00 | 77 | 5 | JavaScript | 3 | [] |
 | G00Dway/DataSploit | DataSploit Framework | https://github.com/G00Dway/DataSploit | ['sploit'] | 1 | 2021-09-12 08:29:51+00:00 | 330 | 2 | Python | 0 | [] |
+| MicroFox-HD/Exploits | None | https://github.com/MicroFox-HD/Exploits | ['exploit'] | 1 | 2021-09-12 18:46:18+00:00 | 236 | 0 | | 0 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2021-09-12 09:08:09+00:00 | 44 | 0 | | 0 | [] |
+| F1R3xS1NN3R/sebos-Ps4-exploit | ps4 jailbrake exploit | https://github.com/F1R3xS1NN3R/sebos-Ps4-exploit | ['exploit'] | 1 | 2021-09-12 00:17:29+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | R0fM1a/CVE-2021-40444-pocv | None | https://github.com/R0fM1a/CVE-2021-40444-pocv | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-12 00:25:15+00:00 | 0 | 0 | | 0 | ['CVE-2021-40444'] |
-| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-12 13:00:18+00:00 | 3206 | 0 | Python | 0 | [] |
 | zenmenu/ZENITSU-EXPLOIT | None | https://github.com/zenmenu/ZENITSU-EXPLOIT | ['exploit'] | 1 | 2021-09-12 00:38:51+00:00 | 0 | 0 | | 0 | [] |
 | LakenCodes/msfdepends | This is a script that properly initializes the Metasploit-Framework that is install on your machine. Tested on Kali Linux. | https://github.com/LakenCodes/msfdepends | ['metasploit module OR payload'] | 1 | 2021-09-12 18:26:22+00:00 | 0 | 0 | Shell | 0 | [] |
 | dock0d1/Exploit-Title-Joomla-3.9.0-3.9.7---CSV-Injection | Exploit Title: Joomla 3.9.0 < 3.9.7 - CSV Injection | https://github.com/dock0d1/Exploit-Title-Joomla-3.9.0-3.9.7---CSV-Injection | ['exploit'] | 1 | 2021-09-12 18:15:54+00:00 | 0 | 0 | Python | 0 | [] |
@@ -41,9 +42,9 @@
 | ChrisIsTheDev/ChrisHeckRBLXEXPLOIT | This is my custom exploit!!! | https://github.com/ChrisIsTheDev/ChrisHeckRBLXEXPLOIT | ['exploit'] | 1 | 2021-09-12 03:25:44+00:00 | 0 | 0 | | 0 | [] |
 | jclel/tools | Rewritten exploits and automated scripts | https://github.com/jclel/tools | ['exploit'] | 1 | 2021-09-12 02:33:27+00:00 | 0 | 0 | Python | 0 | [] |
 | Legacy775/PipSqeak-Executor | Script executor for Roblox exploits | https://github.com/Legacy775/PipSqeak-Executor | ['exploit'] | 1 | 2021-09-12 01:33:55+00:00 | 0 | 0 | | 0 | [] |
-| MicroFox-HD/Exploits | None | https://github.com/MicroFox-HD/Exploits | ['exploit'] | 1 | 2021-09-12 18:46:18+00:00 | 236 | 0 | | 0 | [] |
+| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-12 13:00:18+00:00 | 3206 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-12 18:25:16+00:00 | 9000 | 2 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-12 01:58:15+00:00 | 21873 | 5957 | JavaScript | 1413 | [] |
+| DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-09-12 10:33:26+00:00 | 2559 | 5 | Java | 0 | [] |
 | saleemrashid/sudo-cve-2019-18634 | Proof of Concept for CVE-2019-18634 | https://github.com/saleemrashid/sudo-cve-2019-18634 | ['cve-2 OR cve_2'] | 1 | 2021-09-12 02:55:24+00:00 | 8 | 112 | C | 40 | ['CVE-2019-18634'] |
 | n4ru/1vyrain | LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking. | https://github.com/n4ru/1vyrain | ['exploit'] | 1 | 2021-09-12 13:22:50+00:00 | 17127 | 614 | Shell | 48 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-12 15:03:37+00:00 | 26399 | 22 | | 14 | [] |
@@ -62,7 +63,7 @@
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-12 17:21:46+00:00 | 6752 | 3909 | Python | 539 | [] |
 | fr0g2s/HackCTF-pwnable- | exploit code(incomplete) | https://github.com/fr0g2s/HackCTF-pwnable- | ['exploit'] | 1 | 2021-09-12 05:12:16+00:00 | 347 | 0 | Python | 0 | [] |
 | shelld3v/PwnVPN | The best exploitation tool for SSL VPN 0day vulnerabilities. | https://github.com/shelld3v/PwnVPN | ['0day', 'exploit'] | 2 | 2021-09-12 02:57:02+00:00 | 57 | 47 | Python | 16 | [] |
-| DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-09-12 10:33:26+00:00 | 2559 | 5 | Java | 0 | [] |
+| iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-09-12 21:08:57+00:00 | 420 | 0 | Lua | 0 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-09-12 15:44:57+00:00 | 499 | 76 | Java | 18 | [] |
 | Lojacops/Log-out-Exploit | An exploit for the continuous server-side logout | https://github.com/Lojacops/Log-out-Exploit | ['exploit'] | 1 | 2021-09-12 09:35:43+00:00 | 8 | 1 | Ruby | 0 | [] |
 | T-Dynamos/Metasploit | Install Metasploit latest version in all linux devices including Termux (Android) | https://github.com/T-Dynamos/Metasploit | ['metasploit module OR payload'] | 1 | 2021-09-12 03:54:16+00:00 | 1254 | 0 | Python | 0 | [] |
