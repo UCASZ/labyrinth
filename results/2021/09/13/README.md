@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/13
     
-87 records found after deduplication
+88 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-13 01:42:25+00:00 | 568797 | 25048 | Ruby | 11550 | [] |
-| maximilianmarx/shellcode-injection | PoCs for local and remote shellcode injection using C# and the Win32 API. | https://github.com/maximilianmarx/shellcode-injection | ['shellcode'] | 1 | 2021-09-13 12:10:23+00:00 | 7 | 1 | C# | 1 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-13 13:23:54+00:00 | 21811 | 5959 | JavaScript | 1414 | [] |
 | xen0vas/Windows-x86-Reverse-TCP-Shellcode | Windows/x86 Reverse TCP Shellcode ( 330 Bytes ) | https://github.com/xen0vas/Windows-x86-Reverse-TCP-Shellcode | ['shellcode'] | 1 | 2021-09-13 06:56:17+00:00 | 17 | 0 | C | 0 | [] |
 | alikarimi999/CVE-2021-40346 | None | https://github.com/alikarimi999/CVE-2021-40346 | ['cve-2 OR cve_2'] | 1 | 2021-09-13 09:29:29+00:00 | 3115 | 0 | C | 0 | ['CVE-2021-40346'] |
 | in-future-world/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(7), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, t | https://github.com/in-future-world/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-09-13 10:42:56+00:00 | 59 | 4 | | 2 | [] |
@@ -15,8 +15,8 @@
 | git-cardoso/Desenvolvimento_exploits_x86 | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | ['exploit'] | 1 | 2021-09-13 20:28:29+00:00 | 15 | 0 | Assembly | 0 | [] |
 | rezaJOY/Local-File-Inclusion-Payloads | Local File inclusion (LFI), or simply File Inclusion, refers to an inclusion attack through which an attacker can trick the web application into including files on the web server by exploiting a functionality that dynamically includes local files or script | https://github.com/rezaJOY/Local-File-Inclusion-Payloads | ['exploit', 'remote code execution'] | 2 | 2021-09-13 15:58:47+00:00 | 16 | 1 | | 0 | [] |
 | aesophor/requiem | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-13 18:09:54+00:00 | 241 | 5 | Python | 0 | [] |
+| maximilianmarx/shellcode-injection | PoCs for local and remote shellcode injection using C# and the Win32 API. | https://github.com/maximilianmarx/shellcode-injection | ['shellcode'] | 1 | 2021-09-13 12:10:23+00:00 | 7 | 1 | C# | 1 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-09-13 10:34:17+00:00 | 101900 | 0 | PowerShell | 0 | [] |
-| Wayyllon/dumb-exploit-scripts | includes things like equality mod | https://github.com/Wayyllon/dumb-exploit-scripts | ['exploit'] | 1 | 2021-09-13 01:34:25+00:00 | 2 | 1 | | 0 | [] |
 | AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-09-13 07:18:51+00:00 | 177 | 1 | CSS | 0 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-8-20 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-09-13 10:22:07+00:00 | 275 | 58 | Python | 11 | [] |
 | sti2d-company/wallet | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | ['exploit'] | 1 | 2021-09-13 17:56:54+00:00 | 15844 | 0 | Vue | 2 | [] |
@@ -25,9 +25,10 @@
 | julio-cfa/POC-ES-File-Explorer-CVE-2019-6447 | Very basic bash script to exploit the CVE-2019-6447. | https://github.com/julio-cfa/POC-ES-File-Explorer-CVE-2019-6447 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-09-13 11:33:01+00:00 | 12 | 0 | Shell | 0 | ['CVE-2019-6447'] |
 | rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-09-13 10:52:14+00:00 | 8565 | 0 | HTML | 0 | [] |
 | asang17/CVE-2021-40222 | Remote Code Execution at Rittal | https://github.com/asang17/CVE-2021-40222 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-13 12:15:59+00:00 | 4540 | 1 | | 1 | ['CVE-2021-40222'] |
+| asang17/CVE-2021-40223 | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-40223 | ['cve-2 OR cve_2'] | 1 | 2021-09-13 12:15:30+00:00 | 7356 | 1 | | 1 | ['CVE-2021-40223'] |
 | aslitsecurity/CVE-2021-40444_builders | This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit | https://github.com/aslitsecurity/CVE-2021-40444_builders | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-13 08:34:33+00:00 | 205 | 20 | Python | 9 | ['CVE-2021-40444'] |
+| Wayyllon/dumb-exploit-scripts | includes things like equality mod | https://github.com/Wayyllon/dumb-exploit-scripts | ['exploit'] | 1 | 2021-09-13 01:34:25+00:00 | 2 | 1 | | 0 | [] |
 | fuzzing0day/homsec-poc | 持续收集国内外智能家居安全漏洞演示代码 | https://github.com/fuzzing0day/homsec-poc | ['exploit'] | 1 | 2021-09-13 06:32:24+00:00 | 1 | 0 | | 0 | [] |
-| gosirys/Offensive | Scripts/tools to destroy things | https://github.com/gosirys/Offensive | ['exploit'] | 1 | 2021-09-13 04:57:55+00:00 | 60 | 0 | Perl | 0 | [] |
 | sDreamForZzQ/CVE-2021-1234 | None | https://github.com/sDreamForZzQ/CVE-2021-1234 | ['cve-2 OR cve_2'] | 1 | 2021-09-13 09:16:56+00:00 | 0 | 0 | | 0 | ['CVE-2021-1234'] |
 | edgarluck/FotoSploit-Repair | Solución al script de FotoSploit que no genera enlace ;) | https://github.com/edgarluck/FotoSploit-Repair | ['sploit'] | 1 | 2021-09-13 18:46:40+00:00 | 0 | 0 | Shell | 0 | [] |
 | codecat007/cvehub | A collection of CVE vulnerability POC and EXP programs, including Android, Linux, well-known open source libraries, etc. | https://github.com/codecat007/cvehub | ['cve poc', 'vulnerability poc'] | 2 | 2021-09-13 16:50:44+00:00 | 0 | 0 | | 0 | [] |
@@ -47,9 +48,9 @@
 | sDreamForZzQ/CVE-2021-1234 | None | https://github.com/sDreamForZzQ/CVE-2021-1234 | ['cve-2 OR cve_2'] | 1 | 2021-09-13 03:32:29+00:00 | 0 | 0 | | 0 | ['CVE-2021-1234'] |
 | Adamhg-cmd/AdamSploit | None | https://github.com/Adamhg-cmd/AdamSploit | ['sploit'] | 1 | 2021-09-13 01:46:33+00:00 | 0 | 0 | | 0 | [] |
 | federicacitarrella/IoTProject | Smart Supermarket project: an IoT system to optimize supermarket processes exploiting Internet. | https://github.com/federicacitarrella/IoTProject | ['exploit'] | 1 | 2021-09-13 00:41:33+00:00 | 0 | 0 | | 0 | [] |
-| asang17/CVE-2021-40223 | XSS Vulnerability in Rittal | https://github.com/asang17/CVE-2021-40223 | ['cve-2 OR cve_2'] | 1 | 2021-09-13 12:15:30+00:00 | 7356 | 1 | | 1 | ['CVE-2021-40223'] |
+| gosirys/Offensive | Scripts/tools to destroy things | https://github.com/gosirys/Offensive | ['exploit'] | 1 | 2021-09-13 04:57:55+00:00 | 60 | 0 | Perl | 0 | [] |
 | MicroFox-HD/Exploits | None | https://github.com/MicroFox-HD/Exploits | ['exploit'] | 1 | 2021-09-13 17:51:58+00:00 | 246 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-13 13:23:54+00:00 | 21811 | 5959 | JavaScript | 1414 | [] |
+| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-13 13:36:14+00:00 | 3504 | 0 | Python | 0 | [] |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2021-09-13 14:53:46+00:00 | 994 | 6 | C | 2 | [] |
 | TheCruZ/kdmapper | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | ['exploit'] | 1 | 2021-09-13 10:54:08+00:00 | 306 | 403 | C++ | 142 | [] |
 | MaherAzzouzi/LinuxExploitation | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | ['exploit'] | 1 | 2021-09-13 15:47:26+00:00 | 133596 | 55 | Python | 18 | [] |
@@ -71,9 +72,8 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-09-13 06:10:15+00:00 | 5302 | 2888 | Python | 632 | [] |
 | IshanSingh611/HMMs-Based-POS-Tagging-using-Modified-Viterbi-algorithm | In this project, we need to modify the Viterbi algorithm to solve the problem of UNKNOWN WORDS using at least two techniques. Though there could be multiple ways to solve this problem, we may use the following hints: 1. Which tag class do we think most un | https://github.com/IshanSingh611/HMMs-Based-POS-Tagging-using-Modified-Viterbi-algorithm | ['exploit'] | 1 | 2021-09-13 09:09:44+00:00 | 226 | 1 | Jupyter Notebook | 0 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-09-13 13:45:36+00:00 | 2607 | 26 | Shell | 5 | [] |
-| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-13 13:36:14+00:00 | 3504 | 0 | Python | 0 | [] |
-| bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day', 'vulnerability poc'] | 2 | 2021-09-13 05:35:52+00:00 | 6424 | 121 | Python | 25 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-13 01:08:25+00:00 | 9140 | 2 | Python | 0 | [] |
+| xymeng16/security | Security-related code includes but is not limited to PoCs of existing CVEs, side-channel investigations, etc. | https://github.com/xymeng16/security | ['cve poc'] | 1 | 2021-09-13 03:58:07+00:00 | 4 | 1 | C | 0 | [] |
 | DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-09-13 17:02:08+00:00 | 2684 | 6 | Java | 0 | [] |
 | denys-volodarkyi/DV-REV | Temporary working repository for my RCE code | https://github.com/denys-volodarkyi/DV-REV | ['rce'] | 1 | 2021-09-13 08:51:05+00:00 | 21 | 0 | C# | 0 | [] |
 | amaelFr/shellcode_transform | None | https://github.com/amaelFr/shellcode_transform | ['shellcode'] | 1 | 2021-09-13 09:37:36+00:00 | 9 | 1 | Python | 1 | [] |
@@ -81,9 +81,10 @@
 | parrothacker1/rust-metasploit | None | https://github.com/parrothacker1/rust-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-13 20:29:45+00:00 | 275 | 2 | Rust | 0 | [] |
 | kahla-sec/CVE-2021-27850_POC | A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution. | https://github.com/kahla-sec/CVE-2021-27850_POC | ['cve poc', 'cve-2 OR cve_2', 'remote code execution'] | 3 | 2021-09-13 10:56:00+00:00 | 54895 | 53 | HTML | 19 | ['CVE-2021-27850'] |
 | k0rup710n/BinaryExploitation | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | ['exploit'] | 1 | 2021-09-13 08:02:14+00:00 | 13345 | 0 | C | 0 | [] |
-| xymeng16/security | Security-related code includes but is not limited to PoCs of existing CVEs, side-channel investigations, etc. | https://github.com/xymeng16/security | ['cve poc'] | 1 | 2021-09-13 03:58:07+00:00 | 4 | 1 | C | 0 | [] |
-| FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2021-09-13 12:00:15+00:00 | 975 | 13 | Shell | 0 | [] |
+| bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day', 'vulnerability poc'] | 2 | 2021-09-13 05:35:52+00:00 | 6424 | 121 | Python | 25 | [] |
 | TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-09-13 14:48:37+00:00 | 6329 | 0 | Python | 1 | [] |
+| FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2021-09-13 12:00:15+00:00 | 975 | 13 | Shell | 0 | [] |
+| Djkusik/Lambda-sHell | Pseudo shells for different Lambda Runtime Environments & Lambda persistency exploits | https://github.com/Djkusik/Lambda-sHell | ['exploit'] | 1 | 2021-09-13 21:16:39+00:00 | 25 | 0 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-13 04:01:41+00:00 | 65322 | 116 | Python | 30 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2021-09-13 05:46:19+00:00 | 80434 | 37 | | 3 | [] |
 | Pen-Test3rs/binary_exploits_frontend | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | ['exploit'] | 1 | 2021-09-13 16:32:09+00:00 | 2171 | 0 | TypeScript | 0 | [] |
