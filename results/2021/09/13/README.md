@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/13
     
-90 records found after deduplication
+91 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------|
@@ -28,7 +28,7 @@
 | gosirys/Offensive | Scripts/tools to destroy things | https://github.com/gosirys/Offensive | ['exploit'] | 1 | 2021-09-13 04:57:55+00:00 | 60 | 0 | Perl | 0 | [] |
 | xen0vas/Windows-x86-Reverse-TCP-Shellcode | Windows/x86 Reverse TCP Shellcode ( 330 Bytes ) | https://github.com/xen0vas/Windows-x86-Reverse-TCP-Shellcode | ['shellcode'] | 1 | 2021-09-13 06:56:17+00:00 | 17 | 0 | C | 0 | [] |
 | Wayyllon/dumb-exploit-scripts | includes things like equality mod | https://github.com/Wayyllon/dumb-exploit-scripts | ['exploit'] | 1 | 2021-09-13 01:34:25+00:00 | 2 | 1 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-13 13:23:54+00:00 | 21811 | 5959 | JavaScript | 1414 | [] |
+| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-13 13:36:14+00:00 | 3504 | 0 | Python | 0 | [] |
 | fuzzing0day/homsec-poc | 持续收集国内外智能家居安全漏洞演示代码 | https://github.com/fuzzing0day/homsec-poc | ['exploit'] | 1 | 2021-09-13 06:32:24+00:00 | 1 | 0 | | 0 | [] |
 | edgarluck/FotoSploit-Repair | Solución al script de FotoSploit que no genera enlace ;) | https://github.com/edgarluck/FotoSploit-Repair | ['sploit'] | 1 | 2021-09-13 18:46:40+00:00 | 0 | 0 | Shell | 0 | [] |
 | codecat007/cvehub | A collection of CVE vulnerability POC and EXP programs, including Android, Linux, well-known open source libraries, etc. | https://github.com/codecat007/cvehub | ['cve poc', 'vulnerability poc'] | 2 | 2021-09-13 16:50:44+00:00 | 0 | 0 | | 0 | [] |
@@ -50,9 +50,9 @@
 | federicacitarrella/IoTProject | Smart Supermarket project: an IoT system to optimize supermarket processes exploiting Internet. | https://github.com/federicacitarrella/IoTProject | ['exploit'] | 1 | 2021-09-13 00:41:33+00:00 | 0 | 0 | | 0 | [] |
 | pimpsquad/pimp | exploitation framework | https://github.com/pimpsquad/pimp | ['exploit'] | 1 | 2021-09-13 00:05:23+00:00 | 0 | 0 | Python | 0 | [] |
 | MicroFox-HD/Exploits | None | https://github.com/MicroFox-HD/Exploits | ['exploit'] | 1 | 2021-09-13 17:51:58+00:00 | 246 | 0 | | 0 | [] |
-| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-13 13:36:14+00:00 | 3504 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-13 01:08:25+00:00 | 9140 | 2 | Python | 0 | [] |
-| DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-09-13 17:02:08+00:00 | 2684 | 6 | Java | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-13 13:23:54+00:00 | 21811 | 5959 | JavaScript | 1414 | [] |
+| XJMI/LuaU-Scripts | Supported: SynapseX, KRNL, ScriptWare, and other shitsploits | https://github.com/XJMI/LuaU-Scripts | ['exploit'] | 1 | 2021-09-13 23:26:18+00:00 | 150 | 0 | Lua | 0 | [] |
 | TheCruZ/kdmapper | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | ['exploit'] | 1 | 2021-09-13 10:54:08+00:00 | 306 | 403 | C++ | 142 | [] |
 | MaherAzzouzi/LinuxExploitation | CTFs and solutions for Linux binary exploitation. | https://github.com/MaherAzzouzi/LinuxExploitation | ['exploit'] | 1 | 2021-09-13 15:47:26+00:00 | 133596 | 55 | Python | 18 | [] |
 | ind3p3nd3nt/vncperlbot | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version | https://github.com/ind3p3nd3nt/vncperlbot | ['exploit'] | 1 | 2021-09-13 04:37:46+00:00 | 346 | 5 | Perl | 1 | [] |
@@ -74,8 +74,8 @@
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-09-13 22:29:51+00:00 | 7524 | 3950 | Python | 565 | [] |
 | IshanSingh611/HMMs-Based-POS-Tagging-using-Modified-Viterbi-algorithm | In this project, we need to modify the Viterbi algorithm to solve the problem of UNKNOWN WORDS using at least two techniques. Though there could be multiple ways to solve this problem, we may use the following hints: 1. Which tag class do we think most un | https://github.com/IshanSingh611/HMMs-Based-POS-Tagging-using-Modified-Viterbi-algorithm | ['exploit'] | 1 | 2021-09-13 09:09:44+00:00 | 226 | 1 | Jupyter Notebook | 0 | [] |
 | FabioDefilippo/winallenum | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2021-09-13 13:51:43+00:00 | 3332 | 6 | PowerShell | 2 | [] |
+| DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-09-13 17:02:08+00:00 | 2684 | 6 | Java | 0 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-09-13 13:45:36+00:00 | 2607 | 26 | Shell | 5 | [] |
-| TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-09-13 14:48:37+00:00 | 6329 | 0 | Python | 1 | [] |
 | denys-volodarkyi/DV-REV | Temporary working repository for my RCE code | https://github.com/denys-volodarkyi/DV-REV | ['rce'] | 1 | 2021-09-13 08:51:05+00:00 | 21 | 0 | C# | 0 | [] |
 | amaelFr/shellcode_transform | None | https://github.com/amaelFr/shellcode_transform | ['shellcode'] | 1 | 2021-09-13 09:37:36+00:00 | 9 | 1 | Python | 1 | [] |
 | nemo-wq/PrintNightmare-CVE-2021-34527 | PrintNightmare - Windows Print Spooler RCE/LPE Vulnerability (CVE-2021-34527, CVE-2021-1675) proof of concept exploits | https://github.com/nemo-wq/PrintNightmare-CVE-2021-34527 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2021-09-13 12:12:17+00:00 | 2920 | 31 | C | 17 | ['CVE-2021-1675', 'CVE-2021-34527'] |
@@ -84,8 +84,8 @@
 | k0rup710n/BinaryExploitation | Binary Exploitation Challenges Solving and a lot of Binaries Exploitation Challenge i came across through out time | https://github.com/k0rup710n/BinaryExploitation | ['exploit'] | 1 | 2021-09-13 08:02:14+00:00 | 13345 | 0 | C | 0 | [] |
 | bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day', 'vulnerability poc'] | 2 | 2021-09-13 05:35:52+00:00 | 6424 | 121 | Python | 25 | [] |
 | xymeng16/security | Security-related code includes but is not limited to PoCs of existing CVEs, side-channel investigations, etc. | https://github.com/xymeng16/security | ['cve poc'] | 1 | 2021-09-13 03:58:07+00:00 | 4 | 1 | C | 0 | [] |
+| TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-09-13 14:48:37+00:00 | 6329 | 0 | Python | 1 | [] |
 | Wolf49406/ShellJector | Manual map shellcode (aka byte array) injector | https://github.com/Wolf49406/ShellJector | ['shellcode'] | 1 | 2021-09-13 22:31:16+00:00 | 18 | 6 | C++ | 3 | [] |
-| FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2021-09-13 12:00:15+00:00 | 975 | 13 | Shell | 0 | [] |
 | Djkusik/Lambda-sHell | Pseudo shells for different Lambda Runtime Environments & Lambda persistency exploits | https://github.com/Djkusik/Lambda-sHell | ['exploit'] | 1 | 2021-09-13 21:16:39+00:00 | 25 | 0 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or CVE from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-13 04:01:41+00:00 | 65322 | 116 | Python | 30 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2021-09-13 05:46:19+00:00 | 80434 | 37 | | 3 | [] |
@@ -94,4 +94,5 @@
 | neumaneuma/appseccheat.codes | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | ['exploit'] | 1 | 2021-09-13 16:30:36+00:00 | 328 | 3 | HTML | 1 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2021-09-13 06:09:55+00:00 | 48760 | 10 | Python | 3 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-13 00:02:54+00:00 | 383088 | 31 | | 18 | [] |
+| FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2021-09-13 12:00:15+00:00 | 975 | 13 | Shell | 0 | [] |
 | Jevil36239/Mass-Candy-CBT | Mass Exploit Multi Threading Candy CBT V.2.7.0.r0 | https://github.com/Jevil36239/Mass-Candy-CBT | ['exploit'] | 1 | 2021-09-13 20:01:22+00:00 | 4 | 0 | Shell | 0 | [] |
