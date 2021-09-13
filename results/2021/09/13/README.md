@@ -1,10 +1,10 @@
 
 # Summary for results/2021/09/13
     
-10 records found after deduplication
+12 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
+|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-13 01:42:25+00:00 | 568797 | 25048 | Ruby | 11550 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-13 00:16:47+00:00 | 119535 | 248 | Ruby | 75 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-13 02:20:29+00:00 | 60843 | 1186 | JavaScript | 243 | [] |
@@ -15,3 +15,5 @@
 | pimpsquad/pimp | exploitation framework | https://github.com/pimpsquad/pimp | ['exploit'] | 1 | 2021-09-13 00:05:23+00:00 | 0 | 0 | Python | 0 | [] |
 | federicacitarrella/IoTProject | Smart Supermarket project: an IoT system to optimize supermarket processes exploiting Internet. | https://github.com/federicacitarrella/IoTProject | ['exploit'] | 1 | 2021-09-13 00:41:33+00:00 | 0 | 0 | | 0 | [] |
 | Adamhg-cmd/AdamSploit | nan | https://github.com/Adamhg-cmd/AdamSploit | ['sploit'] | 1 | 2021-09-13 01:46:33+00:00 | 0 | 0 | nan | 0 | [] |
+| sDreamForZzQ/CVE-2021-1234 | nan | https://github.com/sDreamForZzQ/CVE-2021-1234 | ['cve-2 OR cve_2'] | 1 | 2021-09-13 03:32:29+00:00 | 0 | 0 | nan | 0 | ['CVE-2021-1234'] |
+| seninfobio/Sesame-Phenomics-to-Exploit-the-Gains-of-Genomics | None | https://github.com/seninfobio/Sesame-Phenomics-to-Exploit-the-Gains-of-Genomics | ['exploit'] | 1 | 2021-09-13 03:23:29+00:00 | 0 | 0 | | 0 | [] |
