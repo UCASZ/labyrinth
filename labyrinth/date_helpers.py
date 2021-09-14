@@ -7,6 +7,7 @@ created_at: 8/12/21 12:48 PM
 import re
 from datetime import date, timedelta
 import argparse
+import calendar
 
 import pandas as pd
 from pandas._libs.tslibs.offsets import YearBegin, YearEnd, MonthBegin, MonthEnd
@@ -15,10 +16,39 @@ from pandas._libs.tslibs.offsets import YearBegin, YearEnd, MonthBegin, MonthEnd
 year_pat = re.compile("^\d{4}$")
 month_pat = re.compile("^\d{4}-\d{2}$")
 day_pat = re.compile("^\d{4}-\d{2}-\d{2}$")
-year_begin = lambda x: (pd.to_datetime(x) - YearBegin(0)).strftime("%Y-%m-%d")
-year_end = lambda x: (pd.to_datetime(x) + YearEnd(1)).strftime("%Y-%m-%d")
-month_begin = lambda x: (pd.to_datetime(x) - MonthBegin(0)).strftime("%Y-%m-%d")
-month_end = lambda x: (pd.to_datetime(x) + MonthEnd(1)).strftime("%Y-%m-%d")
+
+year_begin = lambda x: _year_begin(pd.to_datetime(x).strftime("%Y-%m-%d"))
+year_end = lambda x: _year_end(pd.to_datetime(x).strftime("%Y-%m-%d"))
+month_begin = lambda x: _month_begin(pd.to_datetime(x).strftime("%Y-%m-%d"))
+month_end = lambda x: _month_end(pd.to_datetime(x).strftime("%Y-%m-%d"))
+
+
+def _year_end(dt):
+    m = re.match("(\d{4})", dt)
+    if m:
+        return f"{m.groups()[0]}-12-31"
+
+
+def _year_begin(dt):
+    m = re.match("(\d{4})", dt)
+    if m:
+        return f"{m.groups()[0]}-01-01"
+
+
+def _month_end(dt):
+    m = re.match("(\d{4})-(\d{2})", dt)
+    if m:
+        y = int(m.groups()[0])
+        m = int(m.groups()[1])
+        # monthrange returns weekday , last day of month
+        d = calendar.monthrange(y, m)[1]
+        return f"{y:04d}-{m:02d}-{d:02d}"
+
+
+def _month_begin(dt):
+    m = re.match("(\d{4})-(\d{2})", dt)
+    if m:
+        return f"{m.groups()[0]}-{m.groups()[1]}-01"
 
 
 def fixup_end_date(end_date=None):
