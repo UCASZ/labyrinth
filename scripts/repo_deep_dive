@@ -8,7 +8,7 @@ import argparse
 import logging
 import labyrinth
 from labyrinth.repo_processor import process_modulo, set_max_age
-
+import labyrinth.config as cfg
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -19,7 +19,6 @@ logger.addHandler(hdlr)
 
 _MOD = None
 _DIVISOR = 100
-_RESULTS_DIR = "results"
 _MAX_AGE = 14  # in days, how long until we revisit a repo we already looked at?
 
 if __name__ == "__main__":
@@ -29,7 +28,9 @@ if __name__ == "__main__":
 
     parser.add_argument("--mod", action="store", type=int, default=_MOD)
     parser.add_argument("--divisor", action="store", type=int, default=_DIVISOR)
-    parser.add_argument("--results_dir", action="store", type=str, default=_RESULTS_DIR)
+    parser.add_argument(
+        "--results_dir", action="store", type=str, default=(cfg.SEARCH_RESULTS_HOME)
+    )
     parser.add_argument("--token", action="store", type=str, default=None)
     parser.add_argument("--max_age", action="store", type=int, default=_MAX_AGE)
 

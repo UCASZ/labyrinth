@@ -8,12 +8,9 @@ import os
 import glob
 import logging
 
-logger = logging.getLogger(__name__)
+import labyrinth.config as cfg
 
-SEARCH_RESULTS_HOME = "results"
-FILE_RESULTS_HOME = "data"
-VUL_ID_RESULTS_HOME = os.path.join(FILE_RESULTS_HOME, "vul_id")
-REPO_ID_RESULTS_HOME = os.path.join(FILE_RESULTS_HOME, "repo_id")
+logger = logging.getLogger(__name__)
 
 
 def setup_daily_output_dirs(data_home, dt_dir):
@@ -26,10 +23,10 @@ def setup_daily_output_dirs(data_home, dt_dir):
 def setup_output_dirs():
     # make output dirs
     for d in (
-        SEARCH_RESULTS_HOME,
-        FILE_RESULTS_HOME,
-        VUL_ID_RESULTS_HOME,
-        REPO_ID_RESULTS_HOME,
+        cfg.SEARCH_RESULTS_HOME,
+        cfg.FILE_RESULTS_HOME,
+        cfg.VUL_ID_RESULTS_HOME,
+        cfg.REPO_ID_RESULTS_HOME,
     ):
         try:
             os.makedirs(d, exist_ok=False)
@@ -37,7 +34,7 @@ def setup_output_dirs():
         except FileExistsError as e:
             logger.debug(f"Output dir {d} already exists")
 
-    return SEARCH_RESULTS_HOME
+    return cfg.SEARCH_RESULTS_HOME
 
 
 def yearly_summaries(results_dir):
