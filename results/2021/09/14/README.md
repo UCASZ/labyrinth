@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/14
     
-61 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-14 01:17:28+00:00 | 568013 | 25051 | Ruby | 11556 | [] |
-| MauroEldritch/rubycraft | Repository for my talk "Crafting exploits, tools and havoc with Ruby" featured at Ruby Kaigi 2021. | https://github.com/MauroEldritch/rubycraft | ['exploit'] | 1 | 2021-09-14 01:04:53+00:00 | 0 | 1 | | 0 | [] |
+| donky16/CVE-2021-40346-POC | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-14 02:47:26+00:00 | 32 | 6 | Python | 0 | ['CVE-2021-40346'] |
 | whaomi23/Update-Defender | Exploit Privado | https://github.com/whaomi23/Update-Defender | ['exploit'] | 1 | 2021-09-14 07:44:01+00:00 | 11374 | 0 | | 0 | [] |
 | ACK-J/SHAME_Model_PoC | A proof of concept attack against Amazon Alexa and Google Home devices using the SHAME model | https://github.com/ACK-J/SHAME_Model_PoC | ['attack poc'] | 1 | 2021-09-14 00:28:49+00:00 | 55847 | 1 | Python | 0 | [] |
 | hosch3n/vCenterExp | vCenter 2021 Exploit | https://github.com/hosch3n/vCenterExp | ['exploit'] | 1 | 2021-09-14 06:15:17+00:00 | 12 | 0 | Python | 0 | [] |
@@ -15,13 +15,14 @@
 | cirosantilli/china-dictatorship-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorship-2 | ['attack poc', 'exploit'] | 2 | 2021-09-14 08:51:21+00:00 | 6412 | 10 | HTML | 8 | [] |
 | sti2d-company/wallet | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | ['exploit'] | 1 | 2021-09-14 08:06:23+00:00 | 16101 | 0 | Vue | 2 | [] |
 | obsrva/obsrva.org | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept explo | https://github.com/obsrva/obsrva.org | ['exploit'] | 1 | 2021-09-14 01:52:33+00:00 | 95228 | 1 | JavaScript | 0 | [] |
+| Relkss/Testing_Exploit | None | https://github.com/Relkss/Testing_Exploit | ['exploit'] | 1 | 2021-09-14 11:28:50+00:00 | 109 | 0 | | 0 | [] |
 | NamikazeZero/Metasploit | Metasploit Tools [Termux Only!] | https://github.com/NamikazeZero/Metasploit | ['metasploit module OR payload'] | 1 | 2021-09-14 01:11:13+00:00 | 9 | 0 | Python | 1 | [] |
 | L31thal5/8042_A2_z5235100 | This repository contains a deliberately vulnerable program that incorporates multiple security measures to prevent exploitation. The package includes a script designed to bypass the implemented security measures delivers a reverse shell | https://github.com/L31thal5/8042_A2_z5235100 | ['exploit'] | 1 | 2021-09-14 04:36:19+00:00 | 41 | 0 | Python | 0 | [] |
 | Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2021-09-14 04:04:29+00:00 | 21857 | 3 | Lua | 1 | [] |
 | sh4m2hwz/win_exp_resoures | Windows exploitation resources | https://github.com/sh4m2hwz/win_exp_resoures | ['exploit'] | 1 | 2021-09-14 10:31:12+00:00 | 19 | 4 | | 0 | [] |
 | Immersive-Labs-Sec/cve-2021-40444-analysis | None | https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis | ['cve-2 OR cve_2'] | 1 | 2021-09-14 08:18:37+00:00 | 2 | 0 | JavaScript | 0 | ['CVE-2021-40444'] |
-| donky16/CVE-2021-40346-POC | CVE-2021-40346 integer overflow enables http smuggling | https://github.com/donky16/CVE-2021-40346-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-14 02:47:26+00:00 | 32 | 6 | Python | 0 | ['CVE-2021-40346'] |
 | in-future-world/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(7), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, t | https://github.com/in-future-world/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-09-14 05:43:46+00:00 | 89 | 4 | | 2 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-14 09:22:40+00:00 | 45912 | 844 | Python | 200 | [] |
 | xen0vas/Windows-x86_64-Reverse-TCP-Shellcode | Windows Reverse TCP Shellcode ( 330 Bytes ) | https://github.com/xen0vas/Windows-x86_64-Reverse-TCP-Shellcode | ['shellcode'] | 1 | 2021-09-14 06:51:47+00:00 | 20 | 0 | C | 0 | [] |
 | edgarluck/FotoSploit-Repair | Solución al script de FotoSploit que no genera enlace ;) | https://github.com/edgarluck/FotoSploit-Repair | ['sploit'] | 1 | 2021-09-14 01:31:30+00:00 | 38 | 0 | Shell | 0 | [] |
 | Jevil36239/Mass-Candy-CBT | Mass Exploit Multi Threading Candy CBT V.2.7.0.r0 | https://github.com/Jevil36239/Mass-Candy-CBT | ['exploit'] | 1 | 2021-09-14 10:02:28+00:00 | 4 | 0 | Shell | 0 | [] |
@@ -34,9 +35,11 @@
 | hmwong617/PowerSploit | Private clone of https://github.com/PowerShellMafia/PowerSploit/tree/dev | https://github.com/hmwong617/PowerSploit | ['sploit'] | 1 | 2021-09-14 03:30:41+00:00 | 0 | 0 | PowerShell | 0 | [] |
 | guguyu1/hackbar-imagemagick | 在hackbar burp插件基础上添加了imagemagick历史rce(包括2021-9月份的imagemagick rce)以及fastsjson payload | https://github.com/guguyu1/hackbar-imagemagick | ['rce'] | 1 | 2021-09-14 08:16:11+00:00 | 0 | 0 | | 0 | [] |
 | L-omit/Software-Exploitation | None | https://github.com/L-omit/Software-Exploitation | ['exploit'] | 1 | 2021-09-14 08:37:16+00:00 | 0 | 0 | | 0 | [] |
+| shareef-ops/metasploit | None | https://github.com/shareef-ops/metasploit | ['metasploit module OR payload'] | 1 | 2021-09-14 09:44:12+00:00 | 0 | 0 | Shell | 0 | [] |
+| dubs3c/MacRecon | Useful scripts and commands for post exploitation on Mac OS | https://github.com/dubs3c/MacRecon | ['exploit'] | 1 | 2021-09-14 11:26:40+00:00 | 0 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-14 01:09:31+00:00 | 9479 | 2 | Python | 0 | [] |
+| MauroEldritch/rubycraft | Repository for my talk "Crafting exploits, tools and havoc with Ruby" featured at Ruby Kaigi 2021. | https://github.com/MauroEldritch/rubycraft | ['exploit'] | 1 | 2021-09-14 01:04:53+00:00 | 0 | 1 | | 0 | [] |
 | HuskyHacks/ShadowSteal | Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation | https://github.com/HuskyHacks/ShadowSteal | ['exploit'] | 1 | 2021-09-14 01:42:57+00:00 | 343 | 177 | Nim | 35 | ['CVE-2021-36934'] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-14 09:22:40+00:00 | 45912 | 844 | Python | 200 | [] |
 | sristisravan/bsides2021 | Companion repository for setting up the environment required for BSides Singapore 2021 | https://github.com/sristisravan/bsides2021 | ['shellcode'] | 1 | 2021-09-14 04:24:48+00:00 | 33664 | 0 | Python | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-14 05:07:21+00:00 | 225094 | 6453 | C | 1796 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-09-14 10:12:56+00:00 | 7547 | 3953 | Python | 566 | [] |
@@ -45,11 +48,13 @@
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-09-14 08:49:41+00:00 | 2257 | 1312 | | 443 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-14 06:26:50+00:00 | 292987 | 79 | Python | 13 | [] |
 | jbizzle21/metasploit-framework | None | https://github.com/jbizzle21/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-14 10:22:33+00:00 | 20 | 0 | | 0 | [] |
+| GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2021-09-14 11:13:07+00:00 | 189966 | 23 | C++ | 54 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-09-14 09:46:43+00:00 | 35692 | 5801 | Vue | 1210 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-14 05:31:04+00:00 | 60972 | 1189 | JavaScript | 243 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-14 02:47:54+00:00 | 430 | 227 | Rust | 12 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-14 00:52:38+00:00 | 26765 | 22 | | 14 | [] |
 | Jian-Xian/CVE-POC | None | https://github.com/Jian-Xian/CVE-POC | ['cve poc'] | 1 | 2021-09-14 04:38:49+00:00 | 5206 | 4 | | 2 | [] |
+| pedro-javierf/NTRGhidra | Fully Featured Nintendo DS Loader for Ghidra | https://github.com/pedro-javierf/NTRGhidra | ['exploit'] | 1 | 2021-09-14 10:48:15+00:00 | 297 | 72 | Java | 6 | [] |
 | chhajedji/scripts | *Well documented* scripts exploiting some useful UNIX utilities. | https://github.com/chhajedji/scripts | ['exploit'] | 1 | 2021-09-14 05:13:55+00:00 | 998 | 6 | Shell | 0 | [] |
 | SapienzaNLP/xl-amr | XL-AMR is a sequence-to-graph cross-lingual AMR parser that exploits transfer learning (EMNLP2020). | https://github.com/SapienzaNLP/xl-amr | ['exploit'] | 1 | 2021-09-14 09:47:54+00:00 | 105703 | 7 | Python | 1 | [] |
 | donny-nyc/espresso | A quick and dirty shot at http. Probably vulnerable to RCE somewhere. | https://github.com/donny-nyc/espresso | ['rce'] | 1 | 2021-09-14 04:36:00+00:00 | 39 | 1 | C | 0 | [] |
@@ -65,4 +70,4 @@
 | TheCrazzXz/Exploits-Lab | None | https://github.com/TheCrazzXz/Exploits-Lab | ['exploit'] | 1 | 2021-09-14 00:11:23+00:00 | 6331 | 0 | Python | 1 | [] |
 | duowen1/Container-escape-exps | Container (Docker) escape exploits | https://github.com/duowen1/Container-escape-exps | ['exploit'] | 1 | 2021-09-14 09:28:42+00:00 | 1319 | 2 | C | 1 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-09-14 02:16:05+00:00 | 14183 | 182 | Go | 22 | [] |
-| shareef-ops/metasploit | None | https://github.com/shareef-ops/metasploit | ['metasploit module OR payload'] | 1 | 2021-09-14 09:44:12+00:00 | 0 | 0 | Shell | 0 | [] |
+| mssalvatore/powershell-pth | A simple, cross-platform, POC utility for automation of PowerShell PtH attacks. | https://github.com/mssalvatore/powershell-pth | ['attack poc'] | 1 | 2021-09-14 11:21:13+00:00 | 0 | 0 | Python | 0 | [] |
