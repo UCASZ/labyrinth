@@ -1,14 +1,12 @@
 
 # Summary for results/2021/09/15
     
-62 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-15 05:38:38+00:00 | 569219 | 25070 | Ruby | 11560 | [] |
-| aesophor/requiem | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-15 08:33:00+00:00 | 241 | 5 | Python | 0 | [] |
 | rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2021-09-15 08:49:39+00:00 | 312 | 0 | HTML | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-15 01:04:45+00:00 | 9756 | 2 | Python | 0 | [] |
 | ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2021-09-15 00:23:41+00:00 | 25 | 9 | | 2 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-09-15 11:25:24+00:00 | 28438 | 0 | Python | 0 | [] |
 | dessertlab/EVIL | EVIL (Exploiting software VIa natural Language) is an approach to automatically generate software exploits in assembly/Python language from descriptions in natural language. The approach leverages Neural Machine Translation (NMT) techniques and a dataset t | https://github.com/dessertlab/EVIL | ['exploit', 'shellcode'] | 2 | 2021-09-15 10:17:09+00:00 | 1276 | 6 | Python | 1 | [] |
@@ -16,12 +14,13 @@
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-15 12:32:41+00:00 | 76 | 2 | Python | 1 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-15 12:30:04+00:00 | 6900 | 1 | | 1 | [] |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-09-15 12:38:10+00:00 | 14 | 0 | | 0 | [] |
+| blocksecteam/defi_poc | POC for DeFi Vulnerabilities | https://github.com/blocksecteam/defi_poc | ['vulnerability poc'] | 1 | 2021-09-15 14:14:07+00:00 | 5776 | 26 | Solidity | 5 | [] |
 | obsrva/obsrva.org | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept explo | https://github.com/obsrva/obsrva.org | ['exploit'] | 1 | 2021-09-15 03:43:15+00:00 | 95850 | 1 | JavaScript | 0 | [] |
 | ForwarderFactory/wii | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | ['exploit'] | 1 | 2021-09-15 05:44:26+00:00 | 4473264 | 2 | | 0 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-09-15 12:12:49+00:00 | 102912 | 1 | PowerShell | 1 | [] |
 | non123dfsdf/UnfairSploit | None | https://github.com/non123dfsdf/UnfairSploit | ['sploit'] | 1 | 2021-09-15 11:54:29+00:00 | 30 | 1 | | 0 | [] |
+| aesophor/requiem | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-15 08:33:00+00:00 | 241 | 5 | Python | 0 | [] |
 | Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2021-09-15 06:27:06+00:00 | 21859 | 3 | Lua | 1 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-15 07:23:46+00:00 | 45929 | 845 | Python | 200 | [] |
 | knight0x07/ImpulsiveDLLHijack | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's. | https://github.com/knight0x07/ImpulsiveDLLHijack | ['exploit'] | 1 | 2021-09-15 08:03:59+00:00 | 2185 | 74 | C# | 15 | [] |
 | alikarimi999/CVE-2021-21315 | None | https://github.com/alikarimi999/CVE-2021-21315 | ['cve-2 OR cve_2'] | 1 | 2021-09-15 02:20:38+00:00 | 669 | 0 | Python | 0 | ['CVE-2021-21315'] |
 | bilibiliganb/cnvdspider | 爬取cnvd漏洞信息，生成excel，排序为CNVD编号、漏洞名称及类型、危害等级、影响范围、预警链接、漏洞描述 | https://github.com/bilibiliganb/cnvdspider | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-09-15 03:22:28+00:00 | 23 | 0 | Python | 0 | [] |
@@ -35,10 +34,12 @@
 | demossl/CVE-2021-33766-ProxyToken | CVE-2021-33766-poc | https://github.com/demossl/CVE-2021-33766-ProxyToken | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-15 09:23:39+00:00 | 0 | 3 | Python | 1 | ['CVE-2021-33766'] |
 | madhans23/kernel_imx_4.1.15-CVE-2020-36386_noPatch | None | https://github.com/madhans23/kernel_imx_4.1.15-CVE-2020-36386_noPatch | ['cve-2 OR cve_2'] | 1 | 2021-09-15 10:15:41+00:00 | 0 | 0 | | 0 | ['CVE-2020-36386'] |
 | artsking/linux-3.0.35_CVE-2020-36386_withPatch | None | https://github.com/artsking/linux-3.0.35_CVE-2020-36386_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-09-15 10:43:14+00:00 | 0 | 0 | C | 0 | ['CVE-2020-36386'] |
+| pl7771/brainpanTHM | brainpan machine exploit | https://github.com/pl7771/brainpanTHM | ['exploit'] | 1 | 2021-09-15 11:29:00+00:00 | 0 | 0 | Python | 0 | [] |
+| ethicalhackersrepo/Php-Command-Injection-Payload-List | nan | https://github.com/ethicalhackersrepo/Php-Command-Injection-Payload-List | ['command injection'] | 1 | 2021-09-15 14:05:25+00:00 | 0 | 0 | nan | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-15 01:04:45+00:00 | 9756 | 2 | Python | 0 | [] |
 | ulexec/Exploits | Repository of exploits for research purposes | https://github.com/ulexec/Exploits | ['exploit'] | 1 | 2021-09-15 05:10:13+00:00 | 299038 | 3 | Rich Text Format | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-15 07:23:46+00:00 | 45929 | 845 | Python | 200 | [] |
 | 77409/chrome-0day | nan | https://github.com/77409/chrome-0day | ['0day'] | 1 | 2021-09-15 09:01:56+00:00 | 3 | 55 | JavaScript | 37 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-15 04:01:55+00:00 | 69176 | 116 | Python | 30 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-15 01:35:18+00:00 | 61 | 0 | PHP | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-15 05:07:17+00:00 | 227153 | 6455 | C | 1795 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-15 00:05:23+00:00 | 1534757 | 1503 | Python | 515 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-15 04:05:16+00:00 | 6765 | 3914 | Python | 541 | [] |
@@ -66,4 +67,6 @@
 | whichbuffer/WindowsExploitDev | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | ['exploit', 'shellcode'] | 2 | 2021-09-15 13:33:21+00:00 | 16069 | 8 | Python | 1 | [] |
 | rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2021-09-15 00:16:43+00:00 | 64 | 0 | Ruby | 0 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-09-15 01:07:01+00:00 | 6954 | 1 | Java | 0 | [] |
-| pl7771/brainpanTHM | brainpan machine exploit | https://github.com/pl7771/brainpanTHM | ['exploit'] | 1 | 2021-09-15 11:29:00+00:00 | 0 | 0 | Python | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-15 01:35:18+00:00 | 61 | 0 | PHP | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-15 04:01:55+00:00 | 69176 | 116 | Python | 30 | [] |
+| dock0d1/AlphaWeb-XE---File-Upload-Remote-Code-Execution-RCE-Authenticated- | AlphaWeb XE - File Upload Remote Code Execution (RCE) (Authenticated) | https://github.com/dock0d1/AlphaWeb-XE---File-Upload-Remote-Code-Execution-RCE-Authenticated- | ['rce', 'remote code execution'] | 2 | 2021-09-15 14:24:53+00:00 | 0 | 0 | Python | 0 | [] |
