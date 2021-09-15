@@ -1,12 +1,14 @@
 
 # Summary for results/2021/09/15
     
-59 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-15 05:38:38+00:00 | 569219 | 25070 | Ruby | 11560 | [] |
-| Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2021-09-15 06:27:06+00:00 | 21859 | 3 | Lua | 1 | [] |
+| aesophor/requiem | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-15 08:33:00+00:00 | 241 | 5 | Python | 0 | [] |
+| rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2021-09-15 08:49:39+00:00 | 312 | 0 | HTML | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-15 01:04:45+00:00 | 9756 | 2 | Python | 0 | [] |
 | ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2021-09-15 00:23:41+00:00 | 25 | 9 | | 2 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-09-15 11:25:24+00:00 | 28438 | 0 | Python | 0 | [] |
 | dessertlab/EVIL | EVIL (Exploiting software VIa natural Language) is an approach to automatically generate software exploits in assembly/Python language from descriptions in natural language. The approach leverages Neural Machine Translation (NMT) techniques and a dataset t | https://github.com/dessertlab/EVIL | ['exploit', 'shellcode'] | 2 | 2021-09-15 10:17:09+00:00 | 1276 | 6 | Python | 1 | [] |
@@ -18,9 +20,9 @@
 | ForwarderFactory/wii | Wii archive containing WADs including official, unofficial and system IOS/menu, Exploits, Homebrew Apps, DevKit, and more. | https://github.com/ForwarderFactory/wii | ['exploit'] | 1 | 2021-09-15 05:44:26+00:00 | 4473264 | 2 | | 0 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-09-15 12:12:49+00:00 | 102912 | 1 | PowerShell | 1 | [] |
 | non123dfsdf/UnfairSploit | None | https://github.com/non123dfsdf/UnfairSploit | ['sploit'] | 1 | 2021-09-15 11:54:29+00:00 | 30 | 1 | | 0 | [] |
-| aesophor/requiem | 🎻 Modularized exploit generation framework | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-15 08:33:00+00:00 | 241 | 5 | Python | 0 | [] |
+| Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2021-09-15 06:27:06+00:00 | 21859 | 3 | Lua | 1 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-15 07:23:46+00:00 | 45929 | 845 | Python | 200 | [] |
 | knight0x07/ImpulsiveDLLHijack | C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's. | https://github.com/knight0x07/ImpulsiveDLLHijack | ['exploit'] | 1 | 2021-09-15 08:03:59+00:00 | 2185 | 74 | C# | 15 | [] |
-| rcevulndev/rcevulndev.github.io | nan | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2021-09-15 08:49:39+00:00 | 312 | 0 | HTML | 0 | [] |
 | alikarimi999/CVE-2021-21315 | None | https://github.com/alikarimi999/CVE-2021-21315 | ['cve-2 OR cve_2'] | 1 | 2021-09-15 02:20:38+00:00 | 669 | 0 | Python | 0 | ['CVE-2021-21315'] |
 | bilibiliganb/cnvdspider | 爬取cnvd漏洞信息，生成excel，排序为CNVD编号、漏洞名称及类型、危害等级、影响范围、预警链接、漏洞描述 | https://github.com/bilibiliganb/cnvdspider | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-09-15 03:22:28+00:00 | 23 | 0 | Python | 0 | [] |
 | in-future-world/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(7), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, t | https://github.com/in-future-world/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-09-15 08:22:31+00:00 | 89 | 4 | | 2 | [] |
@@ -33,10 +35,10 @@
 | demossl/CVE-2021-33766-ProxyToken | CVE-2021-33766-poc | https://github.com/demossl/CVE-2021-33766-ProxyToken | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-15 09:23:39+00:00 | 0 | 3 | Python | 1 | ['CVE-2021-33766'] |
 | madhans23/kernel_imx_4.1.15-CVE-2020-36386_noPatch | None | https://github.com/madhans23/kernel_imx_4.1.15-CVE-2020-36386_noPatch | ['cve-2 OR cve_2'] | 1 | 2021-09-15 10:15:41+00:00 | 0 | 0 | | 0 | ['CVE-2020-36386'] |
 | artsking/linux-3.0.35_CVE-2020-36386_withPatch | None | https://github.com/artsking/linux-3.0.35_CVE-2020-36386_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-09-15 10:43:14+00:00 | 0 | 0 | C | 0 | ['CVE-2020-36386'] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-15 01:04:45+00:00 | 9756 | 2 | Python | 0 | [] |
 | ulexec/Exploits | Repository of exploits for research purposes | https://github.com/ulexec/Exploits | ['exploit'] | 1 | 2021-09-15 05:10:13+00:00 | 299038 | 3 | Rich Text Format | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-15 07:23:46+00:00 | 45929 | 845 | Python | 200 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-15 00:52:39+00:00 | 27521 | 22 | | 14 | [] |
+| 77409/chrome-0day | nan | https://github.com/77409/chrome-0day | ['0day'] | 1 | 2021-09-15 09:01:56+00:00 | 3 | 55 | JavaScript | 37 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-15 04:01:55+00:00 | 69176 | 116 | Python | 30 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-15 01:35:18+00:00 | 61 | 0 | PHP | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-15 05:07:17+00:00 | 227153 | 6455 | C | 1795 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-15 00:05:23+00:00 | 1534757 | 1503 | Python | 515 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-15 04:05:16+00:00 | 6765 | 3914 | Python | 541 | [] |
@@ -47,10 +49,11 @@
 | jbizzle21/metasploit-framework | None | https://github.com/jbizzle21/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-15 07:07:13+00:00 | 23 | 0 | | 0 | [] |
 | reg1reg1/Exploits | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-15 03:32:52+00:00 | 2837 | 1 | Python | 1 | [] |
 | robertdebock/ansible-role-cve_2018_19788 | Test if your system is vulernable for cve_2018_19788. | https://github.com/robertdebock/ansible-role-cve_2018_19788 | ['cve-2 OR cve_2'] | 1 | 2021-09-15 08:22:40+00:00 | 189 | 3 | | 1 | ['CVE-2018-19788'] |
+| Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-15 13:22:34+00:00 | 1336395 | 3467 | PowerShell | 1207 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-15 02:35:59+00:00 | 61168 | 1190 | Python | 243 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-15 00:06:36+00:00 | 430 | 227 | Rust | 12 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-15 00:52:39+00:00 | 27521 | 22 | | 14 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-09-15 06:23:31+00:00 | 187 | 7 | Go | 7 | [] |
-| 77409/chrome-0day | nan | https://github.com/77409/chrome-0day | ['0day'] | 1 | 2021-09-15 09:01:56+00:00 | 3 | 55 | JavaScript | 37 | [] |
 | lijiaxing1997/Gr33k | 图形化漏洞利用集成工具 | https://github.com/lijiaxing1997/Gr33k | ['exploit'] | 1 | 2021-09-15 08:10:11+00:00 | 9799 | 242 | Python | 53 | [] |
 | sogonsec/docker-binaryexploitation | Docker container that has all the CLI tooling for binary exploitation (thanks to @LiveOverflow) | https://github.com/sogonsec/docker-binaryexploitation | ['exploit'] | 1 | 2021-09-15 00:34:58+00:00 | 15 | 8 | Dockerfile | 0 | [] |
 | lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2021-09-15 12:11:44+00:00 | 247581 | 0 | Jupyter Notebook | 0 | [] |
@@ -58,9 +61,9 @@
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-09-15 11:26:24+00:00 | 3134 | 0 | JavaScript | 1 | [] |
 | FabioDefilippo/winallenum | Thi powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2021-09-15 01:32:35+00:00 | 3402 | 6 | PowerShell | 2 | [] |
 | NatteeSetobol/Etern-blue-Windows-7-Checker | Eternal Blue is a well known SMB expliot created by the NSA to attack various versions of Windows including Windows 7. Etern-Blue-Windows-7-Checker will basically send SMB packets to a host to see if that Windows host machine is vulnerable to Eternal blue | https://github.com/NatteeSetobol/Etern-blue-Windows-7-Checker | ['exploit'] | 1 | 2021-09-15 05:20:49+00:00 | 569 | 0 | C++ | 1 | ['CVE-2017-0143'] |
+| Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-09-15 13:20:43+00:00 | 135295 | 262 | Batchfile | 79 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-15 00:03:14+00:00 | 391955 | 31 | | 18 | [] |
+| whichbuffer/WindowsExploitDev | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | ['exploit', 'shellcode'] | 2 | 2021-09-15 13:33:21+00:00 | 16069 | 8 | Python | 1 | [] |
 | rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2021-09-15 00:16:43+00:00 | 64 | 0 | Ruby | 0 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-09-15 01:07:01+00:00 | 6954 | 1 | Java | 0 | [] |
-| tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-15 01:35:18+00:00 | 61 | 0 | PHP | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-15 04:01:55+00:00 | 69176 | 116 | Python | 30 | [] |
 | pl7771/brainpanTHM | brainpan machine exploit | https://github.com/pl7771/brainpanTHM | ['exploit'] | 1 | 2021-09-15 11:29:00+00:00 | 0 | 0 | Python | 0 | [] |
