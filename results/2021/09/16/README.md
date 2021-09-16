@@ -1,13 +1,12 @@
 
 # Summary for results/2021/09/16
     
-113 records found after deduplication
+114 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-16 00:37:35+00:00 | 628275 | 25078 | Ruby | 11564 | [] |
-| LucaRibeiro/CVE-2021-37589 | Exploit to Virtua Software. | https://github.com/LucaRibeiro/CVE-2021-37589 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-16 15:34:22+00:00 | 3 | 0 | | 0 | ['CVE-2021-37589'] |
-| horizon3ai/CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-16 10:39:04+00:00 | 9 | 0 | Python | 0 | ['CVE-2021-38647'] |
+| Hack3rHan/ShiroRceTool | Simple checker and exploit for Shiro RCE. (一个简单的Shiro RCE检测和利用脚本。) | https://github.com/Hack3rHan/ShiroRceTool | ['exploit', 'rce'] | 2 | 2021-09-16 03:59:33+00:00 | 0 | 0 | Python | 0 | [] |
 | rogueecho/fruitbrute | PoC for brute force attack on wallets generating using limited wallet seed word pool | https://github.com/rogueecho/fruitbrute | ['attack poc'] | 1 | 2021-09-16 01:36:22+00:00 | 0 | 0 | Python | 0 | [] |
 | klezVirus/CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | ['0day', 'cve-2 OR cve_2', 'exploit', 'rce'] | 4 | 2021-09-16 07:23:16+00:00 | 26 | 0 | HTML | 2 | ['CVE-2021-40444'] |
 | itsjaylen/SchoolExploits | Ways to bypass school restrictions and collect data | https://github.com/itsjaylen/SchoolExploits | ['exploit'] | 1 | 2021-09-16 11:02:42+00:00 | 4 | 0 | Python | 0 | [] |
@@ -32,10 +31,11 @@
 | hosch3n/vCenterExp | vCenter 2021 Exploit | https://github.com/hosch3n/vCenterExp | ['exploit'] | 1 | 2021-09-16 05:14:13+00:00 | 13 | 0 | Python | 0 | [] |
 | AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-09-16 04:08:17+00:00 | 80 | 0 | Haskell | 0 | [] |
 | MicroFox-HD/Exploits | None | https://github.com/MicroFox-HD/Exploits | ['exploit'] | 1 | 2021-09-16 15:24:05+00:00 | 387 | 0 | | 0 | [] |
-| Hack3rHan/ShiroRceTool | Simple checker and exploit for Shiro RCE. (一个简单的Shiro RCE检测和利用脚本。) | https://github.com/Hack3rHan/ShiroRceTool | ['exploit', 'rce'] | 2 | 2021-09-16 03:59:33+00:00 | 0 | 0 | Python | 0 | [] |
+| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-16 07:12:40+00:00 | 3508 | 0 | Python | 0 | [] |
+| horizon3ai/CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-16 10:39:04+00:00 | 9 | 0 | Python | 0 | ['CVE-2021-38647'] |
 | artsking/linux-4.1.15_CVE-2020-36386_withPatch | None | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-09-16 04:00:13+00:00 | 0 | 0 | C | 0 | ['CVE-2020-36386'] |
+| rapid7/metasploit_data_models | MSF database code, gemified | https://github.com/rapid7/metasploit_data_models | ['metasploit module OR payload'] | 1 | 2021-09-16 12:03:43+00:00 | 4495 | 40 | Ruby | 50 | [] |
 | Osuni-99/Metasploit-Framework | None | https://github.com/Osuni-99/Metasploit-Framework | ['metasploit module OR payload'] | 1 | 2021-09-16 05:30:11+00:00 | 0 | 0 | | 0 | [] |
-| mrnobody888/rubberducky-shellcode | None | https://github.com/mrnobody888/rubberducky-shellcode | ['shellcode'] | 1 | 2021-09-16 12:32:18+00:00 | 0 | 0 | | 0 | [] |
 | XenHubz/XenHubLua | Exploiting? | https://github.com/XenHubz/XenHubLua | ['exploit'] | 1 | 2021-09-16 21:05:59+00:00 | 0 | 0 | Lua | 0 | [] |
 | hawk-unity/hawksploit | HAWK SPLOİT TOOL | https://github.com/hawk-unity/hawksploit | ['sploit'] | 1 | 2021-09-16 21:07:48+00:00 | 0 | 0 | Python | 0 | [] |
 | Darkhunters22/metasploit-framework-exploits | adding more exploit to metasploit | https://github.com/Darkhunters22/metasploit-framework-exploits | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-16 20:59:32+00:00 | 0 | 0 | | 0 | [] |
@@ -47,8 +47,8 @@
 | bslibeck/planets | practice repository for rces | https://github.com/bslibeck/planets | ['rce'] | 1 | 2021-09-16 15:12:22+00:00 | 0 | 0 | | 0 | [] |
 | Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-09-16 13:02:59+00:00 | 0 | 0 | | 0 | [] |
 | dalvikbytecode/exploit | None | https://github.com/dalvikbytecode/exploit | ['exploit'] | 1 | 2021-09-16 12:33:10+00:00 | 0 | 0 | Python | 0 | [] |
+| mrnobody888/rubberducky-shellcode | None | https://github.com/mrnobody888/rubberducky-shellcode | ['shellcode'] | 1 | 2021-09-16 12:32:18+00:00 | 0 | 0 | | 0 | [] |
 | dock0d1/ImpressCMS-1.4.2---Remote-Code-Execution-RCE-Authenticated- | ImpressCMS 1.4.2 - Remote Code Execution (RCE) (Authenticated) | https://github.com/dock0d1/ImpressCMS-1.4.2---Remote-Code-Execution-RCE-Authenticated- | ['rce', 'remote code execution'] | 2 | 2021-09-16 12:27:15+00:00 | 0 | 0 | Python | 0 | [] |
-| redhawkeye/cisco-exploit | Cisco exploit | https://github.com/redhawkeye/cisco-exploit | ['exploit'] | 1 | 2021-09-16 06:19:17+00:00 | 6 | 0 | Python | 0 | [] |
 | OriChanEzScript/PolaBeax-Lua | PolaBeax is an easy-to-use exploit which allow you to run different commands ( not LUA ) which already invented. For more information, go to "README.txt". | https://github.com/OriChanEzScript/PolaBeax-Lua | ['exploit'] | 1 | 2021-09-16 11:55:06+00:00 | 10 | 0 | Lua | 0 | [] |
 | artsking/linux-4.1.15_CVE-2020-36386_withPatch | None | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-09-16 10:50:25+00:00 | 0 | 0 | C | 0 | ['CVE-2020-36386'] |
 | Kara-4search/HellgateLoader_CSharp | Load shelcode via HELLGATE, rewrite hellgate for learning purpose. | https://github.com/Kara-4search/HellgateLoader_CSharp | ['shellcode'] | 1 | 2021-09-16 10:34:31+00:00 | 0 | 1 | C# | 2 | [] |
@@ -60,11 +60,11 @@
 | quynhle7821/CVE-2021-2302 | None | https://github.com/quynhle7821/CVE-2021-2302 | ['cve-2 OR cve_2'] | 1 | 2021-09-16 08:31:35+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-2302'] |
 | Mochican/CVE-2021-21300 | None | https://github.com/Mochican/CVE-2021-21300 | ['cve-2 OR cve_2'] | 1 | 2021-09-16 07:53:41+00:00 | 0 | 0 | | 0 | ['CVE-2021-21300'] |
 | redhawkeye/xmasspy | Python mass exploit | https://github.com/redhawkeye/xmasspy | ['exploit'] | 1 | 2021-09-16 07:49:34+00:00 | 0 | 0 | PHP | 0 | [] |
-| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-16 07:12:40+00:00 | 3508 | 0 | Python | 0 | [] |
+| redhawkeye/cisco-exploit | Cisco exploit | https://github.com/redhawkeye/cisco-exploit | ['exploit'] | 1 | 2021-09-16 06:19:17+00:00 | 6 | 0 | Python | 0 | [] |
+| LucaRibeiro/CVE-2021-37589 | Exploit to Virtua Software. | https://github.com/LucaRibeiro/CVE-2021-37589 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-16 15:34:22+00:00 | 5 | 1 | | 0 | ['CVE-2021-37589'] |
 | ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2021-09-16 17:57:20+00:00 | 29 | 9 | | 2 | [] |
-| rapid7/metasploit_data_models | MSF database code, gemified | https://github.com/rapid7/metasploit_data_models | ['metasploit module OR payload'] | 1 | 2021-09-16 12:03:43+00:00 | 4495 | 40 | Ruby | 50 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-16 02:35:30+00:00 | 9915 | 2 | Python | 0 | [] |
-| vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-09-16 00:16:37+00:00 | 202 | 7 | Go | 7 | [] |
+| wzsySRC/CNVDReport | nan | https://github.com/wzsySRC/CNVDReport | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-09-16 05:08:10+00:00 | 30 | 0 | nan | 0 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-09-16 13:15:11+00:00 | 1242 | 250 | C | 11 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-16 00:52:40+00:00 | 28587 | 22 | | 14 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-16 19:14:27+00:00 | 474 | 228 | Rust | 13 | [] |
@@ -84,16 +84,16 @@
 | OWASP/Benchmark | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java | https://github.com/OWASP/Benchmark | ['exploit'] | 1 | 2021-09-16 20:27:10+00:00 | 74591 | 415 | Java | 439 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-16 01:33:08+00:00 | 4790 | 3917 | Python | 541 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-16 00:05:24+00:00 | 1534757 | 1503 | Python | 515 | [] |
+| centime/xss-paper | Presentation of Cross-Site Scripting (XSS) exploitations. With realistic examples | https://github.com/centime/xss-paper | ['exploit'] | 1 | 2021-09-16 22:19:00+00:00 | 3760 | 4 | Python | 1 | [] |
 | rapid7/metasploit-erd | Extensions to rails-erd to find clusters of models to generate subdomains specific to each model. | https://github.com/rapid7/metasploit-erd | ['metasploit module OR payload'] | 1 | 2021-09-16 12:09:03+00:00 | 169 | 1 | Ruby | 7 | [] |
 | rapid7/metasploit-concern | Loads `ActiveSupport::Concern`s from `app/concerns` and and includes them in the appropriate class using `ActiveSupport.on_load(<underscored_class_name>)`. | https://github.com/rapid7/metasploit-concern | ['metasploit module OR payload'] | 1 | 2021-09-16 11:31:49+00:00 | 283 | 3 | Ruby | 11 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-16 05:07:19+00:00 | 227155 | 6460 | C | 1795 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-16 00:01:59+00:00 | 3397 | 2475 | PowerShell | 709 | [] |
 | rapid7/metasploit-model | Common code, such as validators and mixins, that are shared between ActiveModels in metasploit-framework and ActiveRecords in metasploit_data_models | https://github.com/rapid7/metasploit-model | ['metasploit module OR payload'] | 1 | 2021-09-16 16:52:14+00:00 | 2105 | 7 | Ruby | 19 | [] |
+| vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-09-16 00:16:37+00:00 | 202 | 7 | Go | 7 | [] |
 | Orange-Cyberdefense/CVE-repository | :beetle: Repository of CVE found by OCD people | https://github.com/Orange-Cyberdefense/CVE-repository | ['exploit'] | 1 | 2021-09-16 14:38:23+00:00 | 833 | 11 | | 5 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2021-09-16 10:18:43+00:00 | 123817 | 261 | Go | 47 | [] |
-| bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2021-09-16 17:34:29+00:00 | 2924 | 367 | C | 94 | ['MS17-010'] |
-| Coayala/MetaboDirect | A comprehensive command-line based pipeline for the analysis of direct injection FT-ICR mass spectrometry data | https://github.com/Coayala/MetaboDirect | ['command injection'] | 1 | 2021-09-16 18:51:30+00:00 | 14262 | 0 | R | 0 | [] |
-| wzsySRC/CNVDReport | nan | https://github.com/wzsySRC/CNVDReport | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-09-16 05:08:10+00:00 | 30 | 0 | nan | 0 | [] |
+| panday1995/2021_RCEP_carbon_convergence | None | https://github.com/panday1995/2021_RCEP_carbon_convergence | ['rce'] | 1 | 2021-09-16 07:19:35+00:00 | 288 | 0 | Jupyter Notebook | 0 | [] |
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-09-16 02:46:32+00:00 | 35 | 0 | C# | 0 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-16 09:31:31+00:00 | 100447 | 0 | JavaScript | 0 | [] |
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-09-16 10:45:52+00:00 | 17009 | 0 | JavaScript | 0 | [] |
@@ -104,9 +104,9 @@
 | zYan666/Demon-Exploit | None | https://github.com/zYan666/Demon-Exploit | ['exploit'] | 1 | 2021-09-16 17:34:51+00:00 | 1297 | 0 | | 0 | [] |
 | Juliocj7/MsfCj7 | Instala Metasploit correctamente y sin errores... By: ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ | https://github.com/Juliocj7/MsfCj7 | ['metasploit module OR payload'] | 1 | 2021-09-16 21:09:16+00:00 | 226 | 5 | | 1 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-16 00:13:47+00:00 | 71384 | 117 | Python | 30 | [] |
-| panday1995/2021_RCEP_carbon_convergence | None | https://github.com/panday1995/2021_RCEP_carbon_convergence | ['rce'] | 1 | 2021-09-16 07:19:35+00:00 | 288 | 0 | Jupyter Notebook | 0 | [] |
-| th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-16 16:09:14+00:00 | 3014417 | 2 | Batchfile | 0 | [] |
+| Coayala/MetaboDirect | A comprehensive command-line based pipeline for the analysis of direct injection FT-ICR mass spectrometry data | https://github.com/Coayala/MetaboDirect | ['command injection'] | 1 | 2021-09-16 18:51:30+00:00 | 14262 | 0 | R | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-16 00:55:30+00:00 | 62 | 0 | PHP | 0 | [] |
+| bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2021-09-16 17:34:29+00:00 | 2924 | 367 | C | 94 | ['MS17-010'] |
 | neumaneuma/appseccheat.codes | A CTF web app designed to teach software developers application security by showcasing what vulnerable code looks like, how to write code to exploit the vulnerability, and how to write code to patch the vulnerability. | https://github.com/neumaneuma/appseccheat.codes | ['exploit'] | 1 | 2021-09-16 16:14:32+00:00 | 328 | 3 | HTML | 1 | [] |
 | mahaloz/ike | 'Ike: A binary exploitation and reversing handbook. | https://github.com/mahaloz/ike | ['exploit'] | 1 | 2021-09-16 02:05:35+00:00 | 3880 | 11 | Shell | 0 | [] |
 | rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2021-09-16 00:17:33+00:00 | 64 | 0 | Ruby | 0 | [] |
@@ -117,4 +117,5 @@
 | gege-circle/home | 这里是戈戈圈爱好者的交流地，也是Github的草场，主要讨论一些关于二次元虚拟主播、动漫、游戏、搞笑、知识等有趣的内容，你可以在这里向大家分享你的趣事，欢迎在此畅所欲言~ This is a place for fans to communicate with, and it's also GitHub grassland, it mainly discusses some interesting contents such as VTuber, funny and knowledge, you can s | https://github.com/gege-circle/home | ['attack poc', 'exploit'] | 2 | 2021-09-16 05:21:45+00:00 | 1694 | 94 | | 35 | [] |
 | houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2021-09-16 01:56:38+00:00 | 198 | 140 | | 18 | [] |
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-09-16 09:22:03+00:00 | 3155 | 0 | JavaScript | 1 | [] |
+| th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-16 16:09:14+00:00 | 3014417 | 2 | Batchfile | 0 | [] |
 | nam0011/2D-Game-Flaw-Exploit-Example | 2D implementation of boss assets flaw in Dark Souls 3 using Unity | https://github.com/nam0011/2D-Game-Flaw-Exploit-Example | ['exploit'] | 1 | 2021-09-16 21:17:59+00:00 | 0 | 1 | | 0 | [] |
