@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/16
     
-42 records found after deduplication
+45 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-16 00:37:35+00:00 | 628275 | 25078 | Ruby | 11564 | [] |
-| SharmaHacking/DipHack | Install metasploit from here | https://github.com/SharmaHacking/DipHack | ['metasploit module OR payload'] | 1 | 2021-09-16 04:09:56+00:00 | 2 | 1 | Shell | 0 | [] |
+| thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-09-16 02:46:32+00:00 | 35 | 0 | C# | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-16 02:35:30+00:00 | 9915 | 2 | Python | 0 | [] |
 | noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-16 07:12:40+00:00 | 3508 | 0 | Python | 0 | [] |
 | AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-09-16 04:08:17+00:00 | 80 | 0 | Haskell | 0 | [] |
 | hosch3n/vCenterExp | vCenter 2021 Exploit | https://github.com/hosch3n/vCenterExp | ['exploit'] | 1 | 2021-09-16 05:14:13+00:00 | 13 | 0 | Python | 0 | [] |
@@ -15,8 +16,8 @@
 | joshmerr/exploitbook | Book of Exploits I make | https://github.com/joshmerr/exploitbook | ['exploit'] | 1 | 2021-09-16 00:59:09+00:00 | 313 | 0 | Assembly | 0 | [] |
 | Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2021-09-16 01:11:24+00:00 | 22110 | 3 | Lua | 1 | [] |
 | git-cardoso/Desenvolvimento_exploits_x86 | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | ['exploit'] | 1 | 2021-09-16 01:49:30+00:00 | 17 | 0 | Assembly | 0 | [] |
+| SharmaHacking/DipHack | Install metasploit from here | https://github.com/SharmaHacking/DipHack | ['metasploit module OR payload'] | 1 | 2021-09-16 04:09:56+00:00 | 2 | 1 | Shell | 0 | [] |
 | antonio-morales/Fuzzing-Exploiting-challenges__Ekoparty2021 | None | https://github.com/antonio-morales/Fuzzing-Exploiting-challenges__Ekoparty2021 | ['exploit'] | 1 | 2021-09-16 00:23:12+00:00 | 18 | 0 | C | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-16 00:01:59+00:00 | 3397 | 2475 | PowerShell | 709 | [] |
 | klezVirus/CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | ['0day', 'cve-2 OR cve_2', 'exploit', 'rce'] | 4 | 2021-09-16 07:23:16+00:00 | 26 | 0 | HTML | 2 | ['CVE-2021-40444'] |
 | rogueecho/fruitbrute | PoC for brute force attack on wallets generating using limited wallet seed word pool | https://github.com/rogueecho/fruitbrute | ['attack poc'] | 1 | 2021-09-16 01:36:22+00:00 | 0 | 0 | Python | 0 | [] |
 | Hack3rHan/ShiroRceTool | Simple checker and exploit for Shiro RCE. (一个简单的Shiro RCE检测和利用脚本。) | https://github.com/Hack3rHan/ShiroRceTool | ['exploit', 'rce'] | 2 | 2021-09-16 03:59:33+00:00 | 0 | 0 | Python | 0 | [] |
@@ -25,9 +26,9 @@
 | redhawkeye/cisco-exploit | Cisco exploit | https://github.com/redhawkeye/cisco-exploit | ['exploit'] | 1 | 2021-09-16 06:19:17+00:00 | 6 | 0 | Python | 0 | [] |
 | redhawkeye/xmasspy | Python mass exploit | https://github.com/redhawkeye/xmasspy | ['exploit'] | 1 | 2021-09-16 07:49:34+00:00 | 0 | 0 | PHP | 0 | [] |
 | Mochican/CVE-2021-21300 | None | https://github.com/Mochican/CVE-2021-21300 | ['cve-2 OR cve_2'] | 1 | 2021-09-16 07:53:41+00:00 | 0 | 0 | | 0 | ['CVE-2021-21300'] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-16 02:35:30+00:00 | 9915 | 2 | Python | 0 | [] |
 | wzsySRC/CNVDReport | nan | https://github.com/wzsySRC/CNVDReport | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-09-16 05:08:10+00:00 | 30 | 0 | nan | 0 | [] |
-| thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-09-16 02:46:32+00:00 | 35 | 0 | C# | 0 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-16 09:31:31+00:00 | 100447 | 0 | JavaScript | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-16 00:01:59+00:00 | 3397 | 2475 | PowerShell | 709 | [] |
 | exploitblizzard/CVE-2020-14882-WebLogic | Check YouTube - https://youtu.be/O0ZnLXRY5Wo | https://github.com/exploitblizzard/CVE-2020-14882-WebLogic | ['cve-2 OR cve_2'] | 1 | 2021-09-16 07:25:22+00:00 | 8 | 2 | Python | 3 | ['CVE-2020-14882'] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-16 05:07:19+00:00 | 227155 | 6460 | C | 1795 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-16 00:05:24+00:00 | 1534757 | 1503 | Python | 515 | [] |
@@ -39,8 +40,10 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-16 02:03:50+00:00 | 61200 | 1192 | Python | 243 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-16 00:52:40+00:00 | 28587 | 22 | | 14 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-09-16 00:16:37+00:00 | 202 | 7 | Go | 7 | [] |
+| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-09-16 09:22:03+00:00 | 3155 | 0 | JavaScript | 1 | [] |
 | houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2021-09-16 01:56:38+00:00 | 198 | 140 | | 18 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-16 00:03:17+00:00 | 396783 | 31 | | 18 | [] |
+| whichbuffer/WindowsExploitDev | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | ['exploit', 'shellcode'] | 2 | 2021-09-16 09:07:43+00:00 | 16087 | 9 | Python | 2 | [] |
 | rcvalle/metasploit | Metasploit contributions. | https://github.com/rcvalle/metasploit | ['metasploit module OR payload'] | 1 | 2021-09-16 00:17:33+00:00 | 64 | 0 | Ruby | 0 | [] |
 | mahaloz/ike | 'Ike: A binary exploitation and reversing handbook. | https://github.com/mahaloz/ike | ['exploit'] | 1 | 2021-09-16 02:05:35+00:00 | 3880 | 11 | Shell | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-16 00:55:30+00:00 | 62 | 0 | PHP | 0 | [] |
