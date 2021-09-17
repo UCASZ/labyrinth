@@ -1,13 +1,12 @@
 
 # Summary for results/2021/09/16
     
-117 records found after deduplication
+118 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-16 00:37:35+00:00 | 628275 | 25078 | Ruby | 11564 | [] |
-| cccyclops/skoop-secure | a meme exploit script obfuscator (only runs on synapse x). | https://github.com/cccyclops/skoop-secure | ['exploit'] | 1 | 2021-09-16 20:48:28+00:00 | 466 | 0 | C++ | 0 | [] |
-| Hack3rHan/ShiroRceTool | Simple checker and exploit for Shiro RCE. (一个简单的Shiro RCE检测和利用脚本。) | https://github.com/Hack3rHan/ShiroRceTool | ['exploit', 'rce'] | 2 | 2021-09-16 03:59:33+00:00 | 0 | 0 | Python | 0 | [] |
+| git-cardoso/Desenvolvimento_exploits_x86 | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | ['exploit'] | 1 | 2021-09-16 01:49:30+00:00 | 17 | 0 | Assembly | 0 | [] |
 | horizon3ai/CVE-2021-38647 | Proof on Concept Exploit for CVE-2021-38647 (OMIGOD) | https://github.com/horizon3ai/CVE-2021-38647 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-16 10:39:04+00:00 | 9 | 0 | Python | 0 | ['CVE-2021-38647'] |
 | rogueecho/fruitbrute | PoC for brute force attack on wallets generating using limited wallet seed word pool | https://github.com/rogueecho/fruitbrute | ['attack poc'] | 1 | 2021-09-16 01:36:22+00:00 | 0 | 0 | Python | 0 | [] |
 | klezVirus/CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | ['0day', 'cve-2 OR cve_2', 'exploit', 'rce'] | 4 | 2021-09-16 07:23:16+00:00 | 26 | 0 | HTML | 2 | ['CVE-2021-40444'] |
@@ -19,9 +18,9 @@
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2021-09-16 21:27:50+00:00 | 129 | 0 | Lua | 0 | [] |
 | EagleTube/ShellcodeConverter | Convert binary file into shellcode | https://github.com/EagleTube/ShellcodeConverter | ['shellcode'] | 1 | 2021-09-16 19:07:29+00:00 | 15 | 0 | Python | 0 | [] |
 | in-future-world/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(7), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, t | https://github.com/in-future-world/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-09-16 14:56:36+00:00 | 139 | 6 | | 2 | [] |
-| git-cardoso/Desenvolvimento_exploits_x86 | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | ['exploit'] | 1 | 2021-09-16 01:49:30+00:00 | 17 | 0 | Assembly | 0 | [] |
-| LucaRibeiro/CVE-2021-37589 | Exploit to Virtua Software. | https://github.com/LucaRibeiro/CVE-2021-37589 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-16 15:34:22+00:00 | 3 | 0 | | 0 | ['CVE-2021-37589'] |
+| cccyclops/skoop-secure | a meme exploit script obfuscator (only runs on synapse x). | https://github.com/cccyclops/skoop-secure | ['exploit'] | 1 | 2021-09-16 20:48:28+00:00 | 466 | 0 | C++ | 0 | [] |
 | Th3Tr1ckst3r/Everest | Everest, A Next-Gen Roblox Exploitation Toolkit. | https://github.com/Th3Tr1ckst3r/Everest | ['exploit'] | 1 | 2021-09-16 01:11:24+00:00 | 22110 | 3 | Lua | 1 | [] |
+| artsking/linux-4.1.15_CVE-2020-36386_withPatch | None | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-09-16 04:00:13+00:00 | 0 | 0 | C | 0 | ['CVE-2020-36386'] |
 | kikiokol/AndroidDown | Exploit android devices with open Android Debugging Bridge(ADB) ports. | https://github.com/kikiokol/AndroidDown | ['exploit'] | 1 | 2021-09-16 17:27:28+00:00 | 36 | 3 | Python | 0 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-09-16 18:08:38+00:00 | 104638 | 1 | PowerShell | 1 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-09-16 16:40:00+00:00 | 5325 | 1 | CSS | 0 | [] |
@@ -33,10 +32,11 @@
 | hosch3n/vCenterExp | vCenter 2021 Exploit | https://github.com/hosch3n/vCenterExp | ['exploit'] | 1 | 2021-09-16 05:14:13+00:00 | 13 | 0 | Python | 0 | [] |
 | AliNisarAhmed/HeapOverflow | A Stack Overflow clone (WIP) | https://github.com/AliNisarAhmed/HeapOverflow | ['heap overflow'] | 1 | 2021-09-16 04:08:17+00:00 | 80 | 0 | Haskell | 0 | [] |
 | MicroFox-HD/Exploits | None | https://github.com/MicroFox-HD/Exploits | ['exploit'] | 1 | 2021-09-16 15:24:05+00:00 | 387 | 0 | | 0 | [] |
-| artsking/linux-4.1.15_CVE-2020-36386_withPatch | None | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-09-16 04:00:13+00:00 | 0 | 0 | C | 0 | ['CVE-2020-36386'] |
+| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-16 07:12:40+00:00 | 3508 | 0 | Python | 0 | [] |
+| Hack3rHan/ShiroRceTool | Simple checker and exploit for Shiro RCE. (一个简单的Shiro RCE检测和利用脚本。) | https://github.com/Hack3rHan/ShiroRceTool | ['exploit', 'rce'] | 2 | 2021-09-16 03:59:33+00:00 | 0 | 0 | Python | 0 | [] |
 | Osuni-99/Metasploit-Framework | None | https://github.com/Osuni-99/Metasploit-Framework | ['metasploit module OR payload'] | 1 | 2021-09-16 05:30:11+00:00 | 0 | 0 | | 0 | [] |
-| redhawkeye/cisco-exploit | Cisco exploit | https://github.com/redhawkeye/cisco-exploit | ['exploit'] | 1 | 2021-09-16 06:19:17+00:00 | 6 | 0 | Python | 0 | [] |
-| redhawkeye/xmasspy | Python mass exploit | https://github.com/redhawkeye/xmasspy | ['exploit'] | 1 | 2021-09-16 07:49:34+00:00 | 0 | 0 | PHP | 0 | [] |
+| rapid7/metasploit_data_models | MSF database code, gemified | https://github.com/rapid7/metasploit_data_models | ['metasploit module OR payload'] | 1 | 2021-09-16 12:03:43+00:00 | 4495 | 40 | Ruby | 50 | [] |
+| dalvikbytecode/exploit | None | https://github.com/dalvikbytecode/exploit | ['exploit'] | 1 | 2021-09-16 12:33:10+00:00 | 0 | 0 | Python | 0 | [] |
 | jpsecundino/dependency-exploit | None | https://github.com/jpsecundino/dependency-exploit | ['exploit'] | 1 | 2021-09-16 23:28:53+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | nam0011/2D-Game-Flaw-Exploit-Example | 2D implementation of boss assets flaw in Dark Souls 3 using Unity | https://github.com/nam0011/2D-Game-Flaw-Exploit-Example | ['exploit'] | 1 | 2021-09-16 21:17:59+00:00 | 0 | 1 | | 0 | [] |
 | XenHubz/XenHubLua | Exploiting? | https://github.com/XenHubz/XenHubLua | ['exploit'] | 1 | 2021-09-16 21:05:59+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -49,8 +49,8 @@
 | Dilboy123/picoCTF-Web-Exploitation-Login- | None | https://github.com/Dilboy123/picoCTF-Web-Exploitation-Login- | ['exploit'] | 1 | 2021-09-16 15:31:17+00:00 | 0 | 0 | | 0 | [] |
 | bslibeck/planets | practice repository for rces | https://github.com/bslibeck/planets | ['rce'] | 1 | 2021-09-16 15:12:22+00:00 | 0 | 0 | | 0 | [] |
 | Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-09-16 13:02:59+00:00 | 0 | 0 | | 0 | [] |
-| dalvikbytecode/exploit | None | https://github.com/dalvikbytecode/exploit | ['exploit'] | 1 | 2021-09-16 12:33:10+00:00 | 0 | 0 | Python | 0 | [] |
 | mrnobody888/rubberducky-shellcode | None | https://github.com/mrnobody888/rubberducky-shellcode | ['shellcode'] | 1 | 2021-09-16 12:32:18+00:00 | 0 | 0 | | 0 | [] |
+| redhawkeye/cisco-exploit | Cisco exploit | https://github.com/redhawkeye/cisco-exploit | ['exploit'] | 1 | 2021-09-16 06:19:17+00:00 | 6 | 0 | Python | 0 | [] |
 | dock0d1/ImpressCMS-1.4.2---Remote-Code-Execution-RCE-Authenticated- | ImpressCMS 1.4.2 - Remote Code Execution (RCE) (Authenticated) | https://github.com/dock0d1/ImpressCMS-1.4.2---Remote-Code-Execution-RCE-Authenticated- | ['rce', 'remote code execution'] | 2 | 2021-09-16 12:27:15+00:00 | 0 | 0 | Python | 0 | [] |
 | OriChanEzScript/PolaBeax-Lua | PolaBeax is an easy-to-use exploit which allow you to run different commands ( not LUA ) which already invented. For more information, go to "README.txt". | https://github.com/OriChanEzScript/PolaBeax-Lua | ['exploit'] | 1 | 2021-09-16 11:55:06+00:00 | 10 | 0 | Lua | 0 | [] |
 | artsking/linux-4.1.15_CVE-2020-36386_withPatch | None | https://github.com/artsking/linux-4.1.15_CVE-2020-36386_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-09-16 10:50:25+00:00 | 0 | 0 | C | 0 | ['CVE-2020-36386'] |
@@ -62,11 +62,11 @@
 | Immersive-Labs-Sec/cve-2021-38647 | A PoC exploit for CVE-2021-38647 RCE in OMI | https://github.com/Immersive-Labs-Sec/cve-2021-38647 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-09-16 14:50:57+00:00 | 6 | 0 | Python | 0 | ['CVE-2021-38647'] |
 | quynhle7821/CVE-2021-2302 | None | https://github.com/quynhle7821/CVE-2021-2302 | ['cve-2 OR cve_2'] | 1 | 2021-09-16 08:31:35+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-2302'] |
 | Mochican/CVE-2021-21300 | None | https://github.com/Mochican/CVE-2021-21300 | ['cve-2 OR cve_2'] | 1 | 2021-09-16 07:53:41+00:00 | 0 | 0 | | 0 | ['CVE-2021-21300'] |
-| noobone123/my_pwn | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_pwn | ['exploit'] | 1 | 2021-09-16 07:12:40+00:00 | 3508 | 0 | Python | 0 | [] |
+| redhawkeye/xmasspy | Python mass exploit | https://github.com/redhawkeye/xmasspy | ['exploit'] | 1 | 2021-09-16 07:49:34+00:00 | 0 | 0 | PHP | 0 | [] |
+| LucaRibeiro/CVE-2021-37589 | Exploit to Virtua Software. | https://github.com/LucaRibeiro/CVE-2021-37589 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-16 15:34:22+00:00 | 5 | 1 | | 0 | ['CVE-2021-37589'] |
 | ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2021-09-16 17:57:20+00:00 | 29 | 9 | | 2 | [] |
-| rapid7/metasploit_data_models | MSF database code, gemified | https://github.com/rapid7/metasploit_data_models | ['metasploit module OR payload'] | 1 | 2021-09-16 12:03:43+00:00 | 4495 | 40 | Ruby | 50 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-16 02:35:30+00:00 | 9915 | 2 | Python | 0 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-09-16 13:47:23+00:00 | 15199 | 766 | PowerShell | 178 | [] |
-| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-09-16 13:15:11+00:00 | 1242 | 250 | C | 11 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-16 00:52:40+00:00 | 28587 | 22 | | 14 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-16 19:14:27+00:00 | 474 | 228 | Rust | 13 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-16 02:03:50+00:00 | 61200 | 1192 | Python | 243 | [] |
@@ -77,9 +77,10 @@
 | oaraque/moral-foundations | Additional material for the paper "MoralStrength: Exploiting a Moral Lexicon and Embedding Similarity for Moral Foundations Prediction" | https://github.com/oaraque/moral-foundations | ['exploit'] | 1 | 2021-09-16 15:50:34+00:00 | 3793 | 19 | Jupyter Notebook | 8 | [] |
 | AlaBouali/bane | None | https://github.com/AlaBouali/bane | ['rce'] | 1 | 2021-09-16 21:31:08+00:00 | 646 | 52 | Python | 22 | [] |
 | vulsio/go-exploitdb | None | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-09-16 12:15:45+00:00 | 992 | 124 | Go | 36 | [] |
+| nettitude/PoshC2 | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. | https://github.com/nettitude/PoshC2 | ['exploit'] | 1 | 2021-09-16 07:21:37+00:00 | 33216 | 958 | PowerShell | 217 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-16 07:26:16+00:00 | 293667 | 78 | Python | 13 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-16 00:16:44+00:00 | 121060 | 248 | Ruby | 75 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-16 02:35:30+00:00 | 9915 | 2 | Python | 0 | [] |
+| wzsySRC/CNVDReport | nan | https://github.com/wzsySRC/CNVDReport | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-09-16 05:08:10+00:00 | 30 | 0 | nan | 0 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-16 03:05:05+00:00 | 70721 | 10037 | Python | 1682 | [] |
 | techdivision/import-cli-simple | This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can | https://github.com/techdivision/import-cli-simple | ['command injection'] | 1 | 2021-09-16 17:28:03+00:00 | 9013 | 67 | PHP | 15 | [] |
 | rapid7/rex-exploitation | Rex library for various exploitation helpers | https://github.com/rapid7/rex-exploitation | ['exploit'] | 1 | 2021-09-16 16:52:30+00:00 | 542 | 14 | Ruby | 28 | [] |
@@ -92,11 +93,10 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-16 05:07:19+00:00 | 227155 | 6460 | C | 1795 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-16 00:01:59+00:00 | 3397 | 2475 | PowerShell | 709 | [] |
 | rapid7/metasploit-model | Common code, such as validators and mixins, that are shared between ActiveModels in metasploit-framework and ActiveRecords in metasploit_data_models | https://github.com/rapid7/metasploit-model | ['metasploit module OR payload'] | 1 | 2021-09-16 16:52:14+00:00 | 2105 | 7 | Ruby | 19 | [] |
+| struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-09-16 13:15:11+00:00 | 1242 | 250 | C | 11 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-09-16 00:16:37+00:00 | 202 | 7 | Go | 7 | [] |
 | Orange-Cyberdefense/CVE-repository | :beetle: Repository of CVE found by OCD people | https://github.com/Orange-Cyberdefense/CVE-repository | ['exploit'] | 1 | 2021-09-16 14:38:23+00:00 | 833 | 11 | | 5 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2021-09-16 10:18:43+00:00 | 123817 | 261 | Go | 47 | [] |
-| bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2021-09-16 17:34:29+00:00 | 2924 | 367 | C | 94 | ['MS17-010'] |
-| wzsySRC/CNVDReport | nan | https://github.com/wzsySRC/CNVDReport | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-09-16 05:08:10+00:00 | 30 | 0 | nan | 0 | [] |
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-09-16 02:46:32+00:00 | 35 | 0 | C# | 0 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-16 09:31:31+00:00 | 100447 | 0 | JavaScript | 0 | [] |
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-09-16 10:45:52+00:00 | 17009 | 0 | JavaScript | 0 | [] |
@@ -121,4 +121,5 @@
 | houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2021-09-16 01:56:38+00:00 | 198 | 140 | | 18 | [] |
 | metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-09-16 09:22:03+00:00 | 3155 | 0 | JavaScript | 1 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-16 16:09:14+00:00 | 3014417 | 2 | Batchfile | 0 | [] |
+| bhassani/EternalBlueC | EternalBlue suite remade in C/C++ which includes: MS17-010 Exploit, EternalBlue vulnerability detector, DoublePulsar detector and DoublePulsar Shellcode & DLL uploader | https://github.com/bhassani/EternalBlueC | ['exploit', 'shellcode'] | 2 | 2021-09-16 17:34:29+00:00 | 2924 | 367 | C | 94 | ['MS17-010'] |
 | RyouYoo/CVE-2019-5420-RCE | Exploitation of CVE-2019-5420 to gain code execution. | https://github.com/RyouYoo/CVE-2019-5420-RCE | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2021-09-16 23:44:14+00:00 | 0 | 0 | | 0 | ['CVE-2019-5420'] |
