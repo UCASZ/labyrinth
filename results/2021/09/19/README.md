@@ -1,17 +1,19 @@
 
 # Summary for results/2021/09/19
     
-14 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-19 00:05:24+00:00 | 1534758 | 1507 | Python | 515 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-19 00:16:48+00:00 | 125631 | 248 | Ruby | 75 | [] |
 | reg1reg1/Exploits | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-19 00:25:53+00:00 | 2860 | 1 | Python | 1 | [] |
+| Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-19 05:18:51+00:00 | 1336580 | 3479 | PowerShell | 1209 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-19 00:03:05+00:00 | 397221 | 31 | | 18 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-19 00:18:10+00:00 | 79738 | 149 | Python | 42 | [] |
 | boku7/Nobelium-PdfDLRunAesShellcode | A recreation of the "Nobelium" malware based on Microsofts Malware analysis - Part 1: PDF2Pwn | https://github.com/boku7/Nobelium-PdfDLRunAesShellcode | ['shellcode'] | 1 | 2021-09-19 01:36:46+00:00 | 125 | 75 | C | 14 | [] |
 | raul23/pyyaml-CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2021-09-19 03:47:35+00:00 | 1091 | 0 | Python | 0 | ['CVE-2020-14343'] |
+| noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-09-19 05:15:51+00:00 | 7210 | 0 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-19 01:48:43+00:00 | 105 | 4 | JavaScript | 3 | [] |
 | StiizzyCat/Token-Sploit | FInd the first half of a Discord Token | https://github.com/StiizzyCat/Token-Sploit | ['sploit'] | 1 | 2021-09-19 02:32:11+00:00 | 1 | 0 | Shell | 0 | [] |
 | Levilutz/CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-19 01:20:42+00:00 | 7 | 0 | Python | 1 | ['CVE-2021-30860'] |
