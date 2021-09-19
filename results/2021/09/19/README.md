@@ -1,13 +1,18 @@
 
 # Summary for results/2021/09/19
     
-6 records found after deduplication
+11 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-19 00:05:24+00:00 | 1534758 | 1507 | Python | 515 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-19 00:16:48+00:00 | 125631 | 248 | Ruby | 75 | [] |
 | reg1reg1/Exploits | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-19 00:25:53+00:00 | 2860 | 1 | Python | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-19 00:03:05+00:00 | 397221 | 31 | | 18 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-19 00:18:10+00:00 | 79738 | 149 | Python | 42 | [] |
+| boku7/Nobelium-PdfDLRunAesShellcode | A recreation of the "Nobelium" malware based on Microsofts Malware analysis - Part 1: PDF2Pwn | https://github.com/boku7/Nobelium-PdfDLRunAesShellcode | ['shellcode'] | 1 | 2021-09-19 01:36:46+00:00 | 125 | 75 | C | 14 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-19 01:48:43+00:00 | 105 | 4 | JavaScript | 3 | [] |
+| Levilutz/CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-19 01:20:42+00:00 | 7 | 0 | Python | 1 | ['CVE-2021-30860'] |
 | TheCoolCrater/SlipSploit | None | https://github.com/TheCoolCrater/SlipSploit | ['sploit'] | 1 | 2021-09-19 00:05:06+00:00 | 1 | 0 | | 0 | [] |
+| dock0d1/WordPress-4.6---Remote-Code-Execution-RCE- | WordPress 4.6 - Remote Code Execution (RCE) | https://github.com/dock0d1/WordPress-4.6---Remote-Code-Execution-RCE- | ['rce', 'remote code execution'] | 2 | 2021-09-19 00:44:07+00:00 | 4 | 0 | Shell | 0 | [] |
+| Memory0498/Roblox-Lua | Noncomplex Roblox-Exploiting scripts I make on the undergoing basis can be found on this repository. | https://github.com/Memory0498/Roblox-Lua | ['exploit'] | 1 | 2021-09-19 01:07:30+00:00 | 0 | 1 | Lua | 0 | [] |
