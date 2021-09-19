@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/19
     
-11 records found after deduplication
+12 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -12,6 +12,7 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-19 00:18:10+00:00 | 79738 | 149 | Python | 42 | [] |
 | boku7/Nobelium-PdfDLRunAesShellcode | A recreation of the "Nobelium" malware based on Microsofts Malware analysis - Part 1: PDF2Pwn | https://github.com/boku7/Nobelium-PdfDLRunAesShellcode | ['shellcode'] | 1 | 2021-09-19 01:36:46+00:00 | 125 | 75 | C | 14 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-19 01:48:43+00:00 | 105 | 4 | JavaScript | 3 | [] |
+| StiizzyCat/Token-Sploit | FInd the first half of a Discord Token | https://github.com/StiizzyCat/Token-Sploit | ['sploit'] | 1 | 2021-09-19 02:32:11+00:00 | 1 | 0 | Shell | 0 | [] |
 | Levilutz/CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-19 01:20:42+00:00 | 7 | 0 | Python | 1 | ['CVE-2021-30860'] |
 | TheCoolCrater/SlipSploit | None | https://github.com/TheCoolCrater/SlipSploit | ['sploit'] | 1 | 2021-09-19 00:05:06+00:00 | 1 | 0 | | 0 | [] |
 | dock0d1/WordPress-4.6---Remote-Code-Execution-RCE- | WordPress 4.6 - Remote Code Execution (RCE) | https://github.com/dock0d1/WordPress-4.6---Remote-Code-Execution-RCE- | ['rce', 'remote code execution'] | 2 | 2021-09-19 00:44:07+00:00 | 4 | 0 | Shell | 0 | [] |
