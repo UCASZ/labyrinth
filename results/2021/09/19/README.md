@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/19
     
-23 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-09-19 04:07:26+00:00 | 7586 | 3962 | Python | 573 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-19 00:05:24+00:00 | 1534758 | 1507 | Python | 515 | [] |
-| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-19 01:48:43+00:00 | 105 | 4 | JavaScript | 3 | [] |
+| jravis-8520/h-sploit-paylod | None | https://github.com/jravis-8520/h-sploit-paylod | ['sploit'] | 1 | 2021-09-19 07:00:12+00:00 | 0 | 0 | | 0 | [] |
 | TomAbel/evilginx.botguard | Exploit to bypass Google's JS security protection when using MITM phishing tools | https://github.com/TomAbel/evilginx.botguard | ['exploit'] | 1 | 2021-09-19 03:00:52+00:00 | 0 | 0 | | 0 | [] |
 | Memory0498/Roblox-Lua | Noncomplex Roblox-Exploiting scripts I make on the undergoing basis can be found on this repository. | https://github.com/Memory0498/Roblox-Lua | ['exploit'] | 1 | 2021-09-19 01:07:30+00:00 | 0 | 1 | Lua | 0 | [] |
 | dock0d1/WordPress-4.6---Remote-Code-Execution-RCE- | WordPress 4.6 - Remote Code Execution (RCE) | https://github.com/dock0d1/WordPress-4.6---Remote-Code-Execution-RCE- | ['rce', 'remote code execution'] | 2 | 2021-09-19 00:44:07+00:00 | 4 | 0 | Shell | 0 | [] |
@@ -15,16 +16,22 @@
 | Washabitsu/C-Exploit-Development | C++ Exploit Development | https://github.com/Washabitsu/C-Exploit-Development | ['exploit'] | 1 | 2021-09-19 06:01:46+00:00 | 0 | 0 | C++ | 0 | [] |
 | feboyfierlyan/Moodle3.9_Exploit_RCE | None | https://github.com/feboyfierlyan/Moodle3.9_Exploit_RCE | ['exploit', 'rce'] | 2 | 2021-09-19 05:36:21+00:00 | 13 | 0 | Python | 0 | [] |
 | lyxo/autoOverflow | An attempt of automating the exploitation workflow of basic OSCP like buffer overflows in python | https://github.com/lyxo/autoOverflow | ['exploit'] | 1 | 2021-09-19 07:00:42+00:00 | 1 | 0 | Python | 0 | [] |
+| treee-pro/L- | An extension of Lua for exploiting. | https://github.com/treee-pro/L- | ['exploit'] | 1 | 2021-09-19 07:51:58+00:00 | 31 | 0 | Lua | 0 | [] |
 | StiizzyCat/Token-Sploit | FInd the first half of a Discord Token | https://github.com/StiizzyCat/Token-Sploit | ['sploit'] | 1 | 2021-09-19 02:32:11+00:00 | 1 | 0 | Shell | 0 | [] |
+| dillonkirsch/CVE-2021-41074 | CSRF in Qloapps HotelCommerce 1.5.1 | https://github.com/dillonkirsch/CVE-2021-41074 | ['cve-2 OR cve_2'] | 1 | 2021-09-19 08:33:08+00:00 | 4 | 0 | HTML | 0 | ['CVE-2021-41074'] |
+| hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-09-19 07:42:58+00:00 | 10051 | 1 | Shell | 0 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-19 01:48:43+00:00 | 105 | 4 | JavaScript | 3 | [] |
 | noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-09-19 05:15:51+00:00 | 7210 | 0 | Python | 0 | [] |
-| vulnersCom/getsploit | Command line utility for searching and downloading exploits | https://github.com/vulnersCom/getsploit | ['exploit'] | 1 | 2021-09-19 07:13:05+00:00 | 47 | 1492 | Python | 242 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-19 07:20:19+00:00 | 10574 | 2 | Python | 0 | [] |
 | raul23/pyyaml-CVE-2020-14343 | Experimenting with the CVE-2020-14343 PyYAML vulnerability | https://github.com/raul23/pyyaml-CVE-2020-14343 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2021-09-19 03:47:35+00:00 | 1091 | 0 | Python | 0 | ['CVE-2020-14343'] |
 | boku7/Nobelium-PdfDLRunAesShellcode | A recreation of the "Nobelium" malware based on Microsofts Malware analysis - Part 1: PDF2Pwn | https://github.com/boku7/Nobelium-PdfDLRunAesShellcode | ['shellcode'] | 1 | 2021-09-19 01:36:46+00:00 | 125 | 75 | C | 14 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-19 00:18:10+00:00 | 79738 | 149 | Python | 42 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-19 00:03:05+00:00 | 397221 | 31 | | 18 | [] |
+| firmianay/IoT-vulhub | IoT 固件漏洞复现环境 | https://github.com/firmianay/IoT-vulhub | ['exploit'] | 1 | 2021-09-19 07:56:02+00:00 | 433057 | 470 | Python | 60 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-19 07:27:49+00:00 | 61253 | 1211 | Python | 249 | [] |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-19 05:18:51+00:00 | 1336580 | 3479 | PowerShell | 1209 | [] |
+| AlaBouali/bane | None | https://github.com/AlaBouali/bane | ['rce'] | 1 | 2021-09-19 08:28:10+00:00 | 689 | 52 | Python | 22 | [] |
 | reg1reg1/Exploits | Metasploit Utilities, Post Exploit Scripts and other scripts primarily for reference | https://github.com/reg1reg1/Exploits | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-19 00:25:53+00:00 | 2860 | 1 | Python | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-19 00:16:48+00:00 | 125631 | 248 | Ruby | 75 | [] |
-| jravis-8520/h-sploit-paylod | None | https://github.com/jravis-8520/h-sploit-paylod | ['sploit'] | 1 | 2021-09-19 07:00:12+00:00 | 0 | 0 | | 0 | [] |
+| vulnersCom/getsploit | Command line utility for searching and downloading exploits | https://github.com/vulnersCom/getsploit | ['exploit'] | 1 | 2021-09-19 07:13:05+00:00 | 47 | 1492 | Python | 242 | [] |
+| MattOverthrow/MessageMasker | This exploit allows you to hide messages inside other messages ( Like links ) | https://github.com/MattOverthrow/MessageMasker | ['exploit'] | 1 | 2021-09-19 08:23:13+00:00 | 0 | 0 | Python | 0 | [] |
