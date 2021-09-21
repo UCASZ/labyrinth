@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/21
     
-53 records found after deduplication
+56 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-21 01:02:53+00:00 | 628311 | 25110 | Ruby | 11571 | [] |
-| krastanoel/exploits | None | https://github.com/krastanoel/exploits | ['exploit'] | 1 | 2021-09-21 04:41:08+00:00 | 2 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-21 05:07:22+00:00 | 233316 | 6479 | C | 1799 | [] |
+| aesth1/WiiUBrowserExploit | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-09-21 04:30:51+00:00 | 47 | 0 | HTML | 0 | [] |
 | iomoath/SharpStrike | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | ['exploit'] | 1 | 2021-09-21 02:53:57+00:00 | 76012 | 136 | C# | 35 | [] |
 | 0xFenrik/Shellcode_DumpLsass | Shellcode for creating a minidump file of the lsass.exe process. | https://github.com/0xFenrik/Shellcode_DumpLsass | ['shellcode'] | 1 | 2021-09-21 06:48:45+00:00 | 131 | 3 | Python | 0 | [] |
 | git-cardoso/Desenvolvimento_exploits_x86 | Desenvolvendo exploits x86 para linux | https://github.com/git-cardoso/Desenvolvimento_exploits_x86 | ['exploit'] | 1 | 2021-09-21 02:00:41+00:00 | 22 | 0 | C | 0 | [] |
@@ -30,10 +31,11 @@
 | AlAIAL90/CVE-2021-22925 | PoC for exploiting CVE-2021-22925 : curl supports the `-t` command line option, known as `CURLOPT_TELNETOPTIONS`in libcurl. This rarely used option is used to send variable=content pairs toTELNET servers.Due to flaw in the option parser for sending `NEW_EN | https://github.com/AlAIAL90/CVE-2021-22925 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-09-21 10:00:30+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-22925'] |
 | AlAIAL90/CVE-2013-0340 | PoC for exploiting CVE-2013-0340 : expat 2.1.0 and earlier does not properly handle entities expansion unless an application developer uses the XML_SetEntityDeclHandler function, which allows remote attackers to cause a denial of service (resource consumpt | https://github.com/AlAIAL90/CVE-2013-0340 | ['attack poc', 'cve poc', 'cve-2 OR cve_2', 'exploit'] | 4 | 2021-09-21 10:00:32+00:00 | 0 | 0 | | 0 | ['CVE-2013-0340'] |
 | AlAIAL90/CVE-2019-17495 | PoC for exploiting CVE-2019-17495 : A Cascading Style Sheets (CSS) injection vulnerability in Swagger UI before 3.23.11 allows attackers to use the Relative Path Overwrite (RPO) technique to perform CSS-based input field value exfiltration, such as exfiltr | https://github.com/AlAIAL90/CVE-2019-17495 | ['attack poc', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 5 | 2021-09-21 10:00:38+00:00 | 0 | 0 | Shell | 0 | ['CVE-2019-17495'] |
-| aesth1/WiiUBrowserExploit | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-09-21 04:30:51+00:00 | 47 | 0 | HTML | 0 | [] |
+| JayH4x/KoalaSploit-v5 | None | https://github.com/JayH4x/KoalaSploit-v5 | ['sploit'] | 1 | 2021-09-21 10:29:07+00:00 | 0 | 0 | | 0 | [] |
+| krastanoel/exploits | None | https://github.com/krastanoel/exploits | ['exploit'] | 1 | 2021-09-21 04:41:08+00:00 | 2 | 0 | Python | 0 | [] |
 | Luigit12/coordinate-exploit-cool-mann-txt-generator | Press Q to quit | https://github.com/Luigit12/coordinate-exploit-cool-mann-txt-generator | ['exploit'] | 1 | 2021-09-21 08:16:25+00:00 | 3 | 0 | Python | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-21 05:07:22+00:00 | 233316 | 6479 | C | 1799 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-21 10:15:34+00:00 | 13179 | 1 | | 1 | [] |
+| Apasys/Apasys-Python-Exploit-Sources | None | https://github.com/Apasys/Apasys-Python-Exploit-Sources | ['exploit'] | 1 | 2021-09-21 11:26:43+00:00 | 1 | 7 | Python | 0 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-09-21 08:58:42+00:00 | 625210 | 9 | Python | 26 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-09-21 01:20:11+00:00 | 7604 | 3967 | Python | 574 | [] |
 | techdivision/import-cli-simple | This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can | https://github.com/techdivision/import-cli-simple | ['command injection'] | 1 | 2021-09-21 08:13:11+00:00 | 9121 | 67 | PHP | 15 | [] |
@@ -46,6 +48,7 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-21 00:52:44+00:00 | 29157 | 22 | | 14 | [] |
 | fr0g2s/HackCTF-pwnable- | exploit code(incomplete) | https://github.com/fr0g2s/HackCTF-pwnable- | ['exploit'] | 1 | 2021-09-21 00:37:41+00:00 | 349 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-21 00:03:10+00:00 | 398408 | 31 | | 18 | [] |
+| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-21 10:17:59+00:00 | 993 | 2 | Python | 1 | [] |
 | d4t4s3c/OpenNetAdmin18.1.1RCE | OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution (RCE) | https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE | ['exploit', 'rce', 'remote code execution'] | 3 | 2021-09-21 08:17:53+00:00 | 1567 | 6 | Shell | 2 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2021-09-21 00:40:14+00:00 | 190 | 4 | Python | 0 | [] |
 | faizxn/events-exploit-logs | None | https://github.com/faizxn/events-exploit-logs | ['exploit'] | 1 | 2021-09-21 06:51:50+00:00 | 1574 | 0 | | 0 | [] |
@@ -56,5 +59,5 @@
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-09-21 05:19:11+00:00 | 65 | 0 | C# | 0 | [] |
 | denys-volodarkyi/DV-REV | Temporary working repository for my RCE code | https://github.com/denys-volodarkyi/DV-REV | ['rce'] | 1 | 2021-09-21 08:37:48+00:00 | 28 | 0 | C# | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-21 01:09:28+00:00 | 3244 | 2 | Python | 0 | [] |
-| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-21 10:17:59+00:00 | 993 | 2 | Python | 1 | [] |
-| JayH4x/KoalaSploit-v5 | None | https://github.com/JayH4x/KoalaSploit-v5 | ['sploit'] | 1 | 2021-09-21 10:29:07+00:00 | 0 | 0 | | 0 | [] |
+| parzuko/kiba | remote code execution engine based on piston | https://github.com/parzuko/kiba | ['remote code execution'] | 1 | 2021-09-21 10:55:07+00:00 | 136 | 1 | JavaScript | 0 | [] |
+| dosxuz/Custom-Metasploit-Modules | This repository contains some custom metasploit modules that I have created | https://github.com/dosxuz/Custom-Metasploit-Modules | ['metasploit module OR payload'] | 1 | 2021-09-21 11:28:43+00:00 | 0 | 0 | | 0 | [] |
