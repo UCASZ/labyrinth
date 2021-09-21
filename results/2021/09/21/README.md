@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/21
     
-64 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-21 01:02:53+00:00 | 628311 | 25110 | Ruby | 11571 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-21 05:07:22+00:00 | 233316 | 6479 | C | 1799 | [] |
+| Luigit12/coordinate-exploit-cool-mann-txt-generator | Press Q to quit | https://github.com/Luigit12/coordinate-exploit-cool-mann-txt-generator | ['exploit'] | 1 | 2021-09-21 08:16:25+00:00 | 3 | 0 | Python | 0 | [] |
 | aesth1/WiiUBrowserExploit | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-09-21 04:30:51+00:00 | 47 | 0 | HTML | 0 | [] |
 | iomoath/SharpStrike | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | ['exploit'] | 1 | 2021-09-21 02:53:57+00:00 | 76012 | 136 | C# | 35 | [] |
 | 0xFenrik/Shellcode_DumpLsass | Shellcode for creating a minidump file of the lsass.exe process. | https://github.com/0xFenrik/Shellcode_DumpLsass | ['shellcode'] | 1 | 2021-09-21 06:48:45+00:00 | 131 | 3 | Python | 0 | [] |
@@ -37,9 +37,9 @@
 | dosxuz/Custom-Metasploit-Modules | This repository contains some custom metasploit modules that I have created | https://github.com/dosxuz/Custom-Metasploit-Modules | ['metasploit module OR payload'] | 1 | 2021-09-21 11:28:43+00:00 | 0 | 0 | | 0 | [] |
 | RyouYoo/CVE-2021-32243 | Authenticated File Upload leads to Remote Code Execution in FOGProject v1.5.9. | https://github.com/RyouYoo/CVE-2021-32243 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-21 13:02:49+00:00 | 0 | 0 | | 0 | ['CVE-2021-32243'] |
 | krastanoel/exploits | None | https://github.com/krastanoel/exploits | ['exploit'] | 1 | 2021-09-21 04:41:08+00:00 | 2 | 0 | Python | 0 | [] |
-| Luigit12/coordinate-exploit-cool-mann-txt-generator | Press Q to quit | https://github.com/Luigit12/coordinate-exploit-cool-mann-txt-generator | ['exploit'] | 1 | 2021-09-21 08:16:25+00:00 | 3 | 0 | Python | 0 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-21 10:15:34+00:00 | 13179 | 1 | | 1 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-21 00:52:44+00:00 | 29157 | 22 | | 14 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-21 05:07:22+00:00 | 233316 | 6479 | C | 1799 | [] |
+| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-21 10:17:59+00:00 | 993 | 2 | Python | 1 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-09-21 08:58:42+00:00 | 625210 | 9 | Python | 26 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-09-21 01:20:11+00:00 | 7604 | 3967 | Python | 574 | [] |
 | greyshell/exploit_dev | Helper scripts to assist penetration testing and exploit development | https://github.com/greyshell/exploit_dev | ['exploit'] | 1 | 2021-09-21 12:59:00+00:00 | 33989 | 28 | Python | 10 | [] |
@@ -53,8 +53,9 @@
 | master-of-servers/mose | Post exploitation tool for configuration management servers. | https://github.com/master-of-servers/mose | ['exploit'] | 1 | 2021-09-21 04:45:38+00:00 | 30703 | 69 | Go | 15 | [] |
 | Mr-xn/Penetration_Testing_POC | 有关渗透测试的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-21 08:40:39+00:00 | 1338403 | 3484 | PowerShell | 1210 | [] |
 | bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2021-09-21 07:06:40+00:00 | 15695 | 218 | C | 31 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-21 00:52:44+00:00 | 29157 | 22 | | 14 | [] |
 | fr0g2s/HackCTF-pwnable- | exploit code(incomplete) | https://github.com/fr0g2s/HackCTF-pwnable- | ['exploit'] | 1 | 2021-09-21 00:37:41+00:00 | 349 | 0 | Python | 0 | [] |
-| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-21 10:17:59+00:00 | 993 | 2 | Python | 1 | [] |
+| KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2021-09-21 13:51:21+00:00 | 794 | 2424 | | 413 | [] |
 | Apasys/Apasys-Python-Exploit-Sources | None | https://github.com/Apasys/Apasys-Python-Exploit-Sources | ['exploit'] | 1 | 2021-09-21 11:26:43+00:00 | 1 | 7 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-21 00:03:10+00:00 | 398408 | 31 | | 18 | [] |
 | d4t4s3c/OpenNetAdmin18.1.1RCE | OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution (RCE) | https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE | ['exploit', 'rce', 'remote code execution'] | 3 | 2021-09-21 08:17:53+00:00 | 1567 | 6 | Shell | 2 | [] |
