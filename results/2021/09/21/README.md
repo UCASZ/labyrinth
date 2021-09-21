@@ -1,20 +1,21 @@
 
 # Summary for results/2021/09/21
     
-75 records found after deduplication
+76 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-21 01:02:53+00:00 | 628311 | 25110 | Ruby | 11571 | [] |
-| AlteredSecurity/CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-09-21 15:49:36+00:00 | 66 | 0 | PowerShell | 0 | ['CVE-2021-38647'] |
+| treee-pro/L- | An extension of Lua for exploiting. | https://github.com/treee-pro/L- | ['exploit'] | 1 | 2021-09-21 09:39:25+00:00 | 40 | 0 | Lua | 0 | [] |
 | janikwehrli1/0dayHunt | nan | https://github.com/janikwehrli1/0dayHunt | ['0day'] | 1 | 2021-09-21 09:07:52+00:00 | 1 | 0 | Python | 0 | [] |
 | genisyskernel/Mikrotik_Scan_Exploit | Exploit for Mikrotik RouterOS 6.42 | https://github.com/genisyskernel/Mikrotik_Scan_Exploit | ['exploit'] | 1 | 2021-09-21 12:31:48+00:00 | 4 | 0 | Python | 0 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-21 05:26:00+00:00 | 27 | 0 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-21 00:56:10+00:00 | 295 | 5 | JavaScript | 1 | [] |
+| MattOverthrow/MessageMasker | This exploit allows you to hide messages inside other messages ( Like links ) | https://github.com/MattOverthrow/MessageMasker | ['exploit'] | 1 | 2021-09-21 17:09:08+00:00 | 4 | 1 | Python | 0 | [] |
 | Levilutz/CVE-2021-30860 | Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit | https://github.com/Levilutz/CVE-2021-30860 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-21 03:05:41+00:00 | 16 | 3 | Python | 2 | ['CVE-2021-30860'] |
 | ludy-dev/CVE-2021-26084_PoC | [CVE-2021-26084] Confluence pre-auth RCE test script | https://github.com/ludy-dev/CVE-2021-26084_PoC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-09-21 06:11:27+00:00 | 3 | 1 | Python | 1 | ['CVE-2021-26084'] |
-| treee-pro/L- | An extension of Lua for exploiting. | https://github.com/treee-pro/L- | ['exploit'] | 1 | 2021-09-21 09:39:25+00:00 | 40 | 0 | Lua | 0 | [] |
 | ManuelHuber-Github/Agricultural-SandboxNL | Agricultural Monitoring exploiting Sentinel 1 and Sentinel 2. SandboxNL contains detailed explanations about the creation and usage of the parcel based Sentinel datasets. | https://github.com/ManuelHuber-Github/Agricultural-SandboxNL | ['exploit'] | 1 | 2021-09-21 08:24:46+00:00 | 1166 | 0 | Jupyter Notebook | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-21 05:07:22+00:00 | 233316 | 6479 | C | 1799 | [] |
 | Pogromca-SCP/CompilersAbuse | Small collection of different compilers exploits. | https://github.com/Pogromca-SCP/CompilersAbuse | ['exploit'] | 1 | 2021-09-21 11:38:05+00:00 | 4 | 0 | C++ | 0 | [] |
 | corelight/CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI | https://github.com/corelight/CVE-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2021-09-21 07:34:50+00:00 | 2800 | 0 | Zeek | 0 | ['CVE-2021-38647'] |
 | y0usefalsaadany/data-sploit | this tool for networking | https://github.com/y0usefalsaadany/data-sploit | ['sploit'] | 1 | 2021-09-21 16:07:40+00:00 | 835 | 1 | Python | 0 | [] |
@@ -23,8 +24,8 @@
 | hotpotcookie/port-sweep | port-sweep is a small CLI-based tools to do port scanning and vulnerability assessment at a time. It integrates netcat and Nmap Scripting Engine, in order to find the best possible & suitable outcome for the exploit phase | https://github.com/hotpotcookie/port-sweep | ['exploit'] | 1 | 2021-09-21 16:11:35+00:00 | 10055 | 1 | Shell | 0 | [] |
 | 0xFenrik/Shellcode_DumpLsass | Shellcode for creating a minidump file of the lsass.exe process. | https://github.com/0xFenrik/Shellcode_DumpLsass | ['shellcode'] | 1 | 2021-09-21 06:48:45+00:00 | 131 | 3 | Python | 0 | [] |
 | Unknown3958/UnknownExploit | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | ['exploit'] | 1 | 2021-09-21 15:41:55+00:00 | 6 | 0 | | 0 | [] |
+| AlteredSecurity/CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-09-21 15:49:36+00:00 | 66 | 0 | PowerShell | 0 | ['CVE-2021-38647'] |
 | hernan-soto/rce | None | https://github.com/hernan-soto/rce | ['rce'] | 1 | 2021-09-21 01:26:14+00:00 | 12 | 0 | | 0 | [] |
-| aesth1/WiiUBrowserExploit | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-09-21 04:30:51+00:00 | 47 | 0 | HTML | 0 | [] |
 | AbdaalRuhaani/RuhaaniExploits | None | https://github.com/AbdaalRuhaani/RuhaaniExploits | ['exploit'] | 1 | 2021-09-21 00:36:17+00:00 | 0 | 0 | | 0 | [] |
 | tiarnanduffy/Global-University-RDBMS | A project as part of my Databases module. Using entity relationships; schema.sql is used to create tables of various parts of a university staff system, query.sql are used to exploit the database in ways defined in the assignment and data.sql is used to in | https://github.com/tiarnanduffy/Global-University-RDBMS | ['exploit'] | 1 | 2021-09-21 15:13:19+00:00 | 0 | 0 | | 0 | [] |
 | rickynobili/Anomaly-Detection-in-Point-Clouds | The algorithm is able to identify defects on surfaces represented as point clouds exploiting LPA-ICI | https://github.com/rickynobili/Anomaly-Detection-in-Point-Clouds | ['exploit'] | 1 | 2021-09-21 13:38:00+00:00 | 34721 | 0 | MATLAB | 0 | [] |
@@ -42,8 +43,8 @@
 | Alpha1Romeo/metasploit | None | https://github.com/Alpha1Romeo/metasploit | ['metasploit module OR payload'] | 1 | 2021-09-21 04:10:51+00:00 | 0 | 0 | | 0 | [] |
 | NullArray/WinKernel-Resources | A list of excellent resources for anyone to deepen their understanding with regards to Windows Kernel Exploitation and general low level security. | https://github.com/NullArray/WinKernel-Resources | ['exploit'] | 1 | 2021-09-21 02:17:04+00:00 | 0 | 1 | | 2 | [] |
 | iomoath/SharpStrike | A Post exploitation tool written in C# uses either CIM or WMI to query remote systems. | https://github.com/iomoath/SharpStrike | ['exploit'] | 1 | 2021-09-21 02:53:57+00:00 | 76012 | 136 | C# | 35 | [] |
+| aesth1/WiiUBrowserExploit | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-09-21 04:30:51+00:00 | 47 | 0 | HTML | 0 | [] |
 | krastanoel/exploits | None | https://github.com/krastanoel/exploits | ['exploit'] | 1 | 2021-09-21 04:41:08+00:00 | 2 | 0 | Python | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-21 05:07:22+00:00 | 233316 | 6479 | C | 1799 | [] |
 | X-n3t/exploits | None | https://github.com/X-n3t/exploits | ['exploit'] | 1 | 2021-09-21 15:21:31+00:00 | 1466 | 0 | Python | 1 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-21 00:52:44+00:00 | 29157 | 22 | | 14 | [] |
 | bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2021-09-21 07:06:40+00:00 | 15695 | 218 | C | 31 | [] |
