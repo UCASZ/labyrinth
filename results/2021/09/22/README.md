@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/22
     
-27 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-22 05:06:54+00:00 | 629608 | 25116 | Ruby | 11577 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-22 00:25:36+00:00 | 3451 | 2476 | PowerShell | 710 | [] |
-| Sma11New/PocList | 漏洞POC、EXP合集，持续更新。ApacheSolr任意文件读取、蓝凌OA任意文件读取、phpStudyRCE、ShowDoc任意文件上传、原创先锋后台未授权、Kyan账号密码泄露、TerraMasterTos任意文件读取、TamronOS-IPTV系统RCE、Wayos防火墙账号密码泄露、ConfluenceRCE（CVE-2021-26084）、ZeroShell防火墙RCE（CVE-2019-12725） | https://github.com/Sma11New/PocList | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-22 02:19:32+00:00 | 4300 | 10 | Python | 1 | ['CVE-2019-12725', 'CVE-2021-26084'] |
 | 41Team/metasploit_termux | download metasploit in termux without error | https://github.com/41Team/metasploit_termux | ['metasploit module OR payload'] | 1 | 2021-09-22 03:26:50+00:00 | 0 | 0 | Shell | 0 | [] |
 | Cirno12/UnderHub-exploit | None | https://github.com/Cirno12/UnderHub-exploit | ['exploit'] | 1 | 2021-09-22 02:51:57+00:00 | 0 | 0 | | 0 | [] |
 | m1thryn/CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-22 01:07:03+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-38647'] |
@@ -14,12 +14,13 @@
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-22 04:24:54+00:00 | 45 | 0 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-22 00:43:12+00:00 | 471 | 8 | JavaScript | 4 | [] |
 | ItsMeHafz/0dayXploit | nan | https://github.com/ItsMeHafz/0dayXploit | ['0day'] | 1 | 2021-09-22 04:17:30+00:00 | 32 | 1 | Perl | 0 | [] |
+| XRSec/Nat_Poc_All | POC 本地化 | https://github.com/XRSec/Nat_Poc_All | ['cve poc'] | 1 | 2021-09-22 04:53:57+00:00 | 56 | 0 | Go | 0 | [] |
 | Kara-4search/HellgateLoader_CSharp | Load shelcode via HELLGATE, rewrite hellgate for learning purpose. | https://github.com/Kara-4search/HellgateLoader_CSharp | ['shellcode'] | 1 | 2021-09-22 01:45:31+00:00 | 45 | 22 | C# | 8 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-09-22 03:01:54+00:00 | 6283 | 2 | CSS | 0 | [] |
 | bstank/bstank.github.io | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | ['exploit'] | 1 | 2021-09-22 01:30:52+00:00 | 407 | 0 | SCSS | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-22 01:08:13+00:00 | 4445 | 2 | Python | 0 | [] |
+| Sma11New/PocList | 漏洞POC、EXP合集，持续更新。ApacheSolr任意文件读取、蓝凌OA任意文件读取、phpStudyRCE、ShowDoc任意文件上传、原创先锋后台未授权、Kyan账号密码泄露、TerraMasterTos任意文件读取、TamronOS-IPTV系统RCE、Wayos防火墙账号密码泄露、ConfluenceRCE（CVE-2021-26084）、ZeroShell防火墙RCE（CVE-2019-12725） | https://github.com/Sma11New/PocList | ['cve poc', 'rce', 'rce poc'] | 3 | 2021-09-22 02:19:32+00:00 | 4300 | 10 | Python | 1 | ['CVE-2019-12725', 'CVE-2021-26084'] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-22 04:02:10+00:00 | 88189 | 151 | Python | 42 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-22 00:28:39+00:00 | 5380 | 3936 | Python | 543 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-22 01:31:07+00:00 | 63 | 0 | PHP | 0 | [] |
 | DarkCasterX/python-virus | I'm not an exploit dev. Just kicking some tires | https://github.com/DarkCasterX/python-virus | ['exploit'] | 1 | 2021-09-22 02:30:36+00:00 | 5 | 0 | Python | 0 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-09-22 04:23:04+00:00 | 6836 | 1 | JavaScript | 0 | [] |
@@ -31,4 +32,6 @@
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-09-22 01:40:39+00:00 | 2745756 | 347 | | 51 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-22 00:16:48+00:00 | 127156 | 248 | Ruby | 75 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-22 02:00:05+00:00 | 71464 | 10087 | Python | 1694 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-22 00:28:39+00:00 | 5380 | 3936 | Python | 543 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-22 05:07:30+00:00 | 235383 | 6480 | C | 1800 | [] |
 | benwoo1110/Multiverse-Patches | Patches some exploits for old multiverse builds. | https://github.com/benwoo1110/Multiverse-Patches | ['exploit'] | 1 | 2021-09-22 04:09:51+00:00 | 0 | 0 | Java | 0 | [] |
