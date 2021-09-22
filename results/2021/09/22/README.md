@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/22
     
-97 records found after deduplication
+98 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-22 05:06:54+00:00 | 629608 | 25116 | Ruby | 11577 | [] |
-| Rajchowdhury420/Unobtainium-HTB-Exploit | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | ['exploit'] | 1 | 2021-09-22 17:49:55+00:00 | 284 | 1 | Python | 0 | [] |
+| JinliangLu96/CL_UNMT | repo for "Exploiting Curriculum Learning in Unsupervised Neural Machine Translation" | https://github.com/JinliangLu96/CL_UNMT | ['exploit'] | 1 | 2021-09-22 07:50:00+00:00 | 54309 | 0 | Python | 0 | [] |
 | m1thryn/CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-22 01:07:03+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-38647'] |
 | rickynobili/Anomaly-Detection-in-Point-Clouds | The algorithm is able to identify defects on surfaces represented as point clouds exploiting LPA-ICI | https://github.com/rickynobili/Anomaly-Detection-in-Point-Clouds | ['exploit'] | 1 | 2021-09-22 15:29:55+00:00 | 34721 | 0 | MATLAB | 0 | [] |
 | JayH4x/KoalaSploit-v5 | None | https://github.com/JayH4x/KoalaSploit-v5 | ['sploit'] | 1 | 2021-09-22 02:51:05+00:00 | 8 | 0 | | 0 | [] |
@@ -29,10 +29,11 @@
 | non123dfsdf/UnfairSploit | None | https://github.com/non123dfsdf/UnfairSploit | ['sploit'] | 1 | 2021-09-22 08:42:47+00:00 | 32 | 1 | | 0 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-09-22 03:01:54+00:00 | 6283 | 2 | CSS | 0 | [] |
 | Cirno12/UnderHub-exploit | None | https://github.com/Cirno12/UnderHub-exploit | ['exploit'] | 1 | 2021-09-22 02:51:57+00:00 | 0 | 0 | | 0 | [] |
-| JinliangLu96/CL_UNMT | repo for "Exploiting Curriculum Learning in Unsupervised Neural Machine Translation" | https://github.com/JinliangLu96/CL_UNMT | ['exploit'] | 1 | 2021-09-22 07:50:00+00:00 | 54309 | 0 | Python | 0 | [] |
 | 41Team/metasploit_termux | download metasploit in termux without error | https://github.com/41Team/metasploit_termux | ['metasploit module OR payload'] | 1 | 2021-09-22 03:26:50+00:00 | 0 | 0 | Shell | 0 | [] |
-| Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-09-22 13:22:53+00:00 | 0 | 0 | Shell | 0 | [] |
-| xvSync/NGROK-0DAY-Exploit---Not-Finished | nan | https://github.com/xvSync/NGROK-0DAY-Exploit---Not-Finished | ['0day', 'exploit'] | 2 | 2021-09-22 16:59:12+00:00 | 0 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-22 11:52:21+00:00 | 21813 | 5980 | JavaScript | 1423 | [] |
+| benwoo1110/Multiverse-Patches | Patches some exploits for old multiverse builds. | https://github.com/benwoo1110/Multiverse-Patches | ['exploit'] | 1 | 2021-09-22 04:09:51+00:00 | 0 | 0 | Java | 0 | [] |
+| V1n1v131r4/CSRF-to-RCE-on-Backdrop-CMS | None | https://github.com/V1n1v131r4/CSRF-to-RCE-on-Backdrop-CMS | ['rce'] | 1 | 2021-09-22 20:32:37+00:00 | 0 | 0 | | 0 | [] |
+| xvSync/NGROK-0DAY-Exploit---Not-Finished | None | https://github.com/xvSync/NGROK-0DAY-Exploit---Not-Finished | ['0day', 'exploit'] | 2 | 2021-09-22 16:59:12+00:00 | 0 | 0 | Python | 0 | [] |
 | stevenstrike/hippie68-exploit-docker | Docker image for hippie68's exploit. | https://github.com/stevenstrike/hippie68-exploit-docker | ['exploit'] | 1 | 2021-09-22 16:36:45+00:00 | 0 | 0 | Dockerfile | 0 | [] |
 | mncmb/shellcode_runner | None | https://github.com/mncmb/shellcode_runner | ['shellcode'] | 1 | 2021-09-22 16:22:16+00:00 | 0 | 0 | | 0 | [] |
 | abousteif/cve-2021-38647 | https://github.com/corelight/CVE-2021-38647 without the bloat | https://github.com/abousteif/cve-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2021-09-22 15:29:12+00:00 | 0 | 0 | Zeek | 0 | ['CVE-2021-38647'] |
@@ -41,8 +42,8 @@
 | NhatTranMinh99/Firebase-Scan | FirebaseScan is a pen-testing tool to automatically scanning and exploiting Firebase DB vulnerability in the android application. | https://github.com/NhatTranMinh99/Firebase-Scan | ['exploit'] | 1 | 2021-09-22 15:02:56+00:00 | 0 | 0 | Python | 0 | [] |
 | LoicGestin/SystemExploitation | TD TP system Exploitation IUT 2A | https://github.com/LoicGestin/SystemExploitation | ['exploit'] | 1 | 2021-09-22 14:10:19+00:00 | 0 | 0 | C | 0 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2021-09-22 14:19:52+00:00 | 0 | 0 | | 0 | [] |
+| Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-09-22 13:22:53+00:00 | 0 | 0 | Shell | 0 | [] |
 | RyouYoo/CVE-2018-6574 | Remote command execution in Golang go get command allows an attacker to gain code execution on a system installing his malicious library. | https://github.com/RyouYoo/CVE-2018-6574 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-22 12:22:21+00:00 | 0 | 1 | Go | 0 | ['CVE-2018-6574'] |
-| benwoo1110/Multiverse-Patches | Patches some exploits for old multiverse builds. | https://github.com/benwoo1110/Multiverse-Patches | ['exploit'] | 1 | 2021-09-22 04:09:51+00:00 | 0 | 0 | Java | 0 | [] |
 | Leuxarik/PopWare | Combat + Exploit - PopWare For Anarchy Servers | https://github.com/Leuxarik/PopWare | ['exploit'] | 1 | 2021-09-22 12:12:13+00:00 | 0 | 0 | | 0 | [] |
 | PasinduWijesingha/Android-Backdoor-Attack | Android attack using Metasploit framework in Parrot OS | https://github.com/PasinduWijesingha/Android-Backdoor-Attack | ['metasploit module OR payload'] | 1 | 2021-09-22 12:27:42+00:00 | 0 | 0 | | 0 | [] |
 | Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-09-22 09:41:09+00:00 | 0 | 0 | Python | 0 | [] |
@@ -53,8 +54,8 @@
 | Dragon-Hacking/BruteSploit | None | https://github.com/Dragon-Hacking/BruteSploit | ['sploit'] | 1 | 2021-09-22 06:35:22+00:00 | 0 | 0 | | 0 | [] |
 | rllbe/FORCEDEXIT | Hopefully avoid Pegasus spyware's zero-click iOS exploit "FORCEDENTRY" | https://github.com/rllbe/FORCEDEXIT | ['exploit'] | 1 | 2021-09-22 05:50:59+00:00 | 0 | 0 | Objective-C++ | 0 | [] |
 | newlog/curso_exploiting_en_windows | None | https://github.com/newlog/curso_exploiting_en_windows | ['exploit'] | 1 | 2021-09-22 10:48:35+00:00 | 122426 | 1 | Python | 0 | [] |
+| Rajchowdhury420/Unobtainium-HTB-Exploit | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | ['exploit'] | 1 | 2021-09-22 17:49:55+00:00 | 284 | 1 | Python | 0 | [] |
 | F0rce/preview.f0rce.de | Source code for preview applications at https://preview.f0rce.de | https://github.com/F0rce/preview.f0rce.de | ['rce'] | 1 | 2021-09-22 05:41:00+00:00 | 587 | 0 | JavaScript | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-22 11:52:21+00:00 | 21813 | 5980 | JavaScript | 1423 | [] |
 | BlackCyber21/PoCDeCve | None | https://github.com/BlackCyber21/PoCDeCve | ['cve poc'] | 1 | 2021-09-22 14:25:34+00:00 | 5 | 0 | Python | 0 | [] |
 | insightglacier/Dictionary-Of-Pentesting | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | ['rce'] | 1 | 2021-09-22 07:57:52+00:00 | 251222 | 833 | Shell | 191 | [] |
 | tanmaysingha/FANet | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segm | https://github.com/tanmaysingha/FANet | ['exploit'] | 1 | 2021-09-22 05:56:08+00:00 | 4098 | 3 | Python | 2 | [] |
@@ -101,4 +102,4 @@
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-09-22 09:43:01+00:00 | 5055 | 91 | Python | 32 | [] |
 | DarkCasterX/python-virus | I'm not an exploit dev. Just kicking some tires | https://github.com/DarkCasterX/python-virus | ['exploit'] | 1 | 2021-09-22 02:30:36+00:00 | 5 | 0 | Python | 0 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-09-22 04:23:04+00:00 | 6836 | 1 | JavaScript | 0 | [] |
-| V1n1v131r4/CSRF-to-RCE-on-Backdrop-CMS | None | https://github.com/V1n1v131r4/CSRF-to-RCE-on-Backdrop-CMS | ['rce'] | 1 | 2021-09-22 20:32:37+00:00 | 0 | 0 | | 0 | [] |
+| RyouYoo/CVE-2018-11235 | Auto malicious git repository creation to exploit CVE-2018-11235 a Remote Code Execution using Git Sub module. | https://github.com/RyouYoo/CVE-2018-11235 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2021-09-22 21:28:30+00:00 | 0 | 1 | Shell | 0 | ['CVE-2018-11235'] |
