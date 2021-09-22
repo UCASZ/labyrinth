@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/22
     
-64 records found after deduplication
+67 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-22 05:06:54+00:00 | 629608 | 25116 | Ruby | 11577 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-22 00:25:36+00:00 | 3451 | 2476 | PowerShell | 710 | [] |
+| JayH4x/KoalaSploit-v5 | None | https://github.com/JayH4x/KoalaSploit-v5 | ['sploit'] | 1 | 2021-09-22 02:51:05+00:00 | 8 | 0 | | 0 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-09-22 03:01:54+00:00 | 6283 | 2 | CSS | 0 | [] |
 | non123dfsdf/UnfairSploit | None | https://github.com/non123dfsdf/UnfairSploit | ['sploit'] | 1 | 2021-09-22 08:42:47+00:00 | 32 | 1 | | 0 | [] |
 | SakuraSamuraii/derailed | CVE-2021-40875: Tools to Inspect Gurock Testrail Servers for Vulnerabilities related to CVE-2021-40875. | https://github.com/SakuraSamuraii/derailed | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-09-22 08:29:01+00:00 | 141 | 0 | Shell | 1 | ['CVE-2021-40875'] |
@@ -21,8 +21,8 @@
 | janikwehrli1/0dayHunt | nan | https://github.com/janikwehrli1/0dayHunt | ['0day'] | 1 | 2021-09-22 08:21:06+00:00 | 14 | 0 | Python | 0 | [] |
 | AlteredSecurity/CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-09-22 09:12:22+00:00 | 66 | 20 | PowerShell | 8 | ['CVE-2021-38647'] |
 | NullArray/WinKernel-Resources | A list of excellent resources for anyone to deepen their understanding with regards to Windows Kernel Exploitation and general low level security. | https://github.com/NullArray/WinKernel-Resources | ['exploit'] | 1 | 2021-09-22 06:25:14+00:00 | 126 | 6 | | 2 | [] |
-| JayH4x/KoalaSploit-v5 | None | https://github.com/JayH4x/KoalaSploit-v5 | ['sploit'] | 1 | 2021-09-22 02:51:05+00:00 | 8 | 0 | | 0 | [] |
 | m1thryn/CVE-2021-38647 | OMIGOD PoC | https://github.com/m1thryn/CVE-2021-38647 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-22 01:07:03+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-38647'] |
+| F0rce/preview.f0rce.de | Source code for preview applications at https://preview.f0rce.de | https://github.com/F0rce/preview.f0rce.de | ['rce'] | 1 | 2021-09-22 05:41:00+00:00 | 587 | 0 | JavaScript | 0 | [] |
 | Cirno12/UnderHub-exploit | None | https://github.com/Cirno12/UnderHub-exploit | ['exploit'] | 1 | 2021-09-22 02:51:57+00:00 | 0 | 0 | | 0 | [] |
 | JinliangLu96/CL_UNMT | repo for "Exploiting Curriculum Learning in Unsupervised Neural Machine Translation" | https://github.com/JinliangLu96/CL_UNMT | ['exploit'] | 1 | 2021-09-22 07:50:00+00:00 | 54309 | 0 | Python | 0 | [] |
 | 41Team/metasploit_termux | download metasploit in termux without error | https://github.com/41Team/metasploit_termux | ['metasploit module OR payload'] | 1 | 2021-09-22 03:26:50+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -36,9 +36,10 @@
 | Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-09-22 09:41:09+00:00 | 0 | 0 | Python | 0 | [] |
 | PasinduWijesingha/Android-Backdoor-Attack | Android attack using Metasploit framework in Parrot OS | https://github.com/PasinduWijesingha/Android-Backdoor-Attack | ['metasploit module OR payload'] | 1 | 2021-09-22 12:27:42+00:00 | 0 | 0 | | 0 | [] |
 | Leuxarik/PopWare | Combat + Exploit - PopWare For Anarchy Servers | https://github.com/Leuxarik/PopWare | ['exploit'] | 1 | 2021-09-22 12:12:13+00:00 | 0 | 0 | | 0 | [] |
+| RyouYoo/CVE-2018-6574 | Remote command execution in Golang go get command allows an attacker to gain code execution on a system installing his malicious library. | https://github.com/RyouYoo/CVE-2018-6574 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-22 12:22:21+00:00 | 0 | 1 | Go | 0 | ['CVE-2018-6574'] |
 | newlog/curso_exploiting_en_windows | None | https://github.com/newlog/curso_exploiting_en_windows | ['exploit'] | 1 | 2021-09-22 10:48:35+00:00 | 122426 | 1 | Python | 0 | [] |
-| F0rce/preview.f0rce.de | Source code for preview applications at https://preview.f0rce.de | https://github.com/F0rce/preview.f0rce.de | ['rce'] | 1 | 2021-09-22 05:41:00+00:00 | 587 | 0 | JavaScript | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-22 10:07:45+00:00 | 137 | 6 | JavaScript | 4 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-22 00:25:36+00:00 | 3451 | 2476 | PowerShell | 710 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-09-22 11:22:20+00:00 | 3697 | 27 | Shell | 5 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-22 05:07:30+00:00 | 235383 | 6480 | C | 1800 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-22 00:28:39+00:00 | 5380 | 3936 | Python | 543 | [] |
@@ -51,6 +52,7 @@
 | tobor88/Bash | Collection of bash scripts I wrote to make my life easier or test myself that you may find useful. | https://github.com/tobor88/Bash | ['exploit'] | 1 | 2021-09-22 04:16:43+00:00 | 950 | 14 | Shell | 7 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-22 00:52:44+00:00 | 29645 | 22 | | 14 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-09-22 11:14:58+00:00 | 206 | 7 | Go | 7 | [] |
+| aegoe/MAB | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | ['exploit'] | 1 | 2021-09-22 13:20:05+00:00 | 61091 | 0 | HTML | 1 | [] |
 | tanmaysingha/FANet | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segm | https://github.com/tanmaysingha/FANet | ['exploit'] | 1 | 2021-09-22 05:56:08+00:00 | 4098 | 3 | Python | 2 | [] |
 | insightglacier/Dictionary-Of-Pentesting | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | ['rce'] | 1 | 2021-09-22 07:57:52+00:00 | 251222 | 833 | Shell | 191 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-22 00:03:19+00:00 | 403677 | 31 | | 18 | [] |
@@ -61,6 +63,7 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-22 01:31:07+00:00 | 63 | 0 | PHP | 0 | [] |
 | Apasys/Apasys-CVE-2020-0796 | MS CVE 2020-0796 SMB | https://github.com/Apasys/Apasys-CVE-2020-0796 | ['cve-2 OR cve_2'] | 1 | 2021-09-22 11:51:11+00:00 | 1 | 7 | | 0 | ['CVE-2020-0796'] |
 | Apasys/Apasys-CVE-2019-6340 | Drupal RCE CVE Python Exploit | https://github.com/Apasys/Apasys-CVE-2019-6340 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2021-09-22 11:51:54+00:00 | 1 | 7 | | 0 | ['CVE-2019-6340'] |
+| HadiMed/pwn | Exploits for some pwn challenges on windows and linux . | https://github.com/HadiMed/pwn | ['exploit'] | 1 | 2021-09-22 12:40:27+00:00 | 128 | 0 | Python | 0 | [] |
 | BlackCyber21/exploit-toolkit | A ideia é centralizar scripts para detecção e exploração de vulnerabilidades em sistemas com base em RCEs/CVEs. | https://github.com/BlackCyber21/exploit-toolkit | ['exploit', 'rce'] | 2 | 2021-09-22 12:28:35+00:00 | 70 | 0 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-22 04:02:10+00:00 | 88189 | 151 | Python | 42 | [] |
 | hosch3n/ProxyVulns | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] WaitForUpdate | https://github.com/hosch3n/ProxyVulns | ['exploit'] | 1 | 2021-09-22 08:52:24+00:00 | 8 | 9 | Python | 3 | ['CVE-2021-26855', 'CVE-2021-27065', 'CVE-2021-31195', 'CVE-2021-31196'] |
@@ -68,4 +71,4 @@
 | jravis-8520/h-sploit | h-sploit is a project to install Metasploit in android os. this is 100% install Metasploit in android this tool is installed in Termux | https://github.com/jravis-8520/h-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-09-22 09:42:41+00:00 | 7803 | 3 | Shell | 2 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-22 01:08:13+00:00 | 4445 | 2 | Python | 0 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-09-22 10:33:10+00:00 | 28483 | 0 | Python | 0 | [] |
-| RyouYoo/CVE-2018-6574 | Remote command execution in Golang go get command allows an attacker to gain code execution on a system installing his malicious library. | https://github.com/RyouYoo/CVE-2018-6574 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-22 12:22:21+00:00 | 0 | 1 | Go | 0 | ['CVE-2018-6574'] |
+| Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-09-22 13:22:53+00:00 | 0 | 0 | Shell | 0 | [] |
