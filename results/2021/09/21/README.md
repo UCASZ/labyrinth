@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/21
     
-94 records found after deduplication
+95 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -29,7 +29,7 @@
 | Rajchowdhury420/Unobtainium-HTB-Exploit | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | ['exploit'] | 1 | 2021-09-21 21:18:50+00:00 | 283 | 1 | Python | 0 | [] |
 | genisyskernel/Mikrotik_Scan_Exploit | Exploit for Mikrotik RouterOS 6.42 | https://github.com/genisyskernel/Mikrotik_Scan_Exploit | ['exploit'] | 1 | 2021-09-21 12:31:48+00:00 | 4 | 0 | Python | 0 | [] |
 | Unknown3958/UnknownExploit | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | ['exploit'] | 1 | 2021-09-21 15:41:55+00:00 | 6 | 0 | | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-09-21 16:45:38+00:00 | 27113 | 8277 | Python | 1438 | [] |
+| krastanoel/exploits | None | https://github.com/krastanoel/exploits | ['exploit'] | 1 | 2021-09-21 04:41:08+00:00 | 2 | 0 | Python | 0 | [] |
 | AlAIAL90/CVE-2019-17495 | PoC for exploiting CVE-2019-17495 : A Cascading Style Sheets (CSS) injection vulnerability in Swagger UI before 3.23.11 allows attackers to use the Relative Path Overwrite (RPO) technique to perform CSS-based input field value exfiltration, such as exfiltr | https://github.com/AlAIAL90/CVE-2019-17495 | ['attack poc', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 5 | 2021-09-21 10:00:38+00:00 | 0 | 0 | Shell | 0 | ['CVE-2019-17495'] |
 | 0bfxgh0st/LFI2RCE | Local File Inclusion To Remote Code Execution. Automated proof of concept tool to poison ssh and apache2 log files | https://github.com/0bfxgh0st/LFI2RCE | ['rce', 'remote code execution'] | 2 | 2021-09-21 19:02:41+00:00 | 0 | 0 | Shell | 0 | [] |
 | Manish7053/Deep-Learning-based-Covid-19-Time-Series-Prediction. | • Developed a Deep Learning-based Covid-19 Time Series Prediction. • Used Deep Learning and Statistical approaches to capture the patterns and trends of varying events related to infectious diseases. • Implemented ARIMA,HWAAS Models for exploiting linear d | https://github.com/Manish7053/Deep-Learning-based-Covid-19-Time-Series-Prediction. | ['exploit'] | 1 | 2021-09-21 17:43:29+00:00 | 0 | 0 | | 0 | [] |
@@ -52,8 +52,8 @@
 | AbdaalRuhaani/RuhaaniExploits | None | https://github.com/AbdaalRuhaani/RuhaaniExploits | ['exploit'] | 1 | 2021-09-21 00:36:17+00:00 | 0 | 0 | | 0 | [] |
 | hernan-soto/rce | None | https://github.com/hernan-soto/rce | ['rce'] | 1 | 2021-09-21 01:26:14+00:00 | 12 | 0 | | 0 | [] |
 | aesth1/WiiUBrowserExploit | Homebrew launcher browser exploit | https://github.com/aesth1/WiiUBrowserExploit | ['exploit'] | 1 | 2021-09-21 04:30:51+00:00 | 47 | 0 | HTML | 0 | [] |
-| krastanoel/exploits | None | https://github.com/krastanoel/exploits | ['exploit'] | 1 | 2021-09-21 04:41:08+00:00 | 2 | 0 | Python | 0 | [] |
 | Luigit12/coordinate-exploit-cool-mann-txt-generator | Press Q to quit | https://github.com/Luigit12/coordinate-exploit-cool-mann-txt-generator | ['exploit'] | 1 | 2021-09-21 08:16:25+00:00 | 3 | 0 | Python | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-09-21 16:45:38+00:00 | 27113 | 8277 | Python | 1438 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-09-21 23:12:42+00:00 | 40073 | 6716 | Python | 1585 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-21 00:52:44+00:00 | 29157 | 22 | | 14 | [] |
 | bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2021-09-21 07:06:40+00:00 | 15695 | 218 | C | 31 | [] |
@@ -65,7 +65,7 @@
 | RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2021-09-21 18:59:01+00:00 | 26643 | 2305 | Python | 419 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-21 07:19:39+00:00 | 293798 | 78 | Python | 13 | [] |
 | cgq-qgc/pacc-inrs | Indicateurs de l’état des ressources en eau souterraine sous l’effet du climat et de leur exploitation | https://github.com/cgq-qgc/pacc-inrs | ['exploit'] | 1 | 2021-09-21 13:10:07+00:00 | 123678 | 1 | Python | 0 | [] |
-| scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-21 10:15:34+00:00 | 13179 | 1 | | 1 | [] |
+| X-n3t/exploits | None | https://github.com/X-n3t/exploits | ['exploit'] | 1 | 2021-09-21 15:21:31+00:00 | 1466 | 0 | Python | 1 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-21 00:17:02+00:00 | 127156 | 248 | Ruby | 75 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-21 11:35:04+00:00 | 71463 | 10081 | Python | 1694 | [] |
 | hphde/lastpass-decryptor | Extract of https://github.com/rapid7/metasploit-framework/blob/master/modules/post/multi/gather/lastpass_creds.rb | https://github.com/hphde/lastpass-decryptor | ['metasploit module OR payload'] | 1 | 2021-09-21 09:51:32+00:00 | 1 | 1 | Ruby | 1 | [] |
@@ -76,9 +76,9 @@
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-09-21 08:58:42+00:00 | 625210 | 9 | Python | 26 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-21 05:07:22+00:00 | 233316 | 6479 | C | 1799 | [] |
 | fr0g2s/HackCTF-pwnable- | exploit code(incomplete) | https://github.com/fr0g2s/HackCTF-pwnable- | ['exploit'] | 1 | 2021-09-21 00:37:41+00:00 | 349 | 0 | Python | 0 | [] |
-| X-n3t/exploits | None | https://github.com/X-n3t/exploits | ['exploit'] | 1 | 2021-09-21 15:21:31+00:00 | 1466 | 0 | Python | 1 | [] |
 | KingOfBugbounty/KingOfBugBountyTips | Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for th | https://github.com/KingOfBugbounty/KingOfBugBountyTips | ['exploit'] | 1 | 2021-09-21 13:51:21+00:00 | 794 | 2424 | | 413 | [] |
-| Apasys/Apasys-Python-Exploit-Sources | None | https://github.com/Apasys/Apasys-Python-Exploit-Sources | ['exploit'] | 1 | 2021-09-21 11:26:43+00:00 | 1 | 7 | Python | 0 | [] |
+| scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-21 10:15:34+00:00 | 13179 | 1 | | 1 | [] |
+| 4thel00z/shellcode | cli which converts shellcode back to assembly | https://github.com/4thel00z/shellcode | ['shellcode'] | 1 | 2021-09-21 21:44:09+00:00 | 57 | 0 | Python | 0 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-21 10:17:59+00:00 | 993 | 2 | Python | 1 | [] |
 | parzuko/kiba | remote code execution engine based on piston | https://github.com/parzuko/kiba | ['remote code execution'] | 1 | 2021-09-21 10:55:07+00:00 | 136 | 1 | JavaScript | 0 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-09-21 19:09:19+00:00 | 28485 | 0 | Python | 0 | [] |
@@ -88,12 +88,13 @@
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-09-21 05:19:11+00:00 | 65 | 0 | C# | 0 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-09-21 08:18:18+00:00 | 1185 | 3 | Julia | 0 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-21 07:50:51+00:00 | 340884 | 0 | Python | 0 | [] |
-| 4thel00z/shellcode | cli which converts shellcode back to assembly | https://github.com/4thel00z/shellcode | ['shellcode'] | 1 | 2021-09-21 21:44:09+00:00 | 57 | 0 | Python | 0 | [] |
 | ahmetak4n/vuln-netframework | vuln-netframework is a .net-framework 4.7 project that include worst coding practices about common vulnerabilities like Insecure Deserialization, Os Command Injection, SQL Injection, etc. | https://github.com/ahmetak4n/vuln-netframework | ['command injection'] | 1 | 2021-09-21 07:29:27+00:00 | 181 | 0 | C# | 0 | [] |
+| Apasys/Apasys-Python-Exploit-Sources | None | https://github.com/Apasys/Apasys-Python-Exploit-Sources | ['exploit'] | 1 | 2021-09-21 11:26:43+00:00 | 1 | 7 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-21 04:01:56+00:00 | 85932 | 150 | Python | 42 | [] |
 | faizxn/events-exploit-logs | None | https://github.com/faizxn/events-exploit-logs | ['exploit'] | 1 | 2021-09-21 06:51:50+00:00 | 1574 | 0 | | 0 | [] |
 | hansmach1ne/lfimap | Local file inclusion discovery and exploitation tool | https://github.com/hansmach1ne/lfimap | ['exploit'] | 1 | 2021-09-21 00:40:14+00:00 | 190 | 4 | Python | 0 | [] |
 | EntySec/HatSploit | Modular penetration testing platform that enables you to write, test, and execute exploit code. | https://github.com/EntySec/HatSploit | ['exploit', 'sploit'] | 2 | 2021-09-21 19:51:23+00:00 | 5049 | 91 | Python | 32 | [] |
+| enkomio/AlanFramework | A post-exploitation framework | https://github.com/enkomio/AlanFramework | ['exploit'] | 1 | 2021-09-21 14:00:39+00:00 | 1822 | 80 | | 15 | [] |
 | hxr404/Discord-Console-hacks | None | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2021-09-21 15:51:07+00:00 | 238 | 77 | | 37 | [] |
 | d4t4s3c/OpenNetAdmin18.1.1RCE | OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution (RCE) | https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE | ['exploit', 'rce', 'remote code execution'] | 3 | 2021-09-21 08:17:53+00:00 | 1567 | 6 | Shell | 2 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-21 00:03:10+00:00 | 398408 | 31 | | 18 | [] |
