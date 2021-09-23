@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/23
     
-10 records found after deduplication
+11 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-23 01:06:21+00:00 | 5536 | 3939 | Python | 543 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-23 00:17:06+00:00 | 128680 | 248 | Ruby | 75 | [] |
+| seclab-ucr/KOOBE | Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities | https://github.com/seclab-ucr/KOOBE | ['exploit'] | 1 | 2021-09-23 03:08:37+00:00 | 224576 | 47 | | 10 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-23 00:52:45+00:00 | 30126 | 22 | | 14 | [] |
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2021-09-23 01:16:03+00:00 | 68347 | 536 | Lua | 113 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-23 00:03:21+00:00 | 409793 | 31 | | 18 | [] |
