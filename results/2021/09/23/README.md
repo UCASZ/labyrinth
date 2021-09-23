@@ -1,23 +1,25 @@
 
 # Summary for results/2021/09/23
     
-61 records found after deduplication
+64 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-23 09:21:55+00:00 | 628826 | 25125 | Ruby | 11585 | [] |
-| noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-09-23 13:58:51+00:00 | 11951 | 0 | Python | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-23 08:05:29+00:00 | 45961 | 846 | Python | 200 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:13:56+00:00 | 13188 | 1 | | 1 | [] |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-09-23 09:20:19+00:00 | 15 | 0 | | 0 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-09-23 05:20:08+00:00 | 698 | 90 | Python | 15 | [] |
 | alvwashere/esx_advancedgarage | This is an older version of ESX AdvancedGarage (Credit: HumanTree92) which I have further optimised and patched exploits of a currently popular money event which causes Economies to be ruined on RP servers. | https://github.com/alvwashere/esx_advancedgarage | ['exploit'] | 1 | 2021-09-23 13:36:46+00:00 | 43 | 0 | Lua | 1 | [] |
 | Rexinazor/Xmetasploit | A tool for installing metasploit framework in termux | https://github.com/Rexinazor/Xmetasploit | ['metasploit module OR payload'] | 1 | 2021-09-23 15:31:11+00:00 | 18 | 1 | Ruby | 0 | [] |
+| mssalvatore/powershell-pth | A simple, cross-platform, POC utility for automation of PowerShell PtH attacks. | https://github.com/mssalvatore/powershell-pth | ['attack poc'] | 1 | 2021-09-23 18:17:16+00:00 | 3 | 0 | Python | 0 | [] |
 | leonlai1234/FYP | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | ['exploit'] | 1 | 2021-09-23 05:00:23+00:00 | 945 | 0 | Python | 0 | [] |
 | isuruwa/MSF-EXPLOIT | Metasploit Exploiting Tool | https://github.com/isuruwa/MSF-EXPLOIT | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-23 10:49:32+00:00 | 73 | 3 | Python | 2 | [] |
 | StiizzyCat/IdSploit | FInd the first half of a Discord Token | https://github.com/StiizzyCat/IdSploit | ['sploit'] | 1 | 2021-09-23 14:56:16+00:00 | 4 | 0 | Shell | 0 | [] |
 | JustinDPerkins/vulnerable-serverless-application-python | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | ['exploit'] | 1 | 2021-09-23 15:20:32+00:00 | 31 | 1 | | 0 | [] |
 | Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-09-23 11:38:40+00:00 | 59 | 0 | Python | 0 | [] |
 | XRSec/Nat_Poc_All | POC 本地化 | https://github.com/XRSec/Nat_Poc_All | ['cve poc'] | 1 | 2021-09-23 04:46:19+00:00 | 139 | 2 | Go | 1 | [] |
+| EthanMcDonagh/EthansChamber | Simple exploits I made because I was bored, credit to Aika for the library. | https://github.com/EthanMcDonagh/EthansChamber | ['exploit'] | 1 | 2021-09-23 18:24:30+00:00 | 36 | 0 | Lua | 0 | [] |
 | doudoudedi/tenda_command_injection | nan | https://github.com/doudoudedi/tenda_command_injection | ['command injection'] | 1 | 2021-09-23 07:44:17+00:00 | 1061 | 0 | nan | 0 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-23 06:32:16+00:00 | 75 | 0 | Python | 0 | [] |
 | janikwehrli1/0dayHunt | nan | https://github.com/janikwehrli1/0dayHunt | ['0day'] | 1 | 2021-09-23 11:35:21+00:00 | 20 | 0 | Python | 0 | [] |
@@ -35,9 +37,9 @@
 | ravenwolf397/beeky | Exploit to access high-tier beacon powers from low-tier beacons. A Minecraft Fabric mod. | https://github.com/ravenwolf397/beeky | ['exploit'] | 1 | 2021-09-23 17:02:08+00:00 | 0 | 0 | Java | 0 | [] |
 | Kleptocratic/DNS-Fender | A Proof-of-Concept tool utilizing open DNS resolvers to produce an amplification attack against web servers. Using Shodan APIs and native Linux commands, this tool is in development to cripple web servers using spoofed DNS recursive queries. | https://github.com/Kleptocratic/DNS-Fender | ['attack poc'] | 1 | 2021-09-23 17:29:08+00:00 | 0 | 0 | Shell | 0 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:15:16+00:00 | 1004 | 2 | Python | 1 | [] |
+| noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-09-23 13:58:51+00:00 | 11951 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-23 01:10:15+00:00 | 5646 | 2 | Python | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-23 08:05:29+00:00 | 45961 | 846 | Python | 200 | [] |
-| SpeedSterKawaii/Ocean-Exploit | None | https://github.com/SpeedSterKawaii/Ocean-Exploit | ['exploit'] | 1 | 2021-09-23 15:04:31+00:00 | 17 | 1 | | 1 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-23 00:52:45+00:00 | 30126 | 22 | | 14 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-23 05:07:24+00:00 | 237545 | 6483 | C | 1802 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-09-23 10:53:45+00:00 | 60584 | 1109 | C | 547 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-09-23 12:22:10+00:00 | 625227 | 9 | Python | 26 | [] |
@@ -51,8 +53,8 @@
 | wyzxxz/fastjson_rce_tool | fastjson命令执行自动化利用工具， remote code execute，JNDI服务利用工具 RMI/LDAP，LDAP反序列方式部分回显 | https://github.com/wyzxxz/fastjson_rce_tool | ['rce'] | 1 | 2021-09-23 11:23:42+00:00 | 204614 | 858 | | 187 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-23 17:09:05+00:00 | 585 | 230 | Rust | 13 | [] |
 | seclab-ucr/KOOBE | Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities | https://github.com/seclab-ucr/KOOBE | ['exploit'] | 1 | 2021-09-23 03:08:37+00:00 | 224576 | 47 | | 10 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-23 00:52:45+00:00 | 30126 | 22 | | 14 | [] |
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2021-09-23 01:16:03+00:00 | 68347 | 536 | Lua | 113 | [] |
+| SpeedSterKawaii/Ocean-Exploit | None | https://github.com/SpeedSterKawaii/Ocean-Exploit | ['exploit'] | 1 | 2021-09-23 15:04:31+00:00 | 17 | 1 | | 1 | [] |
 | stancld/MSc-Project | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors | https://github.com/stancld/MSc-Project | ['exploit'] | 1 | 2021-09-23 17:17:56+00:00 | 69673 | 1 | Jupyter Notebook | 1 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-23 15:53:37+00:00 | 3057827 | 2 | Batchfile | 0 | [] |
 | aegoe/MAB | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | ['exploit'] | 1 | 2021-09-23 10:07:13+00:00 | 61287 | 0 | HTML | 1 | [] |
@@ -64,5 +66,6 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-23 00:18:23+00:00 | 90990 | 152 | Python | 44 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-23 05:45:51+00:00 | 101618 | 0 | JavaScript | 0 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-09-23 08:30:38+00:00 | 1196 | 3 | Julia | 0 | [] |
+| G00Dway/DebugSploit | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | ['exploit', 'sploit'] | 2 | 2021-09-23 18:32:27+00:00 | 286 | 1 | Python | 0 | [] |
 | King-Sign/Javascript-Exploitation | XSS | https://github.com/King-Sign/Javascript-Exploitation | ['exploit'] | 1 | 2021-09-23 10:30:50+00:00 | 16 | 0 | Python | 0 | [] |
 | SlizBinksman/Slizs-MSF-AIO | SlizBinksmans Metasploit Framework All In One | https://github.com/SlizBinksman/Slizs-MSF-AIO | ['metasploit module OR payload'] | 1 | 2021-09-23 17:14:48+00:00 | 0 | 0 | | 0 | [] |
