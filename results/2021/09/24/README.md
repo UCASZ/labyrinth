@@ -1,17 +1,19 @@
 
 # Summary for results/2021/09/24
     
-41 records found after deduplication
+45 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-24 01:45:32+00:00 | 630019 | 25134 | Ruby | 11590 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-24 00:23:54+00:00 | 93812 | 155 | Python | 45 | [] |
+| SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | A unique, multithreaded Slow DoS exploit against web servers that use vulnerable versions of thread-based web server software (Apache 1.x, Apache 2.x, httpd, etc.); and is effective against even some mitigation mechanisms such as poorly implemented reverse | https://github.com/SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | ['exploit'] | 1 | 2021-09-24 09:43:14+00:00 | 1002 | 9 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-24 01:09:59+00:00 | 6922 | 2 | Python | 0 | [] |
 | cirosantilli/china-dictatorship-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorship-2 | ['attack poc', 'exploit'] | 2 | 2021-09-24 09:13:24+00:00 | 6417 | 10 | HTML | 8 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-24 00:07:48+00:00 | 541 | 10 | JavaScript | 4 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-24 07:25:43+00:00 | 101 | 0 | Python | 0 | [] |
 | janikwehrli1/0dayHunt | nan | https://github.com/janikwehrli1/0dayHunt | ['0day'] | 1 | 2021-09-24 06:18:27+00:00 | 20 | 0 | Python | 0 | [] |
+| dosxuz/Custom-Metasploit-Modules | This repository contains some custom metasploit modules that I have created | https://github.com/dosxuz/Custom-Metasploit-Modules | ['metasploit module OR payload'] | 1 | 2021-09-24 09:54:34+00:00 | 2 | 0 | Ruby | 0 | [] |
 | Cirno12/UnderHub-exploit | None | https://github.com/Cirno12/UnderHub-exploit | ['exploit'] | 1 | 2021-09-24 02:40:29+00:00 | 1 | 0 | | 0 | [] |
 | Dragon-Hacking/BruteSploit | nan | https://github.com/Dragon-Hacking/BruteSploit | ['sploit'] | 1 | 2021-09-24 01:31:17+00:00 | 5312 | 1 | Python | 0 | [] |
 | NhatTranMinh99/Firebase-Scan | FirebaseScan is a pen-testing tool to automatically scanning and exploiting Firebase DB vulnerability in the android application. | https://github.com/NhatTranMinh99/Firebase-Scan | ['exploit'] | 1 | 2021-09-24 08:23:06+00:00 | 18631 | 0 | Python | 0 | [] |
@@ -38,6 +40,8 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-24 00:52:46+00:00 | 30609 | 22 | | 14 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-09-24 04:35:04+00:00 | 206 | 7 | Go | 7 | [] |
 | Jian-Xian/CVE-POC | None | https://github.com/Jian-Xian/CVE-POC | ['cve poc'] | 1 | 2021-09-24 09:09:27+00:00 | 5207 | 4 | | 2 | [] |
+| PeterStolz/pwntools_templates | This repository contains templates that you can use for binary exploiting. It aims to speed up the process of exploit creation during CTF competitions. | https://github.com/PeterStolz/pwntools_templates | ['exploit'] | 1 | 2021-09-24 09:56:39+00:00 | 16 | 0 | Python | 0 | [] |
+| gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2021-09-24 10:20:15+00:00 | 123817 | 267 | Go | 49 | [] |
 | aegoe/MAB | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | ['exploit'] | 1 | 2021-09-24 08:02:32+00:00 | 61455 | 0 | HTML | 1 | [] |
 | saulpanders/payloadTests | PoCs for various shellcode injection techniques. Mostly golang | https://github.com/saulpanders/payloadTests | ['shellcode'] | 1 | 2021-09-24 00:52:22+00:00 | 6071 | 2 | Go | 1 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2021-09-24 00:20:12+00:00 | 175494 | 107 | C | 20 | [] |
