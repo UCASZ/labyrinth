@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/23
     
-83 records found after deduplication
+84 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-23 09:21:55+00:00 | 628826 | 25125 | Ruby | 11585 | [] |
-| isuruwa/MSF-ANDRO | Metasploit Multi Purpose Exploiting Toolkit For Termux | https://github.com/isuruwa/MSF-ANDRO | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-23 12:36:20+00:00 | 58 | 2 | Python | 1 | [] |
+| JustinDPerkins/vulnerable-serverless-application-python | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | ['exploit'] | 1 | 2021-09-23 15:20:32+00:00 | 31 | 1 | | 0 | [] |
+| EchterAlsFake/FortniteExploitDatabase | ONLY IN GERMAN. BETA VERSION I WILL ADD ENGLISH LATER! | https://github.com/EchterAlsFake/FortniteExploitDatabase | ['exploit'] | 1 | 2021-09-23 20:13:42+00:00 | 17 | 0 | | 0 | [] |
 | janikwehrli1/0dayHunt | nan | https://github.com/janikwehrli1/0dayHunt | ['0day'] | 1 | 2021-09-23 11:35:21+00:00 | 20 | 0 | Python | 0 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-23 06:32:16+00:00 | 75 | 0 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-23 23:28:39+00:00 | 507 | 10 | JavaScript | 4 | [] |
@@ -14,8 +15,8 @@
 | EthanMcDonagh/EthansChamber | Simple exploits I made because I was bored, credit to Aika for the library. | https://github.com/EthanMcDonagh/EthansChamber | ['exploit'] | 1 | 2021-09-23 18:24:30+00:00 | 36 | 0 | Lua | 0 | [] |
 | XRSec/Nat_Poc_All | POC 本地化 | https://github.com/XRSec/Nat_Poc_All | ['cve poc'] | 1 | 2021-09-23 04:46:19+00:00 | 139 | 2 | Go | 1 | [] |
 | Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-09-23 11:38:40+00:00 | 59 | 0 | Python | 0 | [] |
-| JustinDPerkins/vulnerable-serverless-application-python | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | ['exploit'] | 1 | 2021-09-23 15:20:32+00:00 | 31 | 1 | | 0 | [] |
 | StiizzyCat/IdSploit | FInd the first half of a Discord Token | https://github.com/StiizzyCat/IdSploit | ['sploit'] | 1 | 2021-09-23 14:56:16+00:00 | 4 | 0 | Shell | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-23 08:05:29+00:00 | 45961 | 846 | Python | 200 | [] |
 | isuruwa/MSF-EXPLOIT | Metasploit Exploiting Tool | https://github.com/isuruwa/MSF-EXPLOIT | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-23 10:49:32+00:00 | 73 | 3 | Python | 2 | [] |
 | leonlai1234/FYP | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | ['exploit'] | 1 | 2021-09-23 05:00:23+00:00 | 945 | 0 | Python | 0 | [] |
 | mssalvatore/powershell-pth | A simple, cross-platform, POC utility for automation of PowerShell PtH attacks. | https://github.com/mssalvatore/powershell-pth | ['attack poc'] | 1 | 2021-09-23 18:17:16+00:00 | 3 | 0 | Python | 0 | [] |
@@ -24,10 +25,11 @@
 | alvwashere/esx_advancedgarage | This is an older version of ESX AdvancedGarage (Credit: HumanTree92) which I have further optimised and patched exploits of a currently popular money event which causes Economies to be ruined on RP servers. | https://github.com/alvwashere/esx_advancedgarage | ['exploit'] | 1 | 2021-09-23 13:36:46+00:00 | 43 | 0 | Lua | 1 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-09-23 21:37:50+00:00 | 94 | 1 | C# | 0 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-09-23 05:20:08+00:00 | 698 | 90 | Python | 15 | [] |
-| EchterAlsFake/FortniteExploitDatabase | ONLY IN GERMAN. BETA VERSION I WILL ADD ENGLISH LATER! | https://github.com/EchterAlsFake/FortniteExploitDatabase | ['exploit'] | 1 | 2021-09-23 20:13:42+00:00 | 17 | 0 | | 0 | [] |
+| isuruwa/MSF-ANDRO | Metasploit Multi Purpose Exploiting Toolkit For Termux | https://github.com/isuruwa/MSF-ANDRO | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-23 12:36:20+00:00 | 58 | 2 | Python | 1 | [] |
 | JinliangLu96/CL_UNMT | repo for "Exploiting Curriculum Learning in Unsupervised Neural Machine Translation" | https://github.com/JinliangLu96/CL_UNMT | ['exploit'] | 1 | 2021-09-23 07:32:44+00:00 | 54315 | 0 | Python | 0 | [] |
-| scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:13:56+00:00 | 13188 | 1 | | 1 | [] |
 | Dragon-Hacking/BruteSploit | None | https://github.com/Dragon-Hacking/BruteSploit | ['sploit'] | 1 | 2021-09-23 01:49:49+00:00 | 5295 | 1 | Python | 0 | [] |
+| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2021-09-23 22:42:37+00:00 | 1391 | 0 | C | 0 | [] |
+| illusionofchaos/ios-nehelper-wifi-info-0day | nan | https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day | ['0day'] | 1 | 2021-09-23 22:02:08+00:00 | 0 | 0 | Swift | 0 | [] |
 | illusionofchaos/ios-nehelper-enum-apps-0day | nan | https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day | ['0day'] | 1 | 2021-09-23 22:06:53+00:00 | 0 | 0 | Swift | 0 | [] |
 | illusionofchaos/ios-analyticsd-pre14.7-exploit | None | https://github.com/illusionofchaos/ios-analyticsd-pre14.7-exploit | ['exploit'] | 1 | 2021-09-23 22:07:53+00:00 | 0 | 0 | Swift | 0 | [] |
 | illusionofchaos/ios-gamed-0day | nan | https://github.com/illusionofchaos/ios-gamed-0day | ['0day'] | 1 | 2021-09-23 21:56:07+00:00 | 0 | 0 | Objective-C | 0 | [] |
@@ -44,10 +46,9 @@
 | DilpreetSinghBajwa/Resources-public | The repository contains the resources which includes links, pdfs, files, etc for knowledge sharing purpose related to Reverse-Engineering, Ethical Hacking, Malware Analysis, Exploitation and many more related to Cyber Security Domain | https://github.com/DilpreetSinghBajwa/Resources-public | ['exploit'] | 1 | 2021-09-23 08:09:17+00:00 | 0 | 0 | | 0 | [] |
 | pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | None | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | ['cve-2 OR cve_2'] | 1 | 2021-09-23 04:21:12+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
 | 1ZRR4H/CVE-2021-22005 | None | https://github.com/1ZRR4H/CVE-2021-22005 | ['cve-2 OR cve_2'] | 1 | 2021-09-23 00:10:18+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
-| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2021-09-23 22:42:37+00:00 | 1391 | 0 | C | 0 | [] |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-09-23 09:20:19+00:00 | 15 | 0 | | 0 | [] |
+| scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:13:56+00:00 | 13188 | 1 | | 1 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:15:16+00:00 | 1004 | 2 | Python | 1 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-23 08:05:29+00:00 | 45961 | 846 | Python | 200 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-23 00:52:45+00:00 | 30126 | 22 | | 14 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-23 17:09:05+00:00 | 585 | 230 | Rust | 13 | [] |
 | Tounsi007/rce | None | https://github.com/Tounsi007/rce | ['rce'] | 1 | 2021-09-23 20:07:48+00:00 | 123 | 0 | PHP | 0 | [] |
@@ -87,4 +88,4 @@
 | Cyber-Root0/ZenSploit | ZENSPLOIT - " FERRAMENTA DE AUTOMAÇÃO E PENTEST MOBILE " | https://github.com/Cyber-Root0/ZenSploit | ['sploit'] | 1 | 2021-09-23 13:18:09+00:00 | 47731 | 3 | Batchfile | 1 | [] |
 | aegoe/MAB | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | ['exploit'] | 1 | 2021-09-23 10:07:13+00:00 | 61287 | 0 | HTML | 1 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-23 15:53:37+00:00 | 3057827 | 2 | Batchfile | 0 | [] |
-| illusionofchaos/ios-nehelper-wifi-info-0day | nan | https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day | ['0day'] | 1 | 2021-09-23 22:02:08+00:00 | 0 | 0 | Swift | 0 | [] |
+| kyukazamiqq/com_userexploiter | auto exploiter com_user | https://github.com/kyukazamiqq/com_userexploiter | ['exploit'] | 1 | 2021-09-23 23:59:11+00:00 | 0 | 0 | Python | 0 | [] |
