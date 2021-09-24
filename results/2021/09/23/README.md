@@ -1,13 +1,12 @@
 
 # Summary for results/2021/09/23
     
-85 records found after deduplication
+86 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-23 09:21:55+00:00 | 628826 | 25125 | Ruby | 11585 | [] |
-| JustinDPerkins/vulnerable-serverless-application-python | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | ['exploit'] | 1 | 2021-09-23 15:20:32+00:00 | 31 | 1 | | 0 | [] |
-| EchterAlsFake/FortniteExploitDatabase | ONLY IN GERMAN. BETA VERSION I WILL ADD ENGLISH LATER! | https://github.com/EchterAlsFake/FortniteExploitDatabase | ['exploit'] | 1 | 2021-09-23 20:13:42+00:00 | 17 | 0 | | 0 | [] |
+| StiizzyCat/IdSploit | FInd the first half of a Discord Token | https://github.com/StiizzyCat/IdSploit | ['sploit'] | 1 | 2021-09-23 14:56:16+00:00 | 4 | 0 | Shell | 0 | [] |
 | janikwehrli1/0dayHunt | nan | https://github.com/janikwehrli1/0dayHunt | ['0day'] | 1 | 2021-09-23 11:35:21+00:00 | 20 | 0 | Python | 0 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-23 06:32:16+00:00 | 75 | 0 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-23 23:28:39+00:00 | 507 | 10 | JavaScript | 4 | [] |
@@ -15,9 +14,9 @@
 | EthanMcDonagh/EthansChamber | Simple exploits I made because I was bored, credit to Aika for the library. | https://github.com/EthanMcDonagh/EthansChamber | ['exploit'] | 1 | 2021-09-23 18:24:30+00:00 | 36 | 0 | Lua | 0 | [] |
 | XRSec/Nat_Poc_All | POC 本地化 | https://github.com/XRSec/Nat_Poc_All | ['cve poc'] | 1 | 2021-09-23 04:46:19+00:00 | 139 | 2 | Go | 1 | [] |
 | Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-09-23 11:38:40+00:00 | 59 | 0 | Python | 0 | [] |
-| StiizzyCat/IdSploit | FInd the first half of a Discord Token | https://github.com/StiizzyCat/IdSploit | ['sploit'] | 1 | 2021-09-23 14:56:16+00:00 | 4 | 0 | Shell | 0 | [] |
-| scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:13:56+00:00 | 13188 | 1 | | 1 | [] |
+| JustinDPerkins/vulnerable-serverless-application-python | Simple Serverless Application with a few weakness to exploit | https://github.com/JustinDPerkins/vulnerable-serverless-application-python | ['exploit'] | 1 | 2021-09-23 15:20:32+00:00 | 31 | 1 | | 0 | [] |
 | isuruwa/MSF-EXPLOIT | Metasploit Exploiting Tool | https://github.com/isuruwa/MSF-EXPLOIT | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-23 10:49:32+00:00 | 73 | 3 | Python | 2 | [] |
+| isuruwa/MSF-ANDRO | Metasploit Multi Purpose Exploiting Toolkit For Termux | https://github.com/isuruwa/MSF-ANDRO | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-23 12:36:20+00:00 | 58 | 2 | Python | 1 | [] |
 | leonlai1234/FYP | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | ['exploit'] | 1 | 2021-09-23 05:00:23+00:00 | 945 | 0 | Python | 0 | [] |
 | mssalvatore/powershell-pth | A simple, cross-platform, POC utility for automation of PowerShell PtH attacks. | https://github.com/mssalvatore/powershell-pth | ['attack poc'] | 1 | 2021-09-23 18:17:16+00:00 | 3 | 0 | Python | 0 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2021-09-23 20:28:24+00:00 | 192 | 0 | | 0 | [] |
@@ -25,10 +24,11 @@
 | alvwashere/esx_advancedgarage | This is an older version of ESX AdvancedGarage (Credit: HumanTree92) which I have further optimised and patched exploits of a currently popular money event which causes Economies to be ruined on RP servers. | https://github.com/alvwashere/esx_advancedgarage | ['exploit'] | 1 | 2021-09-23 13:36:46+00:00 | 43 | 0 | Lua | 1 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-09-23 21:37:50+00:00 | 94 | 1 | C# | 0 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-09-23 05:20:08+00:00 | 698 | 90 | Python | 15 | [] |
-| isuruwa/MSF-ANDRO | Metasploit Multi Purpose Exploiting Toolkit For Termux | https://github.com/isuruwa/MSF-ANDRO | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-23 12:36:20+00:00 | 58 | 2 | Python | 1 | [] |
+| Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-09-23 09:20:19+00:00 | 15 | 0 | | 0 | [] |
+| EchterAlsFake/FortniteExploitDatabase | ONLY IN GERMAN. BETA VERSION I WILL ADD ENGLISH LATER! | https://github.com/EchterAlsFake/FortniteExploitDatabase | ['exploit'] | 1 | 2021-09-23 20:13:42+00:00 | 17 | 0 | | 0 | [] |
 | JinliangLu96/CL_UNMT | repo for "Exploiting Curriculum Learning in Unsupervised Neural Machine Translation" | https://github.com/JinliangLu96/CL_UNMT | ['exploit'] | 1 | 2021-09-23 07:32:44+00:00 | 54315 | 0 | Python | 0 | [] |
-| Dragon-Hacking/BruteSploit | None | https://github.com/Dragon-Hacking/BruteSploit | ['sploit'] | 1 | 2021-09-23 01:49:49+00:00 | 5295 | 1 | Python | 0 | [] |
-| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2021-09-23 22:42:37+00:00 | 1391 | 0 | C | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-23 08:05:29+00:00 | 45961 | 846 | Python | 200 | [] |
+| ravenwolf397/beeky | Exploit to access high-tier beacon powers from low-tier beacons. A Minecraft Fabric mod. | https://github.com/ravenwolf397/beeky | ['exploit'] | 1 | 2021-09-23 17:02:08+00:00 | 0 | 0 | Java | 0 | [] |
 | illusionofchaos/ios-nehelper-wifi-info-0day | nan | https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day | ['0day'] | 1 | 2021-09-23 22:02:08+00:00 | 0 | 0 | Swift | 0 | [] |
 | illusionofchaos/ios-nehelper-enum-apps-0day | nan | https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day | ['0day'] | 1 | 2021-09-23 22:06:53+00:00 | 0 | 0 | Swift | 0 | [] |
 | illusionofchaos/ios-analyticsd-pre14.7-exploit | None | https://github.com/illusionofchaos/ios-analyticsd-pre14.7-exploit | ['exploit'] | 1 | 2021-09-23 22:07:53+00:00 | 0 | 0 | Swift | 0 | [] |
@@ -37,8 +37,8 @@
 | logand22/terraform-provider-testing | A test provider for purposes of testing logand22/terraform-rce | https://github.com/logand22/terraform-provider-testing | ['rce'] | 1 | 2021-09-23 19:21:49+00:00 | 0 | 0 | Go | 0 | [] |
 | SlizBinksman/Slizs-MSF-AIO | SlizBinksmans Metasploit Framework All In One | https://github.com/SlizBinksman/Slizs-MSF-AIO | ['metasploit module OR payload'] | 1 | 2021-09-23 17:14:48+00:00 | 0 | 0 | | 0 | [] |
 | Kleptocratic/DNS-Fender | A Proof-of-Concept tool utilizing open DNS resolvers to produce an amplification attack against web servers. Using Shodan APIs and native Linux commands, this tool is in development to cripple web servers using spoofed DNS recursive queries. | https://github.com/Kleptocratic/DNS-Fender | ['attack poc'] | 1 | 2021-09-23 17:29:08+00:00 | 0 | 0 | Shell | 0 | [] |
-| ravenwolf397/beeky | Exploit to access high-tier beacon powers from low-tier beacons. A Minecraft Fabric mod. | https://github.com/ravenwolf397/beeky | ['exploit'] | 1 | 2021-09-23 17:02:08+00:00 | 0 | 0 | Java | 0 | [] |
 | MateoDominguez13810/Proyecto-exploit-roblox | None | https://github.com/MateoDominguez13810/Proyecto-exploit-roblox | ['exploit'] | 1 | 2021-09-23 16:30:28+00:00 | 0 | 0 | | 0 | [] |
+| Dragon-Hacking/BruteSploit | None | https://github.com/Dragon-Hacking/BruteSploit | ['sploit'] | 1 | 2021-09-23 01:49:49+00:00 | 5295 | 1 | Python | 0 | [] |
 | h4pp1n3ss/x86Windows-PopCalcWinExec | (Windows/x86) Null-free Position-Independent shellcode (PIC) - WinExec PopCalc | https://github.com/h4pp1n3ss/x86Windows-PopCalcWinExec | ['shellcode'] | 1 | 2021-09-23 16:19:12+00:00 | 0 | 0 | | 0 | [] |
 | vietd0x/LinuxHeapExploitation | None | https://github.com/vietd0x/LinuxHeapExploitation | ['exploit'] | 1 | 2021-09-23 14:17:19+00:00 | 0 | 0 | | 0 | [] |
 | MoplerEXE/Mad-City-script-for-killaura | --[[Created by Mopler#7791 you can chat me in discord because Im bored lol also suggest me anything (please dont suggest me shit like instantly giving myself 100000$ money or giving all cars and saving them in my inventory) Enter name of target where it sa | https://github.com/MoplerEXE/Mad-City-script-for-killaura | ['sploit'] | 1 | 2021-09-23 14:02:16+00:00 | 0 | 0 | | 0 | [] |
@@ -46,9 +46,10 @@
 | DilpreetSinghBajwa/Resources-public | The repository contains the resources which includes links, pdfs, files, etc for knowledge sharing purpose related to Reverse-Engineering, Ethical Hacking, Malware Analysis, Exploitation and many more related to Cyber Security Domain | https://github.com/DilpreetSinghBajwa/Resources-public | ['exploit'] | 1 | 2021-09-23 08:09:17+00:00 | 0 | 0 | | 0 | [] |
 | pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | None | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | ['cve-2 OR cve_2'] | 1 | 2021-09-23 04:21:12+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
 | 1ZRR4H/CVE-2021-22005 | None | https://github.com/1ZRR4H/CVE-2021-22005 | ['cve-2 OR cve_2'] | 1 | 2021-09-23 00:10:18+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
-| Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-09-23 09:20:19+00:00 | 15 | 0 | | 0 | [] |
+| Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2021-09-23 22:42:37+00:00 | 1391 | 0 | C | 0 | [] |
+| scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:13:56+00:00 | 13188 | 1 | | 1 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:15:16+00:00 | 1004 | 2 | Python | 1 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-23 08:05:29+00:00 | 45961 | 846 | Python | 200 | [] |
+| noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-09-23 13:58:51+00:00 | 11951 | 0 | Python | 0 | [] |
 | eliboa/TegraRcmGUI | C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch) | https://github.com/eliboa/TegraRcmGUI | ['exploit'] | 1 | 2021-09-23 20:13:05+00:00 | 3357 | 1092 | C++ | 87 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-23 17:09:05+00:00 | 585 | 230 | Rust | 13 | [] |
 | Tounsi007/rce | None | https://github.com/Tounsi007/rce | ['rce'] | 1 | 2021-09-23 20:07:48+00:00 | 123 | 0 | PHP | 0 | [] |
@@ -59,7 +60,7 @@
 | luseeds/opportunist | The Wise Opportunist - Learn how to exploit the system to your own interest | https://github.com/luseeds/opportunist | ['exploit'] | 1 | 2021-09-23 18:42:13+00:00 | 21359 | 1 | | 0 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-09-23 07:34:34+00:00 | 3850 | 1996 | Python | 566 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-23 09:31:12+00:00 | 293832 | 78 | Python | 13 | [] |
-| noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-09-23 13:58:51+00:00 | 11951 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-23 01:10:15+00:00 | 5646 | 2 | Python | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-23 00:17:06+00:00 | 128680 | 248 | Ruby | 75 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-23 11:35:05+00:00 | 71651 | 10101 | Python | 1697 | [] |
 | OWASP-Benchmark/BenchmarkJava | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java | https://github.com/OWASP-Benchmark/BenchmarkJava | ['exploit'] | 1 | 2021-09-23 22:53:51+00:00 | 74627 | 415 | Java | 445 | [] |
@@ -72,7 +73,7 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-23 00:52:45+00:00 | 30126 | 22 | | 14 | [] |
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2021-09-23 01:16:03+00:00 | 68347 | 536 | Lua | 113 | [] |
 | stancld/MSc-Project | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors | https://github.com/stancld/MSc-Project | ['exploit'] | 1 | 2021-09-23 17:17:56+00:00 | 69673 | 1 | Jupyter Notebook | 1 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-23 01:10:15+00:00 | 5646 | 2 | Python | 0 | [] |
+| cocomelonc/peekaboo | Simple undetectable shellcode and code injector launcher example. Inspired by RTO malware development course. | https://github.com/cocomelonc/peekaboo | ['shellcode'] | 1 | 2021-09-23 03:43:48+00:00 | 1572 | 4 | Python | 3 | [] |
 | SpeedSterKawaii/Ocean-Exploit | None | https://github.com/SpeedSterKawaii/Ocean-Exploit | ['exploit'] | 1 | 2021-09-23 15:04:31+00:00 | 17 | 1 | | 1 | [] |
 | King-Sign/Javascript-Exploitation | XSS | https://github.com/King-Sign/Javascript-Exploitation | ['exploit'] | 1 | 2021-09-23 10:30:50+00:00 | 16 | 0 | Python | 0 | [] |
 | G00Dway/DebugSploit | DebugSploit Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. DebugSploit Framework gives you the power and convenience of remote Android device administration. | https://github.com/G00Dway/DebugSploit | ['exploit', 'sploit'] | 2 | 2021-09-23 18:32:27+00:00 | 286 | 1 | Python | 0 | [] |
