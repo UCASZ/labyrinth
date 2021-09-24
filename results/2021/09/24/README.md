@@ -1,13 +1,14 @@
 
 # Summary for results/2021/09/24
     
-15 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-24 01:45:32+00:00 | 630019 | 25134 | Ruby | 11590 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-24 01:36:16+00:00 | 21823 | 5987 | JavaScript | 1426 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-24 00:16:44+00:00 | 130205 | 248 | Ruby | 75 | [] |
+| sickn3ss/exploits | None | https://github.com/sickn3ss/exploits | ['exploit'] | 1 | 2021-09-24 02:10:08+00:00 | 148701 | 0 | C | 0 | [] |
 | bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2021-09-24 01:15:16+00:00 | 15705 | 220 | C | 31 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-24 00:52:46+00:00 | 30609 | 22 | | 14 | [] |
 | saulpanders/payloadTests | PoCs for various shellcode injection techniques. Mostly golang | https://github.com/saulpanders/payloadTests | ['shellcode'] | 1 | 2021-09-24 00:52:22+00:00 | 6071 | 2 | Go | 1 | [] |
