@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/24
     
-24 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-24 01:45:32+00:00 | 630019 | 25134 | Ruby | 11590 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-24 01:36:16+00:00 | 21823 | 5987 | JavaScript | 1426 | [] |
+| SlizBinksman/Slizs-MSF-AIO | SlizBinksman's Metasploit Framework All In One Helper | https://github.com/SlizBinksman/Slizs-MSF-AIO | ['metasploit module OR payload'] | 1 | 2021-09-24 04:07:09+00:00 | 0 | 0 | Python | 0 | [] |
 | giwon9977/CVE-2021-33739_PoC | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-24 03:34:14+00:00 | 8 | 0 | C++ | 1 | ['CVE-2021-33739'] |
 | Nicklaus228/Immatriculation-de-v-hicules | Le projet de session consiste à réaliser les activités suivantes: 1. Modélisation conceptuelle de données en vue de représenter et décrire explicitement les entités (environ une douzaine) reliées à l’enregistrement de véhicules ainsi que les associations e | https://github.com/Nicklaus228/Immatriculation-de-v-hicules | ['exploit'] | 1 | 2021-09-24 03:31:12+00:00 | 0 | 0 | TSQL | 0 | [] |
 | xtayaitak/ShellCodeComment | None | https://github.com/xtayaitak/ShellCodeComment | ['shellcode'] | 1 | 2021-09-24 03:26:50+00:00 | 0 | 0 | C++ | 0 | [] |
@@ -28,4 +29,5 @@
 | bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2021-09-24 01:15:16+00:00 | 15705 | 220 | C | 31 | [] |
 | sickn3ss/exploits | None | https://github.com/sickn3ss/exploits | ['exploit'] | 1 | 2021-09-24 02:10:08+00:00 | 148701 | 0 | C | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-24 00:16:44+00:00 | 130205 | 248 | Ruby | 75 | [] |
-| SlizBinksman/Slizs-MSF-AIO | SlizBinksman's Metasploit Framework All In One Helper | https://github.com/SlizBinksman/Slizs-MSF-AIO | ['metasploit module OR payload'] | 1 | 2021-09-24 04:07:09+00:00 | 0 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-24 05:07:24+00:00 | 239679 | 6486 | C | 1801 | [] |
+| machine1337/clickjack | An Efficent Tool To Find Clickjacking Vulnerabilities in easiest way with poc | https://github.com/machine1337/clickjack | ['vulnerability poc'] | 1 | 2021-09-24 05:29:50+00:00 | 0 | 0 | nan | 0 | [] |
