@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/23
     
-84 records found after deduplication
+85 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -16,7 +16,7 @@
 | XRSec/Nat_Poc_All | POC 本地化 | https://github.com/XRSec/Nat_Poc_All | ['cve poc'] | 1 | 2021-09-23 04:46:19+00:00 | 139 | 2 | Go | 1 | [] |
 | Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-09-23 11:38:40+00:00 | 59 | 0 | Python | 0 | [] |
 | StiizzyCat/IdSploit | FInd the first half of a Discord Token | https://github.com/StiizzyCat/IdSploit | ['sploit'] | 1 | 2021-09-23 14:56:16+00:00 | 4 | 0 | Shell | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-23 08:05:29+00:00 | 45961 | 846 | Python | 200 | [] |
+| scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:13:56+00:00 | 13188 | 1 | | 1 | [] |
 | isuruwa/MSF-EXPLOIT | Metasploit Exploiting Tool | https://github.com/isuruwa/MSF-EXPLOIT | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-23 10:49:32+00:00 | 73 | 3 | Python | 2 | [] |
 | leonlai1234/FYP | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | ['exploit'] | 1 | 2021-09-23 05:00:23+00:00 | 945 | 0 | Python | 0 | [] |
 | mssalvatore/powershell-pth | A simple, cross-platform, POC utility for automation of PowerShell PtH attacks. | https://github.com/mssalvatore/powershell-pth | ['attack poc'] | 1 | 2021-09-23 18:17:16+00:00 | 3 | 0 | Python | 0 | [] |
@@ -47,9 +47,9 @@
 | pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | None | https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity | ['cve-2 OR cve_2'] | 1 | 2021-09-23 04:21:12+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
 | 1ZRR4H/CVE-2021-22005 | None | https://github.com/1ZRR4H/CVE-2021-22005 | ['cve-2 OR cve_2'] | 1 | 2021-09-23 00:10:18+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-09-23 09:20:19+00:00 | 15 | 0 | | 0 | [] |
-| scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:13:56+00:00 | 13188 | 1 | | 1 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-23 11:15:16+00:00 | 1004 | 2 | Python | 1 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-23 00:52:45+00:00 | 30126 | 22 | | 14 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-23 08:05:29+00:00 | 45961 | 846 | Python | 200 | [] |
+| eliboa/TegraRcmGUI | C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch) | https://github.com/eliboa/TegraRcmGUI | ['exploit'] | 1 | 2021-09-23 20:13:05+00:00 | 3357 | 1092 | C++ | 87 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-09-23 17:09:05+00:00 | 585 | 230 | Rust | 13 | [] |
 | Tounsi007/rce | None | https://github.com/Tounsi007/rce | ['rce'] | 1 | 2021-09-23 20:07:48+00:00 | 123 | 0 | PHP | 0 | [] |
 | wyzxxz/fastjson_rce_tool | fastjson命令执行自动化利用工具， remote code execute，JNDI服务利用工具 RMI/LDAP，LDAP反序列方式部分回显 | https://github.com/wyzxxz/fastjson_rce_tool | ['rce'] | 1 | 2021-09-23 11:23:42+00:00 | 204614 | 858 | | 187 | [] |
@@ -59,6 +59,7 @@
 | luseeds/opportunist | The Wise Opportunist - Learn how to exploit the system to your own interest | https://github.com/luseeds/opportunist | ['exploit'] | 1 | 2021-09-23 18:42:13+00:00 | 21359 | 1 | | 0 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-09-23 07:34:34+00:00 | 3850 | 1996 | Python | 566 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-23 09:31:12+00:00 | 293832 | 78 | Python | 13 | [] |
+| noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-09-23 13:58:51+00:00 | 11951 | 0 | Python | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-23 00:17:06+00:00 | 128680 | 248 | Ruby | 75 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-23 11:35:05+00:00 | 71651 | 10101 | Python | 1697 | [] |
 | OWASP-Benchmark/BenchmarkJava | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java | https://github.com/OWASP-Benchmark/BenchmarkJava | ['exploit'] | 1 | 2021-09-23 22:53:51+00:00 | 74627 | 415 | Java | 445 | [] |
@@ -68,8 +69,8 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-23 05:07:24+00:00 | 237545 | 6483 | C | 1802 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-23 19:18:53+00:00 | 3484 | 2475 | PowerShell | 711 | [] |
 | seclab-ucr/KOOBE | Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities | https://github.com/seclab-ucr/KOOBE | ['exploit'] | 1 | 2021-09-23 03:08:37+00:00 | 224576 | 47 | | 10 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-23 00:52:45+00:00 | 30126 | 22 | | 14 | [] |
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2021-09-23 01:16:03+00:00 | 68347 | 536 | Lua | 113 | [] |
-| noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-09-23 13:58:51+00:00 | 11951 | 0 | Python | 0 | [] |
 | stancld/MSc-Project | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors | https://github.com/stancld/MSc-Project | ['exploit'] | 1 | 2021-09-23 17:17:56+00:00 | 69673 | 1 | Jupyter Notebook | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-23 01:10:15+00:00 | 5646 | 2 | Python | 0 | [] |
 | SpeedSterKawaii/Ocean-Exploit | None | https://github.com/SpeedSterKawaii/Ocean-Exploit | ['exploit'] | 1 | 2021-09-23 15:04:31+00:00 | 17 | 1 | | 1 | [] |
