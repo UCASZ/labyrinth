@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/25
     
-13 records found after deduplication
+15 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -18,3 +18,5 @@
 | Beefers/rape | A Cumcord dev mode RCE. | https://github.com/Beefers/rape | ['rce'] | 1 | 2021-09-25 00:28:50+00:00 | 0 | 0 | CSS | 0 | [] |
 | twisted007/mantis_rce | None | https://github.com/twisted007/mantis_rce | ['rce'] | 1 | 2021-09-25 00:58:47+00:00 | 2 | 0 | Python | 0 | [] |
 | kaFox4/FxSploit | Nice | https://github.com/kaFox4/FxSploit | ['sploit'] | 1 | 2021-09-25 00:51:24+00:00 | 0 | 0 | nan | 0 | [] |
+| breakfix/DLL_hijack_template | Pre-compiled template DLL's to quickly POC DLL hijack vulnerabilities | https://github.com/breakfix/DLL_hijack_template | ['vulnerability poc'] | 1 | 2021-09-25 02:25:05+00:00 | 0 | 0 | nan | 0 | [] |
+| hacker53478/BobloxExploit | fsdjkfdsgdhsfjgdfx | https://github.com/hacker53478/BobloxExploit | ['exploit'] | 1 | 2021-09-25 02:33:33+00:00 | 0 | 0 | | 0 | [] |
