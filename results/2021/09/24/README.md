@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/24
     
-108 records found after deduplication
+109 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -19,7 +19,7 @@
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-24 07:25:43+00:00 | 101 | 0 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-24 00:07:48+00:00 | 541 | 10 | JavaScript | 4 | [] |
 | ngovinhhuy/Protostar_exploit | https://exploit.education/protostar/ | https://github.com/ngovinhhuy/Protostar_exploit | ['exploit'] | 1 | 2021-09-24 16:57:11+00:00 | 3 | 0 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-24 01:36:16+00:00 | 21823 | 5987 | JavaScript | 1426 | [] |
+| kleiton0x00/ppmap | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | ['exploit'] | 1 | 2021-09-24 11:53:45+00:00 | 43 | 189 | Go | 24 | [] |
 | klezVirus/CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | ['0day', 'cve-2 OR cve_2', 'exploit', 'rce'] | 4 | 2021-09-24 16:55:07+00:00 | 69 | 365 | HTML | 71 | ['CVE-2021-40444'] |
 | Tescoo/discord-vc-lag-exploit | discord vc exploit to lightly lag vcs | https://github.com/Tescoo/discord-vc-lag-exploit | ['exploit'] | 1 | 2021-09-24 16:31:23+00:00 | 21 | 7 | Python | 0 | [] |
 | tchiendje-lucien/arsel_title_attribution_plateform | Plateforme de publication des site exploitable dans le secteur de l'électricité | https://github.com/tchiendje-lucien/arsel_title_attribution_plateform | ['exploit'] | 1 | 2021-09-24 12:13:44+00:00 | 0 | 0 | | 0 | [] |
@@ -59,9 +59,9 @@
 | SlizBinksman/Slizs-MSF-AIO | SlizBinksman's Metasploit Framework All In One Helper | https://github.com/SlizBinksman/Slizs-MSF-AIO | ['metasploit module OR payload'] | 1 | 2021-09-24 04:07:09+00:00 | 0 | 0 | Python | 0 | [] |
 | giwon9977/CVE-2021-33739_PoC | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-24 03:34:14+00:00 | 8 | 0 | C++ | 1 | ['CVE-2021-33739'] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-24 01:09:59+00:00 | 6922 | 2 | Python | 0 | [] |
-| kleiton0x00/ppmap | A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets. | https://github.com/kleiton0x00/ppmap | ['exploit'] | 1 | 2021-09-24 11:53:45+00:00 | 43 | 189 | Go | 24 | [] |
 | minetest-palamod/palamod-test-dragonfire | Playground for minetest palamod modpack (Patched hacks) | https://github.com/minetest-palamod/palamod-test-dragonfire | ['exploit'] | 1 | 2021-09-24 12:59:23+00:00 | 14 | 1 | Lua | 0 | [] |
-| AL-AlamySploit/metasploit1 | None | https://github.com/AL-AlamySploit/metasploit1 | ['metasploit module OR payload'] | 1 | 2021-09-24 11:13:48+00:00 | 13 | 0 | Shell | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-24 01:36:16+00:00 | 21823 | 5987 | JavaScript | 1426 | [] |
+| vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-09-24 11:33:08+00:00 | 829 | 125 | Go | 36 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-09-24 04:35:04+00:00 | 206 | 7 | Go | 7 | [] |
 | n4ru/1vyrain | LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking. | https://github.com/n4ru/1vyrain | ['exploit'] | 1 | 2021-09-24 15:50:43+00:00 | 17136 | 627 | Shell | 50 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-24 00:52:46+00:00 | 30609 | 22 | | 14 | [] |
@@ -74,6 +74,7 @@
 | darksideoftheshmoo/rcell2 | functions to produce and analyze Cell-ID data in a tidy and shiny framework | https://github.com/darksideoftheshmoo/rcell2 | ['rce'] | 1 | 2021-09-24 15:11:23+00:00 | 115537 | 0 | R | 0 | [] |
 | sickn3ss/exploits | None | https://github.com/sickn3ss/exploits | ['exploit'] | 1 | 2021-09-24 02:10:08+00:00 | 148701 | 0 | C | 0 | [] |
 | GENIE-MC/Generator | The popular GENIE Generator product is used by nearly all accelerator neutrino experiments and it plays a key role in the exploitation of neutrino data. The Generator implements a modern software framework and it includes state-of-the-art physics modules. | https://github.com/GENIE-MC/Generator | ['exploit'] | 1 | 2021-09-24 13:58:34+00:00 | 189984 | 24 | C++ | 54 | [] |
+| SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | A unique, multithreaded Slow DoS exploit against web servers that use vulnerable versions of thread-based web server software (Apache 1.x, Apache 2.x, httpd, etc.); and is effective against even some mitigation mechanisms such as poorly implemented reverse | https://github.com/SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | ['exploit'] | 1 | 2021-09-24 09:43:14+00:00 | 1002 | 9 | Python | 0 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-09-24 12:44:22+00:00 | 293829 | 78 | Python | 13 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-09-24 19:36:39+00:00 | 15208 | 774 | PowerShell | 180 | [] |
 | cgq-qgc/pacc-inrs | Indicateurs de l’état des ressources en eau souterraine sous l’effet du climat et de leur exploitation | https://github.com/cgq-qgc/pacc-inrs | ['exploit'] | 1 | 2021-09-24 13:51:44+00:00 | 124116 | 1 | Python | 0 | [] |
@@ -86,8 +87,8 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-24 05:07:24+00:00 | 239679 | 6486 | C | 1801 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-24 14:07:29+00:00 | 3500 | 2475 | PowerShell | 712 | [] |
 | Jian-Xian/CVE-POC | None | https://github.com/Jian-Xian/CVE-POC | ['cve poc'] | 1 | 2021-09-24 09:09:27+00:00 | 5207 | 4 | | 2 | [] |
+| AL-AlamySploit/metasploit1 | None | https://github.com/AL-AlamySploit/metasploit1 | ['metasploit module OR payload'] | 1 | 2021-09-24 11:13:48+00:00 | 13 | 0 | Shell | 0 | [] |
 | PeterStolz/pwntools_templates | This repository contains templates that you can use for binary exploiting. It aims to speed up the process of exploit creation during CTF competitions. | https://github.com/PeterStolz/pwntools_templates | ['exploit'] | 1 | 2021-09-24 09:56:39+00:00 | 16 | 0 | Python | 0 | [] |
-| SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | A unique, multithreaded Slow DoS exploit against web servers that use vulnerable versions of thread-based web server software (Apache 1.x, Apache 2.x, httpd, etc.); and is effective against even some mitigation mechanisms such as poorly implemented reverse | https://github.com/SHUR1K-N/GETreqt-Multithreaded-Slow-DoS-Attack | ['exploit'] | 1 | 2021-09-24 09:43:14+00:00 | 1002 | 9 | Python | 0 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2021-09-24 10:20:15+00:00 | 123817 | 267 | Go | 49 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-24 12:06:39+00:00 | 101620 | 0 | JavaScript | 0 | [] |
 | Fans0n-Fan/Awesome-IoT-exp | Share some archives about IoT exploits. | https://github.com/Fans0n-Fan/Awesome-IoT-exp | ['exploit'] | 1 | 2021-09-24 03:50:04+00:00 | 0 | 0 | Python | 0 | [] |
