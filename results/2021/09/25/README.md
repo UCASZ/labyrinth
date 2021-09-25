@@ -1,21 +1,23 @@
 
 # Summary for results/2021/09/25
     
-38 records found after deduplication
+42 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-25 03:12:38+00:00 | 630341 | 25143 | Ruby | 11592 | [] |
-| purple-WL/CNVD-2020-75301 | nan | https://github.com/purple-WL/CNVD-2020-75301 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-09-25 03:46:45+00:00 | 0 | 0 | nan | 0 | [] |
+| kaFox4/FxSploits | None | https://github.com/kaFox4/FxSploits | ['sploit'] | 1 | 2021-09-25 03:32:43+00:00 | 0 | 0 | nan | 0 | [] |
+| EthanMcDonagh/SimulatorFucker | Simple exploits I made because I was bored, credit to Aika for the library. | https://github.com/EthanMcDonagh/SimulatorFucker | ['exploit'] | 1 | 2021-09-25 00:25:38+00:00 | 214 | 0 | Lua | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-25 03:24:32+00:00 | 650 | 11 | JavaScript | 6 | [] |
+| 0bfxgh0st/LFI2RCE | Local File Inclusion to Remote Code Execution | https://github.com/0bfxgh0st/LFI2RCE | ['rce', 'remote code execution'] | 2 | 2021-09-25 12:19:41+00:00 | 1113 | 0 | Shell | 0 | [] |
 | Beefers/rape | A Cumcord dev mode RCE. | https://github.com/Beefers/rape | ['rce'] | 1 | 2021-09-25 00:28:50+00:00 | 0 | 0 | CSS | 0 | [] |
 | twisted007/mantis_rce | None | https://github.com/twisted007/mantis_rce | ['rce'] | 1 | 2021-09-25 00:58:47+00:00 | 2 | 0 | Python | 0 | [] |
 | kaFox4/FxSploit | Nice | https://github.com/kaFox4/FxSploit | ['sploit'] | 1 | 2021-09-25 00:51:24+00:00 | 0 | 0 | nan | 0 | [] |
 | breakfix/DLL_hijack_template | Pre-compiled template DLL's to quickly POC DLL hijack vulnerabilities | https://github.com/breakfix/DLL_hijack_template | ['vulnerability poc'] | 1 | 2021-09-25 02:25:05+00:00 | 0 | 0 | nan | 0 | [] |
 | hacker53478/BobloxExploit | fsdjkfdsgdhsfjgdfx | https://github.com/hacker53478/BobloxExploit | ['exploit'] | 1 | 2021-09-25 02:33:33+00:00 | 0 | 0 | | 0 | [] |
-| kaFox4/FxSploits | None | https://github.com/kaFox4/FxSploits | ['sploit'] | 1 | 2021-09-25 03:32:43+00:00 | 0 | 0 | nan | 0 | [] |
-| ORCA666/artifact64 | THIS REPO IS PART OF WHAT ORCA TOLD ME TO UPLOAD | https://github.com/ORCA666/artifact64 | ['shellcode'] | 1 | 2021-09-25 07:45:48+00:00 | 697 | 0 | C | 0 | [] |
+| purple-WL/CNVD-2020-75301 | nan | https://github.com/purple-WL/CNVD-2020-75301 | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-09-25 03:46:45+00:00 | 0 | 0 | nan | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-25 05:07:23+00:00 | 241844 | 6488 | C | 1801 | [] |
+| ORCA666/artifact64 | THIS REPO IS PART OF WHAT ORCA TOLD ME TO UPLOAD | https://github.com/ORCA666/artifact64 | ['shellcode'] | 1 | 2021-09-25 07:45:48+00:00 | 697 | 0 | C | 0 | [] |
 | ORCA666/artifact32 | THIS REPO IS PART OF WHAT ORCA TOLD ME TO UPLOAD | https://github.com/ORCA666/artifact32 | ['shellcode'] | 1 | 2021-09-25 07:47:10+00:00 | 1073 | 0 | Assembly | 0 | [] |
 | Janvcd/CVexp2 | None | https://github.com/Janvcd/CVexp2 | ['cve-2 OR cve_2'] | 1 | 2021-09-25 04:28:43+00:00 | 0 | 0 | HTML | 0 | [] |
 | 5gstudent/CVE-2021-22005- | CVE-2021-22005批量验证python脚本 | https://github.com/5gstudent/CVE-2021-22005- | ['cve-2 OR cve_2'] | 1 | 2021-09-25 07:19:42+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
@@ -23,11 +25,12 @@
 | tercen/teRcenApi | Tercen R api | https://github.com/tercen/teRcenApi | ['rce'] | 1 | 2021-09-25 08:09:51+00:00 | 0 | 0 | | 0 | [] |
 | 0xMx/GimmeDorks | Extract Dorks from exploit-db | https://github.com/0xMx/GimmeDorks | ['exploit'] | 1 | 2021-09-25 09:13:05+00:00 | 0 | 0 | Python | 0 | [] |
 | noobprogammier/XFRPC | This is exploitation tool for weaknesses in WP-sites. Do not use it for illegal activities! | https://github.com/noobprogammier/XFRPC | ['exploit'] | 1 | 2021-09-25 09:19:30+00:00 | 0 | 1 | Python | 0 | [] |
-| EthanMcDonagh/SimulatorFucker | Simple exploits I made because I was bored, credit to Aika for the library. | https://github.com/EthanMcDonagh/SimulatorFucker | ['exploit'] | 1 | 2021-09-25 00:25:38+00:00 | 214 | 0 | Lua | 0 | [] |
 | klezVirus/CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | ['0day', 'cve-2 OR cve_2', 'exploit', 'rce'] | 4 | 2021-09-25 00:05:37+00:00 | 1059 | 367 | HTML | 71 | ['CVE-2021-40444'] |
 | Rajchowdhury420/Unobtainium-HTB-Exploit | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | ['exploit'] | 1 | 2021-09-25 10:57:04+00:00 | 284 | 1 | Python | 0 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-09-25 11:06:09+00:00 | 28485 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-25 01:05:17+00:00 | 8266 | 2 | Python | 0 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-25 00:22:06+00:00 | 5290 | 3948 | Python | 544 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-25 11:35:05+00:00 | 71838 | 10121 | Python | 1698 | [] |
 | tercen/teRcen | Tercen R client api | https://github.com/tercen/teRcen | ['rce'] | 1 | 2021-09-25 08:03:53+00:00 | 505 | 0 | R | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-25 00:16:47+00:00 | 131729 | 249 | Ruby | 75 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-09-25 01:40:42+00:00 | 2746237 | 347 | | 52 | [] |
@@ -35,11 +38,12 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-25 00:52:47+00:00 | 30991 | 22 | | 14 | [] |
 | ind3p3nd3nt/vncperlbot | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version | https://github.com/ind3p3nd3nt/vncperlbot | ['exploit'] | 1 | 2021-09-25 01:44:34+00:00 | 368 | 6 | Perl | 1 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-09-25 09:55:54+00:00 | 14 | 0 | | 0 | [] |
+| r4j0x00/exploits | None | https://github.com/r4j0x00/exploits | ['exploit'] | 1 | 2021-09-25 12:30:40+00:00 | 38 | 2366 | JavaScript | 709 | [] |
 | pucarasec/zuthaka | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools. | https://github.com/pucarasec/zuthaka | ['exploit'] | 1 | 2021-09-25 03:00:47+00:00 | 19809 | 117 | Python | 14 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-25 00:03:42+00:00 | 422672 | 32 | | 19 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-25 04:01:50+00:00 | 95510 | 187 | Python | 50 | [] |
 | hosch3n/ProxyVulns | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 Exploit Chains, Wait For Update FileWrite Exp(31207.py) | https://github.com/hosch3n/ProxyVulns | ['exploit'] | 1 | 2021-09-25 06:58:57+00:00 | 12 | 39 | Python | 8 | ['CVE-2021-26855', 'CVE-2021-27065', 'CVE-2021-31195', 'CVE-2021-31196', 'CVE-2021-34473', 'CVE-2021-34523'] |
 | Madiwka4/NuclearGravity | NuclearGravity is a game about gravity, and exploiting it to your advantage, just like everything else humanity touches | https://github.com/Madiwka4/NuclearGravity | ['exploit'] | 1 | 2021-09-25 00:52:39+00:00 | 29809 | 2 | Lua | 0 | [] |
 | idiap/distance-based-cnn | Automatic Dysarthric Speech Detection Exploiting Pairwise Distance-based Convolutional Neural Networks | https://github.com/idiap/distance-based-cnn | ['exploit'] | 1 | 2021-09-25 06:06:37+00:00 | 8548 | 0 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-25 01:05:17+00:00 | 8266 | 2 | Python | 0 | [] |
+| Nameless-chan/note-pentest | note of the different commands / informations received during my training for the eJPT, OSCP, and during CTF / box on hackthebox. | https://github.com/Nameless-chan/note-pentest | ['metasploit module OR payload'] | 1 | 2021-09-25 12:24:09+00:00 | 2 | 1 | | 0 | [] |
 | rcelena/rcelena | None | https://github.com/rcelena/rcelena | ['rce'] | 1 | 2021-09-25 09:44:08+00:00 | 0 | 0 | | 0 | [] |
