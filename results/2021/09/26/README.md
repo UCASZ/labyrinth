@@ -1,18 +1,18 @@
 
 # Summary for results/2021/09/26
     
-64 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------------------------------------------------------------------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-26 00:05:30+00:00 | 1534759 | 1509 | Python | 518 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-26 01:40:48+00:00 | 5283 | 3950 | Python | 546 | [] |
-| BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-09-26 08:36:48+00:00 | 104677 | 2 | PowerShell | 2 | [] |
+| xuanwei20/K_armed-Bandit-Problem | exploration versus exploitation in reinforcement learning by implementing a k armed bandit problem with greedy and e-greedy action selection algorithms | https://github.com/xuanwei20/K_armed-Bandit-Problem | ['exploit'] | 1 | 2021-09-26 01:27:54+00:00 | 4 | 0 | Python | 1 | [] |
 | aesophor/requiem | 🎻 S2E-based Automatic Exploit Generation (AEG) engine | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-26 15:25:20+00:00 | 9262 | 9 | C++ | 1 | [] |
 | GodlikeIGH/RBLXGameExploits | None | https://github.com/GodlikeIGH/RBLXGameExploits | ['exploit'] | 1 | 2021-09-26 12:09:06+00:00 | 2 | 0 | | 0 | [] |
 | CYB3RK1D/SHELLCODES-X86-32 | X86 shellcodes | https://github.com/CYB3RK1D/SHELLCODES-X86-32 | ['shellcode'] | 1 | 2021-09-26 08:30:52+00:00 | 5 | 1 | Assembly | 0 | [] |
 | cccyclops/skoop-secure | a meme exploit script obfuscator (for syn x). | https://github.com/cccyclops/skoop-secure | ['exploit'] | 1 | 2021-09-26 13:25:31+00:00 | 475 | 1 | C++ | 0 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2021-09-26 11:54:46+00:00 | 194 | 0 | | 0 | [] |
+| arcryi/FamilyHell | Roblox Exploit Scripts for HD Admin. This won't be of any use to you unless you're in my Discord server. | https://github.com/arcryi/FamilyHell | ['exploit'] | 1 | 2021-09-26 16:19:34+00:00 | 22 | 0 | Lua | 0 | [] |
 | leonlai1234/FYP | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | ['exploit'] | 1 | 2021-09-26 13:58:57+00:00 | 958 | 0 | Python | 0 | [] |
 | hawk-unity/hawksploit | HAWK SPLOİT TOOL | https://github.com/hawk-unity/hawksploit | ['sploit'] | 1 | 2021-09-26 12:09:51+00:00 | 29 | 0 | Python | 0 | [] |
 | AlteredSecurity/CVE-2021-38647 | CVE-2021-38647 - POC to exploit unauthenticated RCE #OMIGOD | https://github.com/AlteredSecurity/CVE-2021-38647 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-09-26 04:37:04+00:00 | 66 | 35 | PowerShell | 13 | ['CVE-2021-38647'] |
@@ -21,8 +21,8 @@
 | Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-09-26 13:28:59+00:00 | 14 | 0 | Python | 0 | [] |
 | Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-09-26 13:58:32+00:00 | 14 | 0 | Shell | 0 | [] |
 | illusionofchaos/ios-nehelper-enum-apps-0day | None | https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day | ['0day'] | 1 | 2021-09-26 12:41:38+00:00 | 87 | 75 | Swift | 34 | [] |
-| xuanwei20/K_armed-Bandit-Problem | exploration versus exploitation in reinforcement learning by implementing a k armed bandit problem with greedy and e-greedy action selection algorithms | https://github.com/xuanwei20/K_armed-Bandit-Problem | ['exploit'] | 1 | 2021-09-26 01:27:54+00:00 | 4 | 0 | Python | 1 | [] |
 | yehgdotnet/fixed-old-exploits | . | https://github.com/yehgdotnet/fixed-old-exploits | ['exploit'] | 1 | 2021-09-26 13:14:22+00:00 | 7 | 0 | Ruby | 0 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-26 01:40:48+00:00 | 5283 | 3950 | Python | 546 | [] |
 | rllbe/entitlementfix | Workaround for the 4 0-days: https://github.com/illusionofchaos/ios-gamed-0day https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day https://github.com/illusionofchaos/ios-analyticsd-p | https://github.com/rllbe/entitlementfix | ['0day', 'exploit'] | 2 | 2021-09-26 06:33:48+00:00 | 3 | 9 | Logos | 1 | [] |
 | Pabloeldiablo19/dirtyCow | exploit de la vulnerabilidad dirtyCow | https://github.com/Pabloeldiablo19/dirtyCow | ['exploit'] | 1 | 2021-09-26 11:08:02+00:00 | 2 | 0 | | 0 | [] |
 | securitysphynx/cve-2021-40444_weaponized | None | https://github.com/securitysphynx/cve-2021-40444_weaponized | ['cve-2 OR cve_2'] | 1 | 2021-09-26 14:26:03+00:00 | 2556 | 0 | Python | 0 | ['CVE-2021-40444'] |
@@ -36,10 +36,11 @@
 | TheSilkExploiter/TheSilkExploiter | Config files for my GitHub profile. | https://github.com/TheSilkExploiter/TheSilkExploiter | ['exploit'] | 1 | 2021-09-26 10:48:23+00:00 | 0 | 0 | | 0 | [] |
 | TheSilkExploiter/SilkSPloit | None | https://github.com/TheSilkExploiter/SilkSPloit | ['sploit'] | 1 | 2021-09-26 10:57:47+00:00 | 0 | 0 | | 0 | [] |
 | OriolOriolOriol/PhoneSploit | None | https://github.com/OriolOriolOriol/PhoneSploit | ['sploit'] | 1 | 2021-09-26 10:58:22+00:00 | 0 | 0 | Python | 0 | [] |
+| 0dayIg0r/0dayIg0r | Config files for my GitHub profile. | https://github.com/0dayIg0r/0dayIg0r | ['0day'] | 1 | 2021-09-26 13:57:55+00:00 | 0 | 0 | | 0 | [] |
+| BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-09-26 08:36:48+00:00 | 104677 | 2 | PowerShell | 2 | [] |
 | exploiteverythingtamil/exploiteverythingtamil.github.io | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-09-26 04:20:49+00:00 | 7407 | 4 | CSS | 0 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-09-26 07:34:07+00:00 | 745 | 133 | Python | 22 | [] |
 | sti2d-company/wallet | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | ['exploit'] | 1 | 2021-09-26 13:32:48+00:00 | 16104 | 1 | Vue | 2 | [] |
-| th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-26 14:51:25+00:00 | 3065328 | 2 | Batchfile | 0 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-09-26 11:35:04+00:00 | 69649 | 10127 | Python | 1699 | [] |
 | 0xdea/exploits | A handy collection of my public exploits, all in one place. | https://github.com/0xdea/exploits | ['exploit'] | 1 | 2021-09-26 13:59:00+00:00 | 442 | 353 | C | 93 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-26 00:17:41+00:00 | 133254 | 249 | Ruby | 75 | [] |
@@ -53,8 +54,8 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-26 15:03:48+00:00 | 31280 | 22 | | 14 | [] |
 | nu11secur1ty/Windows10Exploits | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | ['exploit'] | 1 | 2021-09-26 06:59:04+00:00 | 231997 | 343 | HTML | 104 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-09-26 03:44:12+00:00 | 501 | 81 | Java | 19 | [] |
+| th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-26 14:51:25+00:00 | 3065328 | 2 | Batchfile | 0 | [] |
 | RaghavDabra/DDOS-ATTACK-using-Python-script | A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic. DDoS attacks achieve | https://github.com/RaghavDabra/DDOS-ATTACK-using-Python-script | ['exploit'] | 1 | 2021-09-26 14:43:35+00:00 | 6917 | 3 | Python | 0 | [] |
-| navin-hariharan/TeleRat | Tired of setting up Metasploit? Here is an alternative! No need to Port Forward | https://github.com/navin-hariharan/TeleRat | ['metasploit module OR payload'] | 1 | 2021-09-26 12:43:46+00:00 | 98052 | 1 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-26 00:03:18+00:00 | 398765 | 32 | | 19 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-26 08:38:26+00:00 | 67 | 0 | PHP | 0 | [] |
 | Pen-Test3rs/binary_exploits_frontend | Educational web application demonstrating techniques of binary exploitation (Front-end) | https://github.com/Pen-Test3rs/binary_exploits_frontend | ['exploit'] | 1 | 2021-09-26 13:27:25+00:00 | 2210 | 0 | TypeScript | 0 | [] |
@@ -68,4 +69,5 @@
 | ephcoding/site__ephcoding-dot-com | Next.js site where I document my coding exploits | https://github.com/ephcoding/site__ephcoding-dot-com | ['exploit'] | 1 | 2021-09-26 11:45:01+00:00 | 4736 | 0 | JavaScript | 0 | [] |
 | idiap/distance-based-cnn | Automatic Dysarthric Speech Detection Exploiting Pairwise Distance-based Convolutional Neural Networks | https://github.com/idiap/distance-based-cnn | ['exploit'] | 1 | 2021-09-26 13:18:00+00:00 | 8549 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-26 01:08:43+00:00 | 9395 | 2 | Python | 0 | [] |
-| 0dayIg0r/0dayIg0r | Config files for my GitHub profile. | https://github.com/0dayIg0r/0dayIg0r | ['0day'] | 1 | 2021-09-26 13:57:55+00:00 | 0 | 0 | | 0 | [] |
+| navin-hariharan/TeleRat | Tired of setting up Metasploit? Here is an alternative! No need to Port Forward | https://github.com/navin-hariharan/TeleRat | ['metasploit module OR payload'] | 1 | 2021-09-26 12:43:46+00:00 | 98052 | 1 | Python | 0 | [] |
+| Skengdoo/CVE-apache-exploit | None | https://github.com/Skengdoo/CVE-apache-exploit | ['exploit'] | 1 | 2021-09-26 15:54:47+00:00 | 0 | 0 | PHP | 0 | [] |
