@@ -1,12 +1,14 @@
 
 # Summary for results/2021/09/26
     
-29 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------------------------------------------------------------------------------|
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-26 01:40:48+00:00 | 5283 | 3950 | Python | 546 | [] |
-| veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-09-26 02:18:37+00:00 | 14198 | 193 | Go | 25 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-26 00:17:41+00:00 | 133254 | 249 | Ruby | 75 | [] |
+| TTVOverLegend/Exploits | None | https://github.com/TTVOverLegend/Exploits | ['exploit'] | 1 | 2021-09-26 10:09:14+00:00 | 0 | 0 | | 0 | [] |
+| Ashraf-wan/Exploiter | None | https://github.com/Ashraf-wan/Exploiter | ['exploit'] | 1 | 2021-09-26 09:09:52+00:00 | 0 | 0 | Python | 0 | [] |
 | exploitenomah/My-personal-site | A brief introduction to Exploit Enomah. | https://github.com/exploitenomah/My-personal-site | ['exploit'] | 1 | 2021-09-26 07:49:02+00:00 | 0 | 0 | CSS | 0 | [] |
 | d55pak/moodle_rce_zip | moodle_rce | https://github.com/d55pak/moodle_rce_zip | ['rce'] | 1 | 2021-09-26 07:10:41+00:00 | 0 | 0 | | 0 | [] |
 | I2rys/MsfSearch | A really simple demonstration on how to search modules via keyword like Metasploit using NodeJS | https://github.com/I2rys/MsfSearch | ['metasploit module OR payload'] | 1 | 2021-09-26 07:08:50+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -19,9 +21,10 @@
 | exploiteverythingtamil/exploiteverythingtamil.github.io | Tamil CTF Site | https://github.com/exploiteverythingtamil/exploiteverythingtamil.github.io | ['exploit'] | 1 | 2021-09-26 04:20:49+00:00 | 7407 | 4 | CSS | 0 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-09-26 07:34:07+00:00 | 745 | 133 | Python | 22 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-26 01:08:43+00:00 | 9395 | 2 | Python | 0 | [] |
+| veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-09-26 02:18:37+00:00 | 14198 | 193 | Go | 25 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-26 05:04:20+00:00 | 402543 | 0 | Python | 0 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-26 00:17:41+00:00 | 133254 | 249 | Ruby | 75 | [] |
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-09-26 07:42:29+00:00 | 17062 | 0 | Python | 0 | [] |
+| hosch3n/ProxyVulns | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 Exploit Chains, Wait For Update FileWrite Exp(31207.py) | https://github.com/hosch3n/ProxyVulns | ['exploit'] | 1 | 2021-09-26 10:18:19+00:00 | 3893 | 63 | Python | 15 | ['CVE-2021-26855', 'CVE-2021-27065', 'CVE-2021-31195', 'CVE-2021-31196', 'CVE-2021-34473', 'CVE-2021-34523'] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-26 04:02:24+00:00 | 98334 | 190 | Python | 54 | [] |
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-09-26 01:39:44+00:00 | 4265 | 58 | HTML | 23 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-26 08:38:26+00:00 | 67 | 0 | PHP | 0 | [] |
@@ -33,4 +36,4 @@
 | Deadpool2000/Paybag | Simple and easy Metasploit payload generator for Linux & Termux | https://github.com/Deadpool2000/Paybag | ['metasploit module OR payload'] | 1 | 2021-09-26 05:49:42+00:00 | 60 | 18 | Python | 3 | [] |
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-09-26 02:52:22+00:00 | 3852 | 2023 | Python | 577 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-09-26 01:35:51+00:00 | 2759180 | 349 | | 52 | [] |
-| Ashraf-wan/Exploiter | None | https://github.com/Ashraf-wan/Exploiter | ['exploit'] | 1 | 2021-09-26 09:09:52+00:00 | 0 | 0 | Python | 0 | [] |
+| Lolpprogamer666/Minecraft-exploit | This is an Minecraft exploit for cracked server with no login. | https://github.com/Lolpprogamer666/Minecraft-exploit | ['exploit'] | 1 | 2021-09-26 10:30:16+00:00 | 0 | 0 | | 0 | [] |
