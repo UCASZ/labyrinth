@@ -1,12 +1,14 @@
 
 # Summary for results/2021/09/27
     
-29 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-27 00:05:31+00:00 | 1534759 | 1509 | Python | 518 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-27 01:06:41+00:00 | 10219 | 2 | Python | 0 | [] |
+| arcryi/FamilyHell | Roblox Exploit Scripts for HD Admin. This won't be of any use to you unless you're in my Discord server. | https://github.com/arcryi/FamilyHell | ['exploit'] | 1 | 2021-09-27 00:33:11+00:00 | 32 | 0 | Lua | 0 | [] |
+| Kushagra3911/Metasploit-Penetration-Testing-Cookbook-3rd-Edition | Metasploit Penetration Testing Cookbook 3rd Edition Free On Github | https://github.com/Kushagra3911/Metasploit-Penetration-Testing-Cookbook-3rd-Edition | ['metasploit module OR payload'] | 1 | 2021-09-27 04:55:24+00:00 | 0 | 0 | | 0 | [] |
+| The-Memzer/SlowDos | Starts small but, gets deadly. | https://github.com/The-Memzer/SlowDos | ['exploit'] | 1 | 2021-09-27 03:41:53+00:00 | 0 | 0 | Python | 0 | [] |
 | HadesW/power-kill | power-kill is a project that kill protected processes (such as EDR or AV) by injecting shellcode into high privilege processes | https://github.com/HadesW/power-kill | ['shellcode'] | 1 | 2021-09-27 03:31:29+00:00 | 0 | 0 | | 0 | [] |
 | RedTeamExp/CVE-2021-22005_PoC | CVE-2021-22005_PoC | https://github.com/RedTeamExp/CVE-2021-22005_PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-27 03:18:47+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
 | nericksen/terraform-exploit-lab-example | A simple terraform exploit lab with vulnerable container from Vulhub + Kali Linux | https://github.com/nericksen/terraform-exploit-lab-example | ['exploit'] | 1 | 2021-09-27 03:03:56+00:00 | 0 | 0 | | 0 | [] |
@@ -18,9 +20,9 @@
 | AbdaalRuhaani/RuhaaniExploits | None | https://github.com/AbdaalRuhaani/RuhaaniExploits | ['exploit'] | 1 | 2021-09-27 00:29:52+00:00 | 317 | 0 | | 0 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-27 04:33:35+00:00 | 164 | 0 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-27 01:42:11+00:00 | 895 | 18 | JavaScript | 12 | [] |
-| arcryi/FamilyHell | Roblox Exploit Scripts for HD Admin. This won't be of any use to you unless you're in my Discord server. | https://github.com/arcryi/FamilyHell | ['exploit'] | 1 | 2021-09-27 00:33:11+00:00 | 32 | 0 | Lua | 0 | [] |
-| axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-27 02:41:44+00:00 | 402543 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-27 01:06:41+00:00 | 10219 | 2 | Python | 0 | [] |
 | 1N3/Findsploit | Find exploits in local and online databases instantly | https://github.com/1N3/Findsploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-27 01:43:24+00:00 | 1671 | 1230 | Shell | 301 | [] |
+| axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-27 02:41:44+00:00 | 402543 | 0 | Python | 0 | [] |
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-09-27 00:48:28+00:00 | 17064 | 0 | CSS | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-27 04:02:04+00:00 | 29352 | 194 | Python | 56 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-27 01:40:27+00:00 | 68 | 0 | PHP | 0 | [] |
@@ -33,4 +35,4 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-27 00:16:44+00:00 | 134778 | 249 | Ruby | 75 | [] |
 | 1N3/Exploits | Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity | https://github.com/1N3/Exploits | ['0day', 'cve poc', 'exploit'] | 3 | 2021-09-27 01:48:13+00:00 | 53 | 160 | Python | 92 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-27 00:18:29+00:00 | 5283 | 3955 | Python | 545 | [] |
-| The-Memzer/SlowDos | Starts small but, gets deadly. | https://github.com/The-Memzer/SlowDos | ['exploit'] | 1 | 2021-09-27 03:41:53+00:00 | 0 | 0 | Python | 0 | [] |
+| k4is3r13/Bash-Script-CVE-2018-16763 | FUEL CMS 1.4.1 allows PHP Code Evaluation via the pages/select/ filter parameter or the preview/ data parameter. This can lead to Pre-Auth Remote Code Execution. | https://github.com/k4is3r13/Bash-Script-CVE-2018-16763 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-27 05:17:12+00:00 | 0 | 0 | Shell | 0 | ['CVE-2018-16763'] |
