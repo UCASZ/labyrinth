@@ -1,15 +1,23 @@
 
 # Summary for results/2021/09/27
     
-8 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-27 00:05:31+00:00 | 1534759 | 1509 | Python | 518 | [] |
+| 1N3/Findsploit | Find exploits in local and online databases instantly | https://github.com/1N3/Findsploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-27 01:43:24+00:00 | 1671 | 1230 | Shell | 301 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-27 00:18:29+00:00 | 5283 | 3955 | Python | 545 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-27 00:16:44+00:00 | 134778 | 249 | Ruby | 75 | [] |
+| 1N3/BlackWidow | A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. | https://github.com/1N3/BlackWidow | ['rce'] | 1 | 2021-09-27 01:41:41+00:00 | 228 | 986 | Python | 305 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-09-27 00:14:26+00:00 | 15215 | 783 | PowerShell | 181 | [] |
+| Ruia-ruia/Exploits | None | https://github.com/Ruia-ruia/Exploits | ['exploit'] | 1 | 2021-09-27 01:45:12+00:00 | 60 | 4 | C | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-27 00:02:52+00:00 | 399564 | 32 | | 19 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-27 01:40:27+00:00 | 68 | 0 | PHP | 0 | [] |
+| wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-09-27 00:48:28+00:00 | 17064 | 0 | CSS | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-27 01:06:41+00:00 | 10219 | 2 | Python | 0 | [] |
 | arcryi/FamilyHell | Roblox Exploit Scripts for HD Admin. This won't be of any use to you unless you're in my Discord server. | https://github.com/arcryi/FamilyHell | ['exploit'] | 1 | 2021-09-27 00:33:11+00:00 | 32 | 0 | Lua | 0 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-27 01:42:11+00:00 | 895 | 18 | JavaScript | 12 | [] |
 | AbdaalRuhaani/RuhaaniExploits | None | https://github.com/AbdaalRuhaani/RuhaaniExploits | ['exploit'] | 1 | 2021-09-27 00:29:52+00:00 | 317 | 0 | | 0 | [] |
+| giwon9977/CVE-2021-33739_PoC | CVE-2021-33739 PoC Analysis | https://github.com/giwon9977/CVE-2021-33739_PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-27 01:45:17+00:00 | 16 | 1 | C++ | 2 | ['CVE-2021-33739'] |
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-09-27 00:13:55+00:00 | 151 | 6 | C++ | 0 | [] |
