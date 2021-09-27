@@ -9,7 +9,7 @@
 | AN-Tech-Crew/wa.exe-BETA | wa.exe - Exploit Key to crown👑 | https://github.com/AN-Tech-Crew/wa.exe-BETA | ['exploit'] | 1 | 2021-09-26 17:51:22+00:00 | 4480 | 0 | JavaScript | 0 | [] |
 | yehgdotnet/fixed-old-exploits | . | https://github.com/yehgdotnet/fixed-old-exploits | ['exploit'] | 1 | 2021-09-26 13:14:22+00:00 | 7 | 0 | Ruby | 0 | [] |
 | xuanwei20/K_armed-Bandit-Problem | exploration versus exploitation in reinforcement learning by implementing a k armed bandit problem with greedy and e-greedy action selection algorithms | https://github.com/xuanwei20/K_armed-Bandit-Problem | ['exploit'] | 1 | 2021-09-26 01:27:54+00:00 | 4 | 0 | Python | 1 | [] |
-| illusionofchaos/ios-nehelper-enum-apps-0day | None | https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day | ['0day'] | 1 | 2021-09-26 12:41:38+00:00 | 87 | 75 | Swift | 34 | [] |
+| illusionofchaos/ios-nehelper-enum-apps-0day | None | https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day | ['0day', 'exploit'] | 2 | 2021-09-26 12:41:38+00:00 | 87 | 75 | Swift | 34 | [] |
 | Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-09-26 13:58:32+00:00 | 14 | 0 | Shell | 0 | [] |
 | Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-09-26 13:28:59+00:00 | 14 | 0 | Python | 0 | [] |
 | NeKroFR/CVE-2018-16763 | CVE-2018-16763 but without errors | https://github.com/NeKroFR/CVE-2018-16763 | ['cve-2 OR cve_2'] | 1 | 2021-09-26 11:22:53+00:00 | 3 | 0 | Python | 0 | ['CVE-2018-16763'] |
