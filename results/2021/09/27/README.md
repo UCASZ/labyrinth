@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/27
     
-51 records found after deduplication
+55 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------------------------------------------------------------------------------|
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-27 00:05:31+00:00 | 1534759 | 1509 | Python | 518 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-27 09:22:17+00:00 | 630341 | 25167 | Ruby | 11599 | [] |
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-09-27 00:13:55+00:00 | 151 | 6 | C++ | 0 | [] |
+| SarfarazMir/Linux-x86-Shellcode | None | https://github.com/SarfarazMir/Linux-x86-Shellcode | ['shellcode'] | 1 | 2021-09-27 07:47:37+00:00 | 1 | 0 | Assembly | 0 | [] |
 | arcryi/FamilyHell | Roblox Exploit Scripts for HD Admin. This won't be of any use to you unless you're in my Discord server. | https://github.com/arcryi/FamilyHell | ['exploit'] | 1 | 2021-09-27 00:33:11+00:00 | 32 | 0 | Lua | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-27 01:42:11+00:00 | 895 | 18 | JavaScript | 12 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-27 04:33:35+00:00 | 164 | 0 | Python | 0 | [] |
@@ -29,10 +30,12 @@
 | antx-code/CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | ['cve-2 OR cve_2'] | 1 | 2021-09-27 06:25:50+00:00 | 0 | 2 | Python | 1 | ['CVE-2021-31166'] |
 | henro47/ITRI625-Metasploit-Blog | None | https://github.com/henro47/ITRI625-Metasploit-Blog | ['metasploit module OR payload'] | 1 | 2021-09-27 06:15:51+00:00 | 0 | 0 | HTML | 0 | [] |
 | blank-uka/monlyceenumerique-post-code-exploit | monlyceenumerique.fr post code exploit get all code of the page with a simple exploit | https://github.com/blank-uka/monlyceenumerique-post-code-exploit | ['exploit'] | 1 | 2021-09-27 09:24:05+00:00 | 0 | 0 | | 0 | [] |
-| SarfarazMir/Linux-x86-Shellcode | None | https://github.com/SarfarazMir/Linux-x86-Shellcode | ['shellcode'] | 1 | 2021-09-27 07:47:37+00:00 | 1 | 0 | Assembly | 0 | [] |
+| mikias21/zeroday-vulnerability-dataset-2nd | None | https://github.com/mikias21/zeroday-vulnerability-dataset-2nd | ['zeroday'] | 1 | 2021-09-27 09:29:14+00:00 | 0 | 0 | | 0 | [] |
+| aesophor/requiem | 🎻 S2E-based Automatic Exploit Generation (AEG) engine | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-27 09:54:18+00:00 | 9269 | 9 | C++ | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-27 01:06:41+00:00 | 10219 | 2 | Python | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-27 00:05:31+00:00 | 1534759 | 1509 | Python | 518 | [] |
+| rng70/Hacking-Resources | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | ['exploit'] | 1 | 2021-09-27 09:49:26+00:00 | 1927945 | 9 | Python | 0 | [] |
 | 1N3/Findsploit | Find exploits in local and online databases instantly | https://github.com/1N3/Findsploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-27 01:43:24+00:00 | 1671 | 1230 | Shell | 301 | [] |
-| Ruia-ruia/Exploits | None | https://github.com/Ruia-ruia/Exploits | ['exploit'] | 1 | 2021-09-27 01:45:12+00:00 | 60 | 4 | C | 0 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-27 00:18:29+00:00 | 5283 | 3955 | Python | 545 | [] |
 | 1N3/Exploits | Exploits by 1N3 @CrowdShield @xer0dayz @XeroSecurity | https://github.com/1N3/Exploits | ['0day', 'cve poc', 'exploit'] | 3 | 2021-09-27 01:48:13+00:00 | 53 | 160 | Python | 92 | [] |
 | robertdebock/mirror | A (Docker) application to mirror any website. | https://github.com/robertdebock/mirror | ['shellcode'] | 1 | 2021-09-27 07:19:51+00:00 | 24 | 10 | Shell | 2 | [] |
@@ -43,8 +46,9 @@
 | knownsec/pocsuite3 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. | https://github.com/knownsec/pocsuite3 | ['vulnerability poc'] | 1 | 2021-09-27 07:06:02+00:00 | 3854 | 2035 | Python | 584 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-09-27 06:55:24+00:00 | 35704 | 5855 | Vue | 1224 | [] |
 | dagheyman/awesome-binary-exploitation | None | https://github.com/dagheyman/awesome-binary-exploitation | ['exploit'] | 1 | 2021-09-27 07:27:37+00:00 | 19 | 0 | | 0 | [] |
-| zhzyker/vulmap | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | ['exploit', 'rce'] | 2 | 2021-09-27 01:49:14+00:00 | 3401 | 1724 | Python | 329 | [] |
+| Ruia-ruia/Exploits | None | https://github.com/Ruia-ruia/Exploits | ['exploit'] | 1 | 2021-09-27 01:45:12+00:00 | 60 | 4 | C | 0 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-09-27 09:14:54+00:00 | 1613 | 3 | Julia | 0 | [] |
+| zhzyker/vulmap | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | ['exploit', 'rce'] | 2 | 2021-09-27 01:49:14+00:00 | 3401 | 1724 | Python | 329 | [] |
 | cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2021-09-27 03:26:37+00:00 | 9780 | 1726 | Go | 271 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-27 00:02:52+00:00 | 399564 | 32 | | 19 | [] |
 | enkomio/AlanFramework | A post-exploitation framework | https://github.com/enkomio/AlanFramework | ['exploit'] | 1 | 2021-09-27 09:02:41+00:00 | 2317 | 82 | | 16 | [] |
@@ -55,4 +59,4 @@
 | hosch3n/ProxyVulns | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 Exploit Chains, Wait For Update FileWrite Exp(31207.py) | https://github.com/hosch3n/ProxyVulns | ['exploit'] | 1 | 2021-09-27 07:17:45+00:00 | 3896 | 69 | Python | 16 | ['CVE-2021-26855', 'CVE-2021-27065', 'CVE-2021-31195', 'CVE-2021-31196', 'CVE-2021-34473', 'CVE-2021-34523'] |
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-09-27 00:48:28+00:00 | 17064 | 0 | CSS | 0 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-27 02:41:44+00:00 | 402543 | 0 | Python | 0 | [] |
-| mikias21/zeroday-vulnerability-dataset-2nd | None | https://github.com/mikias21/zeroday-vulnerability-dataset-2nd | ['zeroday'] | 1 | 2021-09-27 09:29:14+00:00 | 0 | 0 | | 0 | [] |
+| sinandmr/csrf-class | PHP CSRF Exploit blocking class | https://github.com/sinandmr/csrf-class | ['exploit'] | 1 | 2021-09-27 10:23:48+00:00 | 0 | 0 | PHP | 0 | [] |
