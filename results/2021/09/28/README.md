@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/28
     
-17 records found after deduplication
+19 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
@@ -10,6 +10,7 @@
 | karisanno11/BrickWallVulnerability | The goal of this assessment is to see where in Brick Wall Cyber’s structures and software there are critical security issues that could be exploited to halt BWC’s work, erode client trust or cost money through recovering from malicious attacks. | https://github.com/karisanno11/BrickWallVulnerability | ['exploit'] | 1 | 2021-09-28 01:47:17+00:00 | 0 | 0 | | 0 | [] |
 | thesubtlety/goshin | A basic pseudo shell for command injection | https://github.com/thesubtlety/goshin | ['command injection'] | 1 | 2021-09-28 01:04:19+00:00 | 0 | 0 | Go | 0 | [] |
 | Wans1e/PY-NET | PY-NET is a cross-platform C2C server hosting program requiring zero third-party dependencies. Supporting both AES & TLS encrypted connections over TCP. | https://github.com/Wans1e/PY-NET | ['rce'] | 1 | 2021-09-28 01:34:12+00:00 | 91 | 1 | Python | 0 | [] |
+| Ashraf-wan/Exploiter | None | https://github.com/Ashraf-wan/Exploiter | ['exploit'] | 1 | 2021-09-28 02:46:26+00:00 | 7 | 1 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-28 00:36:46+00:00 | 1024 | 19 | JavaScript | 17 | [] |
 | Mdot0/Pentesting-Methodology- | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF. | https://github.com/Mdot0/Pentesting-Methodology- | ['exploit'] | 1 | 2021-09-28 02:30:54+00:00 | 768 | 1 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-28 01:07:52+00:00 | 11270 | 2 | Python | 0 | [] |
@@ -20,5 +21,6 @@
 | FunnyGuilds/FunnyCommands | FunnyGuilds commands framework based on top of the Panda dependency injection 🔨 | https://github.com/FunnyGuilds/FunnyCommands | ['command injection'] | 1 | 2021-09-28 01:16:44+00:00 | 354 | 11 | Java | 0 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-09-28 00:21:08+00:00 | 238 | 7 | Go | 7 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-28 00:52:50+00:00 | 31665 | 22 | | 14 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-09-28 03:31:48+00:00 | 35704 | 5858 | Vue | 1225 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-28 00:17:10+00:00 | 134779 | 250 | Ruby | 75 | [] |
 | klezVirus/msf-revhttp-gen | Little utility to facilitate Metasploit Reverse HTTP Payloads | https://github.com/klezVirus/msf-revhttp-gen | ['metasploit module OR payload'] | 1 | 2021-09-28 02:28:50+00:00 | 0 | 0 | Shell | 0 | [] |
