@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/28
     
-113 records found after deduplication
+115 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-28 13:24:10+00:00 | 630205 | 25177 | Ruby | 11605 | [] |
-| kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-09-28 11:40:47+00:00 | 1693 | 3 | Julia | 0 | [] |
+| Wans1e/PY-NET | PY-NET is a cross-platform C2C server hosting program requiring zero third-party dependencies. Supporting both AES & TLS encrypted connections over TCP. | https://github.com/Wans1e/PY-NET | ['rce'] | 1 | 2021-09-28 01:34:12+00:00 | 91 | 1 | Python | 0 | [] |
 | Ashraf-wan/Exploiter | None | https://github.com/Ashraf-wan/Exploiter | ['exploit'] | 1 | 2021-09-28 02:46:26+00:00 | 7 | 1 | Python | 0 | [] |
 | tercen/teRcenApi | Tercen R api | https://github.com/tercen/teRcenApi | ['rce'] | 1 | 2021-09-28 14:13:18+00:00 | 261 | 0 | R | 0 | [] |
 | RaphaelUebersax/Incrementally-Learning-and-Exploiting-Inverse-Dynamics | Semestre Project at LASA | https://github.com/RaphaelUebersax/Incrementally-Learning-and-Exploiting-Inverse-Dynamics | ['exploit'] | 1 | 2021-09-28 08:37:58+00:00 | 0 | 1 | CMake | 0 | [] |
@@ -16,6 +16,7 @@
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-28 00:36:46+00:00 | 1024 | 19 | JavaScript | 17 | [] |
 | ngovinhhuy/Protostar_exploit | https://exploit.education/protostar/ | https://github.com/ngovinhhuy/Protostar_exploit | ['exploit'] | 1 | 2021-09-28 06:13:51+00:00 | 8 | 0 | Python | 0 | [] |
 | itsjaylen/SchoolExploits | Ways to bypass school restrictions and collect data | https://github.com/itsjaylen/SchoolExploits | ['exploit'] | 1 | 2021-09-28 11:03:27+00:00 | 13 | 0 | Python | 0 | [] |
+| corelight/CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI | https://github.com/corelight/CVE-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2021-09-28 23:28:28+00:00 | 2814 | 3 | Zeek | 3 | ['CVE-2021-38647'] |
 | y0usefalsaadany/data-sploit | this tool for networking | https://github.com/y0usefalsaadany/data-sploit | ['sploit'] | 1 | 2021-09-28 08:06:54+00:00 | 847 | 1 | Python | 0 | [] |
 | anderlos/python_RCE | None | https://github.com/anderlos/python_RCE | ['rce'] | 1 | 2021-09-28 08:29:56+00:00 | 4 | 0 | Python | 0 | [] |
 | xen0vas/Win32-Reverse-TCP-Shellcode | Windows Reverse TCP Shellcode ( 330 Bytes ) | https://github.com/xen0vas/Win32-Reverse-TCP-Shellcode | ['shellcode'] | 1 | 2021-09-28 11:58:25+00:00 | 37 | 0 | C | 0 | [] |
@@ -31,11 +32,11 @@
 | Mdot0/Pentesting-Methodology- | When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF. | https://github.com/Mdot0/Pentesting-Methodology- | ['exploit'] | 1 | 2021-09-28 02:30:54+00:00 | 768 | 1 | | 0 | [] |
 | Edgarloyola/CVE-2021-36563 | None | https://github.com/Edgarloyola/CVE-2021-36563 | ['cve-2 OR cve_2'] | 1 | 2021-09-28 11:43:58+00:00 | 3251 | 0 | | 0 | ['CVE-2021-36563'] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-28 01:07:52+00:00 | 11270 | 2 | Python | 0 | [] |
-| Professor-Puddle/Roblox-Dev | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | ['exploit'] | 1 | 2021-09-28 05:47:09+00:00 | 1077 | 0 | Lua | 0 | [] |
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-09-28 09:10:07+00:00 | 356 | 225 | C++ | 39 | [] |
-| Wans1e/PY-NET | PY-NET is a cross-platform C2C server hosting program requiring zero third-party dependencies. Supporting both AES & TLS encrypted connections over TCP. | https://github.com/Wans1e/PY-NET | ['rce'] | 1 | 2021-09-28 01:34:12+00:00 | 91 | 1 | Python | 0 | [] |
 | henro47/ITRI625-Metasploit-Blog | None | https://github.com/henro47/ITRI625-Metasploit-Blog | ['metasploit module OR payload'] | 1 | 2021-09-28 11:14:34+00:00 | 408 | 0 | TypeScript | 0 | [] |
-| vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2021-09-28 14:14:43+00:00 | 0 | 0 | | 0 | [] |
+| SleepTheGod/Discord | 0day | https://github.com/SleepTheGod/Discord | ['0day'] | 1 | 2021-09-28 06:32:09+00:00 | 0 | 0 | Python | 0 | [] |
+| xenos1337/Discord-Token-Generator | Working Discord Token Generator | https://github.com/xenos1337/Discord-Token-Generator | ['exploit'] | 1 | 2021-09-28 12:45:38+00:00 | 23 | 0 | Python | 0 | [] |
+| tylerwarre/shellcode-tools | None | https://github.com/tylerwarre/shellcode-tools | ['shellcode'] | 1 | 2021-09-28 21:37:07+00:00 | 0 | 0 | Python | 0 | [] |
 | Jagroop-Singh/CTF | CTF website using Django, Apache, and PostgresSQL. Will feature cloudflare protection that requires exploit to get source ip, to get to ssh section. | https://github.com/Jagroop-Singh/CTF | ['exploit'] | 1 | 2021-09-28 21:49:46+00:00 | 0 | 0 | Python | 0 | [] |
 | rwincey/CVE-2021-22005 | None | https://github.com/rwincey/CVE-2021-22005 | ['cve-2 OR cve_2'] | 1 | 2021-09-28 21:08:21+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-22005'] |
 | CYB3RK1D/X86-64_SHELLCODES | None | https://github.com/CYB3RK1D/X86-64_SHELLCODES | ['shellcode'] | 1 | 2021-09-28 20:21:16+00:00 | 0 | 0 | Assembly | 0 | [] |
@@ -47,8 +48,8 @@
 | visheshk27/Raspberry-pi-pico | Exploits in Micropython | https://github.com/visheshk27/Raspberry-pi-pico | ['exploit'] | 1 | 2021-09-28 18:25:34+00:00 | 0 | 0 | | 0 | [] |
 | icyguider/Shhhloader | SysWhispers Shellcode Loader (Work in Progress) | https://github.com/icyguider/Shhhloader | ['shellcode'] | 1 | 2021-09-28 16:59:57+00:00 | 20 | 0 | C | 0 | [] |
 | whyisthesheep/ITExploits | a few school exploits | https://github.com/whyisthesheep/ITExploits | ['exploit'] | 1 | 2021-09-28 14:21:21+00:00 | 0 | 0 | | 0 | [] |
+| vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2021-09-28 14:14:43+00:00 | 0 | 0 | | 0 | [] |
 | dock0d1/Struts-2.5---2.5.12-REST-Plugin-XStream-RCE | Struts 2.5 - 2.5.12 REST Plugin XStream RCE | https://github.com/dock0d1/Struts-2.5---2.5.12-REST-Plugin-XStream-RCE | ['rce'] | 1 | 2021-09-28 11:50:44+00:00 | 0 | 0 | Python | 0 | [] |
-| xenos1337/Discord-Token-Generator | Working Discord Token Generator | https://github.com/xenos1337/Discord-Token-Generator | ['exploit'] | 1 | 2021-09-28 12:45:38+00:00 | 23 | 0 | Python | 0 | [] |
 | Payal1995dot/The-Importance-of-Digital-Marketing-for-private-venture-in-2021- | In case you are an entrepreneur and you need to stay aware of the recently digitized, innovation driven world then you can't overlook digital marketing. There are a developing and extremely worthwhile online commercial center and digital marketing can assi | https://github.com/Payal1995dot/The-Importance-of-Digital-Marketing-for-private-venture-in-2021- | ['exploit'] | 1 | 2021-09-28 11:34:17+00:00 | 0 | 0 | | 0 | [] |
 | TarunYenni/exploits | This is a repository of exploits that helps in pentest. | https://github.com/TarunYenni/exploits | ['exploit'] | 1 | 2021-09-28 11:08:38+00:00 | 0 | 0 | Python | 0 | [] |
 | rezolved/rezolve_rce_amazon | None | https://github.com/rezolved/rezolve_rce_amazon | ['rce'] | 1 | 2021-09-28 09:58:19+00:00 | 0 | 0 | PHP | 0 | [] |
@@ -60,10 +61,10 @@
 | thesubtlety/goshin | A basic pseudo shell for command injection | https://github.com/thesubtlety/goshin | ['command injection'] | 1 | 2021-09-28 01:04:19+00:00 | 0 | 0 | Go | 0 | [] |
 | DragonExploitUgur/DragonExploitSite | None | https://github.com/DragonExploitUgur/DragonExploitSite | ['exploit'] | 1 | 2021-09-28 05:27:54+00:00 | 0 | 0 | HTML | 0 | [] |
 | rishabh-panda/TheQuantumRepo | Quantum computing is an area of study focused on the development of computer-based technologies centred around the principles of quantum theory. It is the amalgam of Physics, Mathematics, and Quantum Mechanics that exploits the collective properties of qua | https://github.com/rishabh-panda/TheQuantumRepo | ['exploit'] | 1 | 2021-09-28 13:54:42+00:00 | 79 | 1 | Jupyter Notebook | 0 | [] |
-| SleepTheGod/Discord | 0day | https://github.com/SleepTheGod/Discord | ['0day'] | 1 | 2021-09-28 06:32:09+00:00 | 0 | 0 | Python | 0 | [] |
-| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-28 07:36:15+00:00 | 101627 | 0 | JavaScript | 0 | [] |
+| Professor-Puddle/Roblox-Dev | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | ['exploit'] | 1 | 2021-09-28 05:47:09+00:00 | 1077 | 0 | Lua | 0 | [] |
+| kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-09-28 11:40:47+00:00 | 1693 | 3 | Julia | 0 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-28 10:02:01+00:00 | 21823 | 6004 | JavaScript | 1428 | [] |
-| McSl0vv/exploit | None | https://github.com/McSl0vv/exploit | ['exploit'] | 1 | 2021-09-28 16:40:08+00:00 | 1 | 0 | PHP | 0 | [] |
+| IncludeSecurity/RTSPhuzz | RTSPhuzz - An RTSP Fuzzer written using the Boofuzz framework | https://github.com/IncludeSecurity/RTSPhuzz | ['0day'] | 1 | 2021-09-28 19:58:39+00:00 | 92 | 25 | Python | 3 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-09-28 00:52:50+00:00 | 31665 | 22 | | 14 | [] |
 | 0x802/MikrotikSploit | MikrotikSploit is a script that searches for and exploits Mikrotik network vulnerabilities | https://github.com/0x802/MikrotikSploit | ['exploit', 'sploit'] | 2 | 2021-09-28 20:27:14+00:00 | 242 | 46 | Python | 18 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-28 10:12:31+00:00 | 61488 | 1229 | Python | 252 | [] |
@@ -90,9 +91,10 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-28 00:51:29+00:00 | 3570 | 2483 | PowerShell | 718 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-28 07:53:38+00:00 | 45995 | 849 | Python | 200 | [] |
 | snu-mllab/PuzzleMix | Official PyTorch implementation of "Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup" (ICML'20) | https://github.com/snu-mllab/PuzzleMix | ['exploit'] | 1 | 2021-09-28 19:48:17+00:00 | 90612 | 96 | Jupyter Notebook | 10 | [] |
-| IncludeSecurity/RTSPhuzz | RTSPhuzz - An RTSP Fuzzer written using the Boofuzz framework | https://github.com/IncludeSecurity/RTSPhuzz | ['0day'] | 1 | 2021-09-28 19:58:39+00:00 | 92 | 25 | Python | 3 | [] |
 | hesim-dev/rcea | Course materials for learning how to perform applied cost-effectiveness analysis with R | https://github.com/hesim-dev/rcea | ['rce'] | 1 | 2021-09-28 22:19:38+00:00 | 256592 | 6 | R | 4 | [] |
-| hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2021-09-28 17:09:13+00:00 | 245 | 85 | | 38 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-09-28 07:36:15+00:00 | 101627 | 0 | JavaScript | 0 | [] |
+| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-09-28 05:31:42+00:00 | 608 | 467 | Java | 44 | [] |
+| McSl0vv/exploit | None | https://github.com/McSl0vv/exploit | ['exploit'] | 1 | 2021-09-28 16:40:08+00:00 | 1 | 0 | PHP | 0 | [] |
 | Night-King-Host/Night-King-Host.github.io | PS4 Host Exploits For 5.05 Firmware to 7.55 Firmware | https://github.com/Night-King-Host/Night-King-Host.github.io | ['exploit'] | 1 | 2021-09-28 22:16:23+00:00 | 2016 | 6 | HTML | 2 | [] |
 | Defragi686/ExploitApacheNIFI | Meu exploit automatizado(recebe uma wordlist) faz o check se o host é vulneravel e exploita, codado em php para apache nifi | https://github.com/Defragi686/ExploitApacheNIFI | ['exploit'] | 1 | 2021-09-28 13:13:22+00:00 | 4 | 1 | PHP | 0 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-28 00:19:26+00:00 | 769298 | 0 | Python | 0 | [] |
@@ -104,8 +106,8 @@
 | davidshares/Lightning-Network | List of Lightning Network technical issues, bugs, flaws, and exploits. | https://github.com/davidshares/Lightning-Network | ['exploit'] | 1 | 2021-09-28 13:33:17+00:00 | 125 | 12 | | 0 | [] |
 | kal1gh0st/WhatsAppHACK-RCE | Whatsapp remote code execution CVE-2019-11932 https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/ | https://github.com/kal1gh0st/WhatsAppHACK-RCE | ['rce', 'remote code execution'] | 2 | 2021-09-28 17:07:38+00:00 | 2861 | 0 | CSS | 0 | ['CVE-2019-11932'] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-28 00:43:14+00:00 | 68 | 0 | PHP | 0 | [] |
+| hxr404/Discord-Console-hacks | A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff | https://github.com/hxr404/Discord-Console-hacks | ['exploit'] | 1 | 2021-09-28 17:09:13+00:00 | 245 | 85 | | 38 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-28 00:02:55+00:00 | 402508 | 32 | | 19 | [] |
-| wh1t3p1g/ysomap | A helpful Java Deserialization exploit framework based on ysoserial | https://github.com/wh1t3p1g/ysomap | ['exploit'] | 1 | 2021-09-28 05:31:42+00:00 | 608 | 467 | Java | 44 | [] |
 | manhhabui/mDSDI | Repository for the NeurIPS 2021 paper: "Exploiting Domain-Specific Features to Enhance Domain Generalization". | https://github.com/manhhabui/mDSDI | ['exploit'] | 1 | 2021-09-28 21:36:53+00:00 | 2207 | 0 | Python | 0 | [] |
 | ajes-xfr-team/bin-exploits | None | https://github.com/ajes-xfr-team/bin-exploits | ['exploit'] | 1 | 2021-09-28 13:18:47+00:00 | 19842 | 0 | PowerShell | 0 | [] |
 | melian009/Deepbios | Evolving computational sustainability in rapidly changing exploited ecosystems | https://github.com/melian009/Deepbios | ['exploit'] | 1 | 2021-09-28 10:09:15+00:00 | 21904 | 0 | TeX | 0 | [] |
@@ -117,4 +119,4 @@
 | FunnyGuilds/FunnyCommands | FunnyGuilds commands framework based on top of the Panda dependency injection 🔨 | https://github.com/FunnyGuilds/FunnyCommands | ['command injection'] | 1 | 2021-09-28 01:16:44+00:00 | 354 | 11 | Java | 0 | [] |
 | rng70/Hacking-Resources | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | ['exploit'] | 1 | 2021-09-28 14:12:02+00:00 | 1928036 | 9 | | 0 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-09-28 00:21:08+00:00 | 238 | 7 | Go | 7 | [] |
-| tylerwarre/shellcode-tools | None | https://github.com/tylerwarre/shellcode-tools | ['shellcode'] | 1 | 2021-09-28 21:37:07+00:00 | 0 | 0 | Python | 0 | [] |
+| weak1337/BE-Shellcode | Code for Battleyes shellcode | https://github.com/weak1337/BE-Shellcode | ['shellcode'] | 1 | 2021-09-28 22:51:48+00:00 | 0 | 0 | C++ | 0 | [] |
