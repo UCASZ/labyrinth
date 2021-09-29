@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/29
     
-110 records found after deduplication
+111 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------|
@@ -33,7 +33,7 @@
 | ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-29 11:39:26+00:00 | 59 | 15 | | 6 | ['CVE-2021-40444'] |
 | ultrajacobboy/roblox-exploit-demonstration | Showing off how easy it is to exploit in roblox | https://github.com/ultrajacobboy/roblox-exploit-demonstration | ['exploit'] | 1 | 2021-09-29 02:34:04+00:00 | 0 | 0 | Lua | 0 | [] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-09-29 03:51:41+00:00 | 5 | 0 | Zeek | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-29 02:58:18+00:00 | 21823 | 6004 | JavaScript | 1428 | [] |
+| MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-09-29 03:01:52+00:00 | 66 | 3 | Python | 1 | [] |
 | efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2021-09-29 16:30:58+00:00 | 0 | 0 | | 0 | [] |
 | cmndcntrlcyber/shellcode | None | https://github.com/cmndcntrlcyber/shellcode | ['shellcode'] | 1 | 2021-09-29 20:41:04+00:00 | 0 | 0 | | 0 | [] |
 | adjaliya/-CVE-2017-7494-Samba-Exploit-POC | According to researchers with Rapid7, over 110,000 devices appear on internet, which run stable Samba versions, while 92,500 seem to run unstable Samba versions, for which there is no fix. The newest Samba models, including the models 4.6.x before 4.6.4, 4 | https://github.com/adjaliya/-CVE-2017-7494-Samba-Exploit-POC | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'remote code execution', 'vulnerability poc'] | 5 | 2021-09-29 20:31:21+00:00 | 0 | 0 | | 0 | ['CVE-2017-7494'] |
@@ -60,8 +60,8 @@
 | AsimShakeel10/cve-2019-exploit | None | https://github.com/AsimShakeel10/cve-2019-exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-29 07:46:45+00:00 | 0 | 0 | | 0 | [] |
 | Zureno/Kernel_level_exploits | A repo of customized derived exploits for fun . | https://github.com/Zureno/Kernel_level_exploits | ['exploit'] | 1 | 2021-09-29 05:07:53+00:00 | 0 | 0 | | 0 | [] |
 | aesophor/requiem | 🎻 Automatic Exploit Generation (AEG) engine | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-29 04:38:07+00:00 | 9288 | 9 | C++ | 1 | [] |
-| MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-09-29 03:01:52+00:00 | 66 | 3 | Python | 1 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-09-29 00:59:03+00:00 | 23 | 0 | Lua | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-29 02:58:18+00:00 | 21823 | 6004 | JavaScript | 1428 | [] |
 | AlaBouali/bane | None | https://github.com/AlaBouali/bane | ['rce'] | 1 | 2021-09-29 00:28:17+00:00 | 956 | 56 | Python | 25 | [] |
 | hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-09-29 19:43:52+00:00 | 321 | 458 | | 96 | [] |
 | rng70/Hacking-Resources | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | ['exploit'] | 1 | 2021-09-29 00:42:48+00:00 | 1927927 | 9 | | 0 | [] |
@@ -75,7 +75,7 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-09-29 15:09:13+00:00 | 35716 | 5869 | Vue | 1227 | [] |
 | VoidSec/Exploit-Development | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC) | https://github.com/VoidSec/Exploit-Development | ['0day', 'exploit', 'rce', 'rce poc', 'shellcode'] | 5 | 2021-09-29 07:02:27+00:00 | 186736 | 50 | Python | 17 | [] |
 | ivam3/embed | Embed Metasploit Payload in Legtim APK with Termux | https://github.com/ivam3/embed | ['metasploit module OR payload'] | 1 | 2021-09-29 02:59:18+00:00 | 97403 | 15 | Ruby | 4 | [] |
-| AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-09-29 16:10:08+00:00 | 9012 | 1 | CSS | 0 | [] |
+| moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-09-29 19:16:52+00:00 | 512 | 82 | Java | 19 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-09-29 11:11:49+00:00 | 15223 | 799 | PowerShell | 182 | [] |
 | vitalysim/Awesome-Hacking-Resources | A collection of hacking / penetration testing resources to make you better! | https://github.com/vitalysim/Awesome-Hacking-Resources | ['exploit'] | 1 | 2021-09-29 01:33:59+00:00 | 275 | 11227 | | 1776 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-29 00:16:49+00:00 | 134780 | 250 | Ruby | 75 | [] |
@@ -88,9 +88,10 @@
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-29 15:59:03+00:00 | 3579 | 2484 | PowerShell | 720 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-29 14:03:28+00:00 | 45982 | 849 | Python | 200 | [] |
 | bats3c/shad0w | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | ['exploit', 'shellcode'] | 2 | 2021-09-29 00:15:36+00:00 | 17124 | 1428 | C | 239 | [] |
-| moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-09-29 19:16:52+00:00 | 512 | 82 | Java | 19 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-29 20:49:44+00:00 | 3065330 | 2 | Batchfile | 0 | [] |
-| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-09-29 14:59:09+00:00 | 3161 | 0 | JavaScript | 1 | [] |
+| AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-09-29 16:10:08+00:00 | 9012 | 1 | CSS | 0 | [] |
+| zYan666/Demon-Exploit | None | https://github.com/zYan666/Demon-Exploit | ['exploit'] | 1 | 2021-09-29 20:16:24+00:00 | 1301 | 0 | | 0 | [] |
+| M4rcell/m4rcell | this is my personal repo for Readme | https://github.com/M4rcell/m4rcell | ['rce'] | 1 | 2021-09-29 22:20:22+00:00 | 13 | 0 | | 0 | [] |
 | krastanoel/exploits | None | https://github.com/krastanoel/exploits | ['exploit'] | 1 | 2021-09-29 12:46:07+00:00 | 2 | 0 | Python | 0 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-29 11:16:36+00:00 | 18182 | 1 | | 1 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-29 11:18:13+00:00 | 1305 | 3 | Python | 1 | [] |
@@ -101,8 +102,8 @@
 | McSl0vv/exploit | None | https://github.com/McSl0vv/exploit | ['exploit'] | 1 | 2021-09-29 08:56:02+00:00 | 521 | 0 | PHP | 0 | [] |
 | tuo4n8/CVE-2020-2950 | None | https://github.com/tuo4n8/CVE-2020-2950 | ['cve-2 OR cve_2'] | 1 | 2021-09-29 15:28:01+00:00 | 70841 | 0 | Java | 0 | ['CVE-2020-2950'] |
 | Captain-1337/Master-Thesis | Understanding and Exploiting Deep Learning-based Sentiment Analysis from News Headlines for Predicting Price Movements of WTI Crude Oil | https://github.com/Captain-1337/Master-Thesis | ['exploit'] | 1 | 2021-09-29 09:17:31+00:00 | 9742 | 0 | Jupyter Notebook | 0 | [] |
-| zYan666/Demon-Exploit | None | https://github.com/zYan666/Demon-Exploit | ['exploit'] | 1 | 2021-09-29 20:16:24+00:00 | 1301 | 0 | | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-29 03:03:35+00:00 | 35337 | 196 | Python | 57 | [] |
+| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-09-29 14:59:09+00:00 | 3161 | 0 | JavaScript | 1 | [] |
 | IdanBanani/Binary-exploitation-Pwn | None | https://github.com/IdanBanani/Binary-exploitation-Pwn | ['exploit'] | 1 | 2021-09-29 07:04:11+00:00 | 33586 | 0 | C | 1 | [] |
 | TheTh1nk3r/exp_hub | 漏洞复现与poc收集，CVE-2021-21975，cve-2021-22005，CVE-2021-26295，VMware vCenter任意文件读取 | https://github.com/TheTh1nk3r/exp_hub | ['cve poc', 'vulnerability poc'] | 2 | 2021-09-29 13:46:51+00:00 | 29 | 1 | Python | 1 | ['CVE-2021-21975', 'CVE-2021-22005', 'CVE-2021-26295'] |
 | googleprojectzero/0days-in-the-wild | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | ['0day', 'exploit'] | 2 | 2021-09-29 17:34:11+00:00 | 161 | 318 | HTML | 33 | [] |
