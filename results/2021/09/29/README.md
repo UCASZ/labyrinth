@@ -1,10 +1,10 @@
 
 # Summary for results/2021/09/29
     
-13 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-09-29 01:37:35+00:00 | 7611 | 3988 | Python | 576 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-29 00:05:31+00:00 | 1534759 | 1510 | Python | 518 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-29 00:16:49+00:00 | 134780 | 250 | Ruby | 75 | [] |
@@ -17,4 +17,7 @@
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-29 01:39:10+00:00 | 144 | 6 | JavaScript | 4 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-09-29 00:59:03+00:00 | 23 | 0 | Lua | 0 | [] |
 | nimarty/hackypi | A yocto meta-layer for Raspberry Pi with preconfigured vulnerabilities to exploit. | https://github.com/nimarty/hackypi | ['exploit'] | 1 | 2021-09-29 00:09:26+00:00 | 34 | 0 | BitBake | 0 | [] |
+| Lagal1990/CVE-2021-30632 | nan | https://github.com/Lagal1990/CVE-2021-30632 | ['cve-2 OR cve_2'] | 1 | 2021-09-29 02:20:40+00:00 | 11866 | 20 | HTML | 6 | ['CVE-2021-30632'] |
 | WellSouta/timmy-rce | nan | https://github.com/WellSouta/timmy-rce | ['rce'] | 1 | 2021-09-29 00:34:03+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| wry4n/x64-assembly-shells | Some assembly I wrote way back when while learning how to write shellcode | https://github.com/wry4n/x64-assembly-shells | ['shellcode'] | 1 | 2021-09-29 01:47:39+00:00 | 0 | 0 | Assembly | 0 | [] |
+| ultrajacobboy/roblox-exploit-demonstration | Showing off how easy it is to exploit in roblox | https://github.com/ultrajacobboy/roblox-exploit-demonstration | ['exploit'] | 1 | 2021-09-29 02:34:04+00:00 | 0 | 0 | Lua | 0 | [] |
