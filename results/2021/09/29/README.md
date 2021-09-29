@@ -1,13 +1,14 @@
 
 # Summary for results/2021/09/29
     
-45 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-29 05:37:13+00:00 | 632180 | 25190 | Ruby | 11605 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-29 03:03:35+00:00 | 35337 | 196 | Python | 57 | [] |
+| McSl0vv/exploit | None | https://github.com/McSl0vv/exploit | ['exploit'] | 1 | 2021-09-29 08:56:02+00:00 | 521 | 0 | PHP | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-29 01:05:26+00:00 | 12614 | 2 | Python | 0 | [] |
+| vam-sin/CATHe | Deep learning tool that exploits embeddings from state-of-the-art protein Language Models (pLMs) to detect remote homologs for CATH superfamilies | https://github.com/vam-sin/CATHe | ['exploit'] | 1 | 2021-09-29 09:28:15+00:00 | 41 | 1 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-29 01:39:10+00:00 | 144 | 6 | JavaScript | 4 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-09-29 00:59:03+00:00 | 23 | 0 | Lua | 0 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-09-29 03:01:52+00:00 | 66 | 3 | Python | 1 | [] |
@@ -16,6 +17,7 @@
 | y0usefalsaadany/data-sploit | this tool for networking | https://github.com/y0usefalsaadany/data-sploit | ['sploit'] | 1 | 2021-09-29 06:26:23+00:00 | 850 | 2 | Python | 0 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-29 04:45:55+00:00 | 210 | 0 | Python | 0 | [] |
 | r0ckysec/CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-09-29 07:31:28+00:00 | 7833 | 38 | Python | 11 | ['CVE-2021-22005'] |
+| mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-09-29 09:00:23+00:00 | 362 | 252 | C++ | 42 | [] |
 | nimarty/hackypi | A yocto meta-layer for Raspberry Pi with preconfigured vulnerabilities to exploit. | https://github.com/nimarty/hackypi | ['exploit'] | 1 | 2021-09-29 00:09:26+00:00 | 34 | 0 | BitBake | 0 | [] |
 | Lagal1990/CVE-2021-30632 | None | https://github.com/Lagal1990/CVE-2021-30632 | ['cve-2 OR cve_2'] | 1 | 2021-09-29 02:20:40+00:00 | 11866 | 20 | HTML | 6 | ['CVE-2021-30632'] |
 | rezolved/rezolve_rce_amazon | None | https://github.com/rezolved/rezolve_rce_amazon | ['rce'] | 1 | 2021-09-29 06:54:56+00:00 | 5 | 0 | PHP | 0 | [] |
@@ -27,9 +29,9 @@
 | Zureno/Kernel_level_exploits | A repo of customized derived exploits for fun . | https://github.com/Zureno/Kernel_level_exploits | ['exploit'] | 1 | 2021-09-29 05:07:53+00:00 | 0 | 0 | | 0 | [] |
 | AsimShakeel10/cve-2019-exploit | None | https://github.com/AsimShakeel10/cve-2019-exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-29 07:46:45+00:00 | 0 | 0 | | 0 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-09-29 07:26:46+00:00 | 1697 | 3 | Julia | 0 | [] |
-| IdanBanani/Binary-exploitation-Pwn | None | https://github.com/IdanBanani/Binary-exploitation-Pwn | ['exploit'] | 1 | 2021-09-29 07:04:11+00:00 | 33586 | 0 | C | 1 | [] |
+| Captain-1337/Master-Thesis | Understanding and Exploiting Deep Learning-based Sentiment Analysis from News Headlines for Predicting Price Movements of WTI Crude Oil | https://github.com/Captain-1337/Master-Thesis | ['exploit'] | 1 | 2021-09-29 09:17:31+00:00 | 9742 | 0 | Jupyter Notebook | 0 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-29 02:58:18+00:00 | 21823 | 6004 | JavaScript | 1428 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-29 01:15:09+00:00 | 69 | 0 | PHP | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-29 03:03:35+00:00 | 35337 | 196 | Python | 57 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-29 05:07:34+00:00 | 244495 | 6506 | C | 1804 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-09-29 01:37:35+00:00 | 7611 | 3988 | Python | 576 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-09-29 00:05:31+00:00 | 1534759 | 1510 | Python | 518 | [] |
@@ -49,4 +51,6 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-29 00:03:03+00:00 | 405485 | 32 | | 19 | [] |
 | macky168/sseopt | Stochastic Schemata Exploiter-based hyper-parameter optimization of Machine Learning | https://github.com/macky168/sseopt | ['exploit'] | 1 | 2021-09-29 07:06:41+00:00 | 35 | 0 | Python | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-09-29 07:49:56+00:00 | 287800 | 685 | | 140 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-29 01:15:09+00:00 | 69 | 0 | PHP | 0 | [] |
+| IdanBanani/Binary-exploitation-Pwn | None | https://github.com/IdanBanani/Binary-exploitation-Pwn | ['exploit'] | 1 | 2021-09-29 07:04:11+00:00 | 33586 | 0 | C | 1 | [] |
 | AsimShakeel10/exploitcintosh | None | https://github.com/AsimShakeel10/exploitcintosh | ['exploit'] | 1 | 2021-09-29 07:54:37+00:00 | 0 | 0 | | 0 | [] |
