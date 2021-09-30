@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/30
     
-30 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-30 01:26:34+00:00 | 632268 | 25197 | Ruby | 11606 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-30 01:09:49+00:00 | 3579 | 2486 | PowerShell | 720 | [] |
+| iamkashz/pypi-revshell | Malicious Python package for PyPi server exploitation | https://github.com/iamkashz/pypi-revshell | ['exploit'] | 1 | 2021-09-30 04:30:20+00:00 | 0 | 0 | | 0 | [] |
 | Ajsensai/browserexploit | html page for testing browser exploit | https://github.com/Ajsensai/browserexploit | ['exploit'] | 1 | 2021-09-30 04:26:52+00:00 | 0 | 0 | HTML | 0 | [] |
 | minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution | ['remote code execution'] | 1 | 2021-09-30 02:46:07+00:00 | 0 | 0 | Python | 0 | [] |
 | bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-09-30 02:42:54+00:00 | 0 | 0 | | 0 | [] |
@@ -15,6 +16,7 @@
 | hoanx4/Modern_Events_Calendar | This module exploits an unauthenticated events export in WordPress plugin 'modern-events-calendar-lite' plugin version | https://github.com/hoanx4/Modern_Events_Calendar | ['exploit'] | 1 | 2021-09-30 01:12:50+00:00 | 0 | 0 | Ruby | 0 | [] |
 | cuciuu/DuckySploit | nan | https://github.com/cuciuu/DuckySploit | ['sploit'] | 1 | 2021-09-30 06:14:14+00:00 | 236 | 0 | nan | 0 | [] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-09-30 00:08:37+00:00 | 5 | 0 | Zeek | 0 | [] |
+| nimarty/hackypi | A yocto meta-layer for Raspberry Pi with preconfigured vulnerabilities to exploit. | https://github.com/nimarty/hackypi | ['exploit'] | 1 | 2021-09-30 07:22:47+00:00 | 26 | 0 | BitBake | 0 | [] |
 | nth347/Zimbra-RCE-exploit | RCE exploit for attack chain in "A Saga of Code Executions on Zimbra" post | https://github.com/nth347/Zimbra-RCE-exploit | ['exploit', 'rce'] | 2 | 2021-09-30 04:53:48+00:00 | 4 | 2 | Python | 2 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-30 06:23:32+00:00 | 232 | 0 | Python | 0 | [] |
 | corelight/CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI | https://github.com/corelight/CVE-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2021-09-30 01:07:30+00:00 | 2814 | 3 | Zeek | 3 | ['CVE-2021-38647'] |
@@ -34,4 +36,4 @@
 | vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-09-30 01:17:14+00:00 | 839 | 125 | Go | 37 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-30 00:17:21+00:00 | 136305 | 250 | Ruby | 75 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-30 05:07:30+00:00 | 246574 | 6508 | C | 1804 | [] |
-| iamkashz/pypi-revshell | Malicious Python package for PyPi server exploitation | https://github.com/iamkashz/pypi-revshell | ['exploit'] | 1 | 2021-09-30 04:30:20+00:00 | 0 | 0 | | 0 | [] |
+| PenteraIO/vScalation-CVE-2021-22015 | Scanner for vScalation (CVE-2021-22015) a Local Privilege Escalation in VMWare vCenter | https://github.com/PenteraIO/vScalation-CVE-2021-22015 | ['cve-2 OR cve_2'] | 1 | 2021-09-30 07:22:09+00:00 | 0 | 0 | Shell | 1 | ['CVE-2021-22015'] |
