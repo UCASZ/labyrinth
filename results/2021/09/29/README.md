@@ -1,12 +1,12 @@
 
 # Summary for results/2021/09/29
     
-112 records found after deduplication
+113 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-29 05:37:13+00:00 | 632180 | 25190 | Ruby | 11605 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-29 02:58:18+00:00 | 21823 | 6004 | JavaScript | 1428 | [] |
+| MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-09-29 03:01:52+00:00 | 66 | 3 | Python | 1 | [] |
 | wry4n/x64-assembly-shells | Some assembly I wrote way back when while learning how to write shellcode | https://github.com/wry4n/x64-assembly-shells | ['shellcode'] | 1 | 2021-09-29 01:47:39+00:00 | 0 | 0 | Assembly | 0 | [] |
 | WellSouta/timmy-rce | None | https://github.com/WellSouta/timmy-rce | ['rce'] | 1 | 2021-09-29 00:34:03+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | weak1337/BE-Shellcode | Code for Battleyes shellcode | https://github.com/weak1337/BE-Shellcode | ['shellcode'] | 1 | 2021-09-29 13:21:30+00:00 | 17 | 9 | C++ | 6 | [] |
@@ -61,9 +61,10 @@
 | AsimShakeel10/cve-2019-exploit | None | https://github.com/AsimShakeel10/cve-2019-exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-29 07:46:45+00:00 | 0 | 0 | | 0 | [] |
 | Zureno/Kernel_level_exploits | A repo of customized derived exploits for fun . | https://github.com/Zureno/Kernel_level_exploits | ['exploit'] | 1 | 2021-09-29 05:07:53+00:00 | 0 | 0 | | 0 | [] |
 | aesophor/requiem | 🎻 Automatic Exploit Generation (AEG) engine | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-29 04:38:07+00:00 | 9288 | 9 | C++ | 1 | [] |
-| MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-09-29 03:01:52+00:00 | 66 | 3 | Python | 1 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-09-29 00:59:03+00:00 | 23 | 0 | Lua | 0 | [] |
-| AlaBouali/bane | None | https://github.com/AlaBouali/bane | ['rce'] | 1 | 2021-09-29 00:28:17+00:00 | 956 | 56 | Python | 25 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-29 02:58:18+00:00 | 21823 | 6004 | JavaScript | 1428 | [] |
+| AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-09-29 16:10:08+00:00 | 9012 | 1 | CSS | 0 | [] |
+| bats3c/shad0w | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | ['exploit', 'shellcode'] | 2 | 2021-09-29 00:15:36+00:00 | 17124 | 1428 | C | 239 | [] |
 | hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-09-29 19:43:52+00:00 | 321 | 458 | | 96 | [] |
 | rng70/Hacking-Resources | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | ['exploit'] | 1 | 2021-09-29 00:42:48+00:00 | 1927927 | 9 | | 0 | [] |
 | hesim-dev/rcea | Course materials for learning how to perform applied cost-effectiveness analysis with R | https://github.com/hesim-dev/rcea | ['rce'] | 1 | 2021-09-29 19:50:17+00:00 | 256869 | 6 | R | 4 | [] |
@@ -75,8 +76,8 @@
 | YasserGersy/cazador_unr | Hacking tools | https://github.com/YasserGersy/cazador_unr | ['rce', 'rce poc'] | 2 | 2021-09-29 03:08:22+00:00 | 76110 | 103 | | 40 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-09-29 15:09:13+00:00 | 35716 | 5869 | Vue | 1227 | [] |
 | VoidSec/Exploit-Development | Exploit Development - Weaponized Exploit and Proof of Concepts (PoC) | https://github.com/VoidSec/Exploit-Development | ['0day', 'exploit', 'rce', 'rce poc', 'shellcode'] | 5 | 2021-09-29 07:02:27+00:00 | 186736 | 50 | Python | 17 | [] |
+| AlaBouali/bane | None | https://github.com/AlaBouali/bane | ['rce'] | 1 | 2021-09-29 00:28:17+00:00 | 956 | 56 | Python | 25 | [] |
 | ivam3/embed | Embed Metasploit Payload in Legtim APK with Termux | https://github.com/ivam3/embed | ['metasploit module OR payload'] | 1 | 2021-09-29 02:59:18+00:00 | 97403 | 15 | Ruby | 4 | [] |
-| moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-09-29 19:16:52+00:00 | 512 | 82 | Java | 19 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-09-29 11:11:49+00:00 | 15223 | 799 | PowerShell | 182 | [] |
 | vitalysim/Awesome-Hacking-Resources | A collection of hacking / penetration testing resources to make you better! | https://github.com/vitalysim/Awesome-Hacking-Resources | ['exploit'] | 1 | 2021-09-29 01:33:59+00:00 | 275 | 11227 | | 1776 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-29 00:16:49+00:00 | 134780 | 250 | Ruby | 75 | [] |
@@ -88,9 +89,9 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-29 05:07:34+00:00 | 244495 | 6506 | C | 1804 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-29 15:59:03+00:00 | 3579 | 2484 | PowerShell | 720 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-29 14:03:28+00:00 | 45982 | 849 | Python | 200 | [] |
-| bats3c/shad0w | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | ['exploit', 'shellcode'] | 2 | 2021-09-29 00:15:36+00:00 | 17124 | 1428 | C | 239 | [] |
+| moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-09-29 19:16:52+00:00 | 512 | 82 | Java | 19 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-29 20:49:44+00:00 | 3065330 | 2 | Batchfile | 0 | [] |
-| AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-09-29 16:10:08+00:00 | 9012 | 1 | CSS | 0 | [] |
+| Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-09-29 12:44:20+00:00 | 36404 | 413 | C++ | 61 | [] |
 | zYan666/Demon-Exploit | None | https://github.com/zYan666/Demon-Exploit | ['exploit'] | 1 | 2021-09-29 20:16:24+00:00 | 1301 | 0 | | 0 | [] |
 | M4rcell/m4rcell | this is my personal repo for Readme | https://github.com/M4rcell/m4rcell | ['rce'] | 1 | 2021-09-29 22:20:22+00:00 | 13 | 0 | | 0 | [] |
 | krastanoel/exploits | None | https://github.com/krastanoel/exploits | ['exploit'] | 1 | 2021-09-29 12:46:07+00:00 | 2 | 0 | Python | 0 | [] |
