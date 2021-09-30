@@ -1,12 +1,14 @@
 
 # Summary for results/2021/09/30
     
-21 records found after deduplication
+24 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-30 01:26:34+00:00 | 632268 | 25197 | Ruby | 11606 | [] |
-| HackerDev-Felix/Phoenix-Framework | Phoenix Framework Project | https://github.com/HackerDev-Felix/Phoenix-Framework | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-09-30 02:17:04+00:00 | 18 | 25 | Python | 3 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-30 01:09:49+00:00 | 3579 | 2486 | PowerShell | 720 | [] |
+| Ajsensai/browserexploit | html page for testing browser exploit | https://github.com/Ajsensai/browserexploit | ['exploit'] | 1 | 2021-09-30 04:26:52+00:00 | 0 | 0 | HTML | 0 | [] |
+| minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution | ['remote code execution'] | 1 | 2021-09-30 02:46:07+00:00 | 0 | 0 | Python | 0 | [] |
 | bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-09-30 02:42:54+00:00 | 0 | 0 | | 0 | [] |
 | NattiSamson/Serv-U-CVE-2021-35211 | Simple Serv-U CVE-2021-35211 PoC | https://github.com/NattiSamson/Serv-U-CVE-2021-35211 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-30 01:46:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-35211'] |
 | iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-09-30 01:29:35+00:00 | 0 | 0 | | 0 | [] |
@@ -15,8 +17,9 @@
 | corelight/CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI | https://github.com/corelight/CVE-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2021-09-30 01:07:30+00:00 | 2814 | 3 | Zeek | 3 | ['CVE-2021-38647'] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-30 02:03:07+00:00 | 46247 | 6 | Python | 1 | [] |
 | sillihkram/Bruteforcing-SSH | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host. | https://github.com/sillihkram/Bruteforcing-SSH | ['exploit'] | 1 | 2021-09-30 02:17:22+00:00 | 52090 | 0 | | 0 | [] |
+| HackerDev-Felix/Phoenix-Framework | Phoenix Framework Project | https://github.com/HackerDev-Felix/Phoenix-Framework | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-09-30 02:17:04+00:00 | 18 | 25 | Python | 3 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-30 01:12:04+00:00 | 13998 | 2 | Python | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-30 01:09:49+00:00 | 3579 | 2486 | PowerShell | 720 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-30 04:02:55+00:00 | 37904 | 196 | Python | 57 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-30 01:17:39+00:00 | 69 | 0 | PHP | 0 | [] |
 | RCStep/CSSG | Cobalt Strike Shellcode Generator | https://github.com/RCStep/CSSG | ['shellcode'] | 1 | 2021-09-30 03:01:50+00:00 | 124 | 364 | HTML | 76 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-30 00:03:22+00:00 | 412011 | 32 | | 19 | [] |
@@ -25,4 +28,4 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-09-30 03:03:28+00:00 | 61600 | 1233 | Python | 252 | [] |
 | vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-09-30 01:17:14+00:00 | 839 | 125 | Go | 37 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-30 00:17:21+00:00 | 136305 | 250 | Ruby | 75 | [] |
-| minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution | ['remote code execution'] | 1 | 2021-09-30 02:46:07+00:00 | 0 | 0 | Python | 0 | [] |
+| iamkashz/pypi-revshell | Malicious Python package for PyPi server exploitation | https://github.com/iamkashz/pypi-revshell | ['exploit'] | 1 | 2021-09-30 04:30:20+00:00 | 0 | 0 | | 0 | [] |
