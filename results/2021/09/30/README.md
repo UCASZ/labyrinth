@@ -1,7 +1,7 @@
 
 # Summary for results/2021/09/30
     
-28 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -13,8 +13,10 @@
 | NattiSamson/Serv-U-CVE-2021-35211 | Simple Serv-U CVE-2021-35211 PoC | https://github.com/NattiSamson/Serv-U-CVE-2021-35211 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-30 01:46:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-35211'] |
 | iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-09-30 01:29:35+00:00 | 0 | 0 | | 0 | [] |
 | hoanx4/Modern_Events_Calendar | This module exploits an unauthenticated events export in WordPress plugin 'modern-events-calendar-lite' plugin version | https://github.com/hoanx4/Modern_Events_Calendar | ['exploit'] | 1 | 2021-09-30 01:12:50+00:00 | 0 | 0 | Ruby | 0 | [] |
+| cuciuu/DuckySploit | nan | https://github.com/cuciuu/DuckySploit | ['sploit'] | 1 | 2021-09-30 06:14:14+00:00 | 236 | 0 | nan | 0 | [] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-09-30 00:08:37+00:00 | 5 | 0 | Zeek | 0 | [] |
 | nth347/Zimbra-RCE-exploit | RCE exploit for attack chain in "A Saga of Code Executions on Zimbra" post | https://github.com/nth347/Zimbra-RCE-exploit | ['exploit', 'rce'] | 2 | 2021-09-30 04:53:48+00:00 | 4 | 2 | Python | 2 | [] |
+| ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-30 06:23:32+00:00 | 232 | 0 | Python | 0 | [] |
 | corelight/CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI | https://github.com/corelight/CVE-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2021-09-30 01:07:30+00:00 | 2814 | 3 | Zeek | 3 | ['CVE-2021-38647'] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-30 02:03:07+00:00 | 46247 | 6 | Python | 1 | [] |
 | sillihkram/Bruteforcing-SSH | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host. | https://github.com/sillihkram/Bruteforcing-SSH | ['exploit'] | 1 | 2021-09-30 02:17:22+00:00 | 52090 | 0 | | 0 | [] |
