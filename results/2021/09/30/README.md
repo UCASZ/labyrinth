@@ -1,13 +1,12 @@
 
 # Summary for results/2021/09/30
     
-105 records found after deduplication
+106 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-30 01:26:34+00:00 | 632268 | 25197 | Ruby | 11606 | [] |
-| kikiokol/AndroidDown | Exploit android devices with open Android Debugging Bridge(ADB) ports. | https://github.com/kikiokol/AndroidDown | ['exploit'] | 1 | 2021-09-30 14:26:31+00:00 | 37 | 5 | Python | 0 | [] |
-| iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-09-30 01:29:35+00:00 | 0 | 0 | | 0 | [] |
+| NattiSamson/Serv-U-CVE-2021-35211 | Simple Serv-U CVE-2021-35211 PoC | https://github.com/NattiSamson/Serv-U-CVE-2021-35211 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-30 01:46:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-35211'] |
 | hoanx4/Modern_Events_Calendar | This module exploits an unauthenticated events export in WordPress plugin 'modern-events-calendar-lite' plugin version | https://github.com/hoanx4/Modern_Events_Calendar | ['exploit'] | 1 | 2021-09-30 01:12:50+00:00 | 0 | 0 | Ruby | 0 | [] |
 | cuciuu/DuckySploit | None | https://github.com/cuciuu/DuckySploit | ['sploit'] | 1 | 2021-09-30 06:14:14+00:00 | 236 | 0 | | 0 | [] |
 | darkwire37/affineLinuxPractice | A beginner practice box for learning terminal and basic vulnerability exploitation | https://github.com/darkwire37/affineLinuxPractice | ['exploit'] | 1 | 2021-09-30 21:17:22+00:00 | 0 | 0 | | 0 | [] |
@@ -26,14 +25,15 @@
 | maschil/0day-Xploit | Fox Rsf v1 | https://github.com/maschil/0day-Xploit | ['0day'] | 1 | 2021-09-30 07:59:38+00:00 | 88 | 0 | Python | 1 | [] |
 | Unknown3958/UnknownExploit | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | ['exploit'] | 1 | 2021-09-30 09:42:34+00:00 | 20 | 0 | | 0 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-09-30 06:23:32+00:00 | 232 | 0 | Python | 0 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-09-30 22:59:59+00:00 | 1657 | 23 | JavaScript | 23 | [] |
 | Twigonometry/buffer-overflow-scripts | Scripts for Buffer Overflow challenges | https://github.com/Twigonometry/buffer-overflow-scripts | ['exploit'] | 1 | 2021-09-30 20:30:53+00:00 | 5 | 0 | Python | 1 | [] |
 | corelight/CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI | https://github.com/corelight/CVE-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2021-09-30 01:07:30+00:00 | 2814 | 3 | Zeek | 3 | ['CVE-2021-38647'] |
 | CYB3RK1D/SHELLCODES-X86-32 | X86 shellcodes | https://github.com/CYB3RK1D/SHELLCODES-X86-32 | ['shellcode'] | 1 | 2021-09-30 09:06:38+00:00 | 6 | 1 | Assembly | 0 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-30 02:03:07+00:00 | 46247 | 6 | Python | 1 | [] |
-| NattiSamson/Serv-U-CVE-2021-35211 | Simple Serv-U CVE-2021-35211 PoC | https://github.com/NattiSamson/Serv-U-CVE-2021-35211 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-30 01:46:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-35211'] |
+| iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-09-30 01:29:35+00:00 | 0 | 0 | | 0 | [] |
 | bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-09-30 02:42:54+00:00 | 0 | 0 | | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-30 01:09:49+00:00 | 3579 | 2486 | PowerShell | 720 | [] |
 | minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution | ['remote code execution'] | 1 | 2021-09-30 02:46:07+00:00 | 0 | 0 | Python | 0 | [] |
-| sslscripts/GhostlicExploit | None | https://github.com/sslscripts/GhostlicExploit | ['exploit'] | 1 | 2021-09-30 15:27:32+00:00 | 0 | 0 | | 0 | [] |
 | suyash-chavan/Exploit-Education | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | ['exploit'] | 1 | 2021-09-30 21:25:26+00:00 | 0 | 0 | | 0 | [] |
 | Noli18P/Metasploitable-Telnet-Smtp | Exploiting metasploitable, in this report I gained access to the system by enumerating users with SMTP and with telnet | https://github.com/Noli18P/Metasploitable-Telnet-Smtp | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-30 19:08:35+00:00 | 0 | 1 | | 0 | [] |
 | D3m0nicw0lf/Vehicle-hacking | Car hacking is the manipulation of the code in a car's electronic control unit (ECU) to exploit a vulnerability and gain control of other ECU units in the vehicle | https://github.com/D3m0nicw0lf/Vehicle-hacking | ['exploit'] | 1 | 2021-09-30 19:27:27+00:00 | 0 | 0 | | 0 | [] |
@@ -44,8 +44,8 @@
 | ramixix/Hacking_the_art_of_exploitation | None | https://github.com/ramixix/Hacking_the_art_of_exploitation | ['exploit'] | 1 | 2021-09-30 16:15:59+00:00 | 0 | 0 | C | 0 | [] |
 | sorahed/dependency-confusion-exploit | a demonstration of how the dependency-confusion attack with npm works | https://github.com/sorahed/dependency-confusion-exploit | ['exploit'] | 1 | 2021-09-30 15:30:27+00:00 | 0 | 1 | JavaScript | 0 | [] |
 | SleepTheGod/Twitter | Exploits | https://github.com/SleepTheGod/Twitter | ['exploit'] | 1 | 2021-09-30 15:27:21+00:00 | 0 | 0 | | 0 | [] |
+| sslscripts/GhostlicExploit | None | https://github.com/sslscripts/GhostlicExploit | ['exploit'] | 1 | 2021-09-30 15:27:32+00:00 | 0 | 0 | | 0 | [] |
 | security77/zero-exploit | None | https://github.com/security77/zero-exploit | ['exploit'] | 1 | 2021-09-30 15:25:04+00:00 | 0 | 0 | Python | 0 | [] |
-| Ajsensai/browserexploit | html page for testing browser exploit | https://github.com/Ajsensai/browserexploit | ['exploit'] | 1 | 2021-09-30 04:26:52+00:00 | 0 | 0 | HTML | 0 | [] |
 | hadeutscher/openu-sec-project-exploit | None | https://github.com/hadeutscher/openu-sec-project-exploit | ['exploit'] | 1 | 2021-09-30 15:11:37+00:00 | 0 | 0 | Assembly | 0 | [] |
 | werp420/fivem.dk | We found a zeroday in the fivem.dk website, we then defaced the hole thing and then the admin deleted the api and restored the website unfortunately. | https://github.com/werp420/fivem.dk | ['zeroday'] | 1 | 2021-09-30 15:17:26+00:00 | 0 | 1 | Python | 0 | [] |
 | badmonkey7/CVE-2021-34730 | Cisco RV110w UPnP stack overflow | https://github.com/badmonkey7/CVE-2021-34730 | ['cve-2 OR cve_2'] | 1 | 2021-09-30 11:21:05+00:00 | 0 | 0 | | 0 | ['CVE-2021-34730'] |
@@ -56,9 +56,10 @@
 | C4l1b4n/ModBusSploit | Framework for ModBus TCP Industrial Protocol Exploitation. | https://github.com/C4l1b4n/ModBusSploit | ['exploit', 'sploit'] | 2 | 2021-09-30 07:33:54+00:00 | 640 | 0 | Python | 0 | [] |
 | PenteraIO/vScalation-CVE-2021-22015 | Scanner for vScalation (CVE-2021-22015) a Local Privilege Escalation in VMWare vCenter | https://github.com/PenteraIO/vScalation-CVE-2021-22015 | ['cve-2 OR cve_2'] | 1 | 2021-09-30 07:22:09+00:00 | 0 | 0 | Shell | 1 | ['CVE-2021-22015'] |
 | iamkashz/pypi-revshell | Malicious Python package for PyPi server exploitation | https://github.com/iamkashz/pypi-revshell | ['exploit'] | 1 | 2021-09-30 04:30:20+00:00 | 0 | 0 | | 0 | [] |
+| Ajsensai/browserexploit | html page for testing browser exploit | https://github.com/Ajsensai/browserexploit | ['exploit'] | 1 | 2021-09-30 04:26:52+00:00 | 0 | 0 | HTML | 0 | [] |
 | sillihkram/Bruteforcing-SSH | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host. | https://github.com/sillihkram/Bruteforcing-SSH | ['exploit'] | 1 | 2021-09-30 02:17:22+00:00 | 52090 | 0 | | 0 | [] |
+| kikiokol/AndroidDown | Exploit android devices with open Android Debugging Bridge(ADB) ports. | https://github.com/kikiokol/AndroidDown | ['exploit'] | 1 | 2021-09-30 14:26:31+00:00 | 37 | 5 | Python | 0 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-09-30 13:42:55+00:00 | 96 | 1 | C# | 1 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-30 01:09:49+00:00 | 3579 | 2486 | PowerShell | 720 | [] |
 | AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-09-30 10:15:16+00:00 | 12954 | 1 | CSS | 0 | [] |
 | David-Reguera-Garcia-Dreg/shellex | C-shellcode to hex converter, handy tool for paste & execute shellcodes in IDA PRO, gdb, windbg, radare2, ollydbg, x64dbg, immunity debugger & 010 editor | https://github.com/David-Reguera-Garcia-Dreg/shellex | ['shellcode'] | 1 | 2021-09-30 07:54:51+00:00 | 24133 | 57 | C | 16 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-30 00:03:22+00:00 | 412011 | 32 | | 19 | [] |
