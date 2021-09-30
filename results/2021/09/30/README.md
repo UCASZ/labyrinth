@@ -1,10 +1,10 @@
 
 # Summary for results/2021/09/30
     
-54 records found after deduplication
+58 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-30 01:26:34+00:00 | 632268 | 25197 | Ruby | 11606 | [] |
 | cuciuu/DuckySploit | None | https://github.com/cuciuu/DuckySploit | ['sploit'] | 1 | 2021-09-30 06:14:14+00:00 | 236 | 0 | | 0 | [] |
 | CYB3RK1D/SHELLCODES-X86-32 | X86 shellcodes | https://github.com/CYB3RK1D/SHELLCODES-X86-32 | ['shellcode'] | 1 | 2021-09-30 09:06:38+00:00 | 6 | 1 | Assembly | 0 | [] |
@@ -18,6 +18,7 @@
 | whyisthesheep/ITExploits | a few school exploits | https://github.com/whyisthesheep/ITExploits | ['exploit'] | 1 | 2021-09-30 10:12:14+00:00 | 1 | 0 | | 0 | [] |
 | CYB3RK1D/X86-64_SHELLCODES | x86-64 shellcodes | https://github.com/CYB3RK1D/X86-64_SHELLCODES | ['shellcode'] | 1 | 2021-09-30 08:57:11+00:00 | 2 | 0 | Assembly | 0 | [] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-09-30 00:08:37+00:00 | 5 | 0 | Zeek | 0 | [] |
+| BrunoCaseiro/PTL_GoGet_RCE | None | https://github.com/BrunoCaseiro/PTL_GoGet_RCE | ['rce'] | 1 | 2021-09-30 10:53:55+00:00 | 6 | 0 | | 0 | [] |
 | hoanx4/Modern_Events_Calendar | This module exploits an unauthenticated events export in WordPress plugin 'modern-events-calendar-lite' plugin version | https://github.com/hoanx4/Modern_Events_Calendar | ['exploit'] | 1 | 2021-09-30 01:12:50+00:00 | 0 | 0 | Ruby | 0 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-30 01:09:49+00:00 | 3579 | 2486 | PowerShell | 720 | [] |
 | iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-09-30 01:29:35+00:00 | 0 | 0 | | 0 | [] |
@@ -31,10 +32,11 @@
 | CYB3RK1D/ARM-32-SHELLCODES- | ARM32 shellcodes | https://github.com/CYB3RK1D/ARM-32-SHELLCODES- | ['shellcode'] | 1 | 2021-09-30 07:50:06+00:00 | 0 | 0 | Assembly | 0 | [] |
 | CYB3RK1D/SHELLCODE_LOADER | shellcode loader program in c | https://github.com/CYB3RK1D/SHELLCODE_LOADER | ['shellcode'] | 1 | 2021-09-30 08:33:37+00:00 | 0 | 0 | C | 0 | [] |
 | cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2021-09-30 09:25:14+00:00 | 0 | 0 | | 0 | [] |
+| ysfcndgr/Exploit-Gelistirme-WriteUp | None | https://github.com/ysfcndgr/Exploit-Gelistirme-WriteUp | ['exploit'] | 1 | 2021-09-30 09:35:57+00:00 | 0 | 0 | | 0 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-30 02:03:07+00:00 | 46247 | 6 | Python | 1 | [] |
 | sillihkram/Bruteforcing-SSH | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host. | https://github.com/sillihkram/Bruteforcing-SSH | ['exploit'] | 1 | 2021-09-30 02:17:22+00:00 | 52090 | 0 | | 0 | [] |
 | AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-09-30 10:15:16+00:00 | 12954 | 1 | CSS | 0 | [] |
-| HackerDev-Felix/Phoenix-Framework | Phoenix Framework Project | https://github.com/HackerDev-Felix/Phoenix-Framework | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-09-30 02:17:04+00:00 | 18 | 25 | Python | 3 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-09-30 10:46:32+00:00 | 164 | 7 | JavaScript | 4 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-30 05:07:30+00:00 | 246574 | 6508 | C | 1804 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-09-30 10:30:54+00:00 | 4719 | 3970 | Python | 546 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-09-30 00:17:21+00:00 | 136305 | 250 | Ruby | 75 | [] |
@@ -53,9 +55,11 @@
 | RCStep/CSSG | Cobalt Strike Shellcode Generator | https://github.com/RCStep/CSSG | ['shellcode'] | 1 | 2021-09-30 03:01:50+00:00 | 124 | 364 | HTML | 76 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-30 01:17:39+00:00 | 69 | 0 | PHP | 0 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-09-30 05:13:50+00:00 | 25 | 0 | C | 0 | [] |
+| TheTh1nk3r/exp_hub | 漏洞复现与poc收集，CVE-2021-21975，cve-2021-22005，CVE-2021-26295，VMware vCenter任意文件读取 | https://github.com/TheTh1nk3r/exp_hub | ['cve poc', 'vulnerability poc'] | 2 | 2021-09-30 11:14:58+00:00 | 29 | 2 | Python | 3 | ['CVE-2021-21975', 'CVE-2021-22005', 'CVE-2021-26295'] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-30 04:02:55+00:00 | 37904 | 196 | Python | 57 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-09-30 04:54:22+00:00 | 1148227 | 0 | Python | 0 | [] |
 | bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day', 'vulnerability poc'] | 2 | 2021-09-30 08:09:39+00:00 | 6465 | 149 | Python | 37 | [] |
 | King-Sign/Javascript-Exploitation | XSS | https://github.com/King-Sign/Javascript-Exploitation | ['exploit'] | 1 | 2021-09-30 09:50:31+00:00 | 17 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-09-30 01:12:04+00:00 | 13998 | 2 | Python | 0 | [] |
-| ysfcndgr/Exploit-Gelistirme-WriteUp | None | https://github.com/ysfcndgr/Exploit-Gelistirme-WriteUp | ['exploit'] | 1 | 2021-09-30 09:35:57+00:00 | 0 | 0 | | 0 | [] |
+| HackerDev-Felix/Phoenix-Framework | Phoenix Framework Project | https://github.com/HackerDev-Felix/Phoenix-Framework | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-09-30 02:17:04+00:00 | 18 | 25 | Python | 3 | [] |
+| badmonkey7/CVE-2021-34730 | Cisco RV110w UPnP stack overflow | https://github.com/badmonkey7/CVE-2021-34730 | ['cve-2 OR cve_2'] | 1 | 2021-09-30 11:21:05+00:00 | 0 | 0 | | 0 | ['CVE-2021-34730'] |
