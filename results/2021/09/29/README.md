@@ -1,13 +1,12 @@
 
 # Summary for results/2021/09/29
     
-113 records found after deduplication
+114 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-29 05:37:13+00:00 | 632180 | 25190 | Ruby | 11605 | [] |
-| MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-09-29 03:01:52+00:00 | 66 | 3 | Python | 1 | [] |
-| wry4n/x64-assembly-shells | Some assembly I wrote way back when while learning how to write shellcode | https://github.com/wry4n/x64-assembly-shells | ['shellcode'] | 1 | 2021-09-29 01:47:39+00:00 | 0 | 0 | Assembly | 0 | [] |
+| ultrajacobboy/roblox-exploit-demonstration | Showing off how easy it is to exploit in roblox | https://github.com/ultrajacobboy/roblox-exploit-demonstration | ['exploit'] | 1 | 2021-09-29 02:34:04+00:00 | 0 | 0 | Lua | 0 | [] |
 | WellSouta/timmy-rce | None | https://github.com/WellSouta/timmy-rce | ['rce'] | 1 | 2021-09-29 00:34:03+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | weak1337/BE-Shellcode | Code for Battleyes shellcode | https://github.com/weak1337/BE-Shellcode | ['shellcode'] | 1 | 2021-09-29 13:21:30+00:00 | 17 | 9 | C++ | 6 | [] |
 | rezolved/rezolve_rce_amazon | None | https://github.com/rezolved/rezolve_rce_amazon | ['rce'] | 1 | 2021-09-29 06:54:56+00:00 | 5 | 0 | PHP | 0 | [] |
@@ -32,10 +31,11 @@
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2021-09-29 16:46:10+00:00 | 226 | 0 | Lua | 0 | [] |
 | Albert0147/SFDA_neighbors | Code for our NeurIPS 2021 paper 'Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation' | https://github.com/Albert0147/SFDA_neighbors | ['exploit'] | 1 | 2021-09-29 07:14:46+00:00 | 96 | 2 | Python | 0 | [] |
 | ozergoker/CVE-2021-40444 | Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444 | https://github.com/ozergoker/CVE-2021-40444 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-09-29 11:39:26+00:00 | 59 | 15 | | 6 | ['CVE-2021-40444'] |
-| ultrajacobboy/roblox-exploit-demonstration | Showing off how easy it is to exploit in roblox | https://github.com/ultrajacobboy/roblox-exploit-demonstration | ['exploit'] | 1 | 2021-09-29 02:34:04+00:00 | 0 | 0 | Lua | 0 | [] |
+| aesophor/requiem | 🎻 Automatic Exploit Generation (AEG) engine | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-29 04:38:07+00:00 | 9288 | 9 | C++ | 1 | [] |
+| wry4n/x64-assembly-shells | Some assembly I wrote way back when while learning how to write shellcode | https://github.com/wry4n/x64-assembly-shells | ['shellcode'] | 1 | 2021-09-29 01:47:39+00:00 | 0 | 0 | Assembly | 0 | [] |
 | a1324622751/cnvd-mointer | nan | https://github.com/a1324622751/cnvd-mointer | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-09-29 02:46:18+00:00 | 0 | 0 | nan | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-29 02:58:18+00:00 | 21823 | 6004 | JavaScript | 1428 | [] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-09-29 03:51:41+00:00 | 5 | 0 | Zeek | 0 | [] |
-| efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2021-09-29 16:30:58+00:00 | 0 | 0 | | 0 | [] |
 | cmndcntrlcyber/shellcode | None | https://github.com/cmndcntrlcyber/shellcode | ['shellcode'] | 1 | 2021-09-29 20:41:04+00:00 | 0 | 0 | | 0 | [] |
 | adjaliya/-CVE-2017-7494-Samba-Exploit-POC | According to researchers with Rapid7, over 110,000 devices appear on internet, which run stable Samba versions, while 92,500 seem to run unstable Samba versions, for which there is no fix. The newest Samba models, including the models 4.6.x before 4.6.4, 4 | https://github.com/adjaliya/-CVE-2017-7494-Samba-Exploit-POC | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'remote code execution', 'vulnerability poc'] | 5 | 2021-09-29 20:31:21+00:00 | 0 | 0 | | 0 | ['CVE-2017-7494'] |
 | r4bbithole/exploits | This repo contains all the exploits I reference on my blog. | https://github.com/r4bbithole/exploits | ['exploit'] | 1 | 2021-09-29 19:46:14+00:00 | 0 | 0 | Python | 0 | [] |
@@ -47,8 +47,8 @@
 | gomez9656/FreeRTOS-ESP32-stackOverflow | FreeRTOS with ESP32 to demonstrate stack overflow in heap | https://github.com/gomez9656/FreeRTOS-ESP32-stackOverflow | ['heap overflow'] | 1 | 2021-09-29 18:29:27+00:00 | 0 | 0 | C++ | 0 | [] |
 | twentybel0w/CVE-2021-25162 | CVE-2021-25162 | https://github.com/twentybel0w/CVE-2021-25162 | ['cve-2 OR cve_2'] | 1 | 2021-09-29 17:41:11+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-25162'] |
 | MikeCzumak/EggSandwich | An egghunter with built-in integrity checks to compensate for shellcode corruption | https://github.com/MikeCzumak/EggSandwich | ['shellcode'] | 1 | 2021-09-29 17:30:54+00:00 | 0 | 0 | Perl | 0 | [] |
+| efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2021-09-29 16:30:58+00:00 | 0 | 0 | | 0 | [] |
 | Timirepo/CVE_Exploits | CVE Exploit PoC's | https://github.com/Timirepo/CVE_Exploits | ['cve poc', 'exploit'] | 2 | 2021-09-29 16:23:02+00:00 | 37116 | 0 | C | 0 | [] |
-| ZrWoodzFt1/7Sploit | None | https://github.com/ZrWoodzFt1/7Sploit | ['sploit'] | 1 | 2021-09-29 04:00:46+00:00 | 0 | 0 | | 0 | [] |
 | darkwire37/affineLinuxPractice | A beginner practice box for learning terminal and basic vulnerability exploitation | https://github.com/darkwire37/affineLinuxPractice | ['exploit'] | 1 | 2021-09-29 13:59:10+00:00 | 0 | 0 | | 0 | [] |
 | LazarusReborn/PDF-Silent-Exploit | not public yet | https://github.com/LazarusReborn/PDF-Silent-Exploit | ['exploit'] | 1 | 2021-09-29 12:11:10+00:00 | 0 | 0 | | 0 | [] |
 | nyarosu/rowhammer | Experimental Linux kernel module that attempts to offer an in-kernel defence against the "rowhammer" exploit | https://github.com/nyarosu/rowhammer | ['exploit'] | 1 | 2021-09-29 12:10:47+00:00 | 0 | 0 | | 0 | [] |
@@ -60,12 +60,13 @@
 | AsimShakeel10/exploitcintosh | None | https://github.com/AsimShakeel10/exploitcintosh | ['exploit'] | 1 | 2021-09-29 07:54:37+00:00 | 0 | 0 | | 0 | [] |
 | AsimShakeel10/cve-2019-exploit | None | https://github.com/AsimShakeel10/cve-2019-exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-09-29 07:46:45+00:00 | 0 | 0 | | 0 | [] |
 | Zureno/Kernel_level_exploits | A repo of customized derived exploits for fun . | https://github.com/Zureno/Kernel_level_exploits | ['exploit'] | 1 | 2021-09-29 05:07:53+00:00 | 0 | 0 | | 0 | [] |
-| aesophor/requiem | 🎻 Automatic Exploit Generation (AEG) engine | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-09-29 04:38:07+00:00 | 9288 | 9 | C++ | 1 | [] |
+| ZrWoodzFt1/7Sploit | None | https://github.com/ZrWoodzFt1/7Sploit | ['sploit'] | 1 | 2021-09-29 04:00:46+00:00 | 0 | 0 | | 0 | [] |
+| MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-09-29 03:01:52+00:00 | 66 | 3 | Python | 1 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-09-29 00:59:03+00:00 | 23 | 0 | Lua | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-09-29 02:58:18+00:00 | 21823 | 6004 | JavaScript | 1428 | [] |
 | AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-09-29 16:10:08+00:00 | 9012 | 1 | CSS | 0 | [] |
-| bats3c/shad0w | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | ['exploit', 'shellcode'] | 2 | 2021-09-29 00:15:36+00:00 | 17124 | 1428 | C | 239 | [] |
+| M4rcell/m4rcell | this is my personal repo for Readme | https://github.com/M4rcell/m4rcell | ['rce'] | 1 | 2021-09-29 22:20:22+00:00 | 13 | 0 | | 0 | [] |
 | hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-09-29 19:43:52+00:00 | 321 | 458 | | 96 | [] |
+| acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2021-09-29 23:53:37+00:00 | 68352 | 542 | Lua | 115 | [] |
 | rng70/Hacking-Resources | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | ['exploit'] | 1 | 2021-09-29 00:42:48+00:00 | 1927927 | 9 | | 0 | [] |
 | hesim-dev/rcea | Course materials for learning how to perform applied cost-effectiveness analysis with R | https://github.com/hesim-dev/rcea | ['rce'] | 1 | 2021-09-29 19:50:17+00:00 | 256869 | 6 | R | 4 | [] |
 | dagheyman/awesome-binary-exploitation | None | https://github.com/dagheyman/awesome-binary-exploitation | ['exploit'] | 1 | 2021-09-29 07:32:51+00:00 | 24 | 0 | | 0 | [] |
@@ -89,11 +90,10 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-09-29 05:07:34+00:00 | 244495 | 6506 | C | 1804 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-29 15:59:03+00:00 | 3579 | 2484 | PowerShell | 720 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-09-29 14:03:28+00:00 | 45982 | 849 | Python | 200 | [] |
+| bats3c/shad0w | A post exploitation framework designed to operate covertly on heavily monitored environments | https://github.com/bats3c/shad0w | ['exploit', 'shellcode'] | 2 | 2021-09-29 00:15:36+00:00 | 17124 | 1428 | C | 239 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-09-29 19:16:52+00:00 | 512 | 82 | Java | 19 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-09-29 20:49:44+00:00 | 3065330 | 2 | Batchfile | 0 | [] |
-| Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-09-29 12:44:20+00:00 | 36404 | 413 | C++ | 61 | [] |
-| zYan666/Demon-Exploit | None | https://github.com/zYan666/Demon-Exploit | ['exploit'] | 1 | 2021-09-29 20:16:24+00:00 | 1301 | 0 | | 0 | [] |
-| M4rcell/m4rcell | this is my personal repo for Readme | https://github.com/M4rcell/m4rcell | ['rce'] | 1 | 2021-09-29 22:20:22+00:00 | 13 | 0 | | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-29 03:03:35+00:00 | 35337 | 196 | Python | 57 | [] |
 | krastanoel/exploits | None | https://github.com/krastanoel/exploits | ['exploit'] | 1 | 2021-09-29 12:46:07+00:00 | 2 | 0 | Python | 0 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-09-29 11:16:36+00:00 | 18182 | 1 | | 1 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-09-29 11:18:13+00:00 | 1305 | 3 | Python | 1 | [] |
@@ -104,9 +104,9 @@
 | McSl0vv/exploit | None | https://github.com/McSl0vv/exploit | ['exploit'] | 1 | 2021-09-29 08:56:02+00:00 | 521 | 0 | PHP | 0 | [] |
 | tuo4n8/CVE-2020-2950 | None | https://github.com/tuo4n8/CVE-2020-2950 | ['cve-2 OR cve_2'] | 1 | 2021-09-29 15:28:01+00:00 | 70841 | 0 | Java | 0 | ['CVE-2020-2950'] |
 | Captain-1337/Master-Thesis | Understanding and Exploiting Deep Learning-based Sentiment Analysis from News Headlines for Predicting Price Movements of WTI Crude Oil | https://github.com/Captain-1337/Master-Thesis | ['exploit'] | 1 | 2021-09-29 09:17:31+00:00 | 9742 | 0 | Jupyter Notebook | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-09-29 03:03:35+00:00 | 35337 | 196 | Python | 57 | [] |
-| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-09-29 14:59:09+00:00 | 3161 | 0 | JavaScript | 1 | [] |
+| zYan666/Demon-Exploit | None | https://github.com/zYan666/Demon-Exploit | ['exploit'] | 1 | 2021-09-29 20:16:24+00:00 | 1301 | 0 | | 0 | [] |
 | IdanBanani/Binary-exploitation-Pwn | None | https://github.com/IdanBanani/Binary-exploitation-Pwn | ['exploit'] | 1 | 2021-09-29 07:04:11+00:00 | 33586 | 0 | C | 1 | [] |
+| Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-09-29 12:44:20+00:00 | 36404 | 413 | C++ | 61 | [] |
 | TheTh1nk3r/exp_hub | 漏洞复现与poc收集，CVE-2021-21975，cve-2021-22005，CVE-2021-26295，VMware vCenter任意文件读取 | https://github.com/TheTh1nk3r/exp_hub | ['cve poc', 'vulnerability poc'] | 2 | 2021-09-29 13:46:51+00:00 | 29 | 1 | Python | 1 | ['CVE-2021-21975', 'CVE-2021-22005', 'CVE-2021-26295'] |
 | googleprojectzero/0days-in-the-wild | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | ['0day', 'exploit'] | 2 | 2021-09-29 17:34:11+00:00 | 161 | 318 | HTML | 33 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-29 01:15:09+00:00 | 69 | 0 | PHP | 0 | [] |
@@ -117,4 +117,5 @@
 | manhhabui/mDSDI | Repository for the NeurIPS 2021 paper: "Exploiting Domain-Specific Features to Enhance Domain Generalization". | https://github.com/manhhabui/mDSDI | ['exploit'] | 1 | 2021-09-29 14:09:51+00:00 | 2209 | 0 | Python | 0 | [] |
 | ajes-xfr-team/bin-exploits | None | https://github.com/ajes-xfr-team/bin-exploits | ['exploit'] | 1 | 2021-09-29 05:34:12+00:00 | 21764 | 0 | PowerShell | 0 | [] |
 | fanyao/branchspec | Proof of concept code for the BranchSpec exploit. | https://github.com/fanyao/branchspec | ['exploit'] | 1 | 2021-09-29 14:22:14+00:00 | 22598 | 2 | C | 4 | [] |
+| metricq/metricq-webview | 📈 A visualization of MetricQ data exploiting the advantages of the HTA db backend | https://github.com/metricq/metricq-webview | ['exploit'] | 1 | 2021-09-29 14:59:09+00:00 | 3161 | 0 | JavaScript | 1 | [] |
 | RPowell-C/Math-Sploit-Framework | a collection of tools to do math for you! | https://github.com/RPowell-C/Math-Sploit-Framework | ['sploit'] | 1 | 2021-09-29 20:59:03+00:00 | 0 | 0 | Python | 0 | [] |
