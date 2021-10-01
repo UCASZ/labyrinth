@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10
     
-27 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
@@ -15,6 +15,7 @@
 | kingkirpal2000/CSE-111 | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting da | https://github.com/kingkirpal2000/CSE-111 | ['exploit'] | 1 | 2021-10-01 01:36:35+00:00 | 7202 | 1 | ReScript | 0 | [] |
 | k4is3r13/Bash-Script-CVE-2018-16763 | FUEL CMS 1.4.1 allows PHP Code Evaluation via the pages/select/ filter parameter or the preview/ data parameter. This can lead to Pre-Auth Remote Code Execution. | https://github.com/k4is3r13/Bash-Script-CVE-2018-16763 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-10-01 04:19:30+00:00 | 1 | 0 | Shell | 0 | ['CVE-2018-16763'] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-01 04:08:53+00:00 | 1658 | 23 | JavaScript | 26 | [] |
+| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-10-01 05:14:39+00:00 | 7 | 1 | Java | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-01 01:12:27+00:00 | 15520 | 2 | Python | 0 | [] |
 | gregorycoleman/zeroday-podcast | None | https://github.com/gregorycoleman/zeroday-podcast | ['zeroday'] | 1 | 2021-10-01 04:22:54+00:00 | 5122 | 0 | SCSS | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-01 04:02:20+00:00 | 39960 | 198 | Python | 56 | [] |
@@ -31,4 +32,5 @@
 | cacadosman/Keisatsu-Shell-Backdoor | Web shell/backdoor written in php for web exploitation | https://github.com/cacadosman/Keisatsu-Shell-Backdoor | ['exploit'] | 1 | 2021-10-01 03:21:34+00:00 | 8 | 13 | PHP | 10 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-01 04:33:54+00:00 | 70123 | 10152 | Python | 1712 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-10-01 00:36:35+00:00 | 4955 | 3972 | Python | 546 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-01 05:07:40+00:00 | 248636 | 6510 | C | 1806 | [] |
 | k4is3r13/Bash-Script-CVE-2019-17662 | ThinVNC 1.0b1 is vulnerable to arbitrary file read, which leads to a compromise of the VNC server. The vulnerability exists even when authentication is turned on during the deployment of the VNC server. The password for authentication is stored in cleartex | https://github.com/k4is3r13/Bash-Script-CVE-2019-17662 | ['cve-2 OR cve_2'] | 1 | 2021-10-01 04:28:13+00:00 | 0 | 0 | Shell | 0 | ['CVE-2019-17662'] |
