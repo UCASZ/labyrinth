@@ -1,12 +1,13 @@
 
 # Summary for results/2021/09/30
     
-107 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-09-30 01:26:34+00:00 | 632268 | 25197 | Ruby | 11606 | [] |
-| NattiSamson/Serv-U-CVE-2021-35211 | Simple Serv-U CVE-2021-35211 PoC | https://github.com/NattiSamson/Serv-U-CVE-2021-35211 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-30 01:46:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-35211'] |
+| kingkirpal2000/CSE-111 | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting da | https://github.com/kingkirpal2000/CSE-111 | ['exploit'] | 1 | 2021-09-30 16:45:57+00:00 | 7144 | 1 | ReScript | 0 | [] |
+| iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-09-30 01:29:35+00:00 | 0 | 0 | | 0 | [] |
 | hoanx4/Modern_Events_Calendar | This module exploits an unauthenticated events export in WordPress plugin 'modern-events-calendar-lite' plugin version | https://github.com/hoanx4/Modern_Events_Calendar | ['exploit'] | 1 | 2021-09-30 01:12:50+00:00 | 0 | 0 | Ruby | 0 | [] |
 | cuciuu/DuckySploit | None | https://github.com/cuciuu/DuckySploit | ['sploit'] | 1 | 2021-09-30 06:14:14+00:00 | 236 | 0 | | 0 | [] |
 | darkwire37/affineLinuxPractice | A beginner practice box for learning terminal and basic vulnerability exploitation | https://github.com/darkwire37/affineLinuxPractice | ['exploit'] | 1 | 2021-09-30 21:17:22+00:00 | 0 | 0 | | 0 | [] |
@@ -17,8 +18,8 @@
 | CYB3RK1D/X86-64_SHELLCODES | x86-64 shellcodes | https://github.com/CYB3RK1D/X86-64_SHELLCODES | ['shellcode'] | 1 | 2021-09-30 08:57:11+00:00 | 2 | 0 | Assembly | 0 | [] |
 | whyisthesheep/ITExploits | a few school exploits | https://github.com/whyisthesheep/ITExploits | ['exploit'] | 1 | 2021-09-30 10:12:14+00:00 | 1 | 0 | | 0 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2021-09-30 09:59:52+00:00 | 278 | 0 | | 0 | [] |
-| kingkirpal2000/CSE-111 | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting da | https://github.com/kingkirpal2000/CSE-111 | ['exploit'] | 1 | 2021-09-30 16:45:57+00:00 | 7144 | 1 | ReScript | 0 | [] |
 | nimarty/hackypi | A yocto meta-layer for Raspberry Pi with preconfigured vulnerabilities to exploit. | https://github.com/nimarty/hackypi | ['exploit'] | 1 | 2021-09-30 07:22:47+00:00 | 26 | 0 | BitBake | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-30 01:09:49+00:00 | 3579 | 2486 | PowerShell | 720 | [] |
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-09-30 13:15:41+00:00 | 364 | 351 | C++ | 47 | [] |
 | nth347/Zimbra-RCE-exploit | RCE exploit for attack chain in "A Saga of Code Executions on Zimbra" post | https://github.com/nth347/Zimbra-RCE-exploit | ['exploit', 'rce'] | 2 | 2021-09-30 04:53:48+00:00 | 4 | 2 | Python | 2 | [] |
 | r0ckysec/CVE-2021-22005 | CVE-2021-22005 - VMWare vCenter Server File Upload to RCE | https://github.com/r0ckysec/CVE-2021-22005 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-09-30 14:38:21+00:00 | 7833 | 76 | Python | 20 | ['CVE-2021-22005'] |
@@ -30,10 +31,11 @@
 | corelight/CVE-2021-38647 | CVE-2021-38647 AKA "OMIGOD" vulnerability in Windows OMI | https://github.com/corelight/CVE-2021-38647 | ['cve-2 OR cve_2'] | 1 | 2021-09-30 01:07:30+00:00 | 2814 | 3 | Zeek | 3 | ['CVE-2021-38647'] |
 | CYB3RK1D/SHELLCODES-X86-32 | X86 shellcodes | https://github.com/CYB3RK1D/SHELLCODES-X86-32 | ['shellcode'] | 1 | 2021-09-30 09:06:38+00:00 | 6 | 1 | Assembly | 0 | [] |
 | sairson/NetworkExpLibrary | Network vulnerability exploitation library | https://github.com/sairson/NetworkExpLibrary | ['exploit'] | 1 | 2021-09-30 02:03:07+00:00 | 46247 | 6 | Python | 1 | [] |
-| iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-09-30 01:29:35+00:00 | 0 | 0 | | 0 | [] |
+| NattiSamson/Serv-U-CVE-2021-35211 | Simple Serv-U CVE-2021-35211 PoC | https://github.com/NattiSamson/Serv-U-CVE-2021-35211 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-09-30 01:46:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-35211'] |
 | bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-09-30 02:42:54+00:00 | 0 | 0 | | 0 | [] |
-| kikiokol/AndroidDown | Exploit android devices with open Android Debugging Bridge(ADB) ports. | https://github.com/kikiokol/AndroidDown | ['exploit'] | 1 | 2021-09-30 14:26:31+00:00 | 37 | 5 | Python | 0 | [] |
 | minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution | File upload to Remote Code Execution on Zenario CMS 9.0.54156 | https://github.com/minhnq22/Zenario_CMS_9.0.54156_File_upload_to_Remote_code_execution | ['remote code execution'] | 1 | 2021-09-30 02:46:07+00:00 | 0 | 0 | Python | 0 | [] |
+| Ajsensai/browserexploit | html page for testing browser exploit | https://github.com/Ajsensai/browserexploit | ['exploit'] | 1 | 2021-09-30 04:26:52+00:00 | 0 | 0 | HTML | 0 | [] |
+| xaletr/WP-Advanced-Video | WordPress Plugin Advanced Video 1.0 Exploit / Grab Config | https://github.com/xaletr/WP-Advanced-Video | ['exploit'] | 1 | 2021-09-30 21:19:29+00:00 | 0 | 0 | Python | 0 | [] |
 | suyash-chavan/Exploit-Education | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | ['exploit'] | 1 | 2021-09-30 21:25:26+00:00 | 0 | 0 | | 0 | [] |
 | Noli18P/Metasploitable-Telnet-Smtp | Exploiting metasploitable, in this report I gained access to the system by enumerating users with SMTP and with telnet | https://github.com/Noli18P/Metasploitable-Telnet-Smtp | ['exploit', 'metasploit module OR payload'] | 2 | 2021-09-30 19:08:35+00:00 | 0 | 1 | | 0 | [] |
 | D3m0nicw0lf/Vehicle-hacking | Car hacking is the manipulation of the code in a car's electronic control unit (ECU) to exploit a vulnerability and gain control of other ECU units in the vehicle | https://github.com/D3m0nicw0lf/Vehicle-hacking | ['exploit'] | 1 | 2021-09-30 19:27:27+00:00 | 0 | 0 | | 0 | [] |
@@ -56,10 +58,9 @@
 | C4l1b4n/ModBusSploit | Framework for ModBus TCP Industrial Protocol Exploitation. | https://github.com/C4l1b4n/ModBusSploit | ['exploit', 'sploit'] | 2 | 2021-09-30 07:33:54+00:00 | 640 | 0 | Python | 0 | [] |
 | PenteraIO/vScalation-CVE-2021-22015 | Scanner for vScalation (CVE-2021-22015) a Local Privilege Escalation in VMWare vCenter | https://github.com/PenteraIO/vScalation-CVE-2021-22015 | ['cve-2 OR cve_2'] | 1 | 2021-09-30 07:22:09+00:00 | 0 | 0 | Shell | 1 | ['CVE-2021-22015'] |
 | iamkashz/pypi-revshell | Malicious Python package for PyPi server exploitation | https://github.com/iamkashz/pypi-revshell | ['exploit'] | 1 | 2021-09-30 04:30:20+00:00 | 0 | 0 | | 0 | [] |
-| Ajsensai/browserexploit | html page for testing browser exploit | https://github.com/Ajsensai/browserexploit | ['exploit'] | 1 | 2021-09-30 04:26:52+00:00 | 0 | 0 | HTML | 0 | [] |
 | sillihkram/Bruteforcing-SSH | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host. | https://github.com/sillihkram/Bruteforcing-SSH | ['exploit'] | 1 | 2021-09-30 02:17:22+00:00 | 52090 | 0 | | 0 | [] |
+| kikiokol/AndroidDown | Exploit android devices with open Android Debugging Bridge(ADB) ports. | https://github.com/kikiokol/AndroidDown | ['exploit'] | 1 | 2021-09-30 14:26:31+00:00 | 37 | 5 | Python | 0 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-09-30 13:42:55+00:00 | 96 | 1 | C# | 1 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-09-30 01:09:49+00:00 | 3579 | 2486 | PowerShell | 720 | [] |
 | noahmaranesi/Ultimate-Guitar-Hack | The first tool to download any Guitar Pro file, including 'Official' from Ultimate Guitar | https://github.com/noahmaranesi/Ultimate-Guitar-Hack | ['exploit'] | 1 | 2021-09-30 07:55:34+00:00 | 28 | 39 | | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-09-30 00:03:22+00:00 | 412011 | 32 | | 19 | [] |
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-09-30 20:23:42+00:00 | 903 | 70 | Shell | 41 | [] |
@@ -111,4 +112,4 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-09-30 01:17:39+00:00 | 69 | 0 | PHP | 0 | [] |
 | RCStep/CSSG | Cobalt Strike Shellcode Generator | https://github.com/RCStep/CSSG | ['shellcode'] | 1 | 2021-09-30 03:01:50+00:00 | 124 | 364 | HTML | 76 | [] |
 | BenH11235/pwnable_writeup | An introduction course to system exploitation based on pwnable.kr challenges | https://github.com/BenH11235/pwnable_writeup | ['exploit'] | 1 | 2021-09-30 09:45:19+00:00 | 27650 | 0 | TeX | 0 | [] |
-| xaletr/WP-Advanced-Video | WordPress Plugin Advanced Video 1.0 Exploit / Grab Config | https://github.com/xaletr/WP-Advanced-Video | ['exploit'] | 1 | 2021-09-30 21:19:29+00:00 | 0 | 0 | Python | 0 | [] |
+| snovvcrash/DInjector | Collection of techniques for shellcode injection packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-09-30 22:09:36+00:00 | 18 | 1 | C# | 0 | [] |
