@@ -1,14 +1,12 @@
 
 # Summary for results/2021/10
     
-58 records found after deduplication
+67 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-01 00:11:23+00:00 | 632515 | 25201 | Ruby | 11605 | [] |
-| iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-10-01 01:15:24+00:00 | 3 | 0 | | 0 | [] |
-| Csparmaz/MaarsseveenRPMoneyExploit | a very poorly coded bot that uses 3 fucking different languages | https://github.com/Csparmaz/MaarsseveenRPMoneyExploit | ['exploit'] | 1 | 2021-10-01 11:53:25+00:00 | 5 | 0 | AutoHotkey | 0 | [] |
-| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-01 04:08:53+00:00 | 1658 | 23 | JavaScript | 26 | [] |
+| MobiusBinary/CVE-2021-41648 | None | https://github.com/MobiusBinary/CVE-2021-41648 | ['cve-2 OR cve_2'] | 1 | 2021-10-01 13:50:33+00:00 | 2 | 0 | | 0 | ['CVE-2021-41648'] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-10-01 06:34:15+00:00 | 243 | 0 | Python | 0 | [] |
 | xvSync/NGROK-0DAY-Exploit---Not-Finished | None | https://github.com/xvSync/NGROK-0DAY-Exploit---Not-Finished | ['0day', 'exploit'] | 2 | 2021-10-01 09:23:31+00:00 | 2 | 0 | Python | 0 | [] |
 | Vulnmachines/OMIGOD_cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-10-01 06:08:11+00:00 | 4 | 1 | | 1 | ['CVE-2021-38647'] |
@@ -17,12 +15,16 @@
 | k4is3r13/Bash-Script-CVE-2018-16763 | FUEL CMS 1.4.1 allows PHP Code Evaluation via the pages/select/ filter parameter or the preview/ data parameter. This can lead to Pre-Auth Remote Code Execution. | https://github.com/k4is3r13/Bash-Script-CVE-2018-16763 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-10-01 04:19:30+00:00 | 1 | 0 | Shell | 0 | ['CVE-2018-16763'] |
 | rishabh-panda/TheQuantumRepo | Quantum computing, a study focused on the development of computer-based technologies centred around the principles of quantum theory. It is the amalgam of Physics, Mathematics, and Quantum Mechanics that exploits the collective properties of quantum states | https://github.com/rishabh-panda/TheQuantumRepo | ['exploit'] | 1 | 2021-10-01 12:22:58+00:00 | 83 | 1 | Jupyter Notebook | 0 | [] |
 | kingkirpal2000/CSE-111 | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting da | https://github.com/kingkirpal2000/CSE-111 | ['exploit'] | 1 | 2021-10-01 01:36:35+00:00 | 7202 | 1 | ReScript | 0 | [] |
+| MobiusBinary/CVE-2021-41647 | None | https://github.com/MobiusBinary/CVE-2021-41647 | ['cve-2 OR cve_2'] | 1 | 2021-10-01 14:29:02+00:00 | 9800 | 0 | | 0 | ['CVE-2021-41647'] |
 | BrunoCaseiro/PTL_GoGet_RCE | None | https://github.com/BrunoCaseiro/PTL_GoGet_RCE | ['rce'] | 1 | 2021-10-01 09:19:44+00:00 | 8 | 0 | Go | 0 | [] |
+| MobiusBinary/CVE-2021-41649 | None | https://github.com/MobiusBinary/CVE-2021-41649 | ['cve-2 OR cve_2'] | 1 | 2021-10-01 13:50:58+00:00 | 6106 | 0 | | 0 | ['CVE-2021-41649'] |
 | Timirepo/CVE_Exploits | CVE Exploit PoC's | https://github.com/Timirepo/CVE_Exploits | ['cve poc', 'exploit'] | 2 | 2021-10-01 11:47:08+00:00 | 37116 | 0 | C | 0 | [] |
+| iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-10-01 01:15:24+00:00 | 3 | 0 | | 0 | [] |
 | bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-10-01 00:07:14+00:00 | 8 | 0 | Python | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-01 01:02:09+00:00 | 27113 | 8318 | Python | 1440 | [] |
 | cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2021-10-01 05:35:38+00:00 | 26032 | 0 | nan | 0 | [] |
+| Csparmaz/MaarsseveenRPMoneyExploit | a very poorly coded bot that uses 3 fucking different languages | https://github.com/Csparmaz/MaarsseveenRPMoneyExploit | ['exploit'] | 1 | 2021-10-01 11:53:25+00:00 | 5 | 0 | AutoHotkey | 0 | [] |
 | D3m0nicw0lf/Vehicle-hacking | Car hacking is the manipulation of the code in a car's electronic control unit (ECU) to exploit a vulnerability and gain control of other ECU units in the vehicle | https://github.com/D3m0nicw0lf/Vehicle-hacking | ['exploit'] | 1 | 2021-10-01 10:56:08+00:00 | 61 | 0 | | 0 | [] |
+| snovvcrash/DInjector | Collection of techniques for shellcode injection packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-01 14:28:48+00:00 | 18 | 5 | C# | 2 | [] |
 | daletoniris/CVE-2021-22555-esc-priv | None | https://github.com/daletoniris/CVE-2021-22555-esc-priv | ['cve-2 OR cve_2'] | 1 | 2021-10-01 02:19:16+00:00 | 0 | 0 | | 0 | ['CVE-2021-22555'] |
 | Zureno/CVE-_-POC_-Repository. | None | https://github.com/Zureno/CVE-_-POC_-Repository. | ['cve poc'] | 1 | 2021-10-01 03:27:55+00:00 | 0 | 0 | | 0 | [] |
 | SecuritySaiyan/commandinjectiondemo | Demo of a command injection defect to benchmark sast tools. | https://github.com/SecuritySaiyan/commandinjectiondemo | ['command injection'] | 1 | 2021-10-01 04:34:57+00:00 | 17 | 0 | Python | 0 | [] |
@@ -33,13 +35,16 @@
 | marketdesignresearch/MVNN | Monotone-Value Neural Networks: Exploiting Preference Monotonicity in Combinatorial Assignement | https://github.com/marketdesignresearch/MVNN | ['exploit'] | 1 | 2021-10-01 08:25:07+00:00 | 0 | 0 | Python | 1 | [] |
 | knqyf263/CVE-2021-3129 | PoC for CVE-2021-3129 (Laravel) | https://github.com/knqyf263/CVE-2021-3129 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-01 09:16:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-3129'] |
 | jmrcsnchz/msbuild-shellcode | Using MSBuild to Execute Shellcode in C# | https://github.com/jmrcsnchz/msbuild-shellcode | ['shellcode'] | 1 | 2021-10-01 11:29:18+00:00 | 0 | 0 | Python | 0 | [] |
-| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-10-01 05:14:39+00:00 | 7 | 1 | Java | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-01 01:12:27+00:00 | 15520 | 2 | Python | 0 | [] |
-| gregorycoleman/zeroday-podcast | None | https://github.com/gregorycoleman/zeroday-podcast | ['zeroday'] | 1 | 2021-10-01 04:22:54+00:00 | 5122 | 0 | SCSS | 0 | [] |
-| Night-King-Host/75XV3b1 | PS4 7.5X Exploit Host (Initial Jailbreak Release) | https://github.com/Night-King-Host/75XV3b1 | ['exploit'] | 1 | 2021-10-01 07:52:13+00:00 | 2874 | 0 | HTML | 0 | [] |
+| artsking/linux-4.1.15_CVE-2020-15436_withPatch | None | https://github.com/artsking/linux-4.1.15_CVE-2020-15436_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-10-01 11:43:28+00:00 | 0 | 0 | C | 0 | ['CVE-2020-15436'] |
+| inquisition-musician/metasploit-install | None | https://github.com/inquisition-musician/metasploit-install | ['metasploit module OR payload'] | 1 | 2021-10-01 13:48:27+00:00 | 0 | 0 | Shell | 0 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-01 04:08:53+00:00 | 1658 | 23 | JavaScript | 26 | [] |
+| sillihkram/Bruteforcing-SSH | This is a demo which will exploit ssh on a typical linux host. Once ssh access is gained, privilege escalation is used to pwn the host. | https://github.com/sillihkram/Bruteforcing-SSH | ['exploit'] | 1 | 2021-10-01 13:59:14+00:00 | 52116 | 0 | | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-01 01:02:09+00:00 | 27113 | 8318 | Python | 1440 | [] |
+| hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-01 12:05:01+00:00 | 345 | 459 | | 100 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-01 05:07:40+00:00 | 248636 | 6510 | C | 1806 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-10-01 00:36:35+00:00 | 4955 | 3972 | Python | 546 | [] |
 | xairy/linux-kernel-exploitation | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | ['exploit'] | 1 | 2021-10-01 13:05:33+00:00 | 368 | 3699 | | 794 | [] |
+| moneermasoud/scripts | PHP Scripts ___ Exploits ___ Hacking | https://github.com/moneermasoud/scripts | ['exploit'] | 1 | 2021-10-01 13:40:04+00:00 | 18 | 1 | PHP | 2 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-01 04:33:54+00:00 | 70123 | 10152 | Python | 1712 | [] |
 | cacadosman/Keisatsu-Shell-Backdoor | Web shell/backdoor written in php for web exploitation | https://github.com/cacadosman/Keisatsu-Shell-Backdoor | ['exploit'] | 1 | 2021-10-01 03:21:34+00:00 | 8 | 13 | PHP | 10 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-01 00:16:46+00:00 | 137830 | 250 | Ruby | 75 | [] |
@@ -50,8 +55,9 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-01 06:52:53+00:00 | 33324 | 22 | | 14 | [] |
 | ind3p3nd3nt/BlueRDPSploit | Auto IP range scanner & exploit tool for BlueKeep metasploit module | https://github.com/ind3p3nd3nt/BlueRDPSploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-10-01 07:21:43+00:00 | 23 | 15 | Shell | 8 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-10-01 12:16:40+00:00 | 265 | 7 | Go | 7 | [] |
-| hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-01 12:05:01+00:00 | 345 | 459 | | 100 | [] |
 | dithpri/RCES | None | https://github.com/dithpri/RCES | ['rce'] | 1 | 2021-10-01 03:55:46+00:00 | 213 | 2 | JavaScript | 4 | [] |
+| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-10-01 05:14:39+00:00 | 7 | 1 | Java | 0 | [] |
+| th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-10-01 13:57:19+00:00 | 3087543 | 2 | Batchfile | 0 | [] |
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-10-01 01:27:54+00:00 | 916 | 70 | Shell | 41 | [] |
 | fanyao/branchspec | Proof of concept code for the BranchSpec exploit. | https://github.com/fanyao/branchspec | ['exploit'] | 1 | 2021-10-01 00:27:22+00:00 | 22601 | 2 | C | 4 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-01 00:03:14+00:00 | 416140 | 32 | | 19 | [] |
@@ -62,4 +68,7 @@
 | Night-King-Host/75XV3b3 | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | ['exploit'] | 1 | 2021-10-01 11:40:35+00:00 | 3243 | 0 | HTML | 0 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-10-01 09:25:27+00:00 | 1700 | 4 | Julia | 0 | [] |
 | Night-King-Host/75XV3b2 | PS4 7.5X Host Exploit (Reduce sleeps in jb.c to speed up) | https://github.com/Night-King-Host/75XV3b2 | ['exploit'] | 1 | 2021-10-01 08:46:32+00:00 | 2793 | 0 | HTML | 0 | [] |
-| artsking/linux-4.1.15_CVE-2020-15436_withPatch | None | https://github.com/artsking/linux-4.1.15_CVE-2020-15436_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-10-01 11:43:28+00:00 | 0 | 0 | C | 0 | ['CVE-2020-15436'] |
+| Night-King-Host/75XV3b1 | PS4 7.5X Exploit Host (Initial Jailbreak Release) | https://github.com/Night-King-Host/75XV3b1 | ['exploit'] | 1 | 2021-10-01 07:52:13+00:00 | 2874 | 0 | HTML | 0 | [] |
+| gregorycoleman/zeroday-podcast | None | https://github.com/gregorycoleman/zeroday-podcast | ['zeroday'] | 1 | 2021-10-01 04:22:54+00:00 | 5122 | 0 | SCSS | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-01 01:12:27+00:00 | 15520 | 2 | Python | 0 | [] |
+| xqrp/DuckHub | DuckHub is an Exploit Gui For Roblox | https://github.com/xqrp/DuckHub | ['exploit'] | 1 | 2021-10-01 14:15:32+00:00 | 0 | 0 | | 0 | [] |
