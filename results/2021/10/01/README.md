@@ -1,13 +1,12 @@
 
 # Summary for results/2021/10/01
     
-46 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-01 00:11:23+00:00 | 632515 | 25201 | Ruby | 11605 | [] |
-| iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-10-01 01:15:24+00:00 | 3 | 0 | | 0 | [] |
-| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-01 04:08:53+00:00 | 1658 | 23 | JavaScript | 26 | [] |
+| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-10-01 05:14:39+00:00 | 7 | 1 | Java | 0 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-10-01 06:34:15+00:00 | 243 | 0 | Python | 0 | [] |
 | xvSync/NGROK-0DAY-Exploit---Not-Finished | nan | https://github.com/xvSync/NGROK-0DAY-Exploit---Not-Finished | ['0day', 'exploit'] | 2 | 2021-10-01 09:23:31+00:00 | 2 | 0 | Python | 0 | [] |
 | Vulnmachines/OMIGOD_cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-10-01 06:08:11+00:00 | 4 | 1 | | 1 | ['CVE-2021-38647'] |
@@ -16,9 +15,10 @@
 | k4is3r13/Bash-Script-CVE-2018-16763 | FUEL CMS 1.4.1 allows PHP Code Evaluation via the pages/select/ filter parameter or the preview/ data parameter. This can lead to Pre-Auth Remote Code Execution. | https://github.com/k4is3r13/Bash-Script-CVE-2018-16763 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-10-01 04:19:30+00:00 | 1 | 0 | Shell | 0 | ['CVE-2018-16763'] |
 | kingkirpal2000/CSE-111 | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting da | https://github.com/kingkirpal2000/CSE-111 | ['exploit'] | 1 | 2021-10-01 01:36:35+00:00 | 7202 | 1 | ReScript | 0 | [] |
 | BrunoCaseiro/PTL_GoGet_RCE | None | https://github.com/BrunoCaseiro/PTL_GoGet_RCE | ['rce'] | 1 | 2021-10-01 09:19:44+00:00 | 8 | 0 | Go | 0 | [] |
+| iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-10-01 01:15:24+00:00 | 3 | 0 | | 0 | [] |
 | bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-10-01 00:07:14+00:00 | 8 | 0 | Python | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-01 01:02:09+00:00 | 27113 | 8318 | Python | 1440 | [] |
 | cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2021-10-01 05:35:38+00:00 | 26032 | 0 | nan | 0 | [] |
+| D3m0nicw0lf/Vehicle-hacking | Car hacking is the manipulation of the code in a car's electronic control unit (ECU) to exploit a vulnerability and gain control of other ECU units in the vehicle | https://github.com/D3m0nicw0lf/Vehicle-hacking | ['exploit'] | 1 | 2021-10-01 10:56:08+00:00 | 61 | 0 | | 0 | [] |
 | daletoniris/CVE-2021-22555-esc-priv | None | https://github.com/daletoniris/CVE-2021-22555-esc-priv | ['cve-2 OR cve_2'] | 1 | 2021-10-01 02:19:16+00:00 | 0 | 0 | | 0 | ['CVE-2021-22555'] |
 | Zureno/CVE-_-POC_-Repository. | None | https://github.com/Zureno/CVE-_-POC_-Repository. | ['cve poc'] | 1 | 2021-10-01 03:27:55+00:00 | 0 | 0 | | 0 | [] |
 | SecuritySaiyan/commandinjectiondemo | Demo of a command injection defect to benchmark sast tools. | https://github.com/SecuritySaiyan/commandinjectiondemo | ['command injection'] | 1 | 2021-10-01 04:34:57+00:00 | 17 | 0 | Python | 0 | [] |
@@ -27,10 +27,11 @@
 | pussycat0x/CMSimple-5.4-Authenticated-RCE | Cmsimple 5.4 - Remote Code Execution (RCE) (Authenticated) | https://github.com/pussycat0x/CMSimple-5.4-Authenticated-RCE | ['rce', 'remote code execution'] | 2 | 2021-10-01 07:03:49+00:00 | 0 | 0 | Python | 0 | [] |
 | EternalCheats/Eternal-Exploit | None | https://github.com/EternalCheats/Eternal-Exploit | ['exploit'] | 1 | 2021-10-01 08:27:59+00:00 | 0 | 0 | | 0 | [] |
 | marketdesignresearch/MVNN | Monotone-Value Neural Networks: Exploiting Preference Monotonicity in Combinatorial Assignement | https://github.com/marketdesignresearch/MVNN | ['exploit'] | 1 | 2021-10-01 08:25:07+00:00 | 0 | 0 | Python | 1 | [] |
-| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-10-01 05:14:39+00:00 | 7 | 1 | Java | 0 | [] |
+| knqyf263/CVE-2021-3129 | PoC for CVE-2021-3129 (Laravel) | https://github.com/knqyf263/CVE-2021-3129 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-01 09:16:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-3129'] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-01 04:08:53+00:00 | 1658 | 23 | JavaScript | 26 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-01 01:12:27+00:00 | 15520 | 2 | Python | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-01 01:02:09+00:00 | 27113 | 8318 | Python | 1440 | [] |
 | gregorycoleman/zeroday-podcast | None | https://github.com/gregorycoleman/zeroday-podcast | ['zeroday'] | 1 | 2021-10-01 04:22:54+00:00 | 5122 | 0 | SCSS | 0 | [] |
-| Night-King-Host/75XV3b1 | PS4 7.5X Exploit Host (Initial Jailbreak Release) | https://github.com/Night-King-Host/75XV3b1 | ['exploit'] | 1 | 2021-10-01 07:52:13+00:00 | 2874 | 0 | HTML | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-01 05:07:40+00:00 | 248636 | 6510 | C | 1806 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-10-01 00:36:35+00:00 | 4955 | 3972 | Python | 546 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-01 04:33:54+00:00 | 70123 | 10152 | Python | 1712 | [] |
@@ -47,7 +48,9 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-01 00:03:14+00:00 | 416140 | 32 | | 19 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2021-10-01 02:20:35+00:00 | 6850 | 1 | JavaScript | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-01 01:19:59+00:00 | 69 | 0 | PHP | 0 | [] |
+| kal1gh0st/WhatsAppHACK-RCE | Whatsapp remote code execution CVE-2019-11932 https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/ | https://github.com/kal1gh0st/WhatsAppHACK-RCE | ['rce', 'remote code execution'] | 2 | 2021-10-01 10:53:53+00:00 | 2865 | 1 | CSS | 0 | ['CVE-2019-11932'] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-01 04:02:20+00:00 | 39960 | 198 | Python | 56 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-10-01 09:25:27+00:00 | 1700 | 4 | Julia | 0 | [] |
 | Night-King-Host/75XV3b2 | PS4 7.5X Host Exploit (Reduce sleeps in jb.c to speed up) | https://github.com/Night-King-Host/75XV3b2 | ['exploit'] | 1 | 2021-10-01 08:46:32+00:00 | 2793 | 0 | HTML | 0 | [] |
-| knqyf263/CVE-2021-3129 | PoC for CVE-2021-3129 (Laravel) | https://github.com/knqyf263/CVE-2021-3129 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-01 09:16:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-3129'] |
+| Night-King-Host/75XV3b1 | PS4 7.5X Exploit Host (Initial Jailbreak Release) | https://github.com/Night-King-Host/75XV3b1 | ['exploit'] | 1 | 2021-10-01 07:52:13+00:00 | 2874 | 0 | HTML | 0 | [] |
+| jmrcsnchz/msbuild-shellcode | Using MSBuild to Execute Shellcode in C# | https://github.com/jmrcsnchz/msbuild-shellcode | ['shellcode'] | 1 | 2021-10-01 11:29:18+00:00 | 0 | 0 | Python | 0 | [] |
