@@ -1,15 +1,16 @@
 
 # Summary for results/2021/10/01
     
-56 records found after deduplication
+58 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-01 00:11:23+00:00 | 632515 | 25201 | Ruby | 11605 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-01 01:02:09+00:00 | 27113 | 8318 | Python | 1440 | [] |
+| iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-10-01 01:15:24+00:00 | 3 | 0 | | 0 | [] |
+| Csparmaz/MaarsseveenRPMoneyExploit | a very poorly coded bot that uses 3 fucking different languages | https://github.com/Csparmaz/MaarsseveenRPMoneyExploit | ['exploit'] | 1 | 2021-10-01 11:53:25+00:00 | 5 | 0 | AutoHotkey | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-01 04:08:53+00:00 | 1658 | 23 | JavaScript | 26 | [] |
 | ArnolFokam/OctaveConv-LinearConv-UNET | Medical image segmentation by exploiting spatial redundancy in images through Octave convolution and Filters redundancy through LinearConv | https://github.com/ArnolFokam/OctaveConv-LinearConv-UNET | ['exploit'] | 1 | 2021-10-01 06:34:15+00:00 | 243 | 0 | Python | 0 | [] |
-| xvSync/NGROK-0DAY-Exploit---Not-Finished | nan | https://github.com/xvSync/NGROK-0DAY-Exploit---Not-Finished | ['0day', 'exploit'] | 2 | 2021-10-01 09:23:31+00:00 | 2 | 0 | Python | 0 | [] |
+| xvSync/NGROK-0DAY-Exploit---Not-Finished | None | https://github.com/xvSync/NGROK-0DAY-Exploit---Not-Finished | ['0day', 'exploit'] | 2 | 2021-10-01 09:23:31+00:00 | 2 | 0 | Python | 0 | [] |
 | Vulnmachines/OMIGOD_cve-2021-38647 | CVE-2021-38647 is an unauthenticated RCE vulnerability effecting the OMI agent as root. | https://github.com/Vulnmachines/OMIGOD_cve-2021-38647 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-10-01 06:08:11+00:00 | 4 | 1 | | 1 | ['CVE-2021-38647'] |
 | ORCA666/ACHLYSv1 | THIS REPO IS PART OF WHAT ORCA TOLD ME TO UPLOAD | https://github.com/ORCA666/ACHLYSv1 | ['shellcode'] | 1 | 2021-10-01 08:20:42+00:00 | 310 | 8 | C | 8 | [] |
 | ORCA666/ACHLYSv2 | THIS REPO IS PART OF WHAT ORCA TOLD ME TO UPLOAD | https://github.com/ORCA666/ACHLYSv2 | ['shellcode'] | 1 | 2021-10-01 08:33:04+00:00 | 1656 | 8 | C | 9 | [] |
@@ -18,8 +19,8 @@
 | kingkirpal2000/CSE-111 | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting da | https://github.com/kingkirpal2000/CSE-111 | ['exploit'] | 1 | 2021-10-01 01:36:35+00:00 | 7202 | 1 | ReScript | 0 | [] |
 | BrunoCaseiro/PTL_GoGet_RCE | None | https://github.com/BrunoCaseiro/PTL_GoGet_RCE | ['rce'] | 1 | 2021-10-01 09:19:44+00:00 | 8 | 0 | Go | 0 | [] |
 | Timirepo/CVE_Exploits | CVE Exploit PoC's | https://github.com/Timirepo/CVE_Exploits | ['cve poc', 'exploit'] | 2 | 2021-10-01 11:47:08+00:00 | 37116 | 0 | C | 0 | [] |
-| iiLH/CBDXO | Ceibal Blacklist Disable eXplOit | https://github.com/iiLH/CBDXO | ['exploit'] | 1 | 2021-10-01 01:15:24+00:00 | 3 | 0 | | 0 | [] |
 | bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-10-01 00:07:14+00:00 | 8 | 0 | Python | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-01 01:02:09+00:00 | 27113 | 8318 | Python | 1440 | [] |
 | cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2021-10-01 05:35:38+00:00 | 26032 | 0 | nan | 0 | [] |
 | D3m0nicw0lf/Vehicle-hacking | Car hacking is the manipulation of the code in a car's electronic control unit (ECU) to exploit a vulnerability and gain control of other ECU units in the vehicle | https://github.com/D3m0nicw0lf/Vehicle-hacking | ['exploit'] | 1 | 2021-10-01 10:56:08+00:00 | 61 | 0 | | 0 | [] |
 | daletoniris/CVE-2021-22555-esc-priv | None | https://github.com/daletoniris/CVE-2021-22555-esc-priv | ['cve-2 OR cve_2'] | 1 | 2021-10-01 02:19:16+00:00 | 0 | 0 | | 0 | ['CVE-2021-22555'] |
@@ -32,23 +33,25 @@
 | marketdesignresearch/MVNN | Monotone-Value Neural Networks: Exploiting Preference Monotonicity in Combinatorial Assignement | https://github.com/marketdesignresearch/MVNN | ['exploit'] | 1 | 2021-10-01 08:25:07+00:00 | 0 | 0 | Python | 1 | [] |
 | knqyf263/CVE-2021-3129 | PoC for CVE-2021-3129 (Laravel) | https://github.com/knqyf263/CVE-2021-3129 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-01 09:16:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-3129'] |
 | jmrcsnchz/msbuild-shellcode | Using MSBuild to Execute Shellcode in C# | https://github.com/jmrcsnchz/msbuild-shellcode | ['shellcode'] | 1 | 2021-10-01 11:29:18+00:00 | 0 | 0 | Python | 0 | [] |
-| Csparmaz/MaarsseveenRPMoneyExploit | a very poorly coded bot that uses 3 fucking different languages | https://github.com/Csparmaz/MaarsseveenRPMoneyExploit | ['exploit'] | 1 | 2021-10-01 11:53:25+00:00 | 5 | 0 | AutoHotkey | 0 | [] |
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-10-01 05:14:39+00:00 | 7 | 1 | Java | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-01 01:12:27+00:00 | 15520 | 2 | Python | 0 | [] |
-| hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-01 12:05:01+00:00 | 345 | 459 | | 100 | [] |
+| gregorycoleman/zeroday-podcast | None | https://github.com/gregorycoleman/zeroday-podcast | ['zeroday'] | 1 | 2021-10-01 04:22:54+00:00 | 5122 | 0 | SCSS | 0 | [] |
+| Night-King-Host/75XV3b1 | PS4 7.5X Exploit Host (Initial Jailbreak Release) | https://github.com/Night-King-Host/75XV3b1 | ['exploit'] | 1 | 2021-10-01 07:52:13+00:00 | 2874 | 0 | HTML | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-01 05:07:40+00:00 | 248636 | 6510 | C | 1806 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-10-01 00:36:35+00:00 | 4955 | 3972 | Python | 546 | [] |
+| xairy/linux-kernel-exploitation | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | ['exploit'] | 1 | 2021-10-01 13:05:33+00:00 | 368 | 3699 | | 794 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-01 04:33:54+00:00 | 70123 | 10152 | Python | 1712 | [] |
 | cacadosman/Keisatsu-Shell-Backdoor | Web shell/backdoor written in php for web exploitation | https://github.com/cacadosman/Keisatsu-Shell-Backdoor | ['exploit'] | 1 | 2021-10-01 03:21:34+00:00 | 8 | 13 | PHP | 10 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-01 00:16:46+00:00 | 137830 | 250 | Ruby | 75 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-01 01:40:48+00:00 | 2759221 | 349 | | 52 | [] |
 | vDokkaebi/vDisplay | Previously exploited AEL Displays / Now Open Source! | https://github.com/vDokkaebi/vDisplay | ['exploit'] | 1 | 2021-10-01 03:41:04+00:00 | 77 | 2 | Lua | 4 | [] |
 | vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-10-01 00:24:40+00:00 | 840 | 126 | Go | 37 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-01 12:59:48+00:00 | 1339861 | 3574 | PowerShell | 1242 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-01 06:52:53+00:00 | 33324 | 22 | | 14 | [] |
 | ind3p3nd3nt/BlueRDPSploit | Auto IP range scanner & exploit tool for BlueKeep metasploit module | https://github.com/ind3p3nd3nt/BlueRDPSploit | ['exploit', 'metasploit module OR payload'] | 2 | 2021-10-01 07:21:43+00:00 | 23 | 15 | Shell | 8 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-10-01 12:16:40+00:00 | 265 | 7 | Go | 7 | [] |
+| hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-01 12:05:01+00:00 | 345 | 459 | | 100 | [] |
 | dithpri/RCES | None | https://github.com/dithpri/RCES | ['rce'] | 1 | 2021-10-01 03:55:46+00:00 | 213 | 2 | JavaScript | 4 | [] |
-| gregorycoleman/zeroday-podcast | None | https://github.com/gregorycoleman/zeroday-podcast | ['zeroday'] | 1 | 2021-10-01 04:22:54+00:00 | 5122 | 0 | SCSS | 0 | [] |
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-10-01 01:27:54+00:00 | 916 | 70 | Shell | 41 | [] |
 | fanyao/branchspec | Proof of concept code for the BranchSpec exploit. | https://github.com/fanyao/branchspec | ['exploit'] | 1 | 2021-10-01 00:27:22+00:00 | 22601 | 2 | C | 4 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-01 00:03:14+00:00 | 416140 | 32 | | 19 | [] |
@@ -59,5 +62,4 @@
 | Night-King-Host/75XV3b3 | 7.5X Exploit FW (May 2nd, 2021) Exploit | https://github.com/Night-King-Host/75XV3b3 | ['exploit'] | 1 | 2021-10-01 11:40:35+00:00 | 3243 | 0 | HTML | 0 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-10-01 09:25:27+00:00 | 1700 | 4 | Julia | 0 | [] |
 | Night-King-Host/75XV3b2 | PS4 7.5X Host Exploit (Reduce sleeps in jb.c to speed up) | https://github.com/Night-King-Host/75XV3b2 | ['exploit'] | 1 | 2021-10-01 08:46:32+00:00 | 2793 | 0 | HTML | 0 | [] |
-| Night-King-Host/75XV3b1 | PS4 7.5X Exploit Host (Initial Jailbreak Release) | https://github.com/Night-King-Host/75XV3b1 | ['exploit'] | 1 | 2021-10-01 07:52:13+00:00 | 2874 | 0 | HTML | 0 | [] |
 | artsking/linux-4.1.15_CVE-2020-15436_withPatch | None | https://github.com/artsking/linux-4.1.15_CVE-2020-15436_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-10-01 11:43:28+00:00 | 0 | 0 | C | 0 | ['CVE-2020-15436'] |
