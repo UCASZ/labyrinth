@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/02
     
-8 records found after deduplication
+10 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-------------------|
@@ -10,6 +10,8 @@
 | luckymime28/Skyjam | This is my very first exploit to skyjam. Please be patient there's more to come in the future. | https://github.com/luckymime28/Skyjam | ['exploit'] | 1 | 2021-10-02 00:35:25+00:00 | 39 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-02 00:03:26+00:00 | 420971 | 32 | | 19 | [] |
 | dylanmeca/labsecurity | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylanmeca/labsecurity | ['exploit'] | 1 | 2021-10-02 01:33:15+00:00 | 779 | 8 | Python | 5 | [] |
+| Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-10-02 02:32:31+00:00 | 4268 | 60 | HTML | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-02 00:36:10+00:00 | 41507 | 198 | Python | 56 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-02 01:06:16+00:00 | 16819 | 2 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-02 01:35:34+00:00 | 170 | 9 | JavaScript | 5 | [] |
+| istillplaying/Hexa-Game | Roblox Exploiting Hexa game | https://github.com/istillplaying/Hexa-Game | ['exploit'] | 1 | 2021-10-02 01:54:11+00:00 | 0 | 0 | | 0 | [] |
