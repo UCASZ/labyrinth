@@ -1,14 +1,15 @@
 
 # Summary for results/2021/10/02
     
-52 records found after deduplication
+55 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-02 08:44:29+00:00 | 633458 | 25216 | Ruby | 11614 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-02 05:07:34+00:00 | 250701 | 6511 | C | 1804 | [] |
+| suyash-chavan/Exploit-Education | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | ['exploit'] | 1 | 2021-10-02 11:26:16+00:00 | 2 | 0 | | 0 | [] |
 | sti2d-company/wallet | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | ['exploit'] | 1 | 2021-10-02 10:33:19+00:00 | 16105 | 2 | Vue | 2 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-10-02 04:46:32+00:00 | 747 | 193 | Python | 30 | [] |
+| ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-10-02 13:29:20+00:00 | 26 | 0 | Lua | 0 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2021-10-02 08:55:19+00:00 | 242 | 0 | Lua | 0 | [] |
 | TomAbel/evilginx.botguard | Exploit to bypass Google's JS security protection when using MITM phishing tools | https://github.com/TomAbel/evilginx.botguard | ['exploit'] | 1 | 2021-10-02 08:04:58+00:00 | 284 | 4 | | 1 | [] |
 | NullArray/WinKernel-Resources | A list of excellent resources for anyone to deepen their understanding with regards to Windows Kernel Exploitation and general low level security. | https://github.com/NullArray/WinKernel-Resources | ['exploit'] | 1 | 2021-10-02 03:48:54+00:00 | 126 | 10 | | 3 | [] |
@@ -17,8 +18,8 @@
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-10-02 11:14:30+00:00 | 528 | 365 | C++ | 50 | [] |
 | mgeeky/ShellcodeFluctuation | An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents | https://github.com/mgeeky/ShellcodeFluctuation | ['shellcode'] | 1 | 2021-10-02 11:18:35+00:00 | 1117 | 259 | C++ | 38 | [] |
 | security77/zero-exploit | None | https://github.com/security77/zero-exploit | ['exploit'] | 1 | 2021-10-02 03:45:05+00:00 | 5 | 0 | Python | 0 | [] |
-| suyash-chavan/Exploit-Education | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | ['exploit'] | 1 | 2021-10-02 11:26:16+00:00 | 2 | 0 | | 0 | [] |
 | astar-security/cpe2cve | Compute public vulnerabilities from a list of products in the CPE format | https://github.com/astar-security/cpe2cve | ['cve-2 OR cve_2'] | 1 | 2021-10-02 09:27:55+00:00 | 723 | 0 | Python | 0 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-02 01:35:34+00:00 | 170 | 9 | JavaScript | 5 | [] |
 | istillplaying/Hexa-Game | Roblox Exploiting Hexa game | https://github.com/istillplaying/Hexa-Game | ['exploit'] | 1 | 2021-10-02 01:54:11+00:00 | 0 | 0 | | 0 | [] |
 | wdjcy/CVE-2021-26084 | None | https://github.com/wdjcy/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-02 03:16:41+00:00 | 0 | 0 | | 0 | ['CVE-2021-26084'] |
 | kaFox4/FxSploit | FxSploit v1.1 | https://github.com/kaFox4/FxSploit | ['sploit'] | 1 | 2021-10-02 04:24:52+00:00 | 0 | 0 | nan | 0 | [] |
@@ -31,8 +32,8 @@
 | TechIndiaTutorials/Exploit_Chip | This is a tool for hackers which is best tool ever. It is also a hacker toolkit with many exploits and it also contain whole kali os . | https://github.com/TechIndiaTutorials/Exploit_Chip | ['exploit'] | 1 | 2021-10-02 12:36:33+00:00 | 0 | 0 | Python | 0 | [] |
 | m0nixga/MonixEX | Roblox Exploit | https://github.com/m0nixga/MonixEX | ['exploit'] | 1 | 2021-10-02 11:42:11+00:00 | 0 | 0 | | 0 | [] |
 | navin-hariharan/TeleRat | Tired of setting up Metasploit? Here is an alternative! No need to Port Forward | https://github.com/navin-hariharan/TeleRat | ['metasploit module OR payload'] | 1 | 2021-10-02 11:07:07+00:00 | 98057 | 1 | Python | 0 | [] |
-| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-02 01:35:34+00:00 | 170 | 9 | JavaScript | 5 | [] |
 | noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-10-02 08:43:50+00:00 | 13812 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-02 05:07:34+00:00 | 250701 | 6511 | C | 1804 | [] |
 | ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-10-02 04:13:00+00:00 | 4050 | 1 | | 0 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-02 09:27:41+00:00 | 7613 | 3997 | Python | 577 | [] |
 | seduceIDS/seduce | ShellcodE Detection Using CPU Emulation | https://github.com/seduceIDS/seduce | ['shellcode'] | 1 | 2021-10-02 05:20:23+00:00 | 6319 | 0 | C | 0 | [] |
@@ -40,6 +41,7 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-02 00:16:45+00:00 | 139356 | 251 | Ruby | 75 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-10-02 11:19:07+00:00 | 15236 | 845 | PowerShell | 193 | [] |
 | marcocesarato/PHP-Antimalware-Scanner | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | ['exploit'] | 1 | 2021-10-02 10:25:35+00:00 | 7380 | 259 | PHP | 47 | [] |
+| tmenochet/WinUtils | Random PowerShell scripts mainly focused on post-exploitation capabilities | https://github.com/tmenochet/WinUtils | ['exploit'] | 1 | 2021-10-02 12:58:57+00:00 | 266 | 3 | PowerShell | 0 | [] |
 | robertofocke/exploits | None | https://github.com/robertofocke/exploits | ['exploit'] | 1 | 2021-10-02 12:20:12+00:00 | 18 | 0 | Python | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-02 11:08:11+00:00 | 1339861 | 3581 | PowerShell | 1242 | [] |
 | mmxsrup/CVE-2019-5489 | Page Cache Side Channel Attacks (CVE-2019-5489) proof of concept for Linux | https://github.com/mmxsrup/CVE-2019-5489 | ['attack poc', 'cve poc', 'cve-2 OR cve_2'] | 3 | 2021-10-02 00:15:11+00:00 | 8 | 6 | C | 0 | ['CVE-2019-5489'] |
@@ -51,6 +53,7 @@
 | manhhabui/mDSDI | Repository for the NeurIPS 2021 paper: "Exploiting Domain-Specific Features to Enhance Domain Generalization". | https://github.com/manhhabui/mDSDI | ['exploit'] | 1 | 2021-10-02 07:06:44+00:00 | 2211 | 1 | Python | 0 | [] |
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-10-02 04:35:53+00:00 | 145388 | 268 | Batchfile | 84 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-02 00:03:26+00:00 | 420971 | 32 | | 19 | [] |
+| ihebski/DefaultCreds-cheat-sheet | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | ['exploit'] | 1 | 2021-10-02 13:04:01+00:00 | 459 | 1850 | Jupyter Notebook | 282 | [] |
 | vamshivaran1/Experiences | android hacking using metasploit | https://github.com/vamshivaran1/Experiences | ['metasploit module OR payload'] | 1 | 2021-10-02 06:32:16+00:00 | 3 | 0 | Shell | 0 | [] |
 | dylanmeca/labsecurity | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylanmeca/labsecurity | ['exploit'] | 1 | 2021-10-02 01:33:15+00:00 | 779 | 8 | Python | 5 | [] |
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-10-02 02:32:31+00:00 | 4268 | 60 | HTML | 24 | [] |
