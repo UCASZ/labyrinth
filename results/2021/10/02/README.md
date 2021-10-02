@@ -1,13 +1,12 @@
 
 # Summary for results/2021/10/02
     
-48 records found after deduplication
+52 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-02 08:44:29+00:00 | 633458 | 25216 | Ruby | 11614 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-02 05:07:34+00:00 | 250701 | 6511 | C | 1804 | [] |
-| navin-hariharan/TeleRat | Tired of setting up Metasploit? Here is an alternative! No need to Port Forward | https://github.com/navin-hariharan/TeleRat | ['metasploit module OR payload'] | 1 | 2021-10-02 11:07:07+00:00 | 98057 | 1 | Python | 0 | [] |
 | sti2d-company/wallet | Un simple portefeuille qui vous laissera exploiter le STI2D a votre guise. | https://github.com/sti2d-company/wallet | ['exploit'] | 1 | 2021-10-02 10:33:19+00:00 | 16105 | 2 | Vue | 2 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-10-02 04:46:32+00:00 | 747 | 193 | Python | 30 | [] |
 | joeengo/exploiting | None | https://github.com/joeengo/exploiting | ['exploit'] | 1 | 2021-10-02 08:55:19+00:00 | 242 | 0 | Lua | 0 | [] |
@@ -28,9 +27,12 @@
 | mithridates1313/ProxyShell_POC | POC for scanning ProxyShell(CVE-2021-34423,CVE-2021-34473,CVE-2021-31207) | https://github.com/mithridates1313/ProxyShell_POC | ['cve poc'] | 1 | 2021-10-02 07:29:24+00:00 | 0 | 0 | | 0 | ['CVE-2021-31207', 'CVE-2021-34423', 'CVE-2021-34473'] |
 | TaroballzChen/CVE-2021-22005-metasploit | the metasploit script(POC/EXP) about CVE-2021-22005 VMware vCenter Server contains an arbitrary file upload vulnerability | https://github.com/TaroballzChen/CVE-2021-22005-metasploit | ['cve poc', 'cve-2 OR cve_2', 'metasploit module OR payload', 'vulnerability poc'] | 4 | 2021-10-02 08:21:38+00:00 | 7708 | 0 | Python | 0 | ['CVE-2021-22005'] |
 | Ducks-Scripts/exploitScripts | All my exploit scripts | https://github.com/Ducks-Scripts/exploitScripts | ['exploit'] | 1 | 2021-10-02 10:12:50+00:00 | 0 | 0 | Lua | 0 | [] |
+| Ni7inSharma/CVE-2021-41511 | None | https://github.com/Ni7inSharma/CVE-2021-41511 | ['cve-2 OR cve_2'] | 1 | 2021-10-02 10:46:55+00:00 | 0 | 0 | | 0 | ['CVE-2021-41511'] |
+| TechIndiaTutorials/Exploit_Chip | This is a tool for hackers which is best tool ever. It is also a hacker toolkit with many exploits and it also contain whole kali os . | https://github.com/TechIndiaTutorials/Exploit_Chip | ['exploit'] | 1 | 2021-10-02 12:36:33+00:00 | 0 | 0 | Python | 0 | [] |
+| m0nixga/MonixEX | Roblox Exploit | https://github.com/m0nixga/MonixEX | ['exploit'] | 1 | 2021-10-02 11:42:11+00:00 | 0 | 0 | | 0 | [] |
+| navin-hariharan/TeleRat | Tired of setting up Metasploit? Here is an alternative! No need to Port Forward | https://github.com/navin-hariharan/TeleRat | ['metasploit module OR payload'] | 1 | 2021-10-02 11:07:07+00:00 | 98057 | 1 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-02 01:35:34+00:00 | 170 | 9 | JavaScript | 5 | [] |
 | noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-10-02 08:43:50+00:00 | 13812 | 0 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-02 01:06:16+00:00 | 16819 | 2 | Python | 0 | [] |
 | ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-10-02 04:13:00+00:00 | 4050 | 1 | | 0 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-02 09:27:41+00:00 | 7613 | 3997 | Python | 577 | [] |
 | seduceIDS/seduce | ShellcodE Detection Using CPU Emulation | https://github.com/seduceIDS/seduce | ['shellcode'] | 1 | 2021-10-02 05:20:23+00:00 | 6319 | 0 | C | 0 | [] |
@@ -38,11 +40,12 @@
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-02 00:16:45+00:00 | 139356 | 251 | Ruby | 75 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-10-02 11:19:07+00:00 | 15236 | 845 | PowerShell | 193 | [] |
 | marcocesarato/PHP-Antimalware-Scanner | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | ['exploit'] | 1 | 2021-10-02 10:25:35+00:00 | 7380 | 259 | PHP | 47 | [] |
+| robertofocke/exploits | None | https://github.com/robertofocke/exploits | ['exploit'] | 1 | 2021-10-02 12:20:12+00:00 | 18 | 0 | Python | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-02 11:08:11+00:00 | 1339861 | 3581 | PowerShell | 1242 | [] |
 | mmxsrup/CVE-2019-5489 | Page Cache Side Channel Attacks (CVE-2019-5489) proof of concept for Linux | https://github.com/mmxsrup/CVE-2019-5489 | ['attack poc', 'cve poc', 'cve-2 OR cve_2'] | 3 | 2021-10-02 00:15:11+00:00 | 8 | 6 | C | 0 | ['CVE-2019-5489'] |
 | hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-02 02:41:14+00:00 | 355 | 459 | | 100 | [] |
 | Hunt2behunter/Exploit-Developnment | None | https://github.com/Hunt2behunter/Exploit-Developnment | ['exploit'] | 1 | 2021-10-02 04:10:51+00:00 | 1 | 0 | | 0 | [] |
-| licit-lab/symupy-examples | A series of symupy examples to exploit the symupy package | https://github.com/licit-lab/symupy-examples | ['exploit'] | 1 | 2021-10-02 11:15:22+00:00 | 5 | 0 | Jupyter Notebook | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-02 01:06:16+00:00 | 16819 | 2 | Python | 0 | [] |
 | cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2021-10-02 03:16:29+00:00 | 9780 | 1743 | Go | 271 | [] |
 | luckymime28/Skyjam | This is my very first exploit to skyjam. Please be patient there's more to come in the future. | https://github.com/luckymime28/Skyjam | ['exploit'] | 1 | 2021-10-02 00:35:25+00:00 | 39 | 0 | Python | 0 | [] |
 | manhhabui/mDSDI | Repository for the NeurIPS 2021 paper: "Exploiting Domain-Specific Features to Enhance Domain Generalization". | https://github.com/manhhabui/mDSDI | ['exploit'] | 1 | 2021-10-02 07:06:44+00:00 | 2211 | 1 | Python | 0 | [] |
@@ -52,4 +55,5 @@
 | dylanmeca/labsecurity | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylanmeca/labsecurity | ['exploit'] | 1 | 2021-10-02 01:33:15+00:00 | 779 | 8 | Python | 5 | [] |
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-10-02 02:32:31+00:00 | 4268 | 60 | HTML | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-02 00:36:10+00:00 | 41507 | 198 | Python | 56 | [] |
-| Ni7inSharma/CVE-2021-41511 | None | https://github.com/Ni7inSharma/CVE-2021-41511 | ['cve-2 OR cve_2'] | 1 | 2021-10-02 10:46:55+00:00 | 0 | 0 | | 0 | ['CVE-2021-41511'] |
+| licit-lab/symupy-examples | A series of symupy examples to exploit the symupy package | https://github.com/licit-lab/symupy-examples | ['exploit'] | 1 | 2021-10-02 11:15:22+00:00 | 5 | 0 | Jupyter Notebook | 0 | [] |
+| evilcater/XSsploit | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | ['exploit'] | 1 | 2021-10-02 11:56:03+00:00 | 0 | 0 | | 0 | [] |
