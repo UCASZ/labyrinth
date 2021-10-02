@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/02
     
-26 records found after deduplication
+29 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------------------------------------------|
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-02 05:07:34+00:00 | 250701 | 6511 | C | 1804 | [] |
-| seduceIDS/seduce | ShellcodE Detection Using CPU Emulation | https://github.com/seduceIDS/seduce | ['shellcode'] | 1 | 2021-10-02 05:20:23+00:00 | 6319 | 0 | C | 0 | [] |
+| Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-10-02 02:32:31+00:00 | 4268 | 60 | HTML | 24 | [] |
+| SleepTheGod/FFMPEG-0DAY | I did not make this | https://github.com/SleepTheGod/FFMPEG-0DAY | ['0day'] | 1 | 2021-10-02 05:29:41+00:00 | 0 | 0 | Python | 0 | [] |
 | PinkP4nther/Heartbeat_PoC | Heartbeat vulnerability PoC | https://github.com/PinkP4nther/Heartbeat_PoC | ['exploit', 'vulnerability poc'] | 2 | 2021-10-02 05:01:51+00:00 | 0 | 0 | Rust | 0 | [] |
 | kaFox4/FxSploit | FxSploit v1.1 | https://github.com/kaFox4/FxSploit | ['sploit'] | 1 | 2021-10-02 04:24:52+00:00 | 0 | 0 | nan | 0 | [] |
 | wdjcy/CVE-2021-26084 | None | https://github.com/wdjcy/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-02 03:16:41+00:00 | 0 | 0 | | 0 | ['CVE-2021-26084'] |
@@ -18,10 +19,12 @@
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-02 01:35:34+00:00 | 170 | 9 | JavaScript | 5 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-02 01:06:16+00:00 | 16819 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-02 00:36:10+00:00 | 41507 | 198 | Python | 56 | [] |
-| Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-10-02 02:32:31+00:00 | 4268 | 60 | HTML | 24 | [] |
 | dylanmeca/labsecurity | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylanmeca/labsecurity | ['exploit'] | 1 | 2021-10-02 01:33:15+00:00 | 779 | 8 | Python | 5 | [] |
+| seduceIDS/seduce | ShellcodE Detection Using CPU Emulation | https://github.com/seduceIDS/seduce | ['shellcode'] | 1 | 2021-10-02 05:20:23+00:00 | 6319 | 0 | C | 0 | [] |
+| vamshivaran1/Experiences | android hacking using metasploit | https://github.com/vamshivaran1/Experiences | ['metasploit module OR payload'] | 1 | 2021-10-02 06:32:16+00:00 | 3 | 0 | Shell | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-02 00:03:26+00:00 | 420971 | 32 | | 19 | [] |
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-10-02 04:35:53+00:00 | 145388 | 268 | Batchfile | 84 | [] |
+| manhhabui/mDSDI | Repository for the NeurIPS 2021 paper: "Exploiting Domain-Specific Features to Enhance Domain Generalization". | https://github.com/manhhabui/mDSDI | ['exploit'] | 1 | 2021-10-02 07:06:44+00:00 | 2211 | 1 | Python | 0 | [] |
 | luckymime28/Skyjam | This is my very first exploit to skyjam. Please be patient there's more to come in the future. | https://github.com/luckymime28/Skyjam | ['exploit'] | 1 | 2021-10-02 00:35:25+00:00 | 39 | 0 | Python | 0 | [] |
 | cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2021-10-02 03:16:29+00:00 | 9780 | 1743 | Go | 271 | [] |
 | Hunt2behunter/Exploit-Developnment | None | https://github.com/Hunt2behunter/Exploit-Developnment | ['exploit'] | 1 | 2021-10-02 04:10:51+00:00 | 1 | 0 | | 0 | [] |
@@ -30,4 +33,4 @@
 | mmxsrup/CVE-2019-5489 | Page Cache Side Channel Attacks (CVE-2019-5489) proof of concept for Linux | https://github.com/mmxsrup/CVE-2019-5489 | ['attack poc', 'cve poc', 'cve-2 OR cve_2'] | 3 | 2021-10-02 00:15:11+00:00 | 8 | 6 | C | 0 | ['CVE-2019-5489'] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-02 00:16:45+00:00 | 139356 | 251 | Ruby | 75 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-02 04:25:03+00:00 | 70137 | 10158 | Python | 1712 | [] |
-| SleepTheGod/FFMPEG-0DAY | I did not make this | https://github.com/SleepTheGod/FFMPEG-0DAY | ['0day'] | 1 | 2021-10-02 05:29:41+00:00 | 0 | 0 | Python | 0 | [] |
+| mithridates1313/ProxyShell_POC | POC for scanning ProxyShell(CVE-2021-34423,CVE-2021-34473,CVE-2021-31207) | https://github.com/mithridates1313/ProxyShell_POC | ['cve poc'] | 1 | 2021-10-02 07:29:24+00:00 | 0 | 0 | | 0 | ['CVE-2021-31207', 'CVE-2021-34423', 'CVE-2021-34473'] |
