@@ -1,13 +1,13 @@
 
 # Summary for results/2021/10/03
     
-58 records found after deduplication
+59 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-03 01:51:13+00:00 | 633458 | 25217 | Ruby | 11618 | [] |
 | mgeeky/ShellcodeFluctuation | An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents | https://github.com/mgeeky/ShellcodeFluctuation | ['shellcode'] | 1 | 2021-10-03 00:31:02+00:00 | 1118 | 268 | C++ | 40 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-03 01:12:34+00:00 | 18206 | 2 | Python | 0 | [] |
+| Operational-Sciences-Group/Project-Beewolf | Beewolf is a PowerShell script that exploits HiveNightmare/SeriousSAM | https://github.com/Operational-Sciences-Group/Project-Beewolf | ['exploit'] | 1 | 2021-10-03 16:04:22+00:00 | 85 | 0 | PowerShell | 0 | [] |
 | rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-03 02:22:17+00:00 | 8568 | 0 | HTML | 0 | [] |
 | Safuan12616/Discord-Console-Exploits | Console Hacks for Discord. P.S.: This are mostly just for fun | https://github.com/Safuan12616/Discord-Console-Exploits | ['exploit'] | 1 | 2021-10-03 05:30:22+00:00 | 3 | 0 | | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-03 02:05:17+00:00 | 192 | 9 | JavaScript | 5 | [] |
@@ -20,7 +20,7 @@
 | Lolpprogamer666/Minecraft-exploit | This is an Minecraft exploit for cracked server with no login. | https://github.com/Lolpprogamer666/Minecraft-exploit | ['exploit'] | 1 | 2021-10-03 07:14:38+00:00 | 4 | 1 | JavaScript | 0 | [] |
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-10-03 00:30:11+00:00 | 524 | 372 | C++ | 51 | [] |
 | efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2021-10-03 06:33:36+00:00 | 36 | 0 | HTML | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-03 08:51:30+00:00 | 27127 | 8325 | Python | 1440 | [] |
+| T-Dynamos/Metasploit | Install Metasploit latest version in all linux devices including Termux (Android) | https://github.com/T-Dynamos/Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-03 03:12:59+00:00 | 1257 | 0 | Python | 0 | [] |
 | tungdo0602/Discord-Token-Generator | For Educational Purposes Only | https://github.com/tungdo0602/Discord-Token-Generator | ['exploit'] | 1 | 2021-10-03 08:53:45+00:00 | 7 | 2 | Python | 0 | [] |
 | Ducks-Scripts/exploitScripts | All my exploit scripts | https://github.com/Ducks-Scripts/exploitScripts | ['exploit'] | 1 | 2021-10-03 04:36:40+00:00 | 177 | 0 | Lua | 0 | [] |
 | TechIndiaTutorials/Exploit_Chip | This is a tool for hackers which is best tool ever. It is also a hacker toolkit with many exploits and it also contain whole kali os . | https://github.com/TechIndiaTutorials/Exploit_Chip | ['exploit'] | 1 | 2021-10-03 08:29:07+00:00 | 8423 | 1 | Python | 0 | [] |
@@ -33,10 +33,10 @@
 | TengShiXu/Roblox-Exploit-Script | None | https://github.com/TengShiXu/Roblox-Exploit-Script | ['exploit'] | 1 | 2021-10-03 09:04:50+00:00 | 0 | 0 | Lua | 0 | [] |
 | memN0ps/RustSCRunner | Shellcode Runner in Rust | https://github.com/memN0ps/RustSCRunner | ['shellcode'] | 1 | 2021-10-03 10:30:58+00:00 | 0 | 0 | Rust | 0 | [] |
 | SemiConductorShortage/chatwoot-exploit | Spam any site that uses chatwoot, filling up their support system | https://github.com/SemiConductorShortage/chatwoot-exploit | ['exploit'] | 1 | 2021-10-03 10:33:58+00:00 | 0 | 0 | | 0 | [] |
-| T-Dynamos/Metasploit | Install Metasploit latest version in all linux devices including Termux (Android) | https://github.com/T-Dynamos/Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-03 03:12:59+00:00 | 1257 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-03 01:12:34+00:00 | 18206 | 2 | Python | 0 | [] |
 | puckiestyle/CVE-2021-1675 | nan | https://github.com/puckiestyle/CVE-2021-1675 | ['cve-2 OR cve_2'] | 1 | 2021-10-03 13:04:19+00:00 | 604 | 1 | PowerShell | 4 | ['CVE-2021-1675'] |
-| SimonLovesU/KoGaMa | Collection of many exploits & cheats for KoGaMa | https://github.com/SimonLovesU/KoGaMa | ['exploit'] | 1 | 2021-10-03 11:41:37+00:00 | 73035 | 0 | Roff | 0 | [] |
-| kali0257/homes | Homes Overpowered Metadata Exploitation Service | https://github.com/kali0257/homes | ['exploit'] | 1 | 2021-10-03 04:11:03+00:00 | 21 | 0 | | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-03 08:51:30+00:00 | 27127 | 8325 | Python | 1440 | [] |
+| hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-03 15:02:45+00:00 | 363 | 461 | | 101 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-10-03 13:43:11+00:00 | 60624 | 1114 | C | 548 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-03 00:05:36+00:00 | 1534760 | 1511 | Python | 518 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-03 11:35:04+00:00 | 70419 | 10170 | Python | 1714 | [] |
@@ -49,8 +49,8 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-10-03 12:02:30+00:00 | 61623 | 1236 | Python | 253 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-10-03 14:29:01+00:00 | 1398 | 251 | C | 11 | [] |
 | ind3p3nd3nt/vncperlbot | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version | https://github.com/ind3p3nd3nt/vncperlbot | ['exploit'] | 1 | 2021-10-03 07:26:05+00:00 | 380 | 6 | Perl | 1 | [] |
-| hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-03 15:02:45+00:00 | 363 | 461 | | 101 | [] |
 | sepehrdaddev/packetstorm-exploits | None | https://github.com/sepehrdaddev/packetstorm-exploits | ['exploit'] | 1 | 2021-10-03 12:35:14+00:00 | 1596293 | 17 | C# | 9 | [] |
+| SimonLovesU/KoGaMa | Collection of many exploits & cheats for KoGaMa | https://github.com/SimonLovesU/KoGaMa | ['exploit'] | 1 | 2021-10-03 11:41:37+00:00 | 73035 | 0 | Roff | 0 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-10-03 06:55:58+00:00 | 3087544 | 2 | Batchfile | 0 | [] |
 | plackyhacker/ShellcodeEncryptor | A simple shell code encryptor/decryptor/executor to bypass anti virus. | https://github.com/plackyhacker/ShellcodeEncryptor | ['shellcode'] | 1 | 2021-10-03 11:30:16+00:00 | 909 | 34 | C# | 2 | [] |
 | ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-10-03 00:52:16+00:00 | 8666 | 1 | | 0 | [] |
@@ -62,4 +62,5 @@
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-10-03 13:37:19+00:00 | 4275 | 60 | HTML | 24 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-03 00:39:57+00:00 | 44081 | 199 | Python | 56 | [] |
 | nafees87n/codebox | codeBox RCE is a service that provides a remote environment to run your code in. Execution occurs in a containerized space. The API supports programming in 3 languages (Python, Javascript and C++), potentially extendable to support more. | https://github.com/nafees87n/codebox | ['rce', 'remote code execution'] | 2 | 2021-10-03 12:32:32+00:00 | 2145 | 0 | JavaScript | 2 | [] |
+| kali0257/homes | Homes Overpowered Metadata Exploitation Service | https://github.com/kali0257/homes | ['exploit'] | 1 | 2021-10-03 04:11:03+00:00 | 21 | 0 | | 0 | [] |
 | can-you-teach-me/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, | https://github.com/can-you-teach-me/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-10-03 12:33:26+00:00 | 0 | 0 | | 0 | [] |
