@@ -1,13 +1,12 @@
 
 # Summary for results/2021/10/02
     
-113 records found after deduplication
+114 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-02 08:44:29+00:00 | 633458 | 25216 | Ruby | 11614 | [] |
-| Night-King-Host/75XV3b7 | 7.5x Host Exploit, July 21th,2021 Release (add post-exploit cleanup spray) | https://github.com/Night-King-Host/75XV3b7 | ['exploit'] | 1 | 2021-10-02 21:48:07+00:00 | 2421 | 0 | HTML | 0 | [] |
-| snovvcrash/DInjector | Collection of techniques for shellcode injection packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-02 14:55:20+00:00 | 20 | 7 | C# | 2 | [] |
+| astar-security/cpe2cve | Compute public vulnerabilities from a list of products in the CPE format | https://github.com/astar-security/cpe2cve | ['cve-2 OR cve_2'] | 1 | 2021-10-02 09:27:55+00:00 | 723 | 0 | Python | 0 | [] |
 | suyash-chavan/Exploit-Education | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | ['exploit'] | 1 | 2021-10-02 11:26:16+00:00 | 2 | 0 | | 0 | [] |
 | security77/zero-exploit | None | https://github.com/security77/zero-exploit | ['exploit'] | 1 | 2021-10-02 03:45:05+00:00 | 5 | 0 | Python | 0 | [] |
 | mgeeky/ShellcodeFluctuation | An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents | https://github.com/mgeeky/ShellcodeFluctuation | ['shellcode'] | 1 | 2021-10-02 11:18:35+00:00 | 1117 | 259 | C++ | 38 | [] |
@@ -32,10 +31,11 @@
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-02 01:35:34+00:00 | 170 | 9 | JavaScript | 5 | [] |
 | noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-10-02 08:43:50+00:00 | 13812 | 0 | Python | 0 | [] |
 | Operational-Sciences-Group/Project-Beewolf | Beewolf is a PowerShell script that exploits HiveNightmare/SeriousSAM | https://github.com/Operational-Sciences-Group/Project-Beewolf | ['exploit'] | 1 | 2021-10-02 16:06:47+00:00 | 96 | 0 | PowerShell | 0 | [] |
-| astar-security/cpe2cve | Compute public vulnerabilities from a list of products in the CPE format | https://github.com/astar-security/cpe2cve | ['cve-2 OR cve_2'] | 1 | 2021-10-02 09:27:55+00:00 | 723 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-02 01:06:16+00:00 | 16819 | 2 | Python | 0 | [] |
+| snovvcrash/DInjector | Collection of techniques for shellcode injection packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-02 14:55:20+00:00 | 20 | 7 | C# | 2 | [] |
 | vvinoth/HTBCustomExploits | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | ['exploit'] | 1 | 2021-10-02 15:32:22+00:00 | 3 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-02 05:07:34+00:00 | 250701 | 6511 | C | 1804 | [] |
 | istillplaying/Hexa-Game | Roblox Exploiting Hexa game | https://github.com/istillplaying/Hexa-Game | ['exploit'] | 1 | 2021-10-02 01:54:11+00:00 | 0 | 0 | | 0 | [] |
-| kyukazamiqq/com_adsmanager-exploiter | None | https://github.com/kyukazamiqq/com_adsmanager-exploiter | ['exploit'] | 1 | 2021-10-02 14:55:46+00:00 | 0 | 0 | Python | 0 | [] |
 | Noli18P/Metasploitable-HTTP | This report shows how I gained access to the system by simply uploading a malicious PHP file. | https://github.com/Noli18P/Metasploitable-HTTP | ['metasploit module OR payload'] | 1 | 2021-10-02 23:45:40+00:00 | 0 | 1 | | 0 | [] |
 | exploit-xy/exploit-xy.github.io | None | https://github.com/exploit-xy/exploit-xy.github.io | ['exploit'] | 1 | 2021-10-02 23:14:34+00:00 | 0 | 0 | HTML | 0 | [] |
 | Instagram-Exploitation-Framework/Instagram-Exploitation-Framework | A multi exploit instagram exploitation framework | https://github.com/Instagram-Exploitation-Framework/Instagram-Exploitation-Framework | ['exploit'] | 1 | 2021-10-02 22:00:50+00:00 | 0 | 0 | Python | 0 | [] |
@@ -47,8 +47,8 @@
 | VECTSK/exploits | None | https://github.com/VECTSK/exploits | ['exploit'] | 1 | 2021-10-02 18:14:34+00:00 | 0 | 0 | | 0 | [] |
 | whokilleddb/CVE-2019-17662 | Exploit for CVE-2019-17662 (ThinVNC 1.0b1) | https://github.com/whokilleddb/CVE-2019-17662 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-10-02 16:21:56+00:00 | 0 | 0 | C | 0 | ['CVE-2019-17662'] |
 | HackerAnonyms/Confluence-exploit-secret | None | https://github.com/HackerAnonyms/Confluence-exploit-secret | ['exploit'] | 1 | 2021-10-02 15:51:14+00:00 | 0 | 0 | | 0 | [] |
+| kyukazamiqq/com_adsmanager-exploiter | None | https://github.com/kyukazamiqq/com_adsmanager-exploiter | ['exploit'] | 1 | 2021-10-02 14:55:46+00:00 | 0 | 0 | Python | 0 | [] |
 | kyukazamiqq/com_user-exploiter | njay | https://github.com/kyukazamiqq/com_user-exploiter | ['exploit'] | 1 | 2021-10-02 14:54:06+00:00 | 0 | 0 | Shell | 0 | [] |
-| wdjcy/CVE-2021-26084 | None | https://github.com/wdjcy/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-02 03:16:41+00:00 | 0 | 0 | | 0 | ['CVE-2021-26084'] |
 | puckiestyle/CVE-2021-3493 | None | https://github.com/puckiestyle/CVE-2021-3493 | ['cve-2 OR cve_2'] | 1 | 2021-10-02 14:44:52+00:00 | 0 | 0 | C | 0 | ['CVE-2021-3493'] |
 | evilcater/XSsploit | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | ['exploit'] | 1 | 2021-10-02 11:56:03+00:00 | 0 | 0 | | 0 | [] |
 | m0nixga/MonixEX | Roblox Exploit | https://github.com/m0nixga/MonixEX | ['exploit'] | 1 | 2021-10-02 11:42:11+00:00 | 0 | 0 | | 0 | [] |
@@ -60,10 +60,11 @@
 | SleepTheGod/FFMPEG-0DAY | I did not make this | https://github.com/SleepTheGod/FFMPEG-0DAY | ['0day'] | 1 | 2021-10-02 05:29:41+00:00 | 0 | 0 | Python | 0 | [] |
 | PinkP4nther/Heartbeat_PoC | Heartbeat vulnerability PoC | https://github.com/PinkP4nther/Heartbeat_PoC | ['exploit', 'vulnerability poc'] | 2 | 2021-10-02 05:01:51+00:00 | 0 | 0 | Rust | 0 | [] |
 | kaFox4/FxSploit | FxSploit v1.1 | https://github.com/kaFox4/FxSploit | ['sploit'] | 1 | 2021-10-02 04:24:52+00:00 | 0 | 0 | | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-02 01:06:16+00:00 | 16819 | 2 | Python | 0 | [] |
+| wdjcy/CVE-2021-26084 | None | https://github.com/wdjcy/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-02 03:16:41+00:00 | 0 | 0 | | 0 | ['CVE-2021-26084'] |
+| Night-King-Host/75XV3b7 | 7.5x Host Exploit, July 21th,2021 Release (add post-exploit cleanup spray) | https://github.com/Night-King-Host/75XV3b7 | ['exploit'] | 1 | 2021-10-02 21:48:07+00:00 | 2421 | 0 | HTML | 0 | [] |
 | iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-10-02 17:20:10+00:00 | 509 | 0 | Lua | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-02 05:07:34+00:00 | 250701 | 6511 | C | 1804 | [] |
 | whokilleddb/CVE-2019-15107 | CVE-2019-15107 Webmin Exploit in C | https://github.com/whokilleddb/CVE-2019-15107 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 4 | 2021-10-02 16:25:32+00:00 | 29 | 1 | C | 0 | ['CVE-2019-15107'] |
+| McSl0vv/exploit | None | https://github.com/McSl0vv/exploit | ['exploit'] | 1 | 2021-10-02 15:02:46+00:00 | 670 | 0 | PHP | 0 | [] |
 | FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2021-10-02 23:03:47+00:00 | 1036 | 15 | Shell | 0 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-10-02 23:06:20+00:00 | 4795 | 28 | Shell | 5 | [] |
 | FabioDefilippo/winallenum | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2021-10-02 23:07:29+00:00 | 3614 | 9 | PowerShell | 2 | [] |
@@ -93,8 +94,8 @@
 | j-harikrishnan/IoT_Exploit_Training_Badge | None | https://github.com/j-harikrishnan/IoT_Exploit_Training_Badge | ['exploit'] | 1 | 2021-10-02 20:22:12+00:00 | 3283 | 0 | C++ | 7 | [] |
 | bmedicke/REED | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | ['exploit'] | 1 | 2021-10-02 17:29:11+00:00 | 16772 | 3 | C | 1 | [] |
 | kal1gh0st/Windows-Exploit-2021-1811 | DESCRIPTION This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the m | https://github.com/kal1gh0st/Windows-Exploit-2021-1811 | ['exploit', 'metasploit module OR payload'] | 2 | 2021-10-02 23:17:43+00:00 | 1913 | 0 | Python | 0 | [] |
-| McSl0vv/exploit | None | https://github.com/McSl0vv/exploit | ['exploit'] | 1 | 2021-10-02 15:02:46+00:00 | 670 | 0 | PHP | 0 | [] |
 | Night-King-Host/75XV3b6 | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | ['exploit'] | 1 | 2021-10-02 20:53:03+00:00 | 3072 | 0 | HTML | 0 | [] |
+| bigblackhat/oFx | 漏洞批量扫描框架，0Day/1Day全网概念验证，~~刷洞，刷肉鸡用~~ | https://github.com/bigblackhat/oFx | ['0day', 'vulnerability poc'] | 2 | 2021-10-02 15:53:28+00:00 | 6486 | 149 | Python | 38 | [] |
 | licit-lab/symupy-examples | A series of symupy examples to exploit the symupy package | https://github.com/licit-lab/symupy-examples | ['exploit'] | 1 | 2021-10-02 11:15:22+00:00 | 5 | 0 | Jupyter Notebook | 0 | [] |
 | Night-King-Host/75XV3b5 | 7.5x FW Exploit (Exploit Date: May 27th, 2021) | https://github.com/Night-King-Host/75XV3b5 | ['exploit'] | 1 | 2021-10-02 15:14:31+00:00 | 4008 | 0 | HTML | 0 | [] |
 | NickSanzotta/scanman | ScanMan is the amalgamation of Masscan, Metasploit Framework (MSF) and Nmap Scripting Engine (NSE). | https://github.com/NickSanzotta/scanman | ['metasploit module OR payload'] | 1 | 2021-10-02 16:28:10+00:00 | 180 | 4 | Python | 1 | [] |
