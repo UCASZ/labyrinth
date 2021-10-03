@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/02
     
-112 records found after deduplication
+113 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-02 08:44:29+00:00 | 633458 | 25216 | Ruby | 11614 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-02 05:07:34+00:00 | 250701 | 6511 | C | 1804 | [] |
+| Night-King-Host/75XV3b7 | 7.5x Host Exploit, July 21th,2021 Release (add post-exploit cleanup spray) | https://github.com/Night-King-Host/75XV3b7 | ['exploit'] | 1 | 2021-10-02 21:48:07+00:00 | 2421 | 0 | HTML | 0 | [] |
 | snovvcrash/DInjector | Collection of techniques for shellcode injection packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-02 14:55:20+00:00 | 20 | 7 | C# | 2 | [] |
 | suyash-chavan/Exploit-Education | Walkthrough of Exploit Education exercises | https://github.com/suyash-chavan/Exploit-Education | ['exploit'] | 1 | 2021-10-02 11:26:16+00:00 | 2 | 0 | | 0 | [] |
 | security77/zero-exploit | None | https://github.com/security77/zero-exploit | ['exploit'] | 1 | 2021-10-02 03:45:05+00:00 | 5 | 0 | Python | 0 | [] |
@@ -61,13 +61,14 @@
 | PinkP4nther/Heartbeat_PoC | Heartbeat vulnerability PoC | https://github.com/PinkP4nther/Heartbeat_PoC | ['exploit', 'vulnerability poc'] | 2 | 2021-10-02 05:01:51+00:00 | 0 | 0 | Rust | 0 | [] |
 | kaFox4/FxSploit | FxSploit v1.1 | https://github.com/kaFox4/FxSploit | ['sploit'] | 1 | 2021-10-02 04:24:52+00:00 | 0 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-02 01:06:16+00:00 | 16819 | 2 | Python | 0 | [] |
-| Night-King-Host/75XV3b7 | 7.5x Host Exploit, July 21th,2021 Release (add post-exploit cleanup spray) | https://github.com/Night-King-Host/75XV3b7 | ['exploit'] | 1 | 2021-10-02 21:48:07+00:00 | 2421 | 0 | HTML | 0 | [] |
 | iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-10-02 17:20:10+00:00 | 509 | 0 | Lua | 0 | [] |
-| daddyparodz/adminexploit | this is the fastest way that you can get admin rights at work,school,etc in only a few seconds | https://github.com/daddyparodz/adminexploit | ['exploit'] | 1 | 2021-10-02 20:36:20+00:00 | 200 | 40 | Batchfile | 6 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-02 05:07:34+00:00 | 250701 | 6511 | C | 1804 | [] |
+| whokilleddb/CVE-2019-15107 | CVE-2019-15107 Webmin Exploit in C | https://github.com/whokilleddb/CVE-2019-15107 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 4 | 2021-10-02 16:25:32+00:00 | 29 | 1 | C | 0 | ['CVE-2019-15107'] |
 | FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2021-10-02 23:03:47+00:00 | 1036 | 15 | Shell | 0 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-10-02 23:06:20+00:00 | 4795 | 28 | Shell | 5 | [] |
 | FabioDefilippo/winallenum | This powershell script has got to run in remote hacked windows host, even for pivoting | https://github.com/FabioDefilippo/winallenum | ['exploit'] | 1 | 2021-10-02 23:07:29+00:00 | 3614 | 9 | PowerShell | 2 | [] |
 | ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-10-02 04:13:00+00:00 | 4050 | 1 | | 0 | [] |
+| TheCruZ/kdmapper | KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory | https://github.com/TheCruZ/kdmapper | ['exploit'] | 1 | 2021-10-02 13:18:21+00:00 | 308 | 422 | C++ | 149 | [] |
 | hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-02 02:41:14+00:00 | 355 | 459 | | 100 | [] |
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2021-10-02 18:14:26+00:00 | 68352 | 542 | Lua | 115 | [] |
 | struct/isoalloc | A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance | https://github.com/struct/isoalloc | ['exploit'] | 1 | 2021-10-02 19:30:08+00:00 | 1377 | 251 | C | 11 | [] |
@@ -75,8 +76,8 @@
 | mmxsrup/CVE-2019-5489 | Page Cache Side Channel Attacks (CVE-2019-5489) proof of concept for Linux | https://github.com/mmxsrup/CVE-2019-5489 | ['attack poc', 'cve poc', 'cve-2 OR cve_2'] | 3 | 2021-10-02 00:15:11+00:00 | 8 | 6 | C | 0 | ['CVE-2019-5489'] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-02 23:45:46+00:00 | 641 | 236 | Rust | 13 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-02 11:08:11+00:00 | 1339861 | 3581 | PowerShell | 1242 | [] |
+| daddyparodz/adminexploit | this is the fastest way that you can get admin rights at work,school,etc in only a few seconds | https://github.com/daddyparodz/adminexploit | ['exploit'] | 1 | 2021-10-02 20:36:20+00:00 | 200 | 40 | Batchfile | 6 | [] |
 | robertofocke/exploits | None | https://github.com/robertofocke/exploits | ['exploit'] | 1 | 2021-10-02 12:20:12+00:00 | 18 | 0 | Python | 0 | [] |
-| j-harikrishnan/IoT_Exploit_Training_Badge | None | https://github.com/j-harikrishnan/IoT_Exploit_Training_Badge | ['exploit'] | 1 | 2021-10-02 20:22:12+00:00 | 3283 | 0 | C++ | 7 | [] |
 | a13xp0p0v/linux-kernel-defence-map | Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies | https://github.com/a13xp0p0v/linux-kernel-defence-map | ['exploit'] | 1 | 2021-10-02 12:52:21+00:00 | 9459 | 1290 | | 92 | [] |
 | tmenochet/WinUtils | Random PowerShell scripts mainly focused on post-exploitation capabilities | https://github.com/tmenochet/WinUtils | ['exploit'] | 1 | 2021-10-02 12:58:57+00:00 | 266 | 3 | PowerShell | 0 | [] |
 | marcocesarato/PHP-Antimalware-Scanner | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | ['exploit'] | 1 | 2021-10-02 10:25:35+00:00 | 7380 | 259 | PHP | 47 | [] |
@@ -89,8 +90,8 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-02 14:23:40+00:00 | 5326 | 2912 | Python | 640 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-02 09:27:41+00:00 | 7613 | 3997 | Python | 577 | [] |
 | Hunt2behunter/Exploit-Developnment | None | https://github.com/Hunt2behunter/Exploit-Developnment | ['exploit'] | 1 | 2021-10-02 04:10:51+00:00 | 1 | 0 | | 0 | [] |
+| j-harikrishnan/IoT_Exploit_Training_Badge | None | https://github.com/j-harikrishnan/IoT_Exploit_Training_Badge | ['exploit'] | 1 | 2021-10-02 20:22:12+00:00 | 3283 | 0 | C++ | 7 | [] |
 | bmedicke/REED | notes about 🔍 Reverse Engineering and 🔥 Exploit Development | https://github.com/bmedicke/REED | ['exploit'] | 1 | 2021-10-02 17:29:11+00:00 | 16772 | 3 | C | 1 | [] |
-| whokilleddb/CVE-2019-15107 | CVE-2019-15107 Webmin Exploit in C | https://github.com/whokilleddb/CVE-2019-15107 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 4 | 2021-10-02 16:25:32+00:00 | 29 | 1 | C | 0 | ['CVE-2019-15107'] |
 | kal1gh0st/Windows-Exploit-2021-1811 | DESCRIPTION This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the m | https://github.com/kal1gh0st/Windows-Exploit-2021-1811 | ['exploit', 'metasploit module OR payload'] | 2 | 2021-10-02 23:17:43+00:00 | 1913 | 0 | Python | 0 | [] |
 | McSl0vv/exploit | None | https://github.com/McSl0vv/exploit | ['exploit'] | 1 | 2021-10-02 15:02:46+00:00 | 670 | 0 | PHP | 0 | [] |
 | Night-King-Host/75XV3b6 | 7.5X Host Exploit - Jun 03,2021 Exploit (Imitate legit network traffic before exploit) | https://github.com/Night-King-Host/75XV3b6 | ['exploit'] | 1 | 2021-10-02 20:53:03+00:00 | 3072 | 0 | HTML | 0 | [] |
