@@ -1,47 +1,48 @@
 
 # Summary for results/2021/10/04
     
-71 records found after deduplication
+72 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-04 01:31:49+00:00 | 641023 | 25222 | Ruby | 11619 | [] |
-| Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-10-04 14:02:52+00:00 | 18 | 2 | Shell | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-04 13:21:31+00:00 | 21826 | 6016 | JavaScript | 1431 | [] |
+| e-a-security/macOS-Exploit-Dev-OSMR- | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security's macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev-OSMR- | ['exploit'] | 1 | 2021-10-04 00:38:00+00:00 | 5 | 0 | | 0 | [] |
 | Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-10-04 04:29:58+00:00 | 251 | 0 | Python | 0 | [] |
 | H0j3n/CVE-2021-40444 | None | https://github.com/H0j3n/CVE-2021-40444 | ['cve-2 OR cve_2'] | 1 | 2021-10-04 14:28:01+00:00 | 48 | 4 | Python | 1 | ['CVE-2021-40444'] |
 | vvinoth/HTBCustomExploits | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | ['exploit'] | 1 | 2021-10-04 14:52:33+00:00 | 6 | 0 | Python | 0 | [] |
 | Zureno/CVE-_-POC_-Repository. | None | https://github.com/Zureno/CVE-_-POC_-Repository. | ['cve poc'] | 1 | 2021-10-04 12:06:48+00:00 | 0 | 0 | | 0 | [] |
 | cuciuu/DuckySploit-Level-7 | DuckSploit is an Roblox Executor that I made for a friend, Supports LUA Files and some Level 8 Scripts, Scripts Folder Powered by WeAreDevs :) | https://github.com/cuciuu/DuckySploit-Level-7 | ['sploit'] | 1 | 2021-10-04 06:58:53+00:00 | 35891 | 0 | Lua | 0 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2021-10-04 13:55:21+00:00 | 1393 | 0 | C | 0 | [] |
+| Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-10-04 14:02:52+00:00 | 18 | 2 | Shell | 0 | [] |
 | Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-10-04 08:57:48+00:00 | 25 | 0 | Python | 0 | [] |
-| ChrisTheCoolHut/Linux_kernel_exploitation | https://breaking-bits.gitbook.io/breaking-bits/exploit-development/linux-kernel-exploit-development | https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation | ['exploit'] | 1 | 2021-10-04 02:27:27+00:00 | 0 | 0 | Batchfile | 0 | [] |
 | leonlai1234/FYP | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | ['exploit'] | 1 | 2021-10-04 14:46:13+00:00 | 972 | 0 | Python | 0 | [] |
 | X1cT34m/CVE-and-PoC | None | https://github.com/X1cT34m/CVE-and-PoC | ['cve poc'] | 1 | 2021-10-04 03:30:53+00:00 | 190 | 1 | C | 0 | [] |
 | sh4m2hwz/win_exp_resoures | Windows exploitation resources | https://github.com/sh4m2hwz/win_exp_resoures | ['exploit'] | 1 | 2021-10-04 08:09:23+00:00 | 27 | 4 | | 0 | [] |
 | risacker/Vulnerable_Machine | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system | https://github.com/risacker/Vulnerable_Machine | ['exploit'] | 1 | 2021-10-04 04:33:01+00:00 | 6 | 0 | | 0 | [] |
 | Zer0d4yofficial/zerodaystealer | None | https://github.com/Zer0d4yofficial/zerodaystealer | ['zeroday'] | 1 | 2021-10-04 12:02:59+00:00 | 6 | 0 | C# | 0 | [] |
 | Bleepooo/BleeposExploitFixer | Fix exploits in your server! | https://github.com/Bleepooo/BleeposExploitFixer | ['exploit'] | 1 | 2021-10-04 04:04:50+00:00 | 20 | 3 | Java | 0 | [] |
-| e-a-security/macOS-Exploit-Dev-OSMR- | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security's macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev-OSMR- | ['exploit'] | 1 | 2021-10-04 00:38:00+00:00 | 5 | 0 | | 0 | [] |
+| ChrisTheCoolHut/Linux_kernel_exploitation | https://breaking-bits.gitbook.io/breaking-bits/exploit-development/linux-kernel-exploit-development | https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation | ['exploit'] | 1 | 2021-10-04 02:27:27+00:00 | 0 | 0 | Batchfile | 0 | [] |
 | Jcrisscross/coding | Roblox coding exploit south London 2 farming | https://github.com/Jcrisscross/coding | ['exploit'] | 1 | 2021-10-04 03:08:31+00:00 | 0 | 0 | | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-04 01:11:55+00:00 | 19454 | 2 | Python | 0 | [] |
-| avdhooot/car-rce | None | https://github.com/avdhooot/car-rce | ['rce'] | 1 | 2021-10-04 10:26:48+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| BirketTech/BirketTech | A roblox exploit | https://github.com/BirketTech/BirketTech | ['exploit'] | 1 | 2021-10-04 03:25:49+00:00 | 0 | 0 | | 0 | [] |
+| Zureno/CVE_POC | Proof_of_concept | https://github.com/Zureno/CVE_POC | ['cve poc'] | 1 | 2021-10-04 10:34:15+00:00 | 0 | 0 | | 0 | [] |
+| H0aHuynh/exploit_fastRa | None | https://github.com/H0aHuynh/exploit_fastRa | ['exploit'] | 1 | 2021-10-04 14:50:31+00:00 | 0 | 0 | | 0 | [] |
 | Chaambane/Full-countries | Exploitation de l'API Rest countries | https://github.com/Chaambane/Full-countries | ['exploit'] | 1 | 2021-10-04 14:49:21+00:00 | 0 | 0 | HTML | 0 | [] |
 | IxZZZ/Lab_SecureCoding_ExploitSystem | None | https://github.com/IxZZZ/Lab_SecureCoding_ExploitSystem | ['exploit'] | 1 | 2021-10-04 14:10:11+00:00 | 0 | 0 | | 0 | [] |
 | TheGraySpy/ParrotSploit | ParrotSploit is an open source exploit made for roblox.This exploit have a lot of cool features like fly,infinity jump,spy chat and a powerful lua executor.Stop wasting time and exploit in roblox using ParrotSploit | https://github.com/TheGraySpy/ParrotSploit | ['exploit', 'sploit'] | 2 | 2021-10-04 13:52:00+00:00 | 0 | 0 | | 0 | [] |
 | zeroday0619/zerodayMusic | 제로데이 Music 디스코드 봇 | https://github.com/zeroday0619/zerodayMusic | ['zeroday'] | 1 | 2021-10-04 12:20:28+00:00 | 0 | 0 | | 0 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-10-04 12:19:22+00:00 | 0 | 0 | | 0 | [] |
-| Zureno/CVE_POC | Proof_of_concept | https://github.com/Zureno/CVE_POC | ['cve poc'] | 1 | 2021-10-04 10:34:15+00:00 | 0 | 0 | | 0 | [] |
+| avdhooot/car-rce | None | https://github.com/avdhooot/car-rce | ['rce'] | 1 | 2021-10-04 10:26:48+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| artsking/linux-3.0.35_CVE-2020-15436_withPatch | None | https://github.com/artsking/linux-3.0.35_CVE-2020-15436_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-10-04 07:50:24+00:00 | 0 | 0 | C | 0 | ['CVE-2020-15436'] |
 | karimmuya/laravel-exploit-tricks | None | https://github.com/karimmuya/laravel-exploit-tricks | ['exploit'] | 1 | 2021-10-04 10:31:03+00:00 | 0 | 1 | | 0 | [] |
-| BirketTech/BirketTech | A roblox exploit | https://github.com/BirketTech/BirketTech | ['exploit'] | 1 | 2021-10-04 03:25:49+00:00 | 0 | 0 | | 0 | [] |
 | sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-04 11:15:13+00:00 | 447 | 0 | | 0 | [] |
 | jravis-8520/h-sploit-paylod | None | https://github.com/jravis-8520/h-sploit-paylod | ['sploit'] | 1 | 2021-10-04 10:12:47+00:00 | 0 | 0 | Shell | 0 | [] |
 | tgragnato/FASTGate-RCE | FASTGate targeted root-RCE and CGN bypass | https://github.com/tgragnato/FASTGate-RCE | ['rce'] | 1 | 2021-10-04 10:00:45+00:00 | 0 | 0 | Python | 0 | [] |
 | RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | ['exploit'] | 1 | 2021-10-04 10:33:01+00:00 | 0 | 0 | MATLAB | 0 | [] |
 | nzsakib/serverlearner | A web app for RCE for dev ops learning | https://github.com/nzsakib/serverlearner | ['rce'] | 1 | 2021-10-04 08:37:58+00:00 | 0 | 0 | | 0 | [] |
-| artsking/linux-3.0.35_CVE-2020-15436_withPatch | None | https://github.com/artsking/linux-3.0.35_CVE-2020-15436_withPatch | ['cve-2 OR cve_2'] | 1 | 2021-10-04 07:50:24+00:00 | 0 | 0 | C | 0 | ['CVE-2020-15436'] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-04 00:19:56+00:00 | 198 | 9 | JavaScript | 5 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-04 01:11:55+00:00 | 19454 | 2 | Python | 0 | [] |
 | iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-10-04 00:41:12+00:00 | 805 | 0 | Lua | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-04 13:21:31+00:00 | 21826 | 6016 | JavaScript | 1431 | [] |
 | jaxBCD/Zeebsploit | web scanner - exploitation - information gathering | https://github.com/jaxBCD/Zeebsploit | ['exploit'] | 1 | 2021-10-04 13:51:13+00:00 | 1991 | 161 | Python | 61 | [] |
 | insightglacier/Dictionary-Of-Pentesting | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | ['rce'] | 1 | 2021-10-04 00:34:40+00:00 | 251236 | 876 | Shell | 199 | [] |
 | hesim-dev/rcea | Course materials for learning how to perform applied cost-effectiveness analysis with R | https://github.com/hesim-dev/rcea | ['rce'] | 1 | 2021-10-04 03:30:32+00:00 | 273521 | 6 | R | 4 | [] |
@@ -75,4 +76,4 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-04 00:03:16+00:00 | 412991 | 32 | | 19 | [] |
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2021-10-04 05:42:21+00:00 | 145398 | 270 | Batchfile | 86 | [] |
 | mineo333/GhostFops | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | ['exploit'] | 1 | 2021-10-04 14:54:52+00:00 | 756 | 0 | C | 0 | [] |
-| H0aHuynh/exploit_fastRa | None | https://github.com/H0aHuynh/exploit_fastRa | ['exploit'] | 1 | 2021-10-04 14:50:31+00:00 | 0 | 0 | | 0 | [] |
+| alexprzt/Roblox-Exploiting | None | https://github.com/alexprzt/Roblox-Exploiting | ['exploit'] | 1 | 2021-10-04 16:13:05+00:00 | 0 | 0 | Lua | 0 | [] |
