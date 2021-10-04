@@ -1,13 +1,12 @@
 
 # Summary for results/2021/10/03
     
-85 records found after deduplication
+86 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-03 01:51:13+00:00 | 633458 | 25217 | Ruby | 11618 | [] |
-| doudoudedi/tenda_command_injection | nan | https://github.com/doudoudedi/tenda_command_injection | ['command injection'] | 1 | 2021-10-03 01:21:49+00:00 | 1062 | 1 | nan | 0 | [] |
-| tungdo0602/Discord-Token-Generator | For Educational Purposes Only | https://github.com/tungdo0602/Discord-Token-Generator | ['exploit'] | 1 | 2021-10-03 08:53:45+00:00 | 7 | 2 | Python | 0 | [] |
+| IND-GANG/metasploit_termux_by_adil | No errors | https://github.com/IND-GANG/metasploit_termux_by_adil | ['metasploit module OR payload'] | 1 | 2021-10-03 15:12:36+00:00 | 2 | 0 | Shell | 0 | [] |
 | efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2021-10-03 06:33:36+00:00 | 36 | 0 | HTML | 0 | [] |
 | mgeeky/ShellcodeFluctuation | An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents | https://github.com/mgeeky/ShellcodeFluctuation | ['shellcode'] | 1 | 2021-10-03 00:31:02+00:00 | 1118 | 268 | C++ | 40 | [] |
 | kingkirpal2000/CSE-111 | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting da | https://github.com/kingkirpal2000/CSE-111 | ['exploit'] | 1 | 2021-10-03 21:50:59+00:00 | 7203 | 1 | ReScript | 0 | [] |
@@ -15,9 +14,9 @@
 | Lolpprogamer666/Minecraft-exploit | This is an Minecraft exploit for cracked server with no login. | https://github.com/Lolpprogamer666/Minecraft-exploit | ['exploit'] | 1 | 2021-10-03 07:14:38+00:00 | 4 | 1 | JavaScript | 0 | [] |
 | 0x1CA3/AnonStress-Client-Side-Stored-XSS-Exploit | An exploit and demonstration on how to exploit a Client Side Stored XSS vulnerability in https://anonstress.com. | https://github.com/0x1CA3/AnonStress-Client-Side-Stored-XSS-Exploit | ['exploit'] | 1 | 2021-10-03 22:21:17+00:00 | 3839 | 0 | Python | 0 | [] |
 | Adamkadaban/LearnPwn | Learn Binary Exploitation with sample problems. | https://github.com/Adamkadaban/LearnPwn | ['exploit'] | 1 | 2021-10-03 00:38:17+00:00 | 1392 | 0 | C | 0 | [] |
-| IND-GANG/metasploit_termux_by_adil | No errors | https://github.com/IND-GANG/metasploit_termux_by_adil | ['metasploit module OR payload'] | 1 | 2021-10-03 15:12:36+00:00 | 2 | 0 | Shell | 0 | [] |
-| Operational-Sciences-Group/Project-Beewolf | Beewolf is a PowerShell script that exploits HiveNightmare/SeriousSAM | https://github.com/Operational-Sciences-Group/Project-Beewolf | ['exploit'] | 1 | 2021-10-03 16:04:22+00:00 | 85 | 0 | PowerShell | 0 | [] |
+| doudoudedi/tenda_command_injection | nan | https://github.com/doudoudedi/tenda_command_injection | ['command injection'] | 1 | 2021-10-03 01:21:49+00:00 | 1062 | 1 | nan | 0 | [] |
 | mobdk/Core | Core bypass Windows Defender and execute any binary converted to shellcode | https://github.com/mobdk/Core | ['shellcode'] | 1 | 2021-10-03 17:45:23+00:00 | 8 | 7 | | 1 | [] |
+| Ducks-Scripts/exploitScripts | All my exploit scripts | https://github.com/Ducks-Scripts/exploitScripts | ['exploit'] | 1 | 2021-10-03 04:36:40+00:00 | 177 | 0 | Lua | 0 | [] |
 | aS0w6yCUtG/black-mail | Black Mail is a exploit tool to manipulate or take control over Discord accounts. This application has coded and published for education purposes only. | https://github.com/aS0w6yCUtG/black-mail | ['exploit'] | 1 | 2021-10-03 20:10:09+00:00 | 50 | 0 | C# | 0 | [] |
 | Genplat/Andmonit | Andmonit 2.0.3 ANDROID HACK | https://github.com/Genplat/Andmonit | ['metasploit module OR payload'] | 1 | 2021-10-03 09:29:27+00:00 | 57 | 1 | Shell | 0 | [] |
 | AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-10-03 14:43:27+00:00 | 24256 | 1 | CSS | 0 | [] |
@@ -25,10 +24,11 @@
 | JuanPMC/MassExploiting | Usando el obvserver pattern para explotar en masa | https://github.com/JuanPMC/MassExploiting | ['exploit'] | 1 | 2021-10-03 20:02:30+00:00 | 4 | 0 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-03 02:05:17+00:00 | 192 | 9 | JavaScript | 5 | [] |
 | Safuan12616/Discord-Console-Exploits | Console Hacks for Discord. P.S.: This are mostly just for fun | https://github.com/Safuan12616/Discord-Console-Exploits | ['exploit'] | 1 | 2021-10-03 05:30:22+00:00 | 3 | 0 | | 0 | [] |
-| Ducks-Scripts/exploitScripts | All my exploit scripts | https://github.com/Ducks-Scripts/exploitScripts | ['exploit'] | 1 | 2021-10-03 04:36:40+00:00 | 177 | 0 | Lua | 0 | [] |
+| rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-03 02:22:17+00:00 | 8568 | 0 | HTML | 0 | [] |
+| tungdo0602/Discord-Token-Generator | For Educational Purposes Only | https://github.com/tungdo0602/Discord-Token-Generator | ['exploit'] | 1 | 2021-10-03 08:53:45+00:00 | 7 | 2 | Python | 0 | [] |
 | TechIndiaTutorials/Exploit_Chip | This is a tool for hackers which is best tool ever. It is also a hacker toolkit with many exploits and it also contain whole kali os . | https://github.com/TechIndiaTutorials/Exploit_Chip | ['exploit'] | 1 | 2021-10-03 08:29:07+00:00 | 8423 | 1 | Python | 0 | [] |
-| m0nixga/moniX | Roblox Exploit | https://github.com/m0nixga/moniX | ['exploit'] | 1 | 2021-10-03 05:28:38+00:00 | 20 | 0 | | 0 | [] |
-| HackerAnonyms/Confluence-exploit-secret | None | https://github.com/HackerAnonyms/Confluence-exploit-secret | ['exploit'] | 1 | 2021-10-03 10:47:10+00:00 | 1 | 0 | | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-03 08:51:30+00:00 | 27127 | 8325 | Python | 1440 | [] |
+| He4LAN/mssploit | This is an exploit analysis tool. | https://github.com/He4LAN/mssploit | ['exploit'] | 1 | 2021-10-03 18:32:53+00:00 | 8 | 0 | Shell | 0 | [] |
 | oxctdev/CVE-2021-21972 | CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ) | https://github.com/oxctdev/CVE-2021-21972 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-03 23:10:21+00:00 | 0 | 0 | | 0 | ['CVE-2021-21972'] |
 | e-a-security/macOS-Exploit-Dev | None | https://github.com/e-a-security/macOS-Exploit-Dev | ['exploit'] | 1 | 2021-10-03 22:33:12+00:00 | 0 | 0 | | 0 | [] |
 | Rollimonster/Rocket-Arena-Gui | A Exploit Gui For Rocket Arena | https://github.com/Rollimonster/Rocket-Arena-Gui | ['exploit'] | 1 | 2021-10-03 22:16:45+00:00 | 0 | 0 | | 0 | [] |
@@ -37,8 +37,8 @@
 | Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-10-03 20:32:11+00:00 | 0 | 0 | | 0 | [] |
 | MilanTGDD/Clicking-Simulator-2.0-Exploit-Beta-0.1 | None | https://github.com/MilanTGDD/Clicking-Simulator-2.0-Exploit-Beta-0.1 | ['exploit'] | 1 | 2021-10-03 17:38:19+00:00 | 0 | 0 | Roff | 0 | [] |
 | MilanTGDD/Clicking-Simulator-2.0-Exploit-Beta-0.5 | None | https://github.com/MilanTGDD/Clicking-Simulator-2.0-Exploit-Beta-0.5 | ['exploit'] | 1 | 2021-10-03 17:37:58+00:00 | 0 | 0 | Roff | 0 | [] |
-| He4LAN/mssploit | This is an exploit analysis tool. | https://github.com/He4LAN/mssploit | ['exploit'] | 1 | 2021-10-03 18:32:53+00:00 | 8 | 0 | Shell | 0 | [] |
 | can-you-teach-me/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, | https://github.com/can-you-teach-me/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-10-03 12:33:26+00:00 | 0 | 0 | | 0 | [] |
+| m0nixga/moniX | Roblox Exploit | https://github.com/m0nixga/moniX | ['exploit'] | 1 | 2021-10-03 05:28:38+00:00 | 20 | 0 | | 0 | [] |
 | SemiConductorShortage/chatwoot-exploit | Spam any site that uses chatwoot, filling up their support system | https://github.com/SemiConductorShortage/chatwoot-exploit | ['exploit'] | 1 | 2021-10-03 10:33:58+00:00 | 0 | 0 | | 0 | [] |
 | memN0ps/RustSCRunner | Shellcode Runner in Rust | https://github.com/memN0ps/RustSCRunner | ['shellcode'] | 1 | 2021-10-03 10:30:58+00:00 | 0 | 0 | Rust | 0 | [] |
 | TengShiXu/Roblox-Exploit-Script | None | https://github.com/TengShiXu/Roblox-Exploit-Script | ['exploit'] | 1 | 2021-10-03 09:04:50+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -46,11 +46,11 @@
 | BirdSecurity/Instagram-Exploitation-Framework | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | ['exploit'] | 1 | 2021-10-03 11:29:53+00:00 | 7 | 1 | Python | 0 | [] |
 | Chadali2007/ChromaSploit | Just do | https://github.com/Chadali2007/ChromaSploit | ['sploit'] | 1 | 2021-10-03 01:04:32+00:00 | 1 | 0 | | 0 | [] |
 | j4wh3r/exploiting_metasploitable2 | None | https://github.com/j4wh3r/exploiting_metasploitable2 | ['exploit', 'metasploit module OR payload'] | 2 | 2021-10-03 00:56:09+00:00 | 4157 | 0 | Python | 0 | [] |
-| rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-03 02:22:17+00:00 | 8568 | 0 | HTML | 0 | [] |
+| HackerAnonyms/Confluence-exploit-secret | None | https://github.com/HackerAnonyms/Confluence-exploit-secret | ['exploit'] | 1 | 2021-10-03 10:47:10+00:00 | 1 | 0 | | 0 | [] |
+| Operational-Sciences-Group/Project-Beewolf | Beewolf is a PowerShell script that exploits HiveNightmare/SeriousSAM | https://github.com/Operational-Sciences-Group/Project-Beewolf | ['exploit'] | 1 | 2021-10-03 16:04:22+00:00 | 85 | 0 | PowerShell | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-03 01:12:34+00:00 | 18206 | 2 | Python | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-03 08:51:30+00:00 | 27127 | 8325 | Python | 1440 | [] |
-| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-10-03 17:14:23+00:00 | 69053 | 2512 | Python | 387 | [] |
-| e-a-security/Exploit-Dev-OSCE | Exploit Development, backdooring PE, bypassing Anti-Virus (AV) | https://github.com/e-a-security/Exploit-Dev-OSCE | ['exploit'] | 1 | 2021-10-03 19:43:25+00:00 | 1786 | 102 | Python | 37 | [] |
+| iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-10-03 22:26:13+00:00 | 666 | 0 | Lua | 0 | [] |
+| nicolas-carolo/houndsploit | An advanced graphical search engine for Exploit-DB | https://github.com/nicolas-carolo/houndsploit | ['exploit'] | 1 | 2021-10-03 07:26:36+00:00 | 107569 | 91 | Python | 17 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-10-03 23:24:25+00:00 | 273 | 7 | Go | 7 | [] |
 | ind3p3nd3nt/vncperlbot | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version | https://github.com/ind3p3nd3nt/vncperlbot | ['exploit'] | 1 | 2021-10-03 07:26:05+00:00 | 380 | 6 | Perl | 1 | [] |
 | hesim-dev/rcea | Course materials for learning how to perform applied cost-effectiveness analysis with R | https://github.com/hesim-dev/rcea | ['rce'] | 1 | 2021-10-03 17:33:58+00:00 | 273521 | 6 | R | 4 | [] |
@@ -58,9 +58,10 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-10-03 12:02:30+00:00 | 61623 | 1236 | Python | 253 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-03 10:05:28+00:00 | 1341532 | 3586 | PowerShell | 1243 | [] |
 | k8gege/k8gege.github.io | K8博客 | https://github.com/k8gege/k8gege.github.io | ['exploit'] | 1 | 2021-10-03 02:26:58+00:00 | 254381 | 17 | HTML | 7 | [] |
-| nicolas-carolo/houndsploit | An advanced graphical search engine for Exploit-DB | https://github.com/nicolas-carolo/houndsploit | ['exploit'] | 1 | 2021-10-03 07:26:36+00:00 | 107569 | 91 | Python | 17 | [] |
-| iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-10-03 22:26:13+00:00 | 666 | 0 | Lua | 0 | [] |
+| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-10-03 17:14:23+00:00 | 69053 | 2512 | Python | 387 | [] |
 | vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2021-10-03 23:31:07+00:00 | 850 | 126 | Go | 37 | [] |
+| T-Dynamos/Metasploit | Install Metasploit latest version in all linux devices including Termux (Android) | https://github.com/T-Dynamos/Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-03 03:12:59+00:00 | 1257 | 0 | Python | 0 | [] |
+| gbiagomba/Sherlock | This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.) | https://github.com/gbiagomba/Sherlock | ['metasploit module OR payload'] | 1 | 2021-10-03 23:37:24+00:00 | 12730 | 30 | Shell | 10 | [] |
 | Ayrx/reutils | A collection of scripts to aid in reverse engineering and exploit development. | https://github.com/Ayrx/reutils | ['exploit'] | 1 | 2021-10-03 08:51:49+00:00 | 6 | 15 | Python | 7 | [] |
 | marcocesarato/PHP-Antimalware-Scanner | AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it. | https://github.com/marcocesarato/PHP-Antimalware-Scanner | ['exploit'] | 1 | 2021-10-03 13:50:57+00:00 | 7423 | 259 | PHP | 47 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-03 00:16:48+00:00 | 140882 | 251 | Ruby | 75 | [] |
@@ -68,11 +69,10 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-03 00:05:36+00:00 | 1534760 | 1511 | Python | 518 | [] |
 | rapid7/metasploit-payloads | Unified repository for different Metasploit Framework payloads | https://github.com/rapid7/metasploit-payloads | ['metasploit module OR payload'] | 1 | 2021-10-03 13:43:11+00:00 | 60624 | 1114 | C | 548 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-10-03 23:16:06+00:00 | 3585 | 2495 | PowerShell | 721 | [] |
+| e-a-security/Exploit-Dev-OSCE | Exploit Development, backdooring PE, bypassing Anti-Virus (AV) | https://github.com/e-a-security/Exploit-Dev-OSCE | ['exploit'] | 1 | 2021-10-03 19:43:25+00:00 | 1786 | 102 | Python | 37 | [] |
 | hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-03 15:02:45+00:00 | 363 | 461 | | 101 | [] |
 | sepehrdaddev/packetstorm-exploits | None | https://github.com/sepehrdaddev/packetstorm-exploits | ['exploit'] | 1 | 2021-10-03 12:35:14+00:00 | 1596293 | 17 | C# | 9 | [] |
 | th3ken-dev/TH3KEN-EDITON | None | https://github.com/th3ken-dev/TH3KEN-EDITON | ['exploit'] | 1 | 2021-10-03 06:55:58+00:00 | 3087544 | 2 | Batchfile | 0 | [] |
-| plackyhacker/ShellcodeEncryptor | A simple shell code encryptor/decryptor/executor to bypass anti virus. | https://github.com/plackyhacker/ShellcodeEncryptor | ['shellcode'] | 1 | 2021-10-03 11:30:16+00:00 | 909 | 34 | C# | 2 | [] |
-| T-Dynamos/Metasploit | Install Metasploit latest version in all linux devices including Termux (Android) | https://github.com/T-Dynamos/Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-03 03:12:59+00:00 | 1257 | 0 | Python | 0 | [] |
 | puckiestyle/CVE-2021-1675 | None | https://github.com/puckiestyle/CVE-2021-1675 | ['cve-2 OR cve_2'] | 1 | 2021-10-03 13:04:19+00:00 | 604 | 1 | PowerShell | 4 | ['CVE-2021-1675'] |
 | SimonLovesU/KoGaMa | Collection of many exploits & cheats for KoGaMa | https://github.com/SimonLovesU/KoGaMa | ['exploit'] | 1 | 2021-10-03 11:41:37+00:00 | 73035 | 0 | Roff | 0 | [] |
 | kali0257/homes | Homes Overpowered Metadata Exploitation Service | https://github.com/kali0257/homes | ['exploit'] | 1 | 2021-10-03 04:11:03+00:00 | 21 | 0 | | 0 | [] |
@@ -89,4 +89,5 @@
 | mineo333/GhostFops | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | ['exploit'] | 1 | 2021-10-03 18:25:12+00:00 | 745 | 0 | C | 0 | [] |
 | pomo-mondreganto/neo | Exploit distribution system for A&D competitions | https://github.com/pomo-mondreganto/neo | ['exploit'] | 1 | 2021-10-03 06:34:47+00:00 | 529 | 3 | Go | 2 | [] |
 | ar0dd/LaListaDeMCA | Repo to maintain Microsoft Cloud exploitation stuff. | https://github.com/ar0dd/LaListaDeMCA | ['exploit'] | 1 | 2021-10-03 00:52:16+00:00 | 8666 | 1 | | 0 | [] |
+| plackyhacker/ShellcodeEncryptor | A simple shell code encryptor/decryptor/executor to bypass anti virus. | https://github.com/plackyhacker/ShellcodeEncryptor | ['shellcode'] | 1 | 2021-10-03 11:30:16+00:00 | 909 | 34 | C# | 2 | [] |
 | oxctdev/CVE-2018-15961 | CVE-2018-15961 — ᴀᴅᴏʙᴇ ᴄᴏʟᴅғᴜsɪᴏɴ (ʀᴄᴇ) | https://github.com/oxctdev/CVE-2018-15961 | ['cve-2 OR cve_2'] | 1 | 2021-10-03 23:31:48+00:00 | 0 | 0 | | 0 | ['CVE-2018-15961'] |
