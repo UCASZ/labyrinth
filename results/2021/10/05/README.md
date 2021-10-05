@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/05
     
-14 records found after deduplication
+15 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|-----------|
@@ -19,3 +19,4 @@
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-10-05 01:23:36+00:00 | 8 | 1 | Shell | 0 | [] |
 | demarco-cmj/Cyber-Range-Senior-Project | Six months with Cyber Range Poulsbo to develop an educational tool that provided hands-on experience with common cyber security exploits such as buffer overflow, ciphers, and packet capturing. This was developed and deployed on their private server infrast | https://github.com/demarco-cmj/Cyber-Range-Senior-Project | ['exploit'] | 1 | 2021-10-05 00:42:14+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | weiwu99/speech_recognition | A speech recognition system by exploiting frequency characteristics of vowel sounds | https://github.com/weiwu99/speech_recognition | ['exploit'] | 1 | 2021-10-05 00:50:52+00:00 | 143 | 0 | MATLAB | 0 | [] |
+| twokaythetwothousandth/LAKE-ADMIN | ROBLOX EXPLOIT ADMIN SCRIPT | https://github.com/twokaythetwothousandth/LAKE-ADMIN | ['exploit'] | 1 | 2021-10-05 03:03:10+00:00 | 0 | 0 | | 0 | [] |
