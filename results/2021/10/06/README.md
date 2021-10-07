@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/06
     
-125 records found after deduplication
+126 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------|
@@ -21,7 +21,7 @@
 | itscarlosm/Red-vs-Blue-Project | This is a Red Team vs. Blue Team scenario in which 3 other team members and myself played the role of both pentester and SOC analyst. As the Red Team, we attacked a vulnerable VM within our environment, ultimately gaining root access to the machine. As Blu | https://github.com/itscarlosm/Red-vs-Blue-Project | ['exploit'] | 1 | 2021-10-06 00:07:58+00:00 | 1442 | 0 | | 0 | [] |
 | mateusmesquitalima/Exploit-Roblox-F | None | https://github.com/mateusmesquitalima/Exploit-Roblox-F | ['exploit'] | 1 | 2021-10-06 00:24:59+00:00 | 24 | 0 | C# | 0 | [] |
 | strawbberrys/universal-exploit-executor | None | https://github.com/strawbberrys/universal-exploit-executor | ['exploit'] | 1 | 2021-10-06 07:23:36+00:00 | 15815 | 0 | JavaScript | 0 | [] |
-| Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-10-06 01:12:37+00:00 | 367 | 0 | Python | 0 | [] |
+| ITRI625/ITRI625.github.io | A static blog hosted for the Computer Security II (ITRI625) Metasploit Project | https://github.com/ITRI625/ITRI625.github.io | ['metasploit module OR payload'] | 1 | 2021-10-06 07:33:46+00:00 | 0 | 0 | | 0 | [] |
 | OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | Working PowerShell POC | https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-06 21:04:44+00:00 | 132 | 1 | PowerShell | 1 | ['CVE-2021-1675'] |
 | Steven-Howe/w-extract | w-extract creates custom wordlists by extracting pathnames (default behavior), parameter names, or parameter values from URLs to aid in web discovery and exploitation efforts. | https://github.com/Steven-Howe/w-extract | ['exploit'] | 1 | 2021-10-06 15:41:36+00:00 | 19 | 1 | Python | 0 | [] |
 | masahiro331/CVE-2021-41773 | None | https://github.com/masahiro331/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 03:43:42+00:00 | 15 | 1 | Dockerfile | 0 | ['CVE-2021-41773'] |
@@ -36,9 +36,10 @@
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-10-06 08:21:04+00:00 | 10 | 1 | Python | 0 | [] |
 | RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | ['exploit'] | 1 | 2021-10-06 16:02:18+00:00 | 12180 | 0 | MATLAB | 0 | [] |
 | blasty/CVE-2021-41773 | CVE-2021-41773 playground | https://github.com/blasty/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 07:17:20+00:00 | 1 | 8 | Dockerfile | 4 | ['CVE-2021-41773'] |
-| ITRI625/ITRI625.github.io | A static blog hosted for the Computer Security II (ITRI625) Metasploit Project | https://github.com/ITRI625/ITRI625.github.io | ['metasploit module OR payload'] | 1 | 2021-10-06 07:33:46+00:00 | 0 | 0 | | 0 | [] |
 | SirAppSec/exploit-server | Static light nginx site to serve vulnerabilities | https://github.com/SirAppSec/exploit-server | ['exploit'] | 1 | 2021-10-06 11:57:04+00:00 | 14 | 0 | JavaScript | 0 | [] |
-| PentesterGuruji/CVE-2021-41773 | Path Traversal vulnerability in Apache 2.4.49 | https://github.com/PentesterGuruji/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 11:07:40+00:00 | 8 | 0 | Shell | 0 | ['CVE-2021-41773'] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-06 14:58:58+00:00 | 27130 | 8336 | Python | 1442 | [] |
+| BlueTeamSteve/CVE-2021-41773 | None | https://github.com/BlueTeamSteve/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 15:07:48+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
+| merrychap/POC-connman | Research and Proof of Concept exploits for ConnMan found by me | https://github.com/merrychap/POC-connman | ['exploit'] | 1 | 2021-10-06 23:31:30+00:00 | 0 | 0 | | 0 | [] |
 | h4pp1n3ss/x86Linux-DisableASLRSecurity | Linux/x86 - Disable ASLR Security + Polymorphic Shellcode (107 bytes) | https://github.com/h4pp1n3ss/x86Linux-DisableASLRSecurity | ['shellcode'] | 1 | 2021-10-06 21:12:17+00:00 | 0 | 0 | Assembly | 0 | [] |
 | h4pp1n3ss/x86Linux-ForceRebootPolymorphic | Linux/x86 Force Reboot shellcode for Linux/x86 - Polymorphic NOT encoded | https://github.com/h4pp1n3ss/x86Linux-ForceRebootPolymorphic | ['shellcode'] | 1 | 2021-10-06 21:06:06+00:00 | 0 | 0 | Assembly | 0 | [] |
 | N4nj0/CVE-2021-35492 | Denial of Service tool for Wowza Streaming Engine <= 4.8.11+5 - Uncontrolled Resource Consumption (CVE-2021-35492) | https://github.com/N4nj0/CVE-2021-35492 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 21:21:56+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-35492'] |
@@ -51,8 +52,8 @@
 | SufferSploit/SufferSploit.github.io | None | https://github.com/SufferSploit/SufferSploit.github.io | ['sploit'] | 1 | 2021-10-06 16:37:09+00:00 | 0 | 0 | HTML | 0 | [] |
 | r00tVen0m/CVE-2021-41773 | None | https://github.com/r00tVen0m/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 16:22:08+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-41773'] |
 | Zeop-CyberSec/apache_normalize_path | Metasploit-Framework modules (scanner and exploit) for the CVE-2021-41773 (Path Traversal in Apache 2.4.49) | https://github.com/Zeop-CyberSec/apache_normalize_path | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2021-10-06 20:08:33+00:00 | 4 | 0 | Ruby | 0 | ['CVE-2021-41773'] |
-| BlueTeamSteve/CVE-2021-41773 | None | https://github.com/BlueTeamSteve/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 15:07:48+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
 | ranggaggngntt/CVE-2021-41773 | None | https://github.com/ranggaggngntt/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 14:41:08+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
+| PentesterGuruji/CVE-2021-41773 | Path Traversal vulnerability in Apache 2.4.49 | https://github.com/PentesterGuruji/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 11:07:40+00:00 | 8 | 0 | Shell | 0 | ['CVE-2021-41773'] |
 | ota86/exploits | Exploit for VSFTP 2.3.4 | https://github.com/ota86/exploits | ['exploit'] | 1 | 2021-10-06 14:29:42+00:00 | 0 | 0 | Python | 0 | [] |
 | 1nhann/CVE-2021-41773 | CVE-2021-41773 的复现 | https://github.com/1nhann/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 14:27:49+00:00 | 0 | 1 | Dockerfile | 1 | ['CVE-2021-41773'] |
 | mohwahyudi/cve-2021-41773 | None | https://github.com/mohwahyudi/cve-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-06 14:32:43+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
@@ -67,8 +68,8 @@
 | ryirwansyah/dumb-mobile-application | This repository contain, some mobile applications (android & iOS) that can be exploited. This repository has been made for learning purpose. | https://github.com/ryirwansyah/dumb-mobile-application | ['exploit'] | 1 | 2021-10-06 10:39:02+00:00 | 0 | 0 | | 0 | [] |
 | SonicWarrior1/zeroday | https://sonicwarrior1.github.io/zeroday/ | https://github.com/SonicWarrior1/zeroday | ['zeroday'] | 1 | 2021-10-06 10:19:30+00:00 | 0 | 0 | HTML | 0 | [] |
 | e-a-security/macOS-Exploit-Dev-OSMR | Resources, scripts, and overviews of the knowledge I collect going through Offensive Security's macOS Exploit Development course. | https://github.com/e-a-security/macOS-Exploit-Dev-OSMR | ['exploit'] | 1 | 2021-10-06 06:25:43+00:00 | 28 | 0 | Assembly | 0 | [] |
+| Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-10-06 01:12:37+00:00 | 367 | 0 | Python | 0 | [] |
 | BirdSecurity/Instagram-Exploitation-Framework | A multi exploit instagram exploitation framework | https://github.com/BirdSecurity/Instagram-Exploitation-Framework | ['exploit'] | 1 | 2021-10-06 11:43:42+00:00 | 1003 | 5 | Python | 3 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-06 14:58:58+00:00 | 27130 | 8336 | Python | 1442 | [] |
 | 0xZ0F/Z0FCourse_ExploitDevelopment | x64 Windows Exploit Development | https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment | ['exploit'] | 1 | 2021-10-06 22:17:01+00:00 | 37 | 99 | | 24 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-06 12:03:05+00:00 | 419184 | 32 | | 19 | [] |
 | panictriggers/henschotermeer-exploits-public | Public repository of the exploits found on Henschotermeer site | https://github.com/panictriggers/henschotermeer-exploits-public | ['exploit'] | 1 | 2021-10-06 20:59:03+00:00 | 1154 | 0 | JavaScript | 0 | [] |
@@ -129,4 +130,4 @@
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-10-06 11:20:06+00:00 | 1131534 | 0 | Python | 0 | [] |
 | 11philip22/MessageBoxShellcode | PIC shellcode to run MessageBoxW | https://github.com/11philip22/MessageBoxShellcode | ['shellcode'] | 1 | 2021-10-06 13:34:07+00:00 | 30 | 1 | PowerShell | 1 | [] |
 | nafees87n/codebox | codeBox RCE is a service that provides a remote environment to run your code in. Execution occurs in a containerized space. The API supports programming in 3 languages (Python, Javascript and C++), potentially extendable to support more. | https://github.com/nafees87n/codebox | ['rce', 'remote code execution'] | 2 | 2021-10-06 05:25:56+00:00 | 2193 | 0 | JavaScript | 5 | [] |
-| merrychap/POC-connman | Research and Proof of Concept exploits for ConnMan found by me | https://github.com/merrychap/POC-connman | ['exploit'] | 1 | 2021-10-06 23:31:30+00:00 | 0 | 0 | | 0 | [] |
+| jheeree/Simple-CVE-2021-41773-checker | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2021-41773 (Apache) | https://github.com/jheeree/Simple-CVE-2021-41773-checker | ['cve-2 OR cve_2'] | 1 | 2021-10-06 23:37:31+00:00 | 0 | 2 | Shell | 0 | ['CVE-2021-41773'] |
