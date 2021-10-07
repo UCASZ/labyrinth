@@ -1,23 +1,27 @@
 
 # Summary for results/2021/10/07
     
-26 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-07 00:30:50+00:00 | 642475 | 25251 | Ruby | 11631 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-07 05:07:39+00:00 | 254868 | 6522 | C | 1808 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-07 00:13:35+00:00 | 203 | 9 | JavaScript | 6 | [] |
 | OblivionExploitsz/OblivionExploitsz.github.io | None | https://github.com/OblivionExploitsz/OblivionExploitsz.github.io | ['exploit'] | 1 | 2021-10-07 03:04:35+00:00 | 0 | 0 | | 0 | [] |
 | 1nhann/CVE-2021-41773 | CVE-2021-41773 的复现 | https://github.com/1nhann/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-07 01:51:17+00:00 | 12 | 1 | Dockerfile | 1 | ['CVE-2021-41773'] |
+| SirAppSec/exploit-server | Static light nginx site to serve vulnerabilities | https://github.com/SirAppSec/exploit-server | ['exploit'] | 1 | 2021-10-07 06:09:09+00:00 | 20 | 0 | JavaScript | 0 | [] |
 | itscarlosm/Red-vs-Blue-Project | This is a Red Team vs. Blue Team scenario in which 3 other team members and myself played the role of both pentester and SOC analyst. As the Red Team, we attacked a vulnerable VM within our environment, ultimately gaining root access to the machine. As Blu | https://github.com/itscarlosm/Red-vs-Blue-Project | ['exploit'] | 1 | 2021-10-07 03:45:57+00:00 | 1442 | 0 | | 0 | [] |
+| iilegacyyii/PoC-CVE-2021-41773 | None | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-07 05:46:39+00:00 | 9 | 17 | Python | 25 | ['CVE-2021-41773'] |
+| Vulnmachines/cve-2021-41773 | CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49. | https://github.com/Vulnmachines/cve-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-07 06:55:32+00:00 | 1 | 21 | | 5 | ['CVE-2021-41773'] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-10-07 00:41:58+00:00 | 22 | 1 | Python | 0 | [] |
 | Ducks-Scripts/exploitScripts | All my exploit scripts | https://github.com/Ducks-Scripts/exploitScripts | ['exploit'] | 1 | 2021-10-07 04:21:16+00:00 | 410 | 0 | Lua | 0 | [] |
 | blackcoder0x01/exploit | None | https://github.com/blackcoder0x01/exploit | ['exploit'] | 1 | 2021-10-07 04:33:17+00:00 | 2 | 0 | Shell | 1 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-07 01:46:47+00:00 | 1817 | 34 | JavaScript | 40 | [] |
+| raaghavraaj/RL-Algorithms-and-Optimisation | The repository contains the beginner Reinforcement Learning algorithms dealing with the Exploration vs Exploitation dilemma. | https://github.com/raaghavraaj/RL-Algorithms-and-Optimisation | ['exploit'] | 1 | 2021-10-07 06:58:43+00:00 | 2176 | 0 | Python | 0 | [] |
 | aesophor/requiem | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-10-07 03:22:15+00:00 | 9311 | 9 | C++ | 1 | [] |
 | Bleepooo/BleeposExploitFixer | Fix exploits in your server! | https://github.com/Bleepooo/BleeposExploitFixer | ['exploit'] | 1 | 2021-10-07 03:08:06+00:00 | 23 | 4 | Java | 0 | [] |
-| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-07 00:13:35+00:00 | 203 | 9 | JavaScript | 6 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-07 02:37:59+00:00 | 22963 | 2 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-07 05:07:39+00:00 | 254868 | 6522 | C | 1808 | [] |
 | 5h1nN/ProofofExploit | None | https://github.com/5h1nN/ProofofExploit | ['exploit'] | 1 | 2021-10-07 03:05:38+00:00 | 0 | 0 | Shell | 0 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-10-07 00:35:12+00:00 | 1140757 | 0 | Python | 0 | [] |
 | hosch3n/ProxyVulns | [ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains. | https://github.com/hosch3n/ProxyVulns | ['exploit'] | 1 | 2021-10-07 03:02:25+00:00 | 3898 | 77 | Python | 17 | ['CVE-2021-26855', 'CVE-2021-27065', 'CVE-2021-31195', 'CVE-2021-31196', 'CVE-2021-31207', 'CVE-2021-34473', 'CVE-2021-34523'] |
@@ -27,6 +31,7 @@
 | mineo333/GhostFops | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | ['exploit'] | 1 | 2021-10-07 03:50:13+00:00 | 777 | 0 | C | 0 | [] |
 | 2lstudios-mc/FlameCord | Patch for Waterfall to improve performance during attacks and fix memory issues. | https://github.com/2lstudios-mc/FlameCord | ['exploit'] | 1 | 2021-10-07 03:08:29+00:00 | 994 | 71 | Shell | 42 | [] |
 | Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-10-07 04:25:41+00:00 | 36465 | 415 | C++ | 61 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-07 06:52:56+00:00 | 34601 | 22 | | 14 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-07 00:02:21+00:00 | 696 | 236 | Rust | 13 | [] |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2021-10-07 00:24:07+00:00 | 999 | 6 | C | 2 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-07 00:16:52+00:00 | 143936 | 251 | Ruby | 76 | [] |
