@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/07
     
-24 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-07 00:30:50+00:00 | 642475 | 25251 | Ruby | 11631 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-07 00:16:52+00:00 | 143936 | 251 | Ruby | 76 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-07 05:07:39+00:00 | 254868 | 6522 | C | 1808 | [] |
+| OblivionExploitsz/OblivionExploitsz.github.io | None | https://github.com/OblivionExploitsz/OblivionExploitsz.github.io | ['exploit'] | 1 | 2021-10-07 03:04:35+00:00 | 0 | 0 | | 0 | [] |
 | 1nhann/CVE-2021-41773 | CVE-2021-41773 的复现 | https://github.com/1nhann/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-07 01:51:17+00:00 | 12 | 1 | Dockerfile | 1 | ['CVE-2021-41773'] |
 | itscarlosm/Red-vs-Blue-Project | This is a Red Team vs. Blue Team scenario in which 3 other team members and myself played the role of both pentester and SOC analyst. As the Red Team, we attacked a vulnerable VM within our environment, ultimately gaining root access to the machine. As Blu | https://github.com/itscarlosm/Red-vs-Blue-Project | ['exploit'] | 1 | 2021-10-07 03:45:57+00:00 | 1442 | 0 | | 0 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-10-07 00:41:58+00:00 | 22 | 1 | Python | 0 | [] |
@@ -28,4 +29,5 @@
 | Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-10-07 04:25:41+00:00 | 36465 | 415 | C++ | 61 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-07 00:02:21+00:00 | 696 | 236 | Rust | 13 | [] |
 | oxagast/oxasploits | A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast | https://github.com/oxagast/oxasploits | ['exploit', 'sploit'] | 2 | 2021-10-07 00:24:07+00:00 | 999 | 6 | C | 2 | [] |
-| OblivionExploitsz/OblivionExploitsz.github.io | None | https://github.com/OblivionExploitsz/OblivionExploitsz.github.io | ['exploit'] | 1 | 2021-10-07 03:04:35+00:00 | 0 | 0 | | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-07 00:16:52+00:00 | 143936 | 251 | Ruby | 76 | [] |
+| doudoudedi/NETGEAR_EX_Command_injection | nan | https://github.com/doudoudedi/NETGEAR_EX_Command_injection | ['command injection'] | 1 | 2021-10-07 05:29:04+00:00 | 0 | 0 | nan | 0 | [] |
