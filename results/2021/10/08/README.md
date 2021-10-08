@@ -1,17 +1,16 @@
 
 # Summary for results/2021/10/08
     
-62 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-08 04:32:02+00:00 | 21832 | 6023 | JavaScript | 1434 | [] |
-| kazuminn/exploitEdge | Challenges at school | https://github.com/kazuminn/exploitEdge | ['exploit'] | 1 | 2021-10-08 00:54:42+00:00 | 3 | 0 | HTML | 0 | [] |
 | IxZZZ/Lab_SecureCoding_ExploitSystem | None | https://github.com/IxZZZ/Lab_SecureCoding_ExploitSystem | ['exploit'] | 1 | 2021-10-08 06:33:29+00:00 | 11 | 0 | | 0 | [] |
-| AlainPre/Cours-Big-Data | Mise à jour et exploitation d'un index full text | https://github.com/AlainPre/Cours-Big-Data | ['exploit'] | 1 | 2021-10-08 07:57:53+00:00 | 30 | 0 | PHP | 0 | [] |
 | mohwahyudi/cve-2021-41773 | None | https://github.com/mohwahyudi/cve-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-08 01:55:22+00:00 | 148 | 0 | Python | 1 | ['CVE-2021-41773'] |
 | 1nhann/CVE-2021-41773 | CVE-2021-41773 的复现 | https://github.com/1nhann/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-08 05:03:10+00:00 | 13 | 2 | Dockerfile | 2 | ['CVE-2021-41773'] |
 | Zeop-CyberSec/apache_normalize_path | Metasploit-Framework modules (scanner and exploit) for the CVE-2021-41773 (Path Traversal in Apache 2.4.49) | https://github.com/Zeop-CyberSec/apache_normalize_path | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2021-10-08 07:36:20+00:00 | 15 | 1 | Ruby | 0 | ['CVE-2021-41773'] |
+| AssassinUKG/CVE-2021-41773 | Apache 2.4.49 | https://github.com/AssassinUKG/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-08 09:49:01+00:00 | 12 | 1 | Python | 0 | ['CVE-2021-41773'] |
 | vinhjaxt/CVE-2021-41773-exploit | CVE-2021-41773, poc, exploit | https://github.com/vinhjaxt/CVE-2021-41773-exploit | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-10-08 04:55:32+00:00 | 2 | 1 | JavaScript | 0 | ['CVE-2021-41773'] |
 | ComdeyOverFlow/CVE-2021-41773 | None | https://github.com/ComdeyOverFlow/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-08 07:30:36+00:00 | 22 | 0 | | 0 | ['CVE-2021-41773'] |
 | daethecat/Auto-Defacer | A python exploit that automatically defaces websites. | https://github.com/daethecat/Auto-Defacer | ['exploit'] | 1 | 2021-10-08 00:32:46+00:00 | 19 | 0 | Python | 0 | [] |
@@ -20,8 +19,8 @@
 | andrea-mattioli/apache-exploit-CVE-2021-42013 | Exploit with integrated shodan search | https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-08 08:16:20+00:00 | 35229 | 1 | Python | 1 | ['CVE-2021-42013'] |
 | ArcusHub/ArcusHub | A Roblox exploiting hub, designed for multiple games and a plethora of executors. | https://github.com/ArcusHub/ArcusHub | ['exploit'] | 1 | 2021-10-08 07:33:34+00:00 | 109 | 0 | Lua | 0 | [] |
 | htrgouvea/lab-cve-2021-41773 | Docker container lab to play/learn with CVE-2021-41773 | https://github.com/htrgouvea/lab-cve-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-08 00:21:39+00:00 | 9 | 2 | Dockerfile | 0 | ['CVE-2021-41773'] |
+| kazuminn/exploitEdge | Challenges at school | https://github.com/kazuminn/exploitEdge | ['exploit'] | 1 | 2021-10-08 00:54:42+00:00 | 3 | 0 | HTML | 0 | [] |
 | shellreaper/CVE-2021-41773 | This a simple poc for Apache/2.4.49 Path Traversal Vulnerability | https://github.com/shellreaper/CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2021-10-08 01:16:36+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-41773'] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-08 04:32:30+00:00 | 27152 | 8343 | Python | 1442 | [] |
 | FDivisioon/exploits | Aqui irei publicar meus futuros exploits :D | https://github.com/FDivisioon/exploits | ['exploit'] | 1 | 2021-10-08 01:29:49+00:00 | 0 | 0 | | 0 | [] |
 | einzbernnn/CVE-2020-1938Scan | -H 192.168.1.1-192.168.5.255 | https://github.com/einzbernnn/CVE-2020-1938Scan | ['cve-2 OR cve_2'] | 1 | 2021-10-08 04:26:59+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-1938'] |
 | 0xRar/CVE-2021-41773 | Exploit for Apache 2.4.49 | https://github.com/0xRar/CVE-2021-41773 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-08 05:54:25+00:00 | 3 | 0 | Python | 0 | ['CVE-2021-41773'] |
@@ -34,11 +33,13 @@
 | zeronine9/CVE-2021-41773 | Fast python tool to test apache path traversal CVE-2021-41773 in a List of url | https://github.com/zeronine9/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-08 07:27:04+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | m4niac-0x/shellcode_converter | Convert big endian bytecode to little endian shellcode format. | https://github.com/m4niac-0x/shellcode_converter | ['shellcode'] | 1 | 2021-10-08 07:52:18+00:00 | 1 | 0 | Shell | 0 | [] |
 | b1tsec/CVE-2021-41773 | A Python script to check if an Apache web server is vulnerable to CVE-2021-41773 | https://github.com/b1tsec/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-08 08:33:56+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
+| MrGyo/UX_UI_Prototyper_App_Mobile | Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application.Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment, vous pourrez faire une veille rapide pour voir s'il existe déjà d | https://github.com/MrGyo/UX_UI_Prototyper_App_Mobile | ['exploit'] | 1 | 2021-10-08 09:14:40+00:00 | 8327 | 1 | | 0 | [] |
 | h4pp1n3ss/keShellcodeTemplate | Keystone Engine shellcode template | https://github.com/h4pp1n3ss/keShellcodeTemplate | ['shellcode'] | 1 | 2021-10-08 09:27:10+00:00 | 0 | 0 | Python | 0 | [] |
+| Alexandre-Vermelle/CV-charge-exploitation | None | https://github.com/Alexandre-Vermelle/CV-charge-exploitation | ['exploit'] | 1 | 2021-10-08 09:25:06+00:00 | 0 | 0 | HTML | 0 | [] |
+| AlainPre/Cours-Big-Data | Mise à jour et exploitation d'un index full text | https://github.com/AlainPre/Cours-Big-Data | ['exploit'] | 1 | 2021-10-08 07:57:53+00:00 | 30 | 0 | PHP | 0 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-10-08 02:50:51+00:00 | 30 | 1 | Python | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-08 04:32:30+00:00 | 27152 | 8343 | Python | 1442 | [] |
 | sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-08 08:06:22+00:00 | 1426 | 0 | Jupyter Notebook | 0 | [] |
-| SambasOnFire/Sti7111 | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | ['exploit'] | 1 | 2021-10-08 00:30:36+00:00 | 5 | 1 | | 0 | [] |
-| efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2021-10-08 08:07:14+00:00 | 9659 | 0 | HTML | 0 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-10-08 01:06:31+00:00 | 3624 | 2502 | PowerShell | 723 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-08 05:07:38+00:00 | 256933 | 6522 | C | 1808 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-08 00:16:56+00:00 | 145462 | 252 | Ruby | 77 | [] |
@@ -66,4 +67,6 @@
 | Albert0147/SFDA_neighbors | Code for our NeurIPS 2021 paper 'Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation' | https://github.com/Albert0147/SFDA_neighbors | ['exploit'] | 1 | 2021-10-08 06:34:39+00:00 | 106 | 6 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-08 00:29:22+00:00 | 2172 | 38 | JavaScript | 44 | [] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-10-08 07:13:27+00:00 | 8 | 1 | Zeek | 0 | [] |
-| Alexandre-Vermelle/CV-charge-exploitation | None | https://github.com/Alexandre-Vermelle/CV-charge-exploitation | ['exploit'] | 1 | 2021-10-08 09:25:06+00:00 | 0 | 0 | HTML | 0 | [] |
+| efxtv/EMSF | Fastest metasploit payload generator | https://github.com/efxtv/EMSF | ['metasploit module OR payload'] | 1 | 2021-10-08 08:07:14+00:00 | 9659 | 0 | HTML | 0 | [] |
+| SambasOnFire/Sti7111 | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | ['exploit'] | 1 | 2021-10-08 00:30:36+00:00 | 5 | 1 | | 0 | [] |
+| tazlauanubianca/Android-Vulnerability-Exploitation | None | https://github.com/tazlauanubianca/Android-Vulnerability-Exploitation | ['exploit'] | 1 | 2021-10-08 09:51:46+00:00 | 0 | 0 | Smali | 0 | [] |
