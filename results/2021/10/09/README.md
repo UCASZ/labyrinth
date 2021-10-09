@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/09
     
-12 records found after deduplication
+15 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-----------|
@@ -11,9 +11,12 @@
 | jamesmoriarty/gomem | A Go library for manipulating Windows processes. | https://github.com/jamesmoriarty/gomem | ['exploit'] | 1 | 2021-10-09 01:33:17+00:00 | 48 | 17 | Go | 3 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-10-09 01:03:41+00:00 | 100 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-09 00:03:00+00:00 | 431750 | 32 | | 19 | [] |
+| im-hanzou/wp-listingpro | WordPress ListingPro Mass Exploiter | https://github.com/im-hanzou/wp-listingpro | ['exploit'] | 1 | 2021-10-09 02:14:55+00:00 | 25 | 0 | Shell | 0 | [] |
+| im-hanzou/wp-ulisting | WordPress uListing Mass Exploiter | https://github.com/im-hanzou/wp-ulisting | ['exploit'] | 1 | 2021-10-09 02:15:12+00:00 | 5 | 1 | Shell | 1 | [] |
 | axelbrowne/ECS4TOMAE | Exploiting Causal Structure for Transportability in Online, Multi-Agent Environments | https://github.com/axelbrowne/ECS4TOMAE | ['exploit'] | 1 | 2021-10-09 01:15:27+00:00 | 1174095 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-09 01:07:30+00:00 | 24542 | 2 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-09 01:28:32+00:00 | 2269 | 43 | JavaScript | 53 | [] |
 | OHomemParede/Exploits-for-Protostar | None | https://github.com/OHomemParede/Exploits-for-Protostar | ['exploit'] | 1 | 2021-10-09 00:32:43+00:00 | 0 | 0 | Python | 0 | [] |
 | droogie/dasm | a simple shellcode assembler | https://github.com/droogie/dasm | ['shellcode'] | 1 | 2021-10-09 01:24:53+00:00 | 3440 | 0 | C | 0 | [] |
 | HibaBoulhanna/QueingSystem- | Développement d'un simulateur flexible de réseaux de files d'attentes qui produit de la Data exploitable. • Etude de la performance du trafic sur différents horizons temporels. • Etude de la robustesse et la fiabilité des données produites via la réalisat | https://github.com/HibaBoulhanna/QueingSystem- | ['exploit'] | 1 | 2021-10-09 00:15:01+00:00 | 1980 | 1 | Jupyter Notebook | 0 | [] |
+| mrojz/rconfig-exploit | None | https://github.com/mrojz/rconfig-exploit | ['exploit'] | 1 | 2021-10-09 02:37:23+00:00 | 0 | 0 | | 0 | [] |
