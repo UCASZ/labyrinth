@@ -1,15 +1,15 @@
 
 # Summary for results/2021/10/09
     
-51 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-09 05:07:43+00:00 | 256995 | 6523 | C | 1808 | [] |
-| ErickBuster/VulnUniversity-THM | Exploit que automatiza la intrusion para la maquina VulnUniversity de la plataforma Try Hack Me | https://github.com/ErickBuster/VulnUniversity-THM | ['exploit'] | 1 | 2021-10-09 02:37:39+00:00 | 2 | 1 | Python | 0 | [] |
-| aesophor/requiem | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-10-09 04:54:51+00:00 | 9350 | 10 | C++ | 3 | [] |
+| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-10-09 02:49:18+00:00 | 12 | 1 | Java | 0 | [] |
 | in-future-world/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, | https://github.com/in-future-world/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-10-09 05:07:11+00:00 | 188 | 10 | | 3 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-09 01:28:32+00:00 | 2269 | 43 | JavaScript | 53 | [] |
+| knqyf263/CVE-2021-3129 | PoC for CVE-2021-3129 (Laravel) | https://github.com/knqyf263/CVE-2021-3129 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-09 09:37:05+00:00 | 7 | 8 | Python | 3 | ['CVE-2021-3129'] |
 | PinkP4nther/Heartbleed_PoC | Rust Heartbleed vulnerability PoC | https://github.com/PinkP4nther/Heartbleed_PoC | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-10-09 06:41:11+00:00 | 3 | 0 | Rust | 0 | [] |
 | 0xAgun/CVE-2021-40870 | Aviatrix Controller 6.x before 6.5-1804.1922. Unrestricted upload of a file which allows an unauthenticated user to execute arbitrary code via directory traversal | https://github.com/0xAgun/CVE-2021-40870 | ['cve-2 OR cve_2'] | 1 | 2021-10-09 06:06:47+00:00 | 5 | 0 | Python | 0 | ['CVE-2021-40870'] |
 | OHomemParede/Exploits-for-Protostar | None | https://github.com/OHomemParede/Exploits-for-Protostar | ['exploit'] | 1 | 2021-10-09 00:32:43+00:00 | 0 | 0 | Python | 0 | [] |
@@ -17,8 +17,8 @@
 | Vulnmachines/cve-2021-42013 | Apache 2.4.50 Path traversal vulnerability | https://github.com/Vulnmachines/cve-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-09 05:52:32+00:00 | 44 | 8 | | 0 | ['CVE-2021-42013'] |
 | droogie/dasm | a simple shellcode assembler | https://github.com/droogie/dasm | ['shellcode'] | 1 | 2021-10-09 01:24:53+00:00 | 3440 | 0 | C | 0 | [] |
 | HibaBoulhanna/QueingSystem- | Développement d'un simulateur flexible de réseaux de files d'attentes qui produit de la Data exploitable. • Etude de la performance du trafic sur différents horizons temporels. • Etude de la robustesse et la fiabilité des données produites via la réalisat | https://github.com/HibaBoulhanna/QueingSystem- | ['exploit'] | 1 | 2021-10-09 00:15:01+00:00 | 1980 | 1 | Jupyter Notebook | 0 | [] |
+| ErickBuster/VulnUniversity-THM | Exploit que automatiza la intrusion para la maquina VulnUniversity de la plataforma Try Hack Me | https://github.com/ErickBuster/VulnUniversity-THM | ['exploit'] | 1 | 2021-10-09 02:37:39+00:00 | 2 | 1 | Python | 0 | [] |
 | mrojz/rconfig-exploit | None | https://github.com/mrojz/rconfig-exploit | ['exploit'] | 1 | 2021-10-09 02:37:23+00:00 | 0 | 0 | | 0 | [] |
-| Pen-Test3rs/binary_exploits_tasks_public | None | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | ['exploit'] | 1 | 2021-10-09 09:12:42+00:00 | 87 | 0 | C | 0 | [] |
 | ErickBuster/Kenobi-THM | Exploit que automatiza la intrusion para la maquina Kenobi de la plataforma Try Hack Me | https://github.com/ErickBuster/Kenobi-THM | ['exploit'] | 1 | 2021-10-09 03:16:44+00:00 | 0 | 1 | Python | 0 | [] |
 | KAB8345/CVE-2021-41773 | None | https://github.com/KAB8345/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-09 03:21:42+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
 | inbug-team/CVE-2021-41773_CVE-2021-42013 | CVE-2021-41773 CVE-2021-42013漏洞批量检测工具 | https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-09 03:32:20+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773', 'CVE-2021-42013'] |
@@ -29,10 +29,11 @@
 | userofwind/RobloxAntiExploit | A simple anti-exploit for Roblox. Detects flight, walkspeed increase, and teleportation. | https://github.com/userofwind/RobloxAntiExploit | ['exploit'] | 1 | 2021-10-09 07:25:40+00:00 | 0 | 0 | Lua | 0 | [] |
 | not-tobo/LagBeGone | Fix for a Lag Exploit for VRChat | https://github.com/not-tobo/LagBeGone | ['exploit'] | 1 | 2021-10-09 07:54:27+00:00 | 0 | 0 | C# | 0 | [] |
 | Murasame-nc/CVE-2020-0796-LPE-POC | None | https://github.com/Murasame-nc/CVE-2020-0796-LPE-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-09 08:24:25+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0796'] |
-| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-10-09 02:49:18+00:00 | 12 | 1 | Java | 0 | [] |
-| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-09 03:43:14+00:00 | 237 | 9 | JavaScript | 6 | [] |
+| T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-10-09 08:21:59+00:00 | 0 | 0 | | 0 | [] |
+| aesophor/requiem | 🎻 Automatic Exploit Generation (AEG) using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-10-09 04:54:51+00:00 | 9350 | 10 | C++ | 3 | [] |
+| Pen-Test3rs/binary_exploits_tasks_public | None | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | ['exploit'] | 1 | 2021-10-09 09:12:42+00:00 | 87 | 0 | C | 0 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-09 00:08:43+00:00 | 7637 | 4011 | Python | 582 | [] |
-| saulpanders/payloadTests | PoCs for various shellcode injection techniques. Mostly golang | https://github.com/saulpanders/payloadTests | ['shellcode'] | 1 | 2021-10-09 03:43:31+00:00 | 6075 | 2 | Go | 2 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-09 03:43:14+00:00 | 237 | 9 | JavaScript | 6 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-09 00:05:42+00:00 | 1534760 | 1511 | Python | 518 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-09 07:42:49+00:00 | 5341 | 2918 | Python | 644 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-09 00:16:46+00:00 | 146989 | 252 | Ruby | 77 | [] |
@@ -43,8 +44,8 @@
 | snu-mllab/PuzzleMix | Official PyTorch implementation of "Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup" (ICML'20) | https://github.com/snu-mllab/PuzzleMix | ['exploit'] | 1 | 2021-10-09 02:55:02+00:00 | 90629 | 96 | Jupyter Notebook | 11 | [] |
 | dagheyman/awesome-binary-exploitation | None | https://github.com/dagheyman/awesome-binary-exploitation | ['exploit'] | 1 | 2021-10-09 05:41:20+00:00 | 26 | 0 | | 0 | [] |
 | jamesmoriarty/gomem | A Go library for manipulating Windows processes. | https://github.com/jamesmoriarty/gomem | ['exploit'] | 1 | 2021-10-09 01:33:17+00:00 | 48 | 17 | Go | 3 | [] |
+| saulpanders/payloadTests | PoCs for various shellcode injection techniques. Mostly golang | https://github.com/saulpanders/payloadTests | ['shellcode'] | 1 | 2021-10-09 03:43:31+00:00 | 6075 | 2 | Go | 2 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-10-09 01:03:41+00:00 | 100 | 0 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-09 01:07:30+00:00 | 24542 | 2 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-09 00:03:00+00:00 | 431750 | 32 | | 19 | [] |
 | im-hanzou/wp-listingpro | WordPress ListingPro Mass Exploiter | https://github.com/im-hanzou/wp-listingpro | ['exploit'] | 1 | 2021-10-09 02:14:55+00:00 | 25 | 0 | Shell | 0 | [] |
 | im-hanzou/wp-ulisting | WordPress uListing Mass Exploiter | https://github.com/im-hanzou/wp-ulisting | ['exploit'] | 1 | 2021-10-09 02:15:12+00:00 | 5 | 1 | Shell | 1 | [] |
@@ -55,4 +56,5 @@
 | St4rZee/KoGaMa | Collection of many exploits & cheats for KoGaMa | https://github.com/St4rZee/KoGaMa | ['exploit'] | 1 | 2021-10-09 08:49:03+00:00 | 73083 | 0 | Roff | 0 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-10-09 09:29:42+00:00 | 103980 | 0 | JavaScript | 0 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-10-09 03:05:46+00:00 | 364 | 1 | Lua | 0 | [] |
-| T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-10-09 08:21:59+00:00 | 0 | 0 | | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-09 01:07:30+00:00 | 24542 | 2 | Python | 0 | [] |
+| andber6/TheDAOattack | Exploiting the DAO attack on the ethereum blockchain through recursion | https://github.com/andber6/TheDAOattack | ['exploit'] | 1 | 2021-10-09 10:09:56+00:00 | 0 | 1 | Solidity | 0 | [] |
