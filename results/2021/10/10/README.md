@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/10
     
-57 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------------------------|
+|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------------------------|
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-10 02:30:30+00:00 | 7688 | 4011 | Python | 582 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-10 01:09:48+00:00 | 3104 | 2 | Python | 0 | [] |
+| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-10 00:02:06+00:00 | 253 | 10 | JavaScript | 6 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-10-10 00:03:11+00:00 | 59 | 0 | Lua | 0 | [] |
 | in-future-world/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, | https://github.com/in-future-world/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-10-10 14:28:12+00:00 | 198 | 10 | | 3 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-10 14:20:57+00:00 | 2395 | 44 | JavaScript | 55 | [] |
@@ -32,10 +32,12 @@
 | utkarsh24122/get-GraphQL | Template based scanning for GraphQL endpoints for further exploitation. | https://github.com/utkarsh24122/get-GraphQL | ['exploit'] | 1 | 2021-10-10 10:43:14+00:00 | 6 | 0 | Shell | 0 | [] |
 | cgddgc/CVE-2021-41773-42013 | None | https://github.com/cgddgc/CVE-2021-41773-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-10 10:20:09+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | mfarhan08a/exploit-test | tes exploit | https://github.com/mfarhan08a/exploit-test | ['exploit'] | 1 | 2021-10-10 11:02:47+00:00 | 0 | 0 | Python | 0 | [] |
-| I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-10 00:02:06+00:00 | 253 | 10 | JavaScript | 6 | [] |
-| iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-10-10 01:31:45+00:00 | 993 | 1 | Lua | 0 | [] |
+| AssassinUKG/Nodejs_RCE | None | https://github.com/AssassinUKG/Nodejs_RCE | ['rce'] | 1 | 2021-10-10 12:07:08+00:00 | 0 | 0 | Shell | 0 | [] |
+| ctwtruscottwatters/x64_stack_heap_overflow | x64 HeapAlloc & HeapCreate do not seem to implement the structured exception handler | https://github.com/ctwtruscottwatters/x64_stack_heap_overflow | ['heap overflow'] | 1 | 2021-10-10 16:32:35+00:00 | 0 | 0 | C++ | 0 | [] |
+| Pen-Test3rs/binary_exploits_tasks_public | None | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | ['exploit'] | 1 | 2021-10-10 16:12:33+00:00 | 949 | 0 | C | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-10 01:09:48+00:00 | 3104 | 2 | Python | 0 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-10-10 00:33:34+00:00 | 5320 | 3992 | Python | 549 | [] |
-| crypt0n-root/powershell-backdoor | Poweshell backdoor metasploit | https://github.com/crypt0n-root/powershell-backdoor | ['metasploit module OR payload'] | 1 | 2021-10-10 11:52:54+00:00 | 851 | 0 | PowerShell | 0 | [] |
+| iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-10-10 01:31:45+00:00 | 993 | 1 | Lua | 0 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-10-10 00:36:03+00:00 | 2705 | 82 | Go | 7 | [] |
 | robertdebock/mirror | A (Docker) application to mirror any website. | https://github.com/robertdebock/mirror | ['shellcode'] | 1 | 2021-10-10 13:04:43+00:00 | 30 | 10 | Shell | 2 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-10 11:35:05+00:00 | 71298 | 10192 | Python | 1721 | [] |
@@ -60,5 +62,7 @@
 | ltfafei/my_POC | There is my vuln POC and EXP. Some of POC were collected, most of POC and EXP were written by myself. | https://github.com/ltfafei/my_POC | ['vuln poc'] | 1 | 2021-10-10 02:28:10+00:00 | 80140 | 6 | Python | 2 | [] |
 | varZeex/KoGaMa | Collection of many exploits & cheats for KoGaMa | https://github.com/varZeex/KoGaMa | ['exploit'] | 1 | 2021-10-10 06:14:12+00:00 | 73085 | 0 | Roff | 0 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-10-10 12:59:19+00:00 | 3702 | 4 | Julia | 0 | [] |
+| lilmond/Roblox-Exploit-Scripts | None | https://github.com/lilmond/Roblox-Exploit-Scripts | ['exploit'] | 1 | 2021-10-10 16:31:39+00:00 | 114 | 0 | Lua | 0 | [] |
 | TheCrazyInsanity/Roblox-Exploit-Scripts | Scripts i made to be used in roblox exploits. | https://github.com/TheCrazyInsanity/Roblox-Exploit-Scripts | ['exploit'] | 1 | 2021-10-10 13:01:29+00:00 | 284 | 0 | Lua | 1 | [] |
-| AssassinUKG/Nodejs_RCE | None | https://github.com/AssassinUKG/Nodejs_RCE | ['rce'] | 1 | 2021-10-10 12:07:08+00:00 | 0 | 0 | Shell | 0 | [] |
+| crypt0n-root/powershell-backdoor | Poweshell backdoor metasploit | https://github.com/crypt0n-root/powershell-backdoor | ['metasploit module OR payload'] | 1 | 2021-10-10 11:52:54+00:00 | 851 | 0 | PowerShell | 0 | [] |
+| Zears14/SV-Rework-Exploit | None | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-10-10 16:38:57+00:00 | 0 | 0 | | 0 | [] |
