@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/10
     
-73 records found after deduplication
+74 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-10 13:02:16+00:00 | 642393 | 25282 | Ruby | 11642 | [] |
-| Rajchowdhury420/Unobtainium-HTB-Exploit | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | ['exploit'] | 1 | 2021-10-10 17:04:11+00:00 | 287 | 1 | Python | 0 | [] |
+| twseptian/CVE-2021-41773 | CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited | https://github.com/twseptian/CVE-2021-41773 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-10 05:19:29+00:00 | 1 | 0 | | 0 | ['CVE-2021-41773'] |
 | Zeop-CyberSec/apache_normalize_path | Metasploit-Framework modules (scanner and exploit) for the CVE-2021-41773 and CVE-2021-42013 (Path Traversal in Apache 2.4.49/2.4.50) | https://github.com/Zeop-CyberSec/apache_normalize_path | ['cve-2 OR cve_2', 'exploit', 'metasploit module OR payload'] | 3 | 2021-10-10 12:59:51+00:00 | 29 | 6 | Ruby | 0 | ['CVE-2021-41773', 'CVE-2021-42013'] |
 | hac425xxx/heap-exploitation-in-real-world | None | https://github.com/hac425xxx/heap-exploitation-in-real-world | ['exploit'] | 1 | 2021-10-10 15:08:06+00:00 | 4511 | 109 | | 8 | [] |
 | iilegacyyii/PoC-CVE-2021-41773 | None | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-10 04:43:33+00:00 | 9 | 27 | Python | 27 | ['CVE-2021-41773'] |
@@ -23,17 +23,18 @@
 | lintstar/About-Attack | 一个旨在通过应用场景 / 标签对 Github 红队向工具 / 资源进行分类收集，降低红队技术门槛的手册【持续更新】 | https://github.com/lintstar/About-Attack | ['rce'] | 1 | 2021-10-10 16:47:35+00:00 | 18459 | 127 | | 25 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-10-10 00:03:11+00:00 | 59 | 0 | Lua | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-10 09:49:11+00:00 | 10 | 0 | Python | 0 | [] |
-| twseptian/CVE-2021-41773 | CVE-2021-41773: Path Traversal Zero-Day in Apache HTTP Server Exploited | https://github.com/twseptian/CVE-2021-41773 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-10 05:19:29+00:00 | 1 | 0 | | 0 | ['CVE-2021-41773'] |
 | Exanoff12/js-exploit | simple/complex javascript exploits to prank your friends ! | https://github.com/Exanoff12/js-exploit | ['exploit'] | 1 | 2021-10-10 02:07:22+00:00 | 2388 | 0 | PowerShell | 0 | [] |
-| Tuz-Wwsd/CVE-2019-15107_detection | None | https://github.com/Tuz-Wwsd/CVE-2019-15107_detection | ['cve-2 OR cve_2'] | 1 | 2021-10-10 09:08:17+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-15107'] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-10 02:30:30+00:00 | 7688 | 4011 | Python | 582 | [] |
+| justakazh/mass_cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-10 09:14:27+00:00 | 10279 | 17 | Python | 5 | ['CVE-2021-41773'] |
+| AndreiCoderie/Exploit-ELFs | Spargerea si analiza unui binar. | https://github.com/AndreiCoderie/Exploit-ELFs | ['exploit'] | 1 | 2021-10-10 18:57:05+00:00 | 0 | 0 | | 0 | [] |
 | Zears14/SV-Rework-Exploit | None | https://github.com/Zears14/SV-Rework-Exploit | ['exploit'] | 1 | 2021-10-10 16:38:57+00:00 | 0 | 0 | | 0 | [] |
 | ctwtruscottwatters/x64_stack_heap_overflow | x64 HeapAlloc & HeapCreate do not seem to implement the structured exception handler | https://github.com/ctwtruscottwatters/x64_stack_heap_overflow | ['heap overflow'] | 1 | 2021-10-10 16:32:35+00:00 | 0 | 0 | C++ | 0 | [] |
 | AssassinUKG/Nodejs_RCE | None | https://github.com/AssassinUKG/Nodejs_RCE | ['rce'] | 1 | 2021-10-10 12:07:08+00:00 | 0 | 0 | Shell | 0 | [] |
 | mfarhan08a/exploit-test | tes exploit | https://github.com/mfarhan08a/exploit-test | ['exploit'] | 1 | 2021-10-10 11:02:47+00:00 | 0 | 0 | Python | 0 | [] |
 | cgddgc/CVE-2021-41773-42013 | None | https://github.com/cgddgc/CVE-2021-41773-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-10 10:20:09+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | utkarsh24122/get-GraphQL | Template based scanning for GraphQL endpoints for further exploitation. | https://github.com/utkarsh24122/get-GraphQL | ['exploit'] | 1 | 2021-10-10 10:43:14+00:00 | 6 | 0 | Shell | 0 | [] |
+| Tuz-Wwsd/CVE-2019-15107_detection | None | https://github.com/Tuz-Wwsd/CVE-2019-15107_detection | ['cve-2 OR cve_2'] | 1 | 2021-10-10 09:08:17+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-15107'] |
 | Eattttt/ActuatorExploit | None | https://github.com/Eattttt/ActuatorExploit | ['exploit'] | 1 | 2021-10-10 03:31:56+00:00 | 0 | 0 | | 0 | [] |
-| justakazh/mass_cve-2021-41773 | MASS CVE-2021-41773 | https://github.com/justakazh/mass_cve-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-10 09:14:27+00:00 | 10279 | 17 | Python | 5 | ['CVE-2021-41773'] |
 | murderjj/spellcaster | spellcaster admin panel for rblx (exploit) | https://github.com/murderjj/spellcaster | ['exploit'] | 1 | 2021-10-10 00:25:34+00:00 | 0 | 0 | | 0 | [] |
 | ConsumingChef/Consumer-hub | Exploit on roblox | https://github.com/ConsumingChef/Consumer-hub | ['exploit'] | 1 | 2021-10-10 00:20:48+00:00 | 172 | 0 | | 0 | [] |
 | superzerosec/CVE-2021-41773 | POC | https://github.com/superzerosec/CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-10 00:27:33+00:00 | 2 | 2 | Python | 0 | ['CVE-2021-41773'] |
@@ -41,8 +42,8 @@
 | ArcusHub/ArcusHub | A Roblox exploiting hub, designed for multiple games. | https://github.com/ArcusHub/ArcusHub | ['exploit'] | 1 | 2021-10-10 01:40:46+00:00 | 109 | 0 | Lua | 0 | [] |
 | f0ns1/webpage-UserAgent-exploit | None | https://github.com/f0ns1/webpage-UserAgent-exploit | ['exploit'] | 1 | 2021-10-10 10:07:40+00:00 | 4 | 0 | PHP | 0 | [] |
 | Pen-Test3rs/binary_exploits_tasks_public | None | https://github.com/Pen-Test3rs/binary_exploits_tasks_public | ['exploit'] | 1 | 2021-10-10 16:12:33+00:00 | 949 | 0 | C | 0 | [] |
+| Rajchowdhury420/Unobtainium-HTB-Exploit | One Click root Exploit for Unobtainium Machine [HackTheBox] | https://github.com/Rajchowdhury420/Unobtainium-HTB-Exploit | ['exploit'] | 1 | 2021-10-10 17:04:11+00:00 | 287 | 1 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely developed using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-10 00:02:06+00:00 | 253 | 10 | JavaScript | 6 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-10 02:30:30+00:00 | 7688 | 4011 | Python | 582 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-10 01:09:48+00:00 | 3104 | 2 | Python | 0 | [] |
 | yanghaoi/exploits | my exp.. | https://github.com/yanghaoi/exploits | ['exploit'] | 1 | 2021-10-10 15:11:32+00:00 | 84 | 0 | Python | 0 | [] |
 | nu11secur1ty/Windows10Exploits | Microsoft » Windows 10 : Security Vulnerabilities | https://github.com/nu11secur1ty/Windows10Exploits | ['exploit'] | 1 | 2021-10-10 18:24:09+00:00 | 252479 | 345 | HTML | 105 | [] |
@@ -77,4 +78,4 @@
 | vLeeH/httpmapper | 👁️ Tool for Data Extraction and Web Requests. | https://github.com/vLeeH/httpmapper | ['exploit'] | 1 | 2021-10-10 19:01:53+00:00 | 274 | 15 | Python | 4 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-10-10 07:02:36+00:00 | 287812 | 689 | | 141 | [] |
 | ihebski/DefaultCreds-cheat-sheet | One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️ | https://github.com/ihebski/DefaultCreds-cheat-sheet | ['exploit'] | 1 | 2021-10-10 01:23:51+00:00 | 462 | 1856 | Jupyter Notebook | 285 | [] |
-| AndreiCoderie/Exploit-ELFs | Spargerea si analiza unui binar. | https://github.com/AndreiCoderie/Exploit-ELFs | ['exploit'] | 1 | 2021-10-10 18:57:05+00:00 | 0 | 0 | | 0 | [] |
+| jonathandata1/ios_15_rce | Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host | https://github.com/jonathandata1/ios_15_rce | ['rce', 'remote code execution'] | 2 | 2021-10-10 20:17:45+00:00 | 0 | 1 | JavaScript | 0 | [] |
