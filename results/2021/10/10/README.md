@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/10
     
-15 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
@@ -20,3 +20,4 @@
 | superzerosec/CVE-2021-41773 | POC | https://github.com/superzerosec/CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-10 00:27:33+00:00 | 2 | 2 | Python | 0 | ['CVE-2021-41773'] |
 | ConsumingChef/Consumer-hub | Exploit on roblox | https://github.com/ConsumingChef/Consumer-hub | ['exploit'] | 1 | 2021-10-10 00:20:48+00:00 | 172 | 0 | | 0 | [] |
 | murderjj/spellcaster | spellcaster admin panel for rblx (exploit) | https://github.com/murderjj/spellcaster | ['exploit'] | 1 | 2021-10-10 00:25:34+00:00 | 0 | 0 | | 0 | [] |
+| Eattttt/ActuatorExploit | None | https://github.com/Eattttt/ActuatorExploit | ['exploit'] | 1 | 2021-10-10 03:31:56+00:00 | 0 | 0 | | 0 | [] |
