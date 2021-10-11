@@ -1,15 +1,15 @@
 
 # Summary for results/2021/10/11
     
-49 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-10-11 00:20:23+00:00 | 3688 | 2505 | PowerShell | 725 | [] |
-| uoe-agents/derl | The official repository of "Decoupling Exploration and Exploitation in Reinforcement Learning" (URL Workshop ICML 2021) | https://github.com/uoe-agents/derl | ['exploit'] | 1 | 2021-10-11 09:22:58+00:00 | 52 | 3 | Python | 1 | [] |
-| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-10-11 10:10:39+00:00 | 2143 | 3 | Python | 1 | [] |
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-11 11:08:20+00:00 | 642393 | 25288 | Ruby | 11646 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-11 01:11:17+00:00 | 3950 | 2 | Python | 0 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-10-11 10:05:30+00:00 | 18261 | 1 | | 1 | [] |
 | shangbuhuan13/SO-Pose | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | ['exploit'] | 1 | 2021-10-11 08:22:46+00:00 | 40689 | 16 | Python | 4 | [] |
+| blocksecteam/defi_poc | POC for DeFi Vulnerabilities | https://github.com/blocksecteam/defi_poc | ['vulnerability poc'] | 1 | 2021-10-11 11:23:01+00:00 | 5779 | 45 | Solidity | 6 | [] |
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-10-11 00:55:39+00:00 | 14 | 1 | Java | 0 | [] |
 | aesophor/requiem | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-10-11 08:16:36+00:00 | 9368 | 11 | C++ | 3 | [] |
 | arescanpolat/weblogic_exploit_mitigation | oracle_weblogic | https://github.com/arescanpolat/weblogic_exploit_mitigation | ['exploit'] | 1 | 2021-10-11 09:21:31+00:00 | 2 | 0 | | 0 | [] |
@@ -19,6 +19,7 @@
 | Secure-AI-Systems-Group/Qu-ANTI-zation | Source code for the paper "Qu-ANTI-zation: Exploiting Neural Network Quantization for Achieving Adversarial Outcomes" | https://github.com/Secure-AI-Systems-Group/Qu-ANTI-zation | ['exploit'] | 1 | 2021-10-11 03:58:52+00:00 | 83 | 1 | Python | 0 | [] |
 | ColdFusionX/CVE-2021-26085 | Atlassian Confluence Server 7.5.1 Pre-Authorization Arbitrary File Read vulnerability | https://github.com/ColdFusionX/CVE-2021-26085 | ['cve-2 OR cve_2'] | 1 | 2021-10-11 07:21:55+00:00 | 2 | 2 | | 0 | ['CVE-2021-26085'] |
 | SirAppSec/exploit-server | Static light nginx site to serve vulnerabilities | https://github.com/SirAppSec/exploit-server | ['exploit'] | 1 | 2021-10-11 07:56:31+00:00 | 22 | 0 | HTML | 0 | [] |
+| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-11 11:15:12+00:00 | 19 | 0 | Python | 0 | [] |
 | grrrr/rcedit | Programmatic access to Research Catalogue web interface | https://github.com/grrrr/rcedit | ['rce'] | 1 | 2021-10-11 06:59:26+00:00 | 24 | 1 | Python | 0 | [] |
 | jonathandata1/ios_15_rce | Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host | https://github.com/jonathandata1/ios_15_rce | ['rce', 'remote code execution'] | 2 | 2021-10-11 01:47:04+00:00 | 10057 | 18 | JavaScript | 5 | [] |
 | CsEnox/SeManageVolumeExploit | None | https://github.com/CsEnox/SeManageVolumeExploit | ['exploit'] | 1 | 2021-10-11 01:22:26+00:00 | 0 | 0 | C | 0 | [] |
@@ -28,10 +29,12 @@
 | rasyidfox/CVE-2019-18818 | None | https://github.com/rasyidfox/CVE-2019-18818 | ['cve-2 OR cve_2'] | 1 | 2021-10-11 05:29:05+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-18818'] |
 | Feles007/exploitable-interpreter | None | https://github.com/Feles007/exploitable-interpreter | ['exploit'] | 1 | 2021-10-11 07:31:33+00:00 | 0 | 0 | | 0 | [] |
 | lucasgrelaud/container_cve_manager | This webapp is a POC aiming to provide an "easy" way to manage CVE from the Harbor registry platform | https://github.com/lucasgrelaud/container_cve_manager | ['cve poc'] | 1 | 2021-10-11 07:31:40+00:00 | 0 | 0 | | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-11 01:11:17+00:00 | 3950 | 2 | Python | 0 | [] |
+| cocomelonc/2021-10-09-linux-shellcoding-1 | Linux shellcoding tutorial with examples | https://github.com/cocomelonc/2021-10-09-linux-shellcoding-1 | ['shellcode'] | 1 | 2021-10-11 08:24:59+00:00 | 0 | 0 | Assembly | 0 | [] |
+| scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-10-11 10:10:39+00:00 | 2143 | 3 | Python | 1 | [] |
+| uoe-agents/derl | The official repository of "Decoupling Exploration and Exploitation in Reinforcement Learning" (URL Workshop ICML 2021) | https://github.com/uoe-agents/derl | ['exploit'] | 1 | 2021-10-11 09:22:58+00:00 | 52 | 3 | Python | 1 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-10-11 00:20:23+00:00 | 3688 | 2505 | PowerShell | 725 | [] |
 | rexguowork/phantom-attack | POC for Phantom Attack | https://github.com/rexguowork/phantom-attack | ['attack poc'] | 1 | 2021-10-11 04:30:03+00:00 | 1079 | 10 | C | 1 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-11 05:30:35+00:00 | 5361 | 2921 | Python | 646 | [] |
-| stong/CVE-2020-15368 | CVE-2020-15368 | https://github.com/stong/CVE-2020-15368 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-11 01:30:56+00:00 | 341 | 292 | C++ | 29 | ['CVE-2020-15368'] |
 | firmianay/CTF-All-In-One | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | ['exploit'] | 1 | 2021-10-11 02:57:33+00:00 | 48550 | 2699 | C | 550 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-11 00:16:55+00:00 | 150043 | 252 | Ruby | 77 | [] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-10-11 09:41:24+00:00 | 2488 | 1333 | | 447 | [] |
@@ -53,4 +56,5 @@
 | TheDookySoo/Essentials | A convenient script that provides the bare essentials for exploiting such as ESP, freecam and aimbot. | https://github.com/TheDookySoo/Essentials | ['exploit'] | 1 | 2021-10-11 07:38:12+00:00 | 508 | 1 | Lua | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-11 04:02:11+00:00 | 66968 | 201 | Python | 58 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-10-11 10:13:46+00:00 | 3703 | 4 | Julia | 0 | [] |
-| cocomelonc/2021-10-09-linux-shellcoding-1 | Linux shellcoding tutorial with examples | https://github.com/cocomelonc/2021-10-09-linux-shellcoding-1 | ['shellcode'] | 1 | 2021-10-11 08:24:59+00:00 | 0 | 0 | Assembly | 0 | [] |
+| stong/CVE-2020-15368 | CVE-2020-15368 | https://github.com/stong/CVE-2020-15368 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-11 01:30:56+00:00 | 341 | 292 | C++ | 29 | ['CVE-2020-15368'] |
+| LorenzoCavada/bo-cvd | Cavada's exercise on Buffer Overflow Exploit | https://github.com/LorenzoCavada/bo-cvd | ['exploit'] | 1 | 2021-10-11 10:57:10+00:00 | 0 | 0 | | 0 | [] |
