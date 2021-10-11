@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/11
     
-87 records found after deduplication
+88 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-11 11:08:20+00:00 | 642393 | 25288 | Ruby | 11646 | [] |
-| Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-10-11 13:43:35+00:00 | 43 | 0 | Python | 0 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-10-11 00:20:23+00:00 | 3688 | 2505 | PowerShell | 725 | [] |
+| mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-11 18:19:41+00:00 | 12 | 0 | Python | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-11 11:15:12+00:00 | 19 | 0 | Python | 0 | [] |
 | SirAppSec/exploit-server | Static light nginx site to serve vulnerabilities | https://github.com/SirAppSec/exploit-server | ['exploit'] | 1 | 2021-10-11 07:56:31+00:00 | 22 | 0 | HTML | 0 | [] |
 | fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit | None | https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-11 17:44:12+00:00 | 395 | 0 | | 0 | [] |
@@ -15,8 +16,8 @@
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-10-11 15:11:11+00:00 | 42 | 1 | Python | 0 | [] |
 | sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-11 16:41:26+00:00 | 3226 | 0 | Jupyter Notebook | 0 | [] |
 | RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | ['exploit'] | 1 | 2021-10-11 10:32:17+00:00 | 12546 | 0 | MATLAB | 0 | [] |
+| Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-10-11 13:43:35+00:00 | 43 | 0 | Python | 0 | [] |
 | Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-10-11 12:50:18+00:00 | 59 | 0 | Python | 0 | [] |
-| Exanoff12/js-exploit | simple/complex javascript exploits to prank your friends ! | https://github.com/Exanoff12/js-exploit | ['exploit'] | 1 | 2021-10-11 13:27:41+00:00 | 2389 | 0 | | 0 | [] |
 | arqxi/FamilyHell | Roblox Exploit Scripts for HD Admin. This won't be of any use to you unless you're in my Discord server. | https://github.com/arqxi/FamilyHell | ['exploit'] | 1 | 2021-10-11 16:36:24+00:00 | 54 | 0 | Lua | 0 | [] |
 | Albert0147/SFDA_neighbors | Code for our NeurIPS 2021 paper 'Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation' | https://github.com/Albert0147/SFDA_neighbors | ['exploit'] | 1 | 2021-10-11 17:51:33+00:00 | 111 | 6 | Python | 0 | [] |
 | in-future-world/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, | https://github.com/in-future-world/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-10-11 09:56:04+00:00 | 208 | 11 | | 3 | [] |
@@ -25,10 +26,11 @@
 | aesophor/requiem | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-10-11 08:16:36+00:00 | 9368 | 11 | C++ | 3 | [] |
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-10-11 00:55:39+00:00 | 14 | 1 | Java | 0 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-10-11 13:13:30+00:00 | 97 | 0 | Lua | 0 | [] |
-| mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-11 18:19:41+00:00 | 12 | 0 | Python | 0 | [] |
+| Exanoff12/js-exploit | simple/complex javascript exploits to prank your friends ! | https://github.com/Exanoff12/js-exploit | ['exploit'] | 1 | 2021-10-11 13:27:41+00:00 | 2389 | 0 | | 0 | [] |
 | T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-10-11 16:17:06+00:00 | 15 | 0 | Python | 0 | [] |
-| shangbuhuan13/SO-Pose | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | ['exploit'] | 1 | 2021-10-11 08:22:46+00:00 | 40689 | 16 | Python | 4 | [] |
-| LorenzoCavada/bo-cvd | Cavada's exercise on Buffer Overflow Exploit | https://github.com/LorenzoCavada/bo-cvd | ['exploit'] | 1 | 2021-10-11 10:57:10+00:00 | 0 | 0 | | 0 | [] |
+| grrrr/rcedit | Programmatic access to Research Catalogue web interface | https://github.com/grrrr/rcedit | ['rce'] | 1 | 2021-10-11 06:59:26+00:00 | 24 | 1 | Python | 0 | [] |
+| MattiaCampanelli/CVE | CVE List & PoC | https://github.com/MattiaCampanelli/CVE | ['cve poc'] | 1 | 2021-10-11 12:31:03+00:00 | 0 | 0 | | 0 | [] |
+| xXxhagenxXx/Exploit-Scripts | None | https://github.com/xXxhagenxXx/Exploit-Scripts | ['exploit'] | 1 | 2021-10-11 17:58:43+00:00 | 0 | 0 | Python | 0 | [] |
 | abatsakidis/ADMCrew | A collection of tools,exploits etc. from old hacking group called ADMCrew in 90s. | https://github.com/abatsakidis/ADMCrew | ['exploit'] | 1 | 2021-10-11 18:10:12+00:00 | 0 | 0 | C | 0 | [] |
 | ibrahimgns1/Zeroday-KYK | None | https://github.com/ibrahimgns1/Zeroday-KYK | ['zeroday'] | 1 | 2021-10-11 16:38:15+00:00 | 0 | 0 | | 0 | [] |
 | Ramirez1001/compatibility.lua | Compatibility for roblox exploits | https://github.com/Ramirez1001/compatibility.lua | ['exploit'] | 1 | 2021-10-11 16:38:52+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -36,9 +38,9 @@
 | SpeedSterKawaii/WatermelonLBI | Professional LBI used by many exploiters. | https://github.com/SpeedSterKawaii/WatermelonLBI | ['exploit'] | 1 | 2021-10-11 15:38:52+00:00 | 2 | 1 | | 0 | [] |
 | dongpohezui/cve-2021-33045 | None | https://github.com/dongpohezui/cve-2021-33045 | ['cve-2 OR cve_2'] | 1 | 2021-10-11 15:23:39+00:00 | 0 | 1 | Python | 0 | ['CVE-2021-33045'] |
 | DjebbarAnon/online-learning-system-v2-sqli-authentication-bypass-file-upload-unauthenticated-RCE | None | https://github.com/DjebbarAnon/online-learning-system-v2-sqli-authentication-bypass-file-upload-unauthenticated-RCE | ['rce'] | 1 | 2021-10-11 14:28:35+00:00 | 0 | 0 | Python | 0 | [] |
-| MattiaCampanelli/CVE | CVE List & PoC | https://github.com/MattiaCampanelli/CVE | ['cve poc'] | 1 | 2021-10-11 12:31:03+00:00 | 0 | 0 | | 0 | [] |
+| LorenzoCavada/bo-cvd | Cavada's exercise on Buffer Overflow Exploit | https://github.com/LorenzoCavada/bo-cvd | ['exploit'] | 1 | 2021-10-11 10:57:10+00:00 | 0 | 0 | | 0 | [] |
+| jonathandata1/ios_15_rce | Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host | https://github.com/jonathandata1/ios_15_rce | ['rce', 'remote code execution'] | 2 | 2021-10-11 01:47:04+00:00 | 10057 | 18 | JavaScript | 5 | [] |
 | cocomelonc/2021-10-09-linux-shellcoding-1 | Linux shellcoding tutorial with examples | https://github.com/cocomelonc/2021-10-09-linux-shellcoding-1 | ['shellcode'] | 1 | 2021-10-11 08:24:59+00:00 | 0 | 0 | Assembly | 0 | [] |
-| grrrr/rcedit | Programmatic access to Research Catalogue web interface | https://github.com/grrrr/rcedit | ['rce'] | 1 | 2021-10-11 06:59:26+00:00 | 24 | 1 | Python | 0 | [] |
 | lucasgrelaud/container_cve_manager | This webapp is a POC aiming to provide an "easy" way to manage CVE from the Harbor registry platform | https://github.com/lucasgrelaud/container_cve_manager | ['cve poc'] | 1 | 2021-10-11 07:31:40+00:00 | 0 | 0 | | 0 | [] |
 | Feles007/exploitable-interpreter | None | https://github.com/Feles007/exploitable-interpreter | ['exploit'] | 1 | 2021-10-11 07:31:33+00:00 | 0 | 0 | | 0 | [] |
 | rasyidfox/CVE-2019-18818 | None | https://github.com/rasyidfox/CVE-2019-18818 | ['cve-2 OR cve_2'] | 1 | 2021-10-11 05:29:05+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-18818'] |
@@ -46,10 +48,9 @@
 | scarmandef/CVE-2021-41773 | Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE | https://github.com/scarmandef/CVE-2021-41773 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-10-11 03:08:55+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-41773'] |
 | Yolnan/CVE_24678_PS4 | None | https://github.com/Yolnan/CVE_24678_PS4 | ['cve-2 OR cve_2'] | 1 | 2021-10-11 02:08:20+00:00 | 0 | 0 | Python | 0 | [] |
 | CsEnox/SeManageVolumeExploit | None | https://github.com/CsEnox/SeManageVolumeExploit | ['exploit'] | 1 | 2021-10-11 01:22:26+00:00 | 0 | 0 | C | 0 | [] |
-| jonathandata1/ios_15_rce | Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host | https://github.com/jonathandata1/ios_15_rce | ['rce', 'remote code execution'] | 2 | 2021-10-11 01:47:04+00:00 | 10057 | 18 | JavaScript | 5 | [] |
 | blocksecteam/defi_poc | POC for DeFi Vulnerabilities | https://github.com/blocksecteam/defi_poc | ['vulnerability poc'] | 1 | 2021-10-11 11:23:01+00:00 | 5779 | 45 | Solidity | 6 | [] |
+| shangbuhuan13/SO-Pose | This repository contains codes of ICCV2021 paper: SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation | https://github.com/shangbuhuan13/SO-Pose | ['exploit'] | 1 | 2021-10-11 08:22:46+00:00 | 40689 | 16 | Python | 4 | [] |
 | Barmem/BDusers | list of bot detector users but marked as "exploiter" | https://github.com/Barmem/BDusers | ['exploit'] | 1 | 2021-10-11 16:11:26+00:00 | 16 | 0 | | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-10-11 00:20:23+00:00 | 3688 | 2505 | PowerShell | 725 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2021-10-11 04:34:21+00:00 | 135 | 86 | | 16 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-10-11 17:29:54+00:00 | 3180014 | 2 | Batchfile | 0 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-10-11 00:06:59+00:00 | 523 | 89 | Java | 21 | [] |
@@ -91,4 +92,4 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-11 00:02:56+00:00 | 401162 | 32 | | 19 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-10-11 03:12:00+00:00 | 103 | 0 | Python | 0 | [] |
 | mineo333/GhostFops | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | ['exploit'] | 1 | 2021-10-11 02:36:51+00:00 | 811 | 1 | C | 0 | [] |
-| xXxhagenxXx/Exploit-Scripts | None | https://github.com/xXxhagenxXx/Exploit-Scripts | ['exploit'] | 1 | 2021-10-11 17:58:43+00:00 | 0 | 0 | Python | 0 | [] |
+| fastAsF/PATCH-CVE-2021-41773 | None | https://github.com/fastAsF/PATCH-CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-11 19:21:52+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
