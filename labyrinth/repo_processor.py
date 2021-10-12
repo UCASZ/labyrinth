@@ -216,7 +216,7 @@ def _dump_csv(df, outfile):
 
 
 def dump_results_by_repo(df):
-    outdir = REPO_ID_RESULTS_HOME
+    outdir = cfg.REPO_ID_RESULTS_HOME
     os.makedirs(outdir, exist_ok=True)
 
     cols = ["repo_id", "repo_full_name", "file", "file_sha1", "match"]
