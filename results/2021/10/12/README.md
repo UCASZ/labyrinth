@@ -1,10 +1,10 @@
 
 # Summary for results/2021/10/12
     
-61 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-12 04:45:43+00:00 | 642908 | 25292 | Ruby | 11648 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-12 01:11:17+00:00 | 4794 | 2 | Python | 0 | [] |
 | aesophor/requiem | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-10-12 04:36:48+00:00 | 9418 | 11 | C++ | 3 | [] |
@@ -18,6 +18,7 @@
 | jheeree/Simple-CVE-2021-41773-checker | Simple script realizado en bash, para revisión de múltiples hosts para CVE-2021-41773 (Apache) | https://github.com/jheeree/Simple-CVE-2021-41773-checker | ['cve-2 OR cve_2'] | 1 | 2021-10-12 03:28:51+00:00 | 4 | 3 | Shell | 3 | ['CVE-2021-41773'] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-12 08:41:28+00:00 | 14 | 0 | Python | 0 | [] |
 | T-Dynamos/Infector | The ultimate Metasploit apk binder with legit apk written in python3 | https://github.com/T-Dynamos/Infector | ['metasploit module OR payload'] | 1 | 2021-10-12 01:37:58+00:00 | 31 | 3 | Python | 0 | [] |
+| benslv/cybersoc-web-exploits | None | https://github.com/benslv/cybersoc-web-exploits | ['exploit'] | 1 | 2021-10-12 14:09:13+00:00 | 557 | 0 | CSS | 0 | [] |
 | LorenzoCavada/bo-cvd | Cavada's exercise on Buffer Overflow Exploit | https://github.com/LorenzoCavada/bo-cvd | ['exploit'] | 1 | 2021-10-12 08:31:42+00:00 | 7 | 0 | C | 0 | [] |
 | Ramirez1001/SkidsApi.lua | Compatibility for roblox exploits | https://github.com/Ramirez1001/SkidsApi.lua | ['exploit'] | 1 | 2021-10-12 09:56:43+00:00 | 9 | 0 | Lua | 0 | [] |
 | oofshell/YusofsHub | my roblox exploit script hub | https://github.com/oofshell/YusofsHub | ['exploit'] | 1 | 2021-10-12 00:21:52+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -34,12 +35,14 @@
 | AkshayraviC09YC47/CVE-Exploits | Custom made cve exploits | https://github.com/AkshayraviC09YC47/CVE-Exploits | ['exploit'] | 1 | 2021-10-12 10:03:10+00:00 | 0 | 0 | Python | 0 | [] |
 | jet-pentest/CVE-2021-42261 | CVE-2021-42261 | https://github.com/jet-pentest/CVE-2021-42261 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 10:55:16+00:00 | 0 | 1 | | 0 | ['CVE-2021-42261'] |
 | SkyF0RCE/SkyF0RCE | Config files for my GitHub profile. | https://github.com/SkyF0RCE/SkyF0RCE | ['rce'] | 1 | 2021-10-12 12:43:42+00:00 | 0 | 0 | | 0 | [] |
+| Nazky/PS4CVE20211879 | because people want to test it | https://github.com/Nazky/PS4CVE20211879 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 12:53:13+00:00 | 0 | 0 | HTML | 0 | [] |
 | bstank/bstank.github.io | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | ['exploit'] | 1 | 2021-10-12 03:32:51+00:00 | 414 | 0 | SCSS | 0 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-10-12 03:31:41+00:00 | 402 | 1 | Lua | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-12 05:07:47+00:00 | 258535 | 6524 | C | 1808 | [] |
 | rjt-gupta/CVE-2021-29337 | CVE-2021-29337 - Privilege Escalation in MODAPI.sys (MSI Dragon Center) | https://github.com/rjt-gupta/CVE-2021-29337 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 12:03:20+00:00 | 4 | 13 | C | 5 | ['CVE-2021-29337'] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-12 00:05:44+00:00 | 1534761 | 1511 | Python | 519 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-12 04:51:18+00:00 | 5376 | 2921 | Python | 646 | [] |
+| rcenvironment/rce | Distributed, workflow-driven integration environment | https://github.com/rcenvironment/rce | ['rce'] | 1 | 2021-10-12 13:35:10+00:00 | 113494 | 32 | Java | 10 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-12 11:35:04+00:00 | 71590 | 10200 | Python | 1728 | [] |
 | firmianay/CTF-All-In-One | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | ['exploit'] | 1 | 2021-10-12 01:07:20+00:00 | 48546 | 2699 | C | 549 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2021-10-12 05:07:36+00:00 | 16442 | 1728 | C++ | 283 | [] |
@@ -65,4 +68,5 @@
 | gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-12 02:25:22+00:00 | 1177 | 171 | Python | 36 | [] |
 | deaddlocust/LBI-Base | Internal ROBLOX exploit using the LBI execution method | https://github.com/deaddlocust/LBI-Base | ['exploit'] | 1 | 2021-10-12 12:59:59+00:00 | 3896 | 12 | C | 1 | [] |
 | GopiReddy590/rce_technicalsite | None | https://github.com/GopiReddy590/rce_technicalsite | ['rce'] | 1 | 2021-10-12 07:57:12+00:00 | 17245 | 0 | HTML | 0 | [] |
-| Nazky/PS4CVE20211879 | because people want to test it | https://github.com/Nazky/PS4CVE20211879 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 12:53:13+00:00 | 0 | 0 | HTML | 0 | [] |
+| Xenyax/KoGaMa | Collection of many exploits & cheats for KoGaMa | https://github.com/Xenyax/KoGaMa | ['exploit'] | 1 | 2021-10-12 14:30:42+00:00 | 73137 | 0 | Roff | 0 | [] |
+| Shadawks/Strapi-CVE-2019-1881 | Proof of concept for Strapi CVE-2019-18818 - Unauthenticated Password Reset Vulnerability / Privilege Escalation | https://github.com/Shadawks/Strapi-CVE-2019-1881 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 14:27:24+00:00 | 0 | 1 | Python | 0 | ['CVE-2019-1881', 'CVE-2019-18818'] |
