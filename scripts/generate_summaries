@@ -66,6 +66,7 @@ keep_cols = [
 ]
 
 jsonfile_suffix = "_summary.json"
+csvfile_suffix = "_summary.csv"
 
 
 def summarize_dir(basedir):
@@ -73,6 +74,7 @@ def summarize_dir(basedir):
     df = prepare_data(df)
 
     dump_json(basedir, df)
+    dump_csv(basedir, df)
     dump_markdown(basedir, df)
 
 
@@ -96,6 +98,23 @@ def dump_json(basedir, df):
         orient="records",
         date_format="iso",
         date_unit="s",
+    )
+
+
+def dump_csv(basedir, df):
+    pfx = get_name_pfx_from_path(basedir)
+    outfile = os.path.join(basedir, f"{pfx}{csvfile_suffix}")
+    logger.info(f"Writing {outfile}")
+
+    df = rank_sort(df)
+    df.to_csv(
+        outfile,
+        columns=keep_cols,
+        index=False,
+        header=True,
+        date_format="%Y-%m-%dT%H:%M:%S%z",
+        errors="replace",
+        encoding="utf-8",
     )
 
 
