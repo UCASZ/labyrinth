@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/12
     
-57 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -32,6 +32,8 @@
 | Edgarloyola/RCE_checkMk_mkp_file | None | https://github.com/Edgarloyola/RCE_checkMk_mkp_file | ['rce'] | 1 | 2021-10-12 09:37:29+00:00 | 0 | 0 | | 0 | [] |
 | Edgarloyola/RCE_checkMK_Dokuwiki | None | https://github.com/Edgarloyola/RCE_checkMK_Dokuwiki | ['rce'] | 1 | 2021-10-12 09:48:02+00:00 | 0 | 0 | | 0 | [] |
 | AkshayraviC09YC47/CVE-Exploits | Custom made cve exploits | https://github.com/AkshayraviC09YC47/CVE-Exploits | ['exploit'] | 1 | 2021-10-12 10:03:10+00:00 | 0 | 0 | Python | 0 | [] |
+| jet-pentest/CVE-2021-42261 | CVE-2021-42261 | https://github.com/jet-pentest/CVE-2021-42261 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 10:55:16+00:00 | 0 | 1 | | 0 | ['CVE-2021-42261'] |
+| SkyF0RCE/SkyF0RCE | Config files for my GitHub profile. | https://github.com/SkyF0RCE/SkyF0RCE | ['rce'] | 1 | 2021-10-12 12:43:42+00:00 | 0 | 0 | | 0 | [] |
 | bstank/bstank.github.io | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | ['exploit'] | 1 | 2021-10-12 03:32:51+00:00 | 414 | 0 | SCSS | 0 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-10-12 03:31:41+00:00 | 402 | 1 | Lua | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-12 05:07:47+00:00 | 258535 | 6524 | C | 1808 | [] |
@@ -45,6 +47,7 @@
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-12 01:40:54+00:00 | 2759490 | 352 | | 52 | [] |
 | mitchellkrogza/Fail2Ban.WebExploits | This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites. | https://github.com/mitchellkrogza/Fail2Ban.WebExploits | ['exploit'] | 1 | 2021-10-12 09:06:53+00:00 | 312 | 85 | Shell | 26 | [] |
 | Deadpool2000/Paybag | Simple and easy Metasploit payload generator for Linux & Termux | https://github.com/Deadpool2000/Paybag | ['metasploit module OR payload'] | 1 | 2021-10-12 10:16:42+00:00 | 102 | 19 | Python | 3 | [] |
+| remo7777/Termux-Metasploit | metasploit-framework version 5.0.53-dev for termux specially for android version 5 and 6 | https://github.com/remo7777/Termux-Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-12 13:21:38+00:00 | 43 | 54 | Shell | 17 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-12 01:36:48+00:00 | 35904 | 5894 | Vue | 1230 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-12 07:30:57+00:00 | 1340226 | 3626 | PowerShell | 1251 | [] |
 | wrlu/Vulnerabilities | Vulnerabilities PoC & Exp collections | https://github.com/wrlu/Vulnerabilities | ['vuln poc', 'vulnerability poc'] | 2 | 2021-10-12 09:16:09+00:00 | 17280 | 50 | Python | 10 | [] |
@@ -60,5 +63,6 @@
 | exp1orer/FastAdmin_Upload | FastAdmin 前台文件上传RCE | https://github.com/exp1orer/FastAdmin_Upload | ['rce'] | 1 | 2021-10-12 08:03:16+00:00 | 92 | 88 | PHP | 15 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-12 00:44:05+00:00 | 69069 | 205 | Python | 58 | [] |
 | gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-12 02:25:22+00:00 | 1177 | 171 | Python | 36 | [] |
+| deaddlocust/LBI-Base | Internal ROBLOX exploit using the LBI execution method | https://github.com/deaddlocust/LBI-Base | ['exploit'] | 1 | 2021-10-12 12:59:59+00:00 | 3896 | 12 | C | 1 | [] |
 | GopiReddy590/rce_technicalsite | None | https://github.com/GopiReddy590/rce_technicalsite | ['rce'] | 1 | 2021-10-12 07:57:12+00:00 | 17245 | 0 | HTML | 0 | [] |
-| jet-pentest/CVE-2021-42261 | CVE-2021-42261 | https://github.com/jet-pentest/CVE-2021-42261 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 10:55:16+00:00 | 0 | 1 | | 0 | ['CVE-2021-42261'] |
+| Nazky/PS4CVE20211879 | because people want to test it | https://github.com/Nazky/PS4CVE20211879 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 12:53:13+00:00 | 0 | 0 | HTML | 0 | [] |
