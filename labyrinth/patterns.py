@@ -8,7 +8,7 @@ import re
 import os
 from labyrinth.errors import LabyrinthPatternError
 
-IDS = [
+ID_PATTERNS = [
     # sometimes with dashes,
     # sometimes with underscores, like in urls
     "CVE[-_][0-9]{4}[-_][0-9]+",
@@ -16,7 +16,8 @@ IDS = [
     "CVE.?,\s+.?[0-9]{4}-[0-9]+",
     # some exploitdb matches CVE : YYYY-nnnnn
     "CVE\s+:\s+[0-9]{4}-[0-9]+",
-    "VU\#[0-9]{2,}",
+    # VU#nn, VU-nn, VU_nn, VUnn
+    "VU[#-_]?[0-9]{2,}",
     "BID-\d+",
     # bugtraq id in urls
     "securityfocus\.com/bid/\d+",
@@ -42,7 +43,7 @@ IDS = [
     # Zero Science Lab
     "ZSL[-_][0-9]{4}[-_][0-9]+",
     # china nvd
-    "CNVD[-_]\d[0-9]{4}[-_][0-9]+",
+    "CNVD[-_][0-9]{4}[-_][0-9]+",
     # find metasploit code mentioning CNVD IDs
     "CNVD.?,\s+.?[0-9]{4}[-_][0-9]+",
     # china nvd
@@ -50,7 +51,7 @@ IDS = [
     # china NNVD CNNVD-{YYYY}{MM}-{NNN}
     "CNNVD[-_][0-9]{6}[-_][0-9]+",
 ]
-ID_REGEX = "|".join(IDS)  # join into one giant regex
+ID_REGEX = "|".join(ID_PATTERNS)  # join into one giant regex
 PATTERN = re.compile(ID_REGEX, re.I)  # compile it case insensitive
 
 ID_REGEX_CLI = f'"{ID_REGEX}"'  # enclose in quotes
@@ -71,82 +72,81 @@ def normalize(id_str):
     # also, since we've already matched the ID patterns above,
     # we can be a bit more liberal in our pattern matching here
     # (e.g., using \D instead of specific delimiters)
-    if id_str.startswith("CVE"):
-        m = re.match("CVE\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"CVE-{m.groups()[0]}-{int(m.groups()[1]):04d}"
-    elif id_str.startswith("BID"):
-        m = re.match("BID\D+(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"BID-{int(m.groups()[0])}"
-    elif id_str.startswith("SECURITYFOCUS.COM"):
-        m = re.match("SECURITYFOCUS\.COM/BID/(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"BID-{int(m.groups()[0])}"
-    elif id_str.startswith("OSVDB"):
-        m = re.match("OSVDB\D+(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"OSVDB-{int(m.groups()[0])}"
-    elif id_str.startswith("VU"):
-        m = re.match("VU\D+(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"VU#{m.groups()[0]}"
-    elif id_str.startswith("KB.CERT.ORG"):
-        m = re.match("KB\.CERT\.ORG/VULS/ID/(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"VU#{int(m.groups()[0])}"
-    elif id_str.startswith("ICSA"):
-        m = re.match("ICSA\D+(\d+)\D+(\d+)\D+(\d+\w?)", id_str, re.IGNORECASE)
-        if m:
-            return f"ICSA-{m.groups()[0]}-{m.groups()[1]}-{m.groups()[2]}"
-    elif id_str.startswith("UVI"):
-        m = re.match("UVI\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"UVI-{m.groups()[0]}-{m.groups()[1]}"
-    elif id_str.startswith("MS"):
-        m = re.match("MS(\d+)\D+(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"MS{m.groups()[0]}-{int(m.groups()[1]):03d}"
-    elif id_str.startswith("ZDI"):
-        # Zero Day Initiative has two ID formats
-        if id_str.startswith("ZDI-CAN"):
-            # ZDI-CAN-NNN
-            m = re.match("ZDI[^C]+CAN\D+(\d+)", id_str, re.IGNORECASE)
-            if m:
-                return f"ZDI-CAN-{m.groups()[0]}"
-        else:
-            # ZDI-NN-NNN
-            m = re.match("ZDI\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
-            if m:
-                return f"ZDI-{m.groups()[0]}-{m.groups()[1]}"
-    elif id_str.startswith("ZSL"):
-        # ZDI-NN-NNN
-        m = re.match("ZSL\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"ZSL-{m.groups()[0]}-{m.groups()[1]}"
-    elif id_str.startswith("BUGS.CHROMIUM.ORG"):
+    m = re.match("CVE\D*(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"CVE-{m.groups()[0]}-{int(m.groups()[1]):04d}"
+
+    m = re.match("BID\D*(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"BID-{int(m.groups()[0])}"
+
+    m = re.match("SECURITYFOCUS\.COM/BID/(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"BID-{int(m.groups()[0])}"
+
+    m = re.match("OSVDB\D*(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"OSVDB-{int(m.groups()[0])}"
+
+    m = re.match("VU\D*(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"VU#{m.groups()[0]}"
+
+    m = re.match("KB\.CERT\.ORG/VULS/ID/(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"VU#{int(m.groups()[0])}"
+
+    m = re.match("ICSA\D*(\d+)\D+(\d+)\D+(\d+\w?)", id_str, re.IGNORECASE)
+    if m:
+        return f"ICSA-{m.groups()[0]}-{m.groups()[1]}-{m.groups()[2]}"
+
+    m = re.match("UVI\D*(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"UVI-{m.groups()[0]}-{m.groups()[1]}"
+
+    m = re.match("MS(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"MS{m.groups()[0]}-{int(m.groups()[1]):03d}"
+
+    # ZDI-CAN-NNN
+    m = re.match("ZDI[^C]+CAN\D*(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"ZDI-CAN-{m.groups()[0]}"
+
+    # ZDI-NN-NNN
+    m = re.match("ZDI\D*(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"ZDI-{m.groups()[0]}-{m.groups()[1]}"
+
+    # ZSL-NN-NNN
+    m = re.match("ZSL\D*(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"ZSL-{m.groups()[0]}-{m.groups()[1]}"
+
+    if id_str.startswith("BUGS.CHROMIUM.ORG"):
         m = re.search("PROJECT-ZERO/ISSUES/DETAIL\?ID=(\d+)", id_str, re.IGNORECASE)
         if m:
             return f"GPZ-{m.groups()[0]}"
-    elif id_str.startswith("CODE.GOOGLE.COM"):
+
+    if id_str.startswith("CODE.GOOGLE.COM"):
         m = re.search(
             "GOOGLE-SECURITY-RESEARCH/ISSUES/DETAIL\?ID=(\d+)", id_str, re.IGNORECASE
         )
         if m:
             return f"GPZ-{m.groups()[0]}"
-    elif id_str.startswith("CNVD"):
-        m = re.match("CNVD\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"CNVD-{m.groups()[0]}-{m.groups()[1]}"
-        # candidates?
-        m = re.match("CNVD[^C]+C\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"CNVD-C-{m.groups()[0]}-{m.groups()[1]}"
 
-    elif id_str.startswith("CNNVD"):
-        m = re.match("CNNVD\D+(\d+)\D+(\d+)", id_str, re.IGNORECASE)
-        if m:
-            return f"CNNVD-{m.groups()[0]}-{m.groups()[1]}"
+    m = re.match("CNVD\D*(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"CNVD-{m.groups()[0]}-{m.groups()[1]}"
+
+    # candidates?
+    m = re.match("CNVD[^C]+C\D*(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"CNVD-C-{m.groups()[0]}-{m.groups()[1]}"
+
+    m = re.match("CNNVD\D*(\d+)\D+(\d+)", id_str, re.IGNORECASE)
+    if m:
+        return f"CNNVD-{m.groups()[0]}-{m.groups()[1]}"
 
     # default to no change
     return id_str
