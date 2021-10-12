@@ -15,7 +15,8 @@ from github import Github
 import git
 
 import labyrinth
-from labyrinth.dir_helpers import setup_output_dirs, REPO_ID_RESULTS_HOME
+from labyrinth.dir_helpers import setup_output_dirs
+import labyrinth.config as cfg
 from labyrinth.patterns import repo_id_to_path, find_vul_ids
 from labyrinth.ignorelist import IGNORE_REPOS
 from labyrinth.rate_limit_helpers import check_rl_core
@@ -97,7 +98,7 @@ def process_row(row):
         if str(row[key]).lower() in ignorelist:
             return pd.DataFrame()
 
-    repo_path = os.path.join(REPO_ID_RESULTS_HOME, repo_id_to_path(repo_id))
+    repo_path = os.path.join(cfg.REPO_ID_RESULTS_HOME, repo_id_to_path(repo_id))
     csvfile = os.path.join(repo_path, f"{repo_id}.csv")
 
     # do we already have results for repo?
