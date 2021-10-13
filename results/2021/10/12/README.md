@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/12
     
-113 records found after deduplication
+114 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-12 04:45:43+00:00 | 642908 | 25292 | Ruby | 11648 | [] |
-| Albert0147/SFDA_neighbors | Code for our NeurIPS 2021 paper 'Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation' | https://github.com/Albert0147/SFDA_neighbors | ['exploit'] | 1 | 2021-10-12 12:28:43+00:00 | 113 | 8 | Python | 0 | [] |
+| 0xAlmighty/CVE-2021-41733-PoC | Path Traversal and RCE in Apache HTTP Server 2.4.49 PoC | https://github.com/0xAlmighty/CVE-2021-41733-PoC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-10-12 00:34:29+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41733'] |
 | antoinechauvn/mitm-attack | Exploitation du protocole ARP afin d'obtenir des informations confidentielles en utilisant l'attaque MITM (Man-in-the-middle) | https://github.com/antoinechauvn/mitm-attack | ['exploit'] | 1 | 2021-10-12 19:28:15+00:00 | 1 | 0 | Python | 0 | [] |
 | thelostvoice/global-takeover | The COVID graphene-based injections are their weapons for global assimilation and eventual replacement of the human race | https://github.com/thelostvoice/global-takeover | ['cve poc', 'vulnerability poc'] | 2 | 2021-10-12 15:26:02+00:00 | 5 | 1 | JavaScript | 0 | [] |
 | thelostvoice/inept-us-military | The U.S. generals have to be completely idiot to treat their service members as guinea pigs by injecting them with poison unless some of them are also collaborators | https://github.com/thelostvoice/inept-us-military | ['cve poc'] | 1 | 2021-10-12 15:24:38+00:00 | 22 | 1 | JavaScript | 0 | [] |
@@ -33,9 +33,9 @@
 | lyxo/autoOverflow | An attempt of automating the exploitation workflow of basic OSCP like buffer overflows in python | https://github.com/lyxo/autoOverflow | ['exploit'] | 1 | 2021-10-12 19:28:23+00:00 | 11 | 0 | Python | 0 | [] |
 | klezVirus/CVE-2021-40444 | CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit | https://github.com/klezVirus/CVE-2021-40444 | ['0day', 'cve-2 OR cve_2', 'exploit', 'rce'] | 4 | 2021-10-12 23:05:07+00:00 | 1063 | 459 | HTML | 93 | ['CVE-2021-40444'] |
 | oofshell/YusofsHub | my roblox exploit script hub | https://github.com/oofshell/YusofsHub | ['exploit'] | 1 | 2021-10-12 00:21:52+00:00 | 0 | 0 | Lua | 0 | [] |
-| 0xAlmighty/CVE-2021-41733-PoC | Path Traversal and RCE in Apache HTTP Server 2.4.49 PoC | https://github.com/0xAlmighty/CVE-2021-41733-PoC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-10-12 00:34:29+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41733'] |
 | 0xAlmighty/CVE-2021-41773-PoC | Path Traversal and RCE in Apache HTTP Server 2.4.49 | https://github.com/0xAlmighty/CVE-2021-41773-PoC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-10-12 00:52:59+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
-| hoavt184/CVE-2021-22941 | None | https://github.com/hoavt184/CVE-2021-22941 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 16:05:19+00:00 | 1 | 0 | Python | 0 | ['CVE-2021-22941'] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-12 23:27:47+00:00 | 27152 | 8356 | Python | 1443 | [] |
+| yungs8an/GENGAR | Exploit | https://github.com/yungs8an/GENGAR | ['exploit'] | 1 | 2021-10-12 01:32:13+00:00 | 0 | 0 | | 0 | [] |
 | ZeusBox/CVE-2021-37980 | PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only) | https://github.com/ZeusBox/CVE-2021-37980 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-12 19:27:25+00:00 | 0 | 0 | C++ | 0 | ['CVE-2021-37980'] |
 | yungs8an/Exploit | None | https://github.com/yungs8an/Exploit | ['exploit'] | 1 | 2021-10-12 18:51:36+00:00 | 0 | 0 | | 0 | [] |
 | xmv1/Exploits | Boblox exploits | https://github.com/xmv1/Exploits | ['exploit'] | 1 | 2021-10-12 18:27:39+00:00 | 0 | 0 | | 0 | [] |
@@ -47,10 +47,11 @@
 | phucan2410/phucan2410-hybird-pom-nocomme-20rce | None | https://github.com/phucan2410/phucan2410-hybird-pom-nocomme-20rce | ['rce'] | 1 | 2021-10-12 16:21:21+00:00 | 0 | 0 | | 0 | [] |
 | Sanfeire/exploit_nginx | An powerfull exploit for nginx, from the version 0.5.6 to the version 1.13.2 | https://github.com/Sanfeire/exploit_nginx | ['exploit'] | 1 | 2021-10-12 15:08:11+00:00 | 0 | 0 | Python | 0 | [] |
 | bitL3gion/SimpleShellcodeLoader | Simple Shellcode Loader | https://github.com/bitL3gion/SimpleShellcodeLoader | ['shellcode'] | 1 | 2021-10-12 15:05:12+00:00 | 0 | 0 | C++ | 0 | [] |
+| hoavt184/CVE-2021-22941 | None | https://github.com/hoavt184/CVE-2021-22941 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 16:05:19+00:00 | 1 | 0 | Python | 0 | ['CVE-2021-22941'] |
 | Shadawks/Strapi-CVE-2019-1881 | Proof of concept for Strapi CVE-2019-18818 - Unauthenticated Password Reset Vulnerability / Privilege Escalation | https://github.com/Shadawks/Strapi-CVE-2019-1881 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 14:27:24+00:00 | 0 | 1 | Python | 0 | ['CVE-2019-1881', 'CVE-2019-18818'] |
-| yungs8an/GENGAR | Exploit | https://github.com/yungs8an/GENGAR | ['exploit'] | 1 | 2021-10-12 01:32:13+00:00 | 0 | 0 | | 0 | [] |
 | Nazky/PS4CVE20211879 | because people want to test it | https://github.com/Nazky/PS4CVE20211879 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 12:53:13+00:00 | 0 | 0 | HTML | 0 | [] |
 | SkyF0RCE/SkyF0RCE | Config files for my GitHub profile. | https://github.com/SkyF0RCE/SkyF0RCE | ['rce'] | 1 | 2021-10-12 12:43:42+00:00 | 0 | 0 | | 0 | [] |
+| niko047/Genkidama | Genkidama offers distributed and optimized system of Machine Learning using the unexploited computational power in traditional tech business contexts (exploiting latent CPUs coming from laptops of non-tech members of companies). It does so using Websocket | https://github.com/niko047/Genkidama | ['exploit'] | 1 | 2021-10-12 15:05:10+00:00 | 19 | 0 | | 0 | [] |
 | jet-pentest/CVE-2021-42261 | CVE-2021-42261 | https://github.com/jet-pentest/CVE-2021-42261 | ['cve-2 OR cve_2'] | 1 | 2021-10-12 10:55:16+00:00 | 0 | 1 | | 0 | ['CVE-2021-42261'] |
 | AkshayraviC09YC47/CVE-Exploits | Custom made cve exploits | https://github.com/AkshayraviC09YC47/CVE-Exploits | ['exploit'] | 1 | 2021-10-12 10:03:10+00:00 | 0 | 0 | Python | 0 | [] |
 | Edgarloyola/RCE_checkMK_Dokuwiki | None | https://github.com/Edgarloyola/RCE_checkMK_Dokuwiki | ['rce'] | 1 | 2021-10-12 09:48:02+00:00 | 0 | 0 | | 0 | [] |
@@ -61,8 +62,8 @@
 | skidowner/ShitFairSploit | This is a dump, i dont clean the code for u fagget. | https://github.com/skidowner/ShitFairSploit | ['sploit'] | 1 | 2021-10-12 03:40:47+00:00 | 0 | 0 | C# | 0 | [] |
 | valdesguefa/Simulation-du-fonctionnement-d-un-systeme-d-exploitation-en-ce-servant-de-celui-d-un-systeme-routier | None | https://github.com/valdesguefa/Simulation-du-fonctionnement-d-un-systeme-d-exploitation-en-ce-servant-de-celui-d-un-systeme-routier | ['exploit'] | 1 | 2021-10-12 02:58:14+00:00 | 0 | 0 | Java | 0 | [] |
 | dubs3c/MacRecon | Useful scripts and commands for post exploitation on Mac OS | https://github.com/dubs3c/MacRecon | ['exploit'] | 1 | 2021-10-12 20:27:21+00:00 | 586 | 0 | Python | 0 | [] |
+| Albert0147/SFDA_neighbors | Code for our NeurIPS 2021 paper 'Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation' | https://github.com/Albert0147/SFDA_neighbors | ['exploit'] | 1 | 2021-10-12 12:28:43+00:00 | 113 | 8 | Python | 0 | [] |
 | mobdk/Core | Core bypass Windows Defender and execute any binary converted to shellcode | https://github.com/mobdk/Core | ['shellcode'] | 1 | 2021-10-12 16:21:35+00:00 | 1113 | 26 | C# | 3 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-12 23:27:47+00:00 | 27152 | 8356 | Python | 1443 | [] |
 | aesophor/requiem | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-10-12 04:36:48+00:00 | 9418 | 11 | C++ | 3 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-10-12 18:34:06+00:00 | 3186990 | 2 | Batchfile | 0 | [] |
 | bsalha1/Printer | This is a plugin for Minecraft that aids in building, as it gives the player creative mode and charges them for each block they place. All exploits are patched as well. | https://github.com/bsalha1/Printer | ['exploit'] | 1 | 2021-10-12 20:17:24+00:00 | 344810 | 2 | Java | 6 | [] |
