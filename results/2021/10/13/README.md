@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/13
     
-90 records found after deduplication
+91 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -27,8 +27,8 @@
 | kikiokol/AndroidDown | Exploit android devices with open Android Debugging Bridge(ADB) ports. | https://github.com/kikiokol/AndroidDown | ['exploit'] | 1 | 2021-10-13 13:07:04+00:00 | 44 | 5 | Python | 0 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-10-13 04:36:12+00:00 | 121 | 1 | C# | 1 | [] |
 | LorenzoCavada/bo-cvd | Cavada's exercise on Buffer Overflow Exploit | https://github.com/LorenzoCavada/bo-cvd | ['exploit'] | 1 | 2021-10-13 06:34:58+00:00 | 32 | 0 | C | 0 | [] |
-| thelostvoice/global-takeover | The COVID graphene-based injections are their weapons for global assimilation and eventual replacement of the human race | https://github.com/thelostvoice/global-takeover | ['cve poc', 'vulnerability poc'] | 2 | 2021-10-13 09:26:05+00:00 | 11 | 1 | JavaScript | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-13 05:48:30+00:00 | 21846 | 6036 | JavaScript | 1440 | [] |
+| thelostvoice/global-takeover | The COVID graphene-based injections are their weapons for global assimilation and eventual replacement of the human race | https://github.com/thelostvoice/global-takeover | ['cve poc', 'vulnerability poc'] | 2 | 2021-10-13 09:26:05+00:00 | 13 | 1 | JavaScript | 0 | [] |
+| yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-10-13 13:08:09+00:00 | 397 | 112 | Go | 25 | [] |
 | phx/binex | Docker image for binary exploitation | https://github.com/phx/binex | ['exploit'] | 1 | 2021-10-13 13:15:10+00:00 | 9 | 0 | Shell | 0 | [] |
 | smartdevcode/wordpress-exploit-framework | None | https://github.com/smartdevcode/wordpress-exploit-framework | ['exploit'] | 1 | 2021-10-13 15:27:54+00:00 | 0 | 0 | Ruby | 0 | [] |
 | IcmpOff/PHP-8.1.0-dev-Backdoor-Remote-Command-Injection-Exploit | None | https://github.com/IcmpOff/PHP-8.1.0-dev-Backdoor-Remote-Command-Injection-Exploit | ['command injection', 'exploit'] | 2 | 2021-10-13 15:21:57+00:00 | 0 | 0 | Python | 0 | [] |
@@ -50,9 +50,9 @@
 | jmrcsnchz/nosecrets | https://www.secretmessage.link/ 0day exploit _ read message board of any accounts | https://github.com/jmrcsnchz/nosecrets | ['0day', 'exploit'] | 2 | 2021-10-13 07:09:39+00:00 | 3 | 1 | Python | 0 | [] |
 | rhein055/ArtOfExploitation | None | https://github.com/rhein055/ArtOfExploitation | ['exploit'] | 1 | 2021-10-13 00:29:58+00:00 | 78 | 0 | C | 1 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-10-13 01:43:22+00:00 | 116 | 0 | Lua | 0 | [] |
-| yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-10-13 13:08:09+00:00 | 397 | 112 | Go | 25 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-13 11:40:02+00:00 | 278 | 11 | JavaScript | 6 | [] |
-| SleepTheGod/0day | 0DAY EXPLOIT | https://github.com/SleepTheGod/0day | ['0day', 'exploit'] | 2 | 2021-10-13 03:55:28+00:00 | 1 | 1 | PHP | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-13 05:48:30+00:00 | 21846 | 6036 | JavaScript | 1440 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-13 06:53:01+00:00 | 35489 | 23 | | 14 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-10-13 02:29:42+00:00 | 61718 | 1244 | Python | 254 | [] |
 | gtworek/Priv2Admin | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | ['exploit'] | 1 | 2021-10-13 14:26:26+00:00 | 147 | 579 | | 106 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-13 12:08:36+00:00 | 1340356 | 3634 | PowerShell | 1254 | [] |
@@ -73,9 +73,9 @@
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-13 02:01:42+00:00 | 27152 | 8357 | Python | 1445 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-10-13 09:30:04+00:00 | 46235 | 847 | Python | 201 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-13 01:06:19+00:00 | 740 | 238 | Rust | 13 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-13 06:53:01+00:00 | 35489 | 23 | | 14 | [] |
 | ind3p3nd3nt/vncperlbot | This code is an IRC BOT that can connect to an IRC server with SSL The main purpose of this bot is to scan for Open/Unsecured VNC servers. The bot can also search for credit card informations in the computer that the bot is running (removed in last version | https://github.com/ind3p3nd3nt/vncperlbot | ['exploit'] | 1 | 2021-10-13 14:17:37+00:00 | 430 | 6 | Perl | 1 | [] |
-| gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-13 13:36:37+00:00 | 1184 | 171 | Python | 36 | [] |
+| SleepTheGod/0day | 0DAY EXPLOIT | https://github.com/SleepTheGod/0day | ['0day', 'exploit'] | 2 | 2021-10-13 03:55:28+00:00 | 1 | 1 | PHP | 0 | [] |
+| jas502n/CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | ['cve-2 OR cve_2'] | 1 | 2021-10-13 07:30:23+00:00 | 4859 | 352 | Java | 109 | ['CVE-2020-5902'] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-13 15:48:33+00:00 | 28523 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-13 01:09:30+00:00 | 5686 | 2 | Python | 0 | [] |
 | DerBejijing/BlockRotationExploit | I found a way to exploit the rotation minecraft applies to certain Blocks to reconstruct coordinates from them | https://github.com/DerBejijing/BlockRotationExploit | ['exploit'] | 1 | 2021-10-13 13:17:36+00:00 | 2872 | 6 | Java | 0 | [] |
@@ -84,8 +84,9 @@
 | minhaj981/Metasploit | Usage of Metasploit. A best tools for hacking. | https://github.com/minhaj981/Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-13 16:27:45+00:00 | 0 | 0 | | 0 | [] |
 | REW-sploit/REW-sploit | Emulate and Dissect MSF and *other* attacks | https://github.com/REW-sploit/REW-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-10-13 08:50:15+00:00 | 1360 | 104 | Python | 17 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-10-13 12:51:06+00:00 | 3934 | 4 | Julia | 0 | [] |
+| Dima-diep/Metasploit | Easy installer Metasploit | https://github.com/Dima-diep/Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-13 17:32:14+00:00 | 6 | 1 | Shell | 0 | [] |
+| gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-13 13:36:37+00:00 | 1184 | 171 | Python | 36 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-13 04:01:56+00:00 | 71671 | 209 | Python | 59 | [] |
-| jas502n/CVE-2020-5902 | CVE-2020-5902 BIG-IP | https://github.com/jas502n/CVE-2020-5902 | ['cve-2 OR cve_2'] | 1 | 2021-10-13 07:30:23+00:00 | 4859 | 352 | Java | 109 | ['CVE-2020-5902'] |
 | matteounitn/breaking-telegram | Simple PoC script that allows you to exploit telegram's "send with timer" feature by saving any media sent with this functionality. | https://github.com/matteounitn/breaking-telegram | ['exploit'] | 1 | 2021-10-13 12:19:55+00:00 | 21899 | 15 | Python | 1 | [] |
 | abundov/web-exploits | Tools and Exploits | https://github.com/abundov/web-exploits | ['exploit'] | 1 | 2021-10-13 01:28:17+00:00 | 72 | 2 | PHP | 0 | [] |
 | googleprojectzero/0days-in-the-wild | Repository for information about 0-days exploited in-the-wild. | https://github.com/googleprojectzero/0days-in-the-wild | ['0day', 'exploit'] | 2 | 2021-10-13 15:02:41+00:00 | 166 | 330 | HTML | 37 | [] |
