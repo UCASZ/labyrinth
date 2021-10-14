@@ -1,12 +1,14 @@
 
 # Summary for results/2021/10/14
     
-45 records found after deduplication
+53 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-14 03:01:06+00:00 | 21846 | 6037 | JavaScript | 1440 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-10-14 04:02:30+00:00 | 130 | 1 | C# | 1 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-14 01:43:47+00:00 | 2511 | 53 | JavaScript | 69 | [] |
+| Zureno/CVE-_-POC_-Repository. | None | https://github.com/Zureno/CVE-_-POC_-Repository. | ['cve poc'] | 1 | 2021-10-14 10:20:19+00:00 | 0 | 0 | | 0 | [] |
 | sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-14 07:24:28+00:00 | 77182 | 0 | Jupyter Notebook | 0 | [] |
 | SirAppSec/exploit-server | Static light nginx site to serve vulnerabilities | https://github.com/SirAppSec/exploit-server | ['exploit'] | 1 | 2021-10-14 08:28:43+00:00 | 60 | 0 | HTML | 0 | [] |
 | david232818/picoCTF_binary_exploitation_-_- | picoCTF에서 binary exploitation에 있는 기본적인 3개의 문제와 관련된 주제를 다루었다. | https://github.com/david232818/picoCTF_binary_exploitation_-_- | ['exploit'] | 1 | 2021-10-14 01:57:30+00:00 | 19129 | 0 | TeX | 0 | [] |
@@ -26,10 +28,12 @@
 | SSDMT-DEV-HARLEY/Exploit-6.72 | None | https://github.com/SSDMT-DEV-HARLEY/Exploit-6.72 | ['exploit'] | 1 | 2021-10-14 06:33:23+00:00 | 0 | 0 | HTML | 0 | [] |
 | xtayaitak/X64dbgShellcodeHelper | Help save shellcode comments and lables for x64dbg | https://github.com/xtayaitak/X64dbgShellcodeHelper | ['shellcode'] | 1 | 2021-10-14 06:45:38+00:00 | 0 | 0 | CMake | 0 | [] |
 | Itz-Ayanokoji/Metaspoloit-Kage | Kage is Graphical User Interface (GUI) for Metasploit Meterpreter and Session Handler | https://github.com/Itz-Ayanokoji/Metaspoloit-Kage | ['metasploit module OR payload'] | 1 | 2021-10-14 08:31:34+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-14 01:43:47+00:00 | 2511 | 53 | JavaScript | 69 | [] |
-| yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-10-14 01:24:28+00:00 | 400 | 114 | Go | 25 | [] |
+| PeterMxx/ps4_8.00_vuln_poc | My take on CVE-2021-30858 for ps4 8.xx | https://github.com/PeterMxx/ps4_8.00_vuln_poc | ['cve poc', 'vuln poc'] | 2 | 2021-10-14 09:27:22+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-30858'] |
+| zomy22/CVE-2020-16846-Saltstack-Salt-API | None | https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API | ['cve-2 OR cve_2'] | 1 | 2021-10-14 10:09:49+00:00 | 0 | 0 | | 0 | ['CVE-2020-16846'] |
+| risacker/Vulnerable_Machine | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system | https://github.com/risacker/Vulnerable_Machine | ['exploit'] | 1 | 2021-10-14 10:34:27+00:00 | 21 | 0 | | 0 | [] |
+| BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-10-14 10:32:24+00:00 | 104949 | 5 | PowerShell | 5 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-14 05:07:44+00:00 | 258821 | 6527 | C | 1809 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-14 01:07:11+00:00 | 6673 | 2 | Python | 0 | [] |
+| yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-10-14 01:24:28+00:00 | 400 | 114 | Go | 25 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-14 00:05:47+00:00 | 1534761 | 1511 | Python | 519 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-14 05:37:22+00:00 | 5384 | 2927 | Python | 646 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-10-14 02:24:46+00:00 | 5209 | 4002 | Python | 553 | [] |
@@ -41,12 +45,16 @@
 | gquere/pwn_jenkins | Notes about attacking Jenkins servers | https://github.com/gquere/pwn_jenkins | ['exploit', 'rce'] | 2 | 2021-10-14 07:47:45+00:00 | 112 | 1148 | Python | 218 | [] |
 | Dannymos/ZeroDaysAPI | None | https://github.com/Dannymos/ZeroDaysAPI | ['zeroday'] | 1 | 2021-10-14 08:26:45+00:00 | 238 | 0 | TypeScript | 0 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-14 07:00:27+00:00 | 35928 | 5899 | Vue | 1231 | [] |
+| Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-10-14 09:52:31+00:00 | 61702 | 1245 | Python | 254 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-14 00:41:34+00:00 | 774 | 238 | Rust | 13 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-14 06:53:03+00:00 | 35785 | 23 | | 14 | [] |
 | mineo333/GhostFops | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | ['exploit'] | 1 | 2021-10-14 00:38:30+00:00 | 819 | 1 | C | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-14 00:03:24+00:00 | 407450 | 32 | | 19 | [] |
+| blitztide/exploit-boilerplate | None | https://github.com/blitztide/exploit-boilerplate | ['exploit'] | 1 | 2021-10-14 09:37:46+00:00 | 5 | 1 | Python | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-14 01:36:15+00:00 | 72 | 0 | PHP | 0 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-10-14 06:17:52+00:00 | 37 | 0 | C | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-14 04:01:48+00:00 | 72199 | 210 | Python | 60 | [] |
+| gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-14 09:49:51+00:00 | 1194 | 171 | Python | 36 | [] |
 | kirstvh/BioCCP.jl | BioCCP.jl exploits the Coupon Collector Problem for sample size determination in combinatorial biotechnology. | https://github.com/kirstvh/BioCCP.jl | ['exploit'] | 1 | 2021-10-14 08:31:07+00:00 | 3962 | 4 | Julia | 0 | [] |
-| PeterMxx/ps4_8.00_vuln_poc | My take on CVE-2021-30858 for ps4 8.xx | https://github.com/PeterMxx/ps4_8.00_vuln_poc | ['cve poc', 'vuln poc'] | 2 | 2021-10-14 09:27:22+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-30858'] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-14 01:07:11+00:00 | 6673 | 2 | Python | 0 | [] |
+| PeterMxx/ps4_8.xx_exploit | None | https://github.com/PeterMxx/ps4_8.xx_exploit | ['exploit'] | 1 | 2021-10-14 10:23:29+00:00 | 0 | 0 | | 0 | [] |
