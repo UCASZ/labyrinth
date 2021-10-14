@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/13
     
-115 records found after deduplication
+116 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-13 05:36:52+00:00 | 642908 | 25302 | Ruby | 11648 | [] |
-| thelostvoice/global-takeover | The COVID graphene-based injections are their weapons for global assimilation and eventual replacement of the human race | https://github.com/thelostvoice/global-takeover | ['cve poc', 'vulnerability poc'] | 2 | 2021-10-13 09:26:05+00:00 | 11 | 1 | JavaScript | 0 | [] |
+| sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-13 07:04:57+00:00 | 74672 | 0 | Jupyter Notebook | 0 | [] |
 | LorenzoCavada/bo-cvd | Cavada's exercise on Buffer Overflow Exploit | https://github.com/LorenzoCavada/bo-cvd | ['exploit'] | 1 | 2021-10-13 06:34:58+00:00 | 32 | 0 | C | 0 | [] |
 | rssmith33/3-armed_bandit_task_model | Scripts for building and simulating data using an active inference model of the three-armed bandit task used in: Smith, R., Schwartenbeck, P., Stewart, J. L., Kuplicki, R., Ekhtiari, H., Paulus, M. P., & Tulsa 1000 Investigators. (2020). Imprecise action s | https://github.com/rssmith33/3-armed_bandit_task_model | ['exploit'] | 1 | 2021-10-13 21:58:13+00:00 | 0 | 0 | MATLAB | 0 | [] |
 | CyberSocYork/web-exploits | A (soon-to-be) collection of pages demonstrating some fun web exploits for CyberSoc workshops! | https://github.com/CyberSocYork/web-exploits | ['exploit'] | 1 | 2021-10-13 09:54:43+00:00 | 560 | 0 | HTML | 0 | [] |
@@ -19,22 +19,23 @@
 | caciolai/Semantic-Role-Labeling-exploiting-Contextualized-Embeddings | None | https://github.com/caciolai/Semantic-Role-Labeling-exploiting-Contextualized-Embeddings | ['exploit'] | 1 | 2021-10-13 16:24:09+00:00 | 1198 | 0 | Jupyter Notebook | 0 | [] |
 | fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit | None | https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-13 15:35:54+00:00 | 406 | 0 | | 0 | [] |
 | zeroday0619/zerodayTTS | 제로데이 TTS 디스코드 봇 | https://github.com/zeroday0619/zerodayTTS | ['zeroday'] | 1 | 2021-10-13 12:32:29+00:00 | 43 | 1 | Python | 0 | [] |
-| sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-13 07:04:57+00:00 | 74672 | 0 | Jupyter Notebook | 0 | [] |
 | SambasOnFire/Sti7111 | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | ['exploit'] | 1 | 2021-10-13 09:21:11+00:00 | 7 | 1 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-13 05:48:30+00:00 | 21846 | 6036 | JavaScript | 1440 | [] |
 | Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-10-13 05:41:59+00:00 | 367 | 0 | Python | 0 | [] |
 | SleepTheGod/Twitter | Exploits | https://github.com/SleepTheGod/Twitter | ['exploit'] | 1 | 2021-10-13 04:29:54+00:00 | 0 | 0 | | 0 | [] |
 | Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-10-13 12:23:28+00:00 | 65 | 0 | Python | 0 | [] |
 | Unknown3958/UnknownExploit | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | ['exploit'] | 1 | 2021-10-13 21:42:02+00:00 | 23 | 0 | | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-13 02:50:20+00:00 | 2507 | 50 | JavaScript | 62 | [] |
 | Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-10-13 15:33:48+00:00 | 62 | 0 | Python | 0 | [] |
+| Sebastians349/ui-rcel | None | https://github.com/Sebastians349/ui-rcel | ['rce'] | 1 | 2021-10-13 13:12:55+00:00 | 524 | 0 | JavaScript | 0 | [] |
 | kikiokol/AndroidDown | Exploit android devices with open Android Debugging Bridge(ADB) ports. | https://github.com/kikiokol/AndroidDown | ['exploit'] | 1 | 2021-10-13 13:07:04+00:00 | 44 | 5 | Python | 0 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-10-13 04:36:12+00:00 | 121 | 1 | C# | 1 | [] |
 | ceat-ceat/BecomeFumoStuff | utility for become fumo scripts | https://github.com/ceat-ceat/BecomeFumoStuff | ['exploit'] | 1 | 2021-10-13 01:43:22+00:00 | 116 | 0 | Lua | 0 | [] |
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-10-13 13:08:09+00:00 | 397 | 112 | Go | 25 | [] |
 | cirosantilli/china-dictatorship-2 | https://github.com/cirosantilli/china-dictatorship 的备份backup. Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name | https://github.com/cirosantilli/china-dictatorship-2 | ['attack poc', 'exploit'] | 2 | 2021-10-13 18:12:20+00:00 | 6419 | 11 | HTML | 8 | [] |
 | Ramirez1001/SkidsApi.lua | Compatibility for roblox exploits | https://github.com/Ramirez1001/SkidsApi.lua | ['exploit'] | 1 | 2021-10-13 10:45:44+00:00 | 19 | 0 | Lua | 0 | [] |
+| thelostvoice/global-takeover | The COVID graphene-based injections are their weapons for global assimilation and eventual replacement of the human race | https://github.com/thelostvoice/global-takeover | ['cve poc', 'vulnerability poc'] | 2 | 2021-10-13 09:26:05+00:00 | 13 | 1 | JavaScript | 0 | [] |
 | phx/binex | Docker image for binary exploitation | https://github.com/phx/binex | ['exploit'] | 1 | 2021-10-13 13:15:10+00:00 | 9 | 0 | Shell | 0 | [] |
-| SleepTheGod/0day | 0DAY EXPLOIT | https://github.com/SleepTheGod/0day | ['0day', 'exploit'] | 2 | 2021-10-13 03:55:28+00:00 | 1 | 1 | PHP | 0 | [] |
 | rhein055/ArtOfExploitation | None | https://github.com/rhein055/ArtOfExploitation | ['exploit'] | 1 | 2021-10-13 00:29:58+00:00 | 78 | 0 | C | 1 | [] |
 | ACraigM120/QuizApp | Command line quiz application using dependency injection | https://github.com/ACraigM120/QuizApp | ['command injection'] | 1 | 2021-10-13 20:33:33+00:00 | 0 | 0 | C# | 0 | [] |
 | ACraigM120/QuizApp | Command line quiz application using dependency injection. | https://github.com/ACraigM120/QuizApp | ['command injection'] | 1 | 2021-10-13 20:29:21+00:00 | 0 | 0 | | 0 | [] |
@@ -62,8 +63,8 @@
 | 9host1st/v8 | exploit | https://github.com/9host1st/v8 | ['exploit'] | 1 | 2021-10-13 01:21:07+00:00 | 2 | 0 | JavaScript | 0 | [] |
 | jmrcsnchz/nosecrets | https://www.secretmessage.link/ 0day exploit _ read message board of any accounts | https://github.com/jmrcsnchz/nosecrets | ['0day', 'exploit'] | 2 | 2021-10-13 07:09:39+00:00 | 3 | 1 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-13 11:40:02+00:00 | 278 | 11 | JavaScript | 6 | [] |
+| SleepTheGod/0day | 0DAY EXPLOIT | https://github.com/SleepTheGod/0day | ['0day', 'exploit'] | 2 | 2021-10-13 03:55:28+00:00 | 1 | 1 | PHP | 0 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-13 15:48:33+00:00 | 28523 | 0 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-13 05:48:30+00:00 | 21846 | 6036 | JavaScript | 1440 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-13 01:06:19+00:00 | 740 | 238 | Rust | 13 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-10-13 02:29:42+00:00 | 61718 | 1244 | Python | 254 | [] |
 | gtworek/Priv2Admin | Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS. | https://github.com/gtworek/Priv2Admin | ['exploit'] | 1 | 2021-10-13 14:26:26+00:00 | 147 | 579 | | 106 | [] |
