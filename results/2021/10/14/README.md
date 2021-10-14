@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/14
     
-5 records found after deduplication
+11 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
@@ -10,3 +10,9 @@
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-14 00:41:34+00:00 | 774 | 238 | Rust | 13 | [] |
 | mineo333/GhostFops | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | ['exploit'] | 1 | 2021-10-14 00:38:30+00:00 | 819 | 1 | C | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-14 00:03:24+00:00 | 407450 | 32 | | 19 | [] |
+| tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-14 01:36:15+00:00 | 72 | 0 | PHP | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-14 01:07:11+00:00 | 6673 | 2 | Python | 0 | [] |
+| yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-10-14 01:24:28+00:00 | 400 | 114 | Go | 25 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-14 01:43:47+00:00 | 2511 | 53 | JavaScript | 69 | [] |
+| Feles007/exploitable-interpreter | None | https://github.com/Feles007/exploitable-interpreter | ['exploit'] | 1 | 2021-10-14 01:44:26+00:00 | 3 | 0 | Python | 0 | [] |
+| Momenzi/discord-selfmute-exploit | None | https://github.com/Momenzi/discord-selfmute-exploit | ['exploit'] | 1 | 2021-10-14 01:34:55+00:00 | 0 | 0 | JavaScript | 0 | [] |
