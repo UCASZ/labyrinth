@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/15
     
-25 records found after deduplication
+27 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-15 00:36:55+00:00 | 21862 | 6037 | JavaScript | 1440 | [] |
-| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-15 02:30:48+00:00 | 28523 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-15 01:12:19+00:00 | 7539 | 2 | Python | 0 | [] |
 | Waveyyyy/exploit_rewrites | rewrites of existing exploits | https://github.com/Waveyyyy/exploit_rewrites | ['exploit'] | 1 | 2021-10-15 03:26:15+00:00 | 0 | 0 | Ruby | 0 | [] |
 | s7ck-Team/exploit-db | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | ['exploit'] | 1 | 2021-10-15 03:09:26+00:00 | 0 | 0 | | 0 | [] |
 | JakeyWasTaken/Anti-Exploit | None | https://github.com/JakeyWasTaken/Anti-Exploit | ['exploit'] | 1 | 2021-10-15 04:21:27+00:00 | 1 | 0 | Lua | 0 | [] |
@@ -17,16 +17,18 @@
 | SambasOnFire/Sti7111 | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | ['exploit'] | 1 | 2021-10-15 03:11:04+00:00 | 9 | 2 | | 0 | [] |
 | Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-10-15 01:57:25+00:00 | 41 | 3 | Shell | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-15 00:26:05+00:00 | 2527 | 57 | JavaScript | 80 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-15 01:12:19+00:00 | 7539 | 2 | Python | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-15 00:05:27+00:00 | 27152 | 8367 | Python | 1446 | [] |
+| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-15 02:30:48+00:00 | 28523 | 0 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-15 04:01:53+00:00 | 72202 | 210 | Python | 60 | [] |
-| tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-15 01:38:54+00:00 | 72 | 0 | PHP | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-15 00:05:27+00:00 | 27152 | 8367 | Python | 1446 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-15 01:38:54+00:00 | 72 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-15 00:03:00+00:00 | 409376 | 32 | | 19 | [] |
 | SevenC-base/PostExploitation | This is use for PostExploitation. | https://github.com/SevenC-base/PostExploitation | ['exploit'] | 1 | 2021-10-15 02:59:26+00:00 | 0 | 0 | Ruby | 0 | [] |
 | ycdxsb/Exploits | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | ['exploit'] | 1 | 2021-10-15 03:07:50+00:00 | 59594 | 2 | Python | 1 | [] |
 | peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2021-10-15 03:28:02+00:00 | 411 | 0 | | 0 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-15 04:39:59+00:00 | 1344329 | 3636 | PowerShell | 1256 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-15 02:19:55+00:00 | 35940 | 5900 | Vue | 1230 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-15 01:40:56+00:00 | 2759505 | 352 | | 53 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-15 00:16:53+00:00 | 153096 | 252 | Ruby | 77 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-15 00:05:46+00:00 | 1534761 | 1512 | Python | 520 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-15 05:07:51+00:00 | 260912 | 6529 | C | 1811 | [] |
 | Will-Banksy/My-Exploits | This is a list of exploits written/rewritten from existing exploits by me. | https://github.com/Will-Banksy/My-Exploits | ['exploit'] | 1 | 2021-10-15 04:24:11+00:00 | 0 | 0 | Shell | 0 | [] |
