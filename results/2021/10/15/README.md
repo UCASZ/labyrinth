@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/15
     
-27 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-15 00:36:55+00:00 | 21862 | 6037 | JavaScript | 1440 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-15 01:12:19+00:00 | 7539 | 2 | Python | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-15 00:05:27+00:00 | 27152 | 8367 | Python | 1446 | [] |
+| Will-Banksy/My-Exploits | This is a list of exploits written/rewritten from existing exploits by me. | https://github.com/Will-Banksy/My-Exploits | ['exploit'] | 1 | 2021-10-15 04:24:11+00:00 | 0 | 0 | Shell | 0 | [] |
 | Waveyyyy/exploit_rewrites | rewrites of existing exploits | https://github.com/Waveyyyy/exploit_rewrites | ['exploit'] | 1 | 2021-10-15 03:26:15+00:00 | 0 | 0 | Ruby | 0 | [] |
 | s7ck-Team/exploit-db | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | ['exploit'] | 1 | 2021-10-15 03:09:26+00:00 | 0 | 0 | | 0 | [] |
 | JakeyWasTaken/Anti-Exploit | None | https://github.com/JakeyWasTaken/Anti-Exploit | ['exploit'] | 1 | 2021-10-15 04:21:27+00:00 | 1 | 0 | Lua | 0 | [] |
@@ -18,10 +19,12 @@
 | Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-10-15 01:57:25+00:00 | 41 | 3 | Shell | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-15 00:26:05+00:00 | 2527 | 57 | JavaScript | 80 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-15 02:30:48+00:00 | 28523 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-15 01:12:19+00:00 | 7539 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-15 04:01:53+00:00 | 72202 | 210 | Python | 60 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-15 00:05:27+00:00 | 27152 | 8367 | Python | 1446 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-15 01:38:54+00:00 | 72 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-15 00:03:00+00:00 | 409376 | 32 | | 19 | [] |
+| S1lkys/CVE-2020-29254 | TikiWiki 21.2 allows to edit templates without the use of a CSRF protection. | https://github.com/S1lkys/CVE-2020-29254 | ['cve-2 OR cve_2'] | 1 | 2021-10-15 05:35:30+00:00 | 1157 | 1 | | 2 | ['CVE-2020-29254'] |
+| zhzyker/vulmap | Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能 | https://github.com/zhzyker/vulmap | ['exploit', 'rce'] | 2 | 2021-10-15 06:27:01+00:00 | 3416 | 1833 | Python | 338 | [] |
 | SevenC-base/PostExploitation | This is use for PostExploitation. | https://github.com/SevenC-base/PostExploitation | ['exploit'] | 1 | 2021-10-15 02:59:26+00:00 | 0 | 0 | Ruby | 0 | [] |
 | ycdxsb/Exploits | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | ['exploit'] | 1 | 2021-10-15 03:07:50+00:00 | 59594 | 2 | Python | 1 | [] |
 | peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2021-10-15 03:28:02+00:00 | 411 | 0 | | 0 | [] |
@@ -29,6 +32,8 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-15 02:19:55+00:00 | 35940 | 5900 | Vue | 1230 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-15 01:40:56+00:00 | 2759505 | 352 | | 53 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-15 00:16:53+00:00 | 153096 | 252 | Ruby | 77 | [] |
+| gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-10-15 05:57:24+00:00 | 2743 | 82 | Go | 7 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-15 06:06:02+00:00 | 5408 | 2929 | Python | 649 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-15 00:05:46+00:00 | 1534761 | 1512 | Python | 520 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-15 05:07:51+00:00 | 260912 | 6529 | C | 1811 | [] |
-| Will-Banksy/My-Exploits | This is a list of exploits written/rewritten from existing exploits by me. | https://github.com/Will-Banksy/My-Exploits | ['exploit'] | 1 | 2021-10-15 04:24:11+00:00 | 0 | 0 | Shell | 0 | [] |
+| lxzmads/AWD-Batcher | Attack With Defense比赛中的exploit快速集成小脚本。 | https://github.com/lxzmads/AWD-Batcher | ['exploit'] | 1 | 2021-10-15 05:50:45+00:00 | 0 | 5 | Python | 0 | [] |
