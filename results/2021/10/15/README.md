@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/15
     
-63 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-15 00:36:55+00:00 | 21862 | 6037 | JavaScript | 1440 | [] |
-| senator-hack/metasploit-hack | None | https://github.com/senator-hack/metasploit-hack | ['metasploit module OR payload'] | 1 | 2021-10-15 07:20:46+00:00 | 3 | 0 | | 0 | [] |
+| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-15 02:30:48+00:00 | 28523 | 0 | Python | 0 | [] |
 | koharin/CVE-2020-0041 | None | https://github.com/koharin/CVE-2020-0041 | ['cve-2 OR cve_2'] | 1 | 2021-10-15 08:10:40+00:00 | 14 | 0 | C | 0 | ['CVE-2020-0041'] |
 | Albert0147/SFDA_neighbors | Code for our NeurIPS 2021 paper 'Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation' | https://github.com/Albert0147/SFDA_neighbors | ['exploit'] | 1 | 2021-10-15 08:06:50+00:00 | 115 | 11 | Python | 0 | [] |
 | dubs3c/MacRecon | Useful scripts and commands for post exploitation on Mac OS | https://github.com/dubs3c/MacRecon | ['exploit'] | 1 | 2021-10-15 10:14:38+00:00 | 586 | 0 | Python | 0 | [] |
@@ -14,14 +14,15 @@
 | Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-10-15 01:57:25+00:00 | 41 | 3 | Shell | 0 | [] |
 | SambasOnFire/Sti7111 | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | ['exploit'] | 1 | 2021-10-15 03:11:04+00:00 | 9 | 2 | | 0 | [] |
 | sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-15 08:14:59+00:00 | 109253 | 0 | Jupyter Notebook | 0 | [] |
+| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-15 14:30:34+00:00 | 46 | 0 | Python | 1 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-15 10:52:17+00:00 | 58 | 0 | Lua | 0 | [] |
 | itemgiver/Hacking-Study | I studied basic knowledge about hacking. Also, I learned how to find and exploit vulnerabilities in the system by solving hacking problems. | https://github.com/itemgiver/Hacking-Study | ['exploit'] | 1 | 2021-10-15 11:23:57+00:00 | 8 | 0 | Python | 0 | [] |
 | LorenzoCavada/bo-cvd | Cavada's exercise on Buffer Overflow Exploit | https://github.com/LorenzoCavada/bo-cvd | ['exploit'] | 1 | 2021-10-15 07:33:46+00:00 | 246 | 0 | C | 0 | [] |
 | Nazky/PS4CVE202130858 | VERY simple code to check if the browser is compatible or not | https://github.com/Nazky/PS4CVE202130858 | ['cve-2 OR cve_2'] | 1 | 2021-10-15 12:41:09+00:00 | 2 | 3 | HTML | 4 | [] |
 | BrucessKING/CVE-2021-36749 | Apache Druid 任意文件读取 | https://github.com/BrucessKING/CVE-2021-36749 | ['cve-2 OR cve_2'] | 1 | 2021-10-15 02:31:03+00:00 | 1 | 3 | Python | 1 | ['CVE-2021-36749'] |
 | sxntixgo/metasploit-101-at-saintcon | None | https://github.com/sxntixgo/metasploit-101-at-saintcon | ['metasploit module OR payload'] | 1 | 2021-10-15 02:37:47+00:00 | 379 | 0 | TeX | 0 | [] |
+| senator-hack/metasploit-hack | None | https://github.com/senator-hack/metasploit-hack | ['metasploit module OR payload'] | 1 | 2021-10-15 07:20:46+00:00 | 3 | 0 | | 0 | [] |
 | Harleythetech/Exploit-6.72 | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | ['exploit'] | 1 | 2021-10-15 07:25:03+00:00 | 1341 | 0 | HTML | 0 | [] |
-| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-15 02:30:48+00:00 | 28523 | 0 | Python | 0 | [] |
 | nerap/BinanceBot | Bot exploiting Binance API | https://github.com/nerap/BinanceBot | ['exploit'] | 1 | 2021-10-15 07:00:28+00:00 | 60 | 1 | Python | 0 | [] |
 | PeterMxx/ps4_8.00_vuln_poc | My take on CVE-2021-30858 for ps4 8.xx | https://github.com/PeterMxx/ps4_8.00_vuln_poc | ['cve poc', 'vuln poc'] | 2 | 2021-10-15 03:15:33+00:00 | 17 | 2 | HTML | 1 | ['CVE-2021-30858'] |
 | PeterMxx/ps4_8.xx_exploit | None | https://github.com/PeterMxx/ps4_8.xx_exploit | ['exploit'] | 1 | 2021-10-15 03:16:26+00:00 | 2 | 0 | JavaScript | 0 | [] |
@@ -38,7 +39,7 @@
 | risacker/Vulnerable_Machine | A vulnerable machine made for CTF. In this vulnerable machine Dirty COW vulnerability is used. Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system | https://github.com/risacker/Vulnerable_Machine | ['exploit'] | 1 | 2021-10-15 07:26:20+00:00 | 60 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-15 01:12:19+00:00 | 7539 | 2 | Python | 0 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-15 00:05:27+00:00 | 27152 | 8367 | Python | 1446 | [] |
-| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-15 04:39:59+00:00 | 1344329 | 3636 | PowerShell | 1256 | [] |
+| rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2021-10-15 11:15:51+00:00 | 327 | 0 | HTML | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-15 05:07:51+00:00 | 260912 | 6529 | C | 1811 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-15 00:05:46+00:00 | 1534761 | 1512 | Python | 520 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-15 06:06:02+00:00 | 5408 | 2929 | Python | 649 | [] |
@@ -52,8 +53,8 @@
 | Dannymos/ZeroDaysAPI | None | https://github.com/Dannymos/ZeroDaysAPI | ['zeroday'] | 1 | 2021-10-15 06:46:21+00:00 | 536 | 1 | TypeScript | 0 | [] |
 | remo7777/Termux-Metasploit | metasploit-framework version 5.0.53-dev for termux specially for android version 5 and 6 | https://github.com/remo7777/Termux-Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-15 08:06:06+00:00 | 47 | 55 | Shell | 17 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-15 02:19:55+00:00 | 35940 | 5900 | Vue | 1230 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-15 04:39:59+00:00 | 1344329 | 3636 | PowerShell | 1256 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-15 06:53:03+00:00 | 36476 | 23 | | 14 | [] |
-| rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2021-10-15 11:15:51+00:00 | 327 | 0 | HTML | 0 | [] |
 | geeksh-lab/msfInstaller | Easy metasploit and hacking tools like WPscan and Nikto installer for debian distribution | https://github.com/geeksh-lab/msfInstaller | ['metasploit module OR payload'] | 1 | 2021-10-15 12:51:52+00:00 | 10 | 0 | Shell | 0 | [] |
 | peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2021-10-15 03:28:02+00:00 | 411 | 0 | | 0 | [] |
 | thecoderstudio/apollo | Apollo is a post-exploitation tool for managing, enumerating and pivotting on compromised machines. | https://github.com/thecoderstudio/apollo | ['exploit'] | 1 | 2021-10-15 11:31:11+00:00 | 1437 | 5 | Python | 0 | [] |
@@ -63,6 +64,7 @@
 | S1lkys/CVE-2020-29254 | TikiWiki 21.2 allows to edit templates without the use of a CSRF protection. | https://github.com/S1lkys/CVE-2020-29254 | ['cve-2 OR cve_2'] | 1 | 2021-10-15 05:35:30+00:00 | 1157 | 1 | | 2 | ['CVE-2020-29254'] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-15 00:03:00+00:00 | 409376 | 32 | | 19 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-15 01:38:54+00:00 | 72 | 0 | PHP | 0 | [] |
+| 0xFenrik/Eternalblue | Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010 | https://github.com/0xFenrik/Eternalblue | ['exploit', 'metasploit module OR payload'] | 2 | 2021-10-15 14:20:19+00:00 | 178 | 136 | C# | 16 | ['MS17-010'] |
 | gittina/expressyouRcell | None | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2021-10-15 07:15:57+00:00 | 2209 | 0 | R | 0 | [] |
 | ARPSyndicate/cvemon | Monitoring exploits & references for CVEs | https://github.com/ARPSyndicate/cvemon | ['exploit'] | 1 | 2021-10-15 06:38:40+00:00 | 101267 | 48 | | 4 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-15 04:01:53+00:00 | 72202 | 210 | Python | 60 | [] |
