@@ -1,21 +1,29 @@
 
 # Summary for results/2021/10/15
     
-14 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-15 00:36:55+00:00 | 21862 | 6037 | JavaScript | 1440 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-15 00:05:27+00:00 | 27152 | 8367 | Python | 1446 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-15 00:05:46+00:00 | 1534761 | 1512 | Python | 520 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-15 00:16:53+00:00 | 153096 | 252 | Ruby | 77 | [] |
-| offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-15 01:40:56+00:00 | 2759505 | 352 | | 53 | [] |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-15 02:19:55+00:00 | 35940 | 5900 | Vue | 1230 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-15 00:03:00+00:00 | 409376 | 32 | | 19 | [] |
-| tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-15 01:38:54+00:00 | 72 | 0 | PHP | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-15 01:12:19+00:00 | 7539 | 2 | Python | 0 | [] |
-| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-15 02:30:48+00:00 | 28523 | 0 | Python | 0 | [] |
-| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-15 00:26:05+00:00 | 2527 | 57 | JavaScript | 80 | [] |
-| Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-10-15 01:57:25+00:00 | 41 | 3 | Shell | 0 | [] |
-| BrucessKING/CVE-2021-36749 | Apache Druid 任意文件读取 | https://github.com/BrucessKING/CVE-2021-36749 | ['cve-2 OR cve_2'] | 1 | 2021-10-15 02:31:03+00:00 | 1 | 3 | Python | 1 | ['CVE-2021-36749'] |
+| s7ck-Team/exploit-db | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | ['exploit'] | 1 | 2021-10-15 03:09:26+00:00 | 0 | 0 | | 0 | [] |
+| PeterMxx/ps4_8.xx_exploit | None | https://github.com/PeterMxx/ps4_8.xx_exploit | ['exploit'] | 1 | 2021-10-15 03:16:26+00:00 | 2 | 0 | JavaScript | 0 | [] |
+| PeterMxx/ps4_8.00_vuln_poc | My take on CVE-2021-30858 for ps4 8.xx | https://github.com/PeterMxx/ps4_8.00_vuln_poc | ['cve poc', 'vuln poc'] | 2 | 2021-10-15 03:15:33+00:00 | 17 | 2 | HTML | 1 | ['CVE-2021-30858'] |
 | sxntixgo/metasploit-101-at-saintcon | None | https://github.com/sxntixgo/metasploit-101-at-saintcon | ['metasploit module OR payload'] | 1 | 2021-10-15 02:37:47+00:00 | 379 | 0 | TeX | 0 | [] |
+| BrucessKING/CVE-2021-36749 | Apache Druid 任意文件读取 | https://github.com/BrucessKING/CVE-2021-36749 | ['cve-2 OR cve_2'] | 1 | 2021-10-15 02:31:03+00:00 | 1 | 3 | Python | 1 | ['CVE-2021-36749'] |
+| SambasOnFire/Sti7111 | Exploit cwpk | https://github.com/SambasOnFire/Sti7111 | ['exploit'] | 1 | 2021-10-15 03:11:04+00:00 | 9 | 2 | | 0 | [] |
+| Learn-Termux/metasploit-termux | None | https://github.com/Learn-Termux/metasploit-termux | ['metasploit module OR payload'] | 1 | 2021-10-15 01:57:25+00:00 | 41 | 3 | Shell | 0 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-15 00:26:05+00:00 | 2527 | 57 | JavaScript | 80 | [] |
+| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-15 02:30:48+00:00 | 28523 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-15 01:12:19+00:00 | 7539 | 2 | Python | 0 | [] |
+| tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-15 01:38:54+00:00 | 72 | 0 | PHP | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-15 00:03:00+00:00 | 409376 | 32 | | 19 | [] |
+| SevenC-base/PostExploitation | This is use for PostExploitation. | https://github.com/SevenC-base/PostExploitation | ['exploit'] | 1 | 2021-10-15 02:59:26+00:00 | 0 | 0 | Ruby | 0 | [] |
+| ycdxsb/Exploits | 在科研（摸鱼）过程中，收集到的或者自己写的一些有用的（经过实战检验的）exp/poc，欢迎提交issue和PR | https://github.com/ycdxsb/Exploits | ['exploit'] | 1 | 2021-10-15 03:07:50+00:00 | 59594 | 2 | Python | 1 | [] |
+| peanuts62/IOT_CVE | poc of ImageMagick hangs | https://github.com/peanuts62/IOT_CVE | ['cve poc'] | 1 | 2021-10-15 03:28:02+00:00 | 411 | 0 | | 0 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-15 02:19:55+00:00 | 35940 | 5900 | Vue | 1230 | [] |
+| offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-15 01:40:56+00:00 | 2759505 | 352 | | 53 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-15 00:16:53+00:00 | 153096 | 252 | Ruby | 77 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-15 00:05:46+00:00 | 1534761 | 1512 | Python | 520 | [] |
+| Waveyyyy/exploit_rewrites | rewrites of existing exploits | https://github.com/Waveyyyy/exploit_rewrites | ['exploit'] | 1 | 2021-10-15 03:26:15+00:00 | 0 | 0 | Ruby | 0 | [] |
