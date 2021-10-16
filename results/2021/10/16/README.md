@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/16
     
-31 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------------------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-16 00:44:45+00:00 | 27152 | 8370 | Python | 1445 | [] |
-| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-16 07:17:15+00:00 | 98 | 0 | Python | 1 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-16 05:07:43+00:00 | 260915 | 6533 | C | 1811 | [] |
 | ctwtruscottwatters/exploit_your_own_code_SEH_VEH_x86_HEAP | None | https://github.com/ctwtruscottwatters/exploit_your_own_code_SEH_VEH_x86_HEAP | ['exploit'] | 1 | 2021-10-16 07:10:27+00:00 | 0 | 0 | C++ | 0 | [] |
 | Ashendulmina/discord-web-console-exploits | None | https://github.com/Ashendulmina/discord-web-console-exploits | ['exploit'] | 1 | 2021-10-16 05:25:35+00:00 | 0 | 0 | | 0 | [] |
 | wizard-technology/rcell | None | https://github.com/wizard-technology/rcell | ['rce'] | 1 | 2021-10-16 05:11:35+00:00 | 0 | 0 | Dart | 0 | [] |
@@ -16,12 +16,13 @@
 | anonsecteaminc/CVE-2021-41773-PoC | CVE-2021-41773-PoC | https://github.com/anonsecteaminc/CVE-2021-41773-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-16 01:34:52+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | 0xAJ2K/CVE-2020-11022-CVE-2020-11023 | Little thing put together quickly to demonstrate this CVE | https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023 | ['cve-2 OR cve_2'] | 1 | 2021-10-16 01:25:42+00:00 | 0 | 0 | PHP | 0 | ['CVE-2020-11022', 'CVE-2020-11023'] |
 | nam3lum/exploits | Exploits made by me | https://github.com/nam3lum/exploits | ['exploit'] | 1 | 2021-10-16 00:51:27+00:00 | 2 | 0 | Python | 0 | [] |
+| FuHxa/Exploits | collection of all exploits I own. | https://github.com/FuHxa/Exploits | ['exploit'] | 1 | 2021-10-16 08:31:06+00:00 | 67594 | 0 | Roff | 0 | [] |
 | nerap/BinanceBot | Bot exploiting Binance API | https://github.com/nerap/BinanceBot | ['exploit'] | 1 | 2021-10-16 07:30:21+00:00 | 65 | 1 | Python | 0 | [] |
 | Harleythetech/Exploit-6.72 | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | ['exploit'] | 1 | 2021-10-16 05:29:30+00:00 | 5017 | 0 | HTML | 0 | [] |
 | DefconAlliance/php-Exploit | Trigger payload directly from URL | https://github.com/DefconAlliance/php-Exploit | ['exploit'] | 1 | 2021-10-16 04:37:14+00:00 | 4 | 0 | Batchfile | 0 | [] |
 | alikmli/HeapOverFlow-Detection | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | ['heap overflow'] | 1 | 2021-10-16 06:01:17+00:00 | 1 | 0 | C | 0 | [] |
+| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-16 07:17:15+00:00 | 98 | 0 | Python | 1 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-10-16 00:19:29+00:00 | 176 | 0 | TypeScript | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-16 05:07:43+00:00 | 260915 | 6533 | C | 1811 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-10-16 03:20:31+00:00 | 69 | 6 | Python | 1 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-16 04:31:51+00:00 | 278 | 11 | JavaScript | 6 | [] |
 | collinkleest/rce | Remote Code Executor WebApp developed with Socket.io, React, Dockerode. | https://github.com/collinkleest/rce | ['rce'] | 1 | 2021-10-16 03:28:43+00:00 | 577 | 1 | TypeScript | 0 | [] |
