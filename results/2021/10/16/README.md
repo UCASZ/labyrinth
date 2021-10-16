@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/16
     
-24 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------------------------|
@@ -16,6 +16,7 @@
 | nam3lum/exploits | Exploits made by me | https://github.com/nam3lum/exploits | ['exploit'] | 1 | 2021-10-16 00:51:27+00:00 | 2 | 0 | Python | 0 | [] |
 | Harleythetech/Exploit-6.72 | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | ['exploit'] | 1 | 2021-10-16 05:29:30+00:00 | 5017 | 0 | HTML | 0 | [] |
 | DefconAlliance/php-Exploit | Trigger payload directly from URL | https://github.com/DefconAlliance/php-Exploit | ['exploit'] | 1 | 2021-10-16 04:37:14+00:00 | 4 | 0 | Batchfile | 0 | [] |
+| alikmli/HeapOverFlow-Detection | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | ['heap overflow'] | 1 | 2021-10-16 06:01:17+00:00 | 1 | 0 | C | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-10-16 00:19:29+00:00 | 176 | 0 | TypeScript | 0 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-10-16 03:20:31+00:00 | 69 | 6 | Python | 1 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-16 04:31:51+00:00 | 278 | 11 | JavaScript | 6 | [] |
@@ -28,4 +29,5 @@
 | blackbeard666/pwn_exhibit | Just a temporary website to post my ctf writeups and journey into binary/android exploitation/malware analysis/exploit development | https://github.com/blackbeard666/pwn_exhibit | ['exploit'] | 1 | 2021-10-16 02:38:16+00:00 | 51651 | 5 | Python | 2 | [] |
 | grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2021-10-16 03:12:10+00:00 | 379438 | 1 | R | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-16 00:16:55+00:00 | 154618 | 252 | Ruby | 77 | [] |
+| firmianay/CTF-All-In-One | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | ['exploit'] | 1 | 2021-10-16 06:14:30+00:00 | 48588 | 2708 | C | 550 | [] |
 | Ashendulmina/discord-web-console-exploits | None | https://github.com/Ashendulmina/discord-web-console-exploits | ['exploit'] | 1 | 2021-10-16 05:25:35+00:00 | 0 | 0 | | 0 | [] |
