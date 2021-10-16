@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/16
     
-39 records found after deduplication
+40 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------------------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-16 00:44:45+00:00 | 27152 | 8370 | Python | 1445 | [] |
-| anonsecteaminc/CVE-2020-5902-Scanner | None | https://github.com/anonsecteaminc/CVE-2020-5902-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-10-16 02:10:10+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-5902'] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-16 05:07:43+00:00 | 260915 | 6533 | C | 1811 | [] |
 | Harleythetech/Exploit-6.72 | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | ['exploit'] | 1 | 2021-10-16 05:29:30+00:00 | 5017 | 0 | HTML | 0 | [] |
 | plackyhacker/Shellcode-Injection-Techniques | A collection of C# shellcode injection techniques. | https://github.com/plackyhacker/Shellcode-Injection-Techniques | ['shellcode'] | 1 | 2021-10-16 09:51:16+00:00 | 26 | 1 | C# | 0 | [] |
 | nerap/BinanceBot | Bot exploiting Binance API | https://github.com/nerap/BinanceBot | ['exploit'] | 1 | 2021-10-16 07:30:21+00:00 | 65 | 1 | Python | 0 | [] |
@@ -14,8 +14,8 @@
 | nam3lum/exploits | Exploits made by me | https://github.com/nam3lum/exploits | ['exploit'] | 1 | 2021-10-16 00:51:27+00:00 | 2 | 0 | Python | 0 | [] |
 | 0xAJ2K/CVE-2020-11022-CVE-2020-11023 | Little thing put together quickly to demonstrate this CVE | https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023 | ['cve-2 OR cve_2'] | 1 | 2021-10-16 01:25:42+00:00 | 0 | 0 | PHP | 0 | ['CVE-2020-11022', 'CVE-2020-11023'] |
 | anonsecteaminc/CVE-2021-41773-PoC | CVE-2021-41773-PoC | https://github.com/anonsecteaminc/CVE-2021-41773-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-16 01:34:52+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
+| anonsecteaminc/CVE-2020-5902-Scanner | None | https://github.com/anonsecteaminc/CVE-2020-5902-Scanner | ['cve-2 OR cve_2'] | 1 | 2021-10-16 02:10:10+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-5902'] |
 | MlgmXyysd/k61v1injector | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/k61v1injector | ['exploit'] | 1 | 2021-10-16 02:36:34+00:00 | 0 | 0 | PHP | 0 | [] |
-| alikmli/HeapOverFlow-Detection | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | ['heap overflow'] | 1 | 2021-10-16 06:01:17+00:00 | 1 | 0 | C | 0 | [] |
 | AMOGUS232134/Exploit | poopie | https://github.com/AMOGUS232134/Exploit | ['exploit'] | 1 | 2021-10-16 02:32:14+00:00 | 0 | 0 | | 0 | [] |
 | wizard-technology/rcell | None | https://github.com/wizard-technology/rcell | ['rce'] | 1 | 2021-10-16 05:11:35+00:00 | 0 | 0 | Dart | 0 | [] |
 | Ashendulmina/discord-web-console-exploits | None | https://github.com/Ashendulmina/discord-web-console-exploits | ['exploit'] | 1 | 2021-10-16 05:25:35+00:00 | 0 | 0 | | 0 | [] |
@@ -23,9 +23,10 @@
 | ctwtruscottwatters/tailored_access_operations_console_input_ISO_language_linguistics_0day_to_own_machine | nan | https://github.com/ctwtruscottwatters/tailored_access_operations_console_input_ISO_language_linguistics_0day_to_own_machine | ['0day'] | 1 | 2021-10-16 07:16:43+00:00 | 0 | 0 | nan | 0 | [] |
 | r3kind1e/INE | The Exploit of INE CYBER SECURITY Learning Paths, authored by r3kind1e. Try to find better solutions beyond the official Solutions. | https://github.com/r3kind1e/INE | ['exploit'] | 1 | 2021-10-16 09:21:30+00:00 | 0 | 0 | C++ | 0 | [] |
 | jonathandata1/ios_15.0.2_RCE_V2.1 | iOS 15.0.2 RCE v2.1 Airdrop Delivered Data Wipe | https://github.com/jonathandata1/ios_15.0.2_RCE_V2.1 | ['rce'] | 1 | 2021-10-16 09:57:25+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| cocomelonc/2021-10-17-linux-shellcoding-2 | Linux shellcoding part 2: Reverse TCP shell | https://github.com/cocomelonc/2021-10-17-linux-shellcoding-2 | ['shellcode'] | 1 | 2021-10-16 09:47:56+00:00 | 0 | 0 | Python | 0 | [] |
 | DefconAlliance/php-Exploit | Trigger payload directly from URL | https://github.com/DefconAlliance/php-Exploit | ['exploit'] | 1 | 2021-10-16 04:37:14+00:00 | 4 | 0 | Batchfile | 0 | [] |
+| alikmli/HeapOverFlow-Detection | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | ['heap overflow'] | 1 | 2021-10-16 06:01:17+00:00 | 1 | 0 | C | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-16 07:17:15+00:00 | 98 | 0 | Python | 1 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-16 05:07:43+00:00 | 260915 | 6533 | C | 1811 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-10-16 04:26:55+00:00 | 287823 | 697 | | 146 | [] |
 | firmianay/CTF-All-In-One | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | ['exploit'] | 1 | 2021-10-16 06:14:30+00:00 | 48588 | 2708 | C | 550 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-16 00:16:55+00:00 | 154618 | 252 | Ruby | 77 | [] |
@@ -43,4 +44,4 @@
 | collinkleest/rce | Remote Code Executor WebApp developed with Socket.io, React, Dockerode. | https://github.com/collinkleest/rce | ['rce'] | 1 | 2021-10-16 03:28:43+00:00 | 577 | 1 | TypeScript | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-16 04:31:51+00:00 | 278 | 11 | JavaScript | 6 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-10-16 03:20:31+00:00 | 69 | 6 | Python | 1 | [] |
-| cocomelonc/2021-10-17-linux-shellcoding-2 | Linux shellcoding part 2: Reverse TCP shell | https://github.com/cocomelonc/2021-10-17-linux-shellcoding-2 | ['shellcode'] | 1 | 2021-10-16 09:47:56+00:00 | 0 | 0 | Python | 0 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-16 11:13:06+00:00 | 0 | 0 | | 0 | [] |
