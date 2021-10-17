@@ -1,21 +1,22 @@
 
 # Summary for results/2021/10/17
     
-41 records found after deduplication
+42 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|--------------------------|---------------|--------------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-17 00:05:27+00:00 | 27152 | 8376 | Python | 1446 | [] |
-| Crystalware/GPU-Z-v2-Exploit | Privilege Escalation for GPU-Z V2 | https://github.com/Crystalware/GPU-Z-v2-Exploit | ['exploit'] | 1 | 2021-10-17 01:32:02+00:00 | 5 | 0 | C | 1 | [] |
+| lopqto/CVE-2021-41773_Honeypot | Simple honeypot for CVE-2021-41773 vulnerability | https://github.com/lopqto/CVE-2021-41773_Honeypot | ['cve-2 OR cve_2'] | 1 | 2021-10-17 08:13:08+00:00 | 11 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
 | fran-CICS/ExploitTensorflowCVE-2021-37678 | TP Seguridad Informática | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-17 01:13:47+00:00 | 5 | 2 | Python | 0 | ['CVE-2021-37678'] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-17 02:26:13+00:00 | 2532 | 63 | | 91 | [] |
+| vi88i/rexe | remote code execution service for competitive programming or practice. | https://github.com/vi88i/rexe | ['remote code execution'] | 1 | 2021-10-17 10:19:18+00:00 | 1097 | 0 | JavaScript | 0 | [] |
 | SleepTheGod/Twitter | Exploits | https://github.com/SleepTheGod/Twitter | ['exploit'] | 1 | 2021-10-17 02:23:07+00:00 | 38 | 0 | DIGITAL Command Language | 0 | [] |
 | plackyhacker/Shellcode-Injection-Techniques | A collection of C# shellcode injection techniques. | https://github.com/plackyhacker/Shellcode-Injection-Techniques | ['shellcode'] | 1 | 2021-10-17 07:03:28+00:00 | 68 | 2 | C# | 0 | [] |
 | AMOGUS232134/Exploit | poopie | https://github.com/AMOGUS232134/Exploit | ['exploit'] | 1 | 2021-10-17 00:49:54+00:00 | 3 | 0 | | 0 | [] |
 | wizard-technology/rcell | None | https://github.com/wizard-technology/rcell | ['rce'] | 1 | 2021-10-17 07:16:45+00:00 | 271 | 0 | Dart | 0 | [] |
 | Seals6/Springboot-ActuatorExploit | SpringBoot Actuator未授权漏洞检测与利用 | https://github.com/Seals6/Springboot-ActuatorExploit | ['exploit'] | 1 | 2021-10-17 06:35:24+00:00 | 3 | 0 | Python | 0 | [] |
-| lopqto/CVE-2021-41773_Honeypot | Simple honeypot for CVE-2021-41773 vulnerability | https://github.com/lopqto/CVE-2021-41773_Honeypot | ['cve-2 OR cve_2'] | 1 | 2021-10-17 08:13:08+00:00 | 11 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
 | 0xBruno/Drupalgeddon3 | Drupal < 7.58 - 'Drupalgeddon3' Authenticated Remote Code Execution (Python 3) | https://github.com/0xBruno/Drupalgeddon3 | ['remote code execution'] | 1 | 2021-10-17 02:28:04+00:00 | 0 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-17 00:05:48+00:00 | 1534761 | 1513 | Python | 520 | [] |
 | NotFoundHacker/exploits | This is a repository full of C scripts and python | https://github.com/NotFoundHacker/exploits | ['exploit'] | 1 | 2021-10-17 00:00:18+00:00 | 11 | 0 | Python | 0 | [] |
 | g4rces/g4rces | Config files for my GitHub profile. | https://github.com/g4rces/g4rces | ['rce'] | 1 | 2021-10-17 00:02:23+00:00 | 0 | 0 | | 0 | [] |
 | sllumenikmati21/misteriusxx | KUMPULAN CODE TERMUX LENGKAP _ SPAM CHAT WHATSAPP __ nggk usah nyepam gw -_* atau hp lu gw ledakin!!#@vms $ pkg update && pkg upgrade Setelah mengupdate dan mengupgrade termux ketikan perintah berikut : $ pkg install python2 (y/n pilih y) $ pkg install | https://github.com/sllumenikmati21/misteriusxx | ['exploit', 'vulnerability poc'] | 2 | 2021-10-17 02:55:07+00:00 | 0 | 0 | | 0 | [] |
@@ -25,8 +26,8 @@
 | ISFCR-CTF/Hacktoberfest-Workshop-2021 | Presentation by ISFCR Club & ZeroDay Club | https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021 | ['zeroday'] | 1 | 2021-10-17 06:16:14+00:00 | 0 | 0 | | 0 | [] |
 | Nihon-Development/Exploit-Source | None | https://github.com/Nihon-Development/Exploit-Source | ['exploit'] | 1 | 2021-10-17 08:34:20+00:00 | 0 | 0 | Smalltalk | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-17 01:09:26+00:00 | 9836 | 2 | Python | 0 | [] |
+| Crystalware/GPU-Z-v2-Exploit | Privilege Escalation for GPU-Z V2 | https://github.com/Crystalware/GPU-Z-v2-Exploit | ['exploit'] | 1 | 2021-10-17 01:32:02+00:00 | 5 | 0 | C | 1 | [] |
 | P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-10-17 08:38:30+00:00 | 12433 | 1 | | 0 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-17 00:05:48+00:00 | 1534761 | 1513 | Python | 520 | [] |
 | King-Sign/Javascript-Exploitation | XSS | https://github.com/King-Sign/Javascript-Exploitation | ['exploit'] | 1 | 2021-10-17 05:04:09+00:00 | 19 | 0 | Python | 0 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-10-17 09:29:05+00:00 | 5449 | 4006 | Python | 555 | [] |
 | C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2021-10-17 03:00:17+00:00 | 135 | 49 | Makefile | 3 | [] |
