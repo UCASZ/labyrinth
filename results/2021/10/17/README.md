@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/17
     
-48 records found after deduplication
+50 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|--------------------------|---------------|--------------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-17 00:05:27+00:00 | 27152 | 8376 | Python | 1446 | [] |
-| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-17 00:05:48+00:00 | 1534761 | 1513 | Python | 520 | [] |
+| ly4k/CallbackHell | PoC (DoS) for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | ['cve poc', 'vulnerability poc'] | 2 | 2021-10-17 13:27:53+00:00 | 85 | 41 | C++ | 7 | ['CVE-2021-40449'] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-17 02:26:13+00:00 | 2532 | 63 | | 91 | [] |
 | vi88i/rexe | remote code execution service for competitive programming or practice. | https://github.com/vi88i/rexe | ['remote code execution'] | 1 | 2021-10-17 10:19:18+00:00 | 1097 | 0 | JavaScript | 0 | [] |
 | SleepTheGod/Twitter | Exploits | https://github.com/SleepTheGod/Twitter | ['exploit'] | 1 | 2021-10-17 02:23:07+00:00 | 38 | 0 | DIGITAL Command Language | 0 | [] |
@@ -18,6 +18,7 @@
 | Seals6/Springboot-ActuatorExploit | SpringBoot Actuator未授权漏洞检测与利用 | https://github.com/Seals6/Springboot-ActuatorExploit | ['exploit'] | 1 | 2021-10-17 06:35:24+00:00 | 3 | 0 | Python | 0 | [] |
 | lopqto/CVE-2021-41773_Honeypot | Simple honeypot for CVE-2021-41773 vulnerability | https://github.com/lopqto/CVE-2021-41773_Honeypot | ['cve-2 OR cve_2'] | 1 | 2021-10-17 08:13:08+00:00 | 11 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
 | 0xBruno/Drupalgeddon3 | Drupal < 7.58 - 'Drupalgeddon3' Authenticated Remote Code Execution (Python 3) | https://github.com/0xBruno/Drupalgeddon3 | ['remote code execution'] | 1 | 2021-10-17 02:28:04+00:00 | 0 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-17 00:05:48+00:00 | 1534761 | 1513 | Python | 520 | [] |
 | NotFoundHacker/exploits | This is a repository full of C scripts and python | https://github.com/NotFoundHacker/exploits | ['exploit'] | 1 | 2021-10-17 00:00:18+00:00 | 11 | 0 | Python | 0 | [] |
 | g4rces/g4rces | Config files for my GitHub profile. | https://github.com/g4rces/g4rces | ['rce'] | 1 | 2021-10-17 00:02:23+00:00 | 0 | 0 | | 0 | [] |
 | sllumenikmati21/misteriusxx | KUMPULAN CODE TERMUX LENGKAP _ SPAM CHAT WHATSAPP __ nggk usah nyepam gw -_* atau hp lu gw ledakin!!#@vms $ pkg update && pkg upgrade Setelah mengupdate dan mengupgrade termux ketikan perintah berikut : $ pkg install python2 (y/n pilih y) $ pkg install | https://github.com/sllumenikmati21/misteriusxx | ['exploit', 'vulnerability poc'] | 2 | 2021-10-17 02:55:07+00:00 | 0 | 0 | | 0 | [] |
@@ -31,18 +32,19 @@
 | fran-CICS/ExploitTensorflowCVE-2021-37678 | TP Seguridad Informática | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-17 01:13:47+00:00 | 5 | 2 | Python | 0 | ['CVE-2021-37678'] |
 | STRT-Official/Ansploit | Android exploits made easy. | https://github.com/STRT-Official/Ansploit | ['exploit'] | 1 | 2021-10-17 10:43:06+00:00 | 4 | 1 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-17 01:09:26+00:00 | 9836 | 2 | Python | 0 | [] |
-| aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2021-10-17 03:33:26+00:00 | 412 | 8 | Python | 4 | [] |
+| Crystalware/GPU-Z-v2-Exploit | Privilege Escalation for GPU-Z V2 | https://github.com/Crystalware/GPU-Z-v2-Exploit | ['exploit'] | 1 | 2021-10-17 01:32:02+00:00 | 5 | 0 | C | 1 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-10-17 09:29:05+00:00 | 5449 | 4006 | Python | 555 | [] |
 | C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2021-10-17 03:00:17+00:00 | 135 | 49 | Makefile | 3 | [] |
 | david942j/heapinfo | An interactive memory info for pwning / exploiting | https://github.com/david942j/heapinfo | ['exploit'] | 1 | 2021-10-17 07:52:53+00:00 | 14250 | 89 | Ruby | 11 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-17 11:35:04+00:00 | 71776 | 10219 | Python | 1747 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-17 00:16:47+00:00 | 156139 | 252 | Ruby | 77 | [] |
+| mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-10-17 13:31:23+00:00 | 15243 | 887 | Python | 207 | [] |
 | wyzxxz/fastjson_rce_tool | fastjson命令执行自动化利用工具， remote code execute，JNDI服务利用工具 RMI/LDAP，利用部分场景回显，内存shell | https://github.com/wyzxxz/fastjson_rce_tool | ['rce'] | 1 | 2021-10-17 03:32:52+00:00 | 225804 | 884 | | 189 | [] |
 | wyzxxz/shiro_rce_tool | shiro rce tool 反序列 命令执行 一键工具 回显 | https://github.com/wyzxxz/shiro_rce_tool | ['rce'] | 1 | 2021-10-17 03:32:13+00:00 | 72449 | 703 | | 151 | [] |
 | ttonys/Scrapy-CVE-CNVD | 漏洞监控，基于scrapy，scrapy-redis，获取每日最新的CVE和CNVD漏洞。 | https://github.com/ttonys/Scrapy-CVE-CNVD | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-17 06:46:45+00:00 | 259 | 52 | Python | 11 | [] |
 | geeksh-lab/msfInstaller | Easy metasploit and hacking tools like WPscan and Nikto installer for debian distribution | https://github.com/geeksh-lab/msfInstaller | ['metasploit module OR payload'] | 1 | 2021-10-17 01:18:25+00:00 | 11 | 0 | Shell | 0 | [] |
+| aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2021-10-17 03:33:26+00:00 | 412 | 8 | Python | 4 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-10-17 09:30:17+00:00 | 3254558 | 2 | Batchfile | 0 | [] |
-| Crystalware/GPU-Z-v2-Exploit | Privilege Escalation for GPU-Z V2 | https://github.com/Crystalware/GPU-Z-v2-Exploit | ['exploit'] | 1 | 2021-10-17 01:32:02+00:00 | 5 | 0 | C | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-17 00:03:26+00:00 | 414623 | 32 | | 19 | [] |
 | BuhuanJin/MetasploitCode | None | https://github.com/BuhuanJin/MetasploitCode | ['metasploit module OR payload'] | 1 | 2021-10-17 04:12:17+00:00 | 50 | 0 | Ruby | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-17 04:02:02+00:00 | 76382 | 211 | Python | 60 | [] |
