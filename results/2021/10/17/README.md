@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/17
     
-37 records found after deduplication
+41 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|--------------------------|---------------|--------------------|
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|--------------------------|---------------|--------------------|
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-17 00:05:27+00:00 | 27152 | 8376 | Python | 1446 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-17 01:09:26+00:00 | 9836 | 2 | Python | 0 | [] |
+| Crystalware/GPU-Z-v2-Exploit | Privilege Escalation for GPU-Z V2 | https://github.com/Crystalware/GPU-Z-v2-Exploit | ['exploit'] | 1 | 2021-10-17 01:32:02+00:00 | 5 | 0 | C | 1 | [] |
+| fran-CICS/ExploitTensorflowCVE-2021-37678 | TP Seguridad Informática | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-17 01:13:47+00:00 | 5 | 2 | Python | 0 | ['CVE-2021-37678'] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-17 02:26:13+00:00 | 2532 | 63 | | 91 | [] |
 | SleepTheGod/Twitter | Exploits | https://github.com/SleepTheGod/Twitter | ['exploit'] | 1 | 2021-10-17 02:23:07+00:00 | 38 | 0 | DIGITAL Command Language | 0 | [] |
 | plackyhacker/Shellcode-Injection-Techniques | A collection of C# shellcode injection techniques. | https://github.com/plackyhacker/Shellcode-Injection-Techniques | ['shellcode'] | 1 | 2021-10-17 07:03:28+00:00 | 68 | 2 | C# | 0 | [] |
@@ -22,10 +23,12 @@
 | vlourn/vc-exploit | a discord api requester / vc reconnecter to mass raid the api system cuasing lag / or vc interruption | https://github.com/vlourn/vc-exploit | ['exploit'] | 1 | 2021-10-17 04:06:51+00:00 | 0 | 0 | Batchfile | 0 | [] |
 | s3min141/CommandInjection | nan | https://github.com/s3min141/CommandInjection | ['command injection'] | 1 | 2021-10-17 05:21:03+00:00 | 0 | 0 | HTML | 0 | [] |
 | ISFCR-CTF/Hacktoberfest-Workshop-2021 | Presentation by ISFCR Club & ZeroDay Club | https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021 | ['zeroday'] | 1 | 2021-10-17 06:16:14+00:00 | 0 | 0 | | 0 | [] |
-| fran-CICS/ExploitTensorflowCVE-2021-37678 | TP Seguridad Informática | https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-17 01:13:47+00:00 | 5 | 2 | Python | 0 | ['CVE-2021-37678'] |
-| Crystalware/GPU-Z-v2-Exploit | Privilege Escalation for GPU-Z V2 | https://github.com/Crystalware/GPU-Z-v2-Exploit | ['exploit'] | 1 | 2021-10-17 01:32:02+00:00 | 5 | 0 | C | 1 | [] |
+| Nihon-Development/Exploit-Source | None | https://github.com/Nihon-Development/Exploit-Source | ['exploit'] | 1 | 2021-10-17 08:34:20+00:00 | 0 | 0 | Smalltalk | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-17 01:09:26+00:00 | 9836 | 2 | Python | 0 | [] |
+| P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-10-17 08:38:30+00:00 | 12433 | 1 | | 0 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-17 00:05:48+00:00 | 1534761 | 1513 | Python | 520 | [] |
 | King-Sign/Javascript-Exploitation | XSS | https://github.com/King-Sign/Javascript-Exploitation | ['exploit'] | 1 | 2021-10-17 05:04:09+00:00 | 19 | 0 | Python | 0 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-10-17 09:29:05+00:00 | 5449 | 4006 | Python | 555 | [] |
 | C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2021-10-17 03:00:17+00:00 | 135 | 49 | Makefile | 3 | [] |
 | david942j/heapinfo | An interactive memory info for pwning / exploiting | https://github.com/david942j/heapinfo | ['exploit'] | 1 | 2021-10-17 07:52:53+00:00 | 14250 | 89 | Ruby | 11 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-17 00:16:47+00:00 | 156139 | 252 | Ruby | 77 | [] |
@@ -34,6 +37,7 @@
 | ttonys/Scrapy-CVE-CNVD | 漏洞监控，基于scrapy，scrapy-redis，获取每日最新的CVE和CNVD漏洞。 | https://github.com/ttonys/Scrapy-CVE-CNVD | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-17 06:46:45+00:00 | 259 | 52 | Python | 11 | [] |
 | geeksh-lab/msfInstaller | Easy metasploit and hacking tools like WPscan and Nikto installer for debian distribution | https://github.com/geeksh-lab/msfInstaller | ['metasploit module OR payload'] | 1 | 2021-10-17 01:18:25+00:00 | 11 | 0 | Shell | 0 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2021-10-17 03:33:26+00:00 | 412 | 8 | Python | 4 | [] |
+| th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-10-17 09:30:17+00:00 | 3254558 | 2 | Batchfile | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-17 00:03:26+00:00 | 414623 | 32 | | 19 | [] |
 | BuhuanJin/MetasploitCode | None | https://github.com/BuhuanJin/MetasploitCode | ['metasploit module OR payload'] | 1 | 2021-10-17 04:12:17+00:00 | 50 | 0 | Ruby | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-17 04:02:02+00:00 | 76382 | 211 | Python | 60 | [] |
@@ -41,4 +45,4 @@
 | Juliocj7/MsfCj7 | Instala Metasploit correctamente y sin errores... By: ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ | https://github.com/Juliocj7/MsfCj7 | ['metasploit module OR payload'] | 1 | 2021-10-17 04:19:22+00:00 | 233 | 18 | | 13 | [] |
 | Noizeeee/Exploits | None | https://github.com/Noizeeee/Exploits | ['exploit'] | 1 | 2021-10-17 08:09:10+00:00 | 23650 | 0 | | 0 | [] |
 | hltfbk/E3C-Corpus | E3C is a freely available multilingual corpus (Italian, English, French, Spanish, and Basque) of semantically annotated clinical narratives to allow for the linguistic analysis, benchmarking, and training of information extraction systems. It consists of t | https://github.com/hltfbk/E3C-Corpus | ['exploit'] | 1 | 2021-10-17 05:57:14+00:00 | 195423 | 0 | | 1 | [] |
-| Nihon-Development/Exploit-Source | None | https://github.com/Nihon-Development/Exploit-Source | ['exploit'] | 1 | 2021-10-17 08:34:20+00:00 | 0 | 0 | Smalltalk | 0 | [] |
+| twseptian/PHP-8.1.0-dev-User-Agentt-Backdoor-Docker-Lab | Docker container lab to play/learn with PHP 8.1.0-dev User-Agentt Backdoor Docker Lab & PoC | https://github.com/twseptian/PHP-8.1.0-dev-User-Agentt-Backdoor-Docker-Lab | ['vulnerability poc'] | 1 | 2021-10-17 09:06:42+00:00 | 0 | 0 | PHP | 0 | [] |
