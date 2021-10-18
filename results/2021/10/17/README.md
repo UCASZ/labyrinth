@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/17
     
-103 records found after deduplication
+104 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|--------------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-17 19:42:42+00:00 | 644780 | 25347 | Ruby | 11665 | [] |
-| LudovicPatho/CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-17 21:30:33+00:00 | 14 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-17 00:05:27+00:00 | 27152 | 8376 | Python | 1446 | [] |
+| NotFoundHacker/exploits | This is a repository full of C scripts and python | https://github.com/NotFoundHacker/exploits | ['exploit'] | 1 | 2021-10-17 00:00:18+00:00 | 11 | 0 | Python | 0 | [] |
 | 0xBruno/Drupalgeddon3 | Drupal < 7.58 - 'Drupalgeddon3' Authenticated Remote Code Execution (Python 3) | https://github.com/0xBruno/Drupalgeddon3 | ['remote code execution'] | 1 | 2021-10-17 02:28:04+00:00 | 0 | 0 | Python | 0 | [] |
 | antoinechauvn/arp-gratuitous | Exploitation en profondeur des dangers du protocole ARP avec un nouveau type d'attaque: l'ARP Gratuitous | https://github.com/antoinechauvn/arp-gratuitous | ['exploit'] | 1 | 2021-10-17 14:24:03+00:00 | 4 | 0 | Python | 0 | [] |
 | ly4k/CallbackHell | PoC (DoS) for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE) | https://github.com/ly4k/CallbackHell | ['cve poc', 'vulnerability poc'] | 2 | 2021-10-17 13:27:53+00:00 | 85 | 41 | C++ | 7 | ['CVE-2021-40449'] |
@@ -17,8 +18,8 @@
 | wizard-technology/rcell | None | https://github.com/wizard-technology/rcell | ['rce'] | 1 | 2021-10-17 07:16:45+00:00 | 271 | 0 | Dart | 0 | [] |
 | AMOGUS232134/Exploit | poopie | https://github.com/AMOGUS232134/Exploit | ['exploit'] | 1 | 2021-10-17 00:49:54+00:00 | 3 | 0 | | 0 | [] |
 | MlgmXyysd/k61v1injector | Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT | https://github.com/MlgmXyysd/k61v1injector | ['exploit'] | 1 | 2021-10-17 14:49:31+00:00 | 7548 | 1 | PHP | 0 | [] |
+| LudovicPatho/CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-17 21:30:33+00:00 | 14 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
 | avillago/multiLeadSegmentation | Multi lead segmentation algorithm exploiting inter-lead information and redundancy of the signal for robust delineation of the QRS complex in ECG signals. Based on R-DECO for R-peak detection, and ECG-kit for Q and S detection for each lead, combined with | https://github.com/avillago/multiLeadSegmentation | ['exploit'] | 1 | 2021-10-17 15:57:04+00:00 | 15 | 0 | MATLAB | 0 | [] |
-| g4rces/g4rces | Config files for my GitHub profile. | https://github.com/g4rces/g4rces | ['rce'] | 1 | 2021-10-17 00:02:23+00:00 | 0 | 0 | | 0 | [] |
 | nerap/BinanceBot | Bot exploiting Binance API | https://github.com/nerap/BinanceBot | ['exploit'] | 1 | 2021-10-17 10:31:51+00:00 | 88 | 1 | Python | 0 | [] |
 | plackyhacker/Shellcode-Injection-Techniques | A collection of C# shellcode injection techniques. | https://github.com/plackyhacker/Shellcode-Injection-Techniques | ['shellcode'] | 1 | 2021-10-17 07:03:28+00:00 | 68 | 2 | C# | 0 | [] |
 | hojelse/gadgets | Collecting gadgets for Binary Exploitation | https://github.com/hojelse/gadgets | ['exploit'] | 1 | 2021-10-17 12:24:09+00:00 | 462 | 0 | Rust | 0 | [] |
@@ -29,10 +30,11 @@
 | fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit | None | https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-17 17:33:54+00:00 | 406 | 0 | | 0 | [] |
 | SleepTheGod/Twitter | Exploits | https://github.com/SleepTheGod/Twitter | ['exploit'] | 1 | 2021-10-17 02:23:07+00:00 | 38 | 0 | DIGITAL Command Language | 0 | [] |
 | vi88i/rexe | remote code execution service for competitive programming or practice. | https://github.com/vi88i/rexe | ['remote code execution'] | 1 | 2021-10-17 10:19:18+00:00 | 1097 | 0 | JavaScript | 0 | [] |
-| NotFoundHacker/exploits | This is a repository full of C scripts and python | https://github.com/NotFoundHacker/exploits | ['exploit'] | 1 | 2021-10-17 00:00:18+00:00 | 11 | 0 | Python | 0 | [] |
+| g4rces/g4rces | Config files for my GitHub profile. | https://github.com/g4rces/g4rces | ['rce'] | 1 | 2021-10-17 00:02:23+00:00 | 0 | 0 | | 0 | [] |
 | sllumenikmati21/misteriusxx | KUMPULAN CODE TERMUX LENGKAP _ SPAM CHAT WHATSAPP __ nggk usah nyepam gw -_* atau hp lu gw ledakin!!#@vms $ pkg update && pkg upgrade Setelah mengupdate dan mengupgrade termux ketikan perintah berikut : $ pkg install python2 (y/n pilih y) $ pkg install | https://github.com/sllumenikmati21/misteriusxx | ['exploit', 'vulnerability poc'] | 2 | 2021-10-17 02:55:07+00:00 | 0 | 0 | | 0 | [] |
-| Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-10-17 15:58:17+00:00 | 79 | 1 | Python | 0 | [] |
-| Leader7X/LeaderPhoneSploit | None | https://github.com/Leader7X/LeaderPhoneSploit | ['sploit'] | 1 | 2021-10-17 16:09:08+00:00 | 0 | 0 | | 0 | [] |
+| cheatingwitdacode/apex-cheating | All of my code from exploiting Apex Legends released to the public. | https://github.com/cheatingwitdacode/apex-cheating | ['exploit'] | 1 | 2021-10-17 03:17:28+00:00 | 0 | 0 | | 0 | [] |
+| acm-iem/CVE-2019-17662 | None | https://github.com/acm-iem/CVE-2019-17662 | ['cve-2 OR cve_2'] | 1 | 2021-10-17 16:33:57+00:00 | 0 | 0 | C | 0 | ['CVE-2019-17662'] |
+| acm-iem/CVE-2019-17662-Exploit | Exploit for CVE-2019-17662 | https://github.com/acm-iem/CVE-2019-17662-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-17 21:07:48+00:00 | 0 | 0 | C | 1 | ['CVE-2019-17662'] |
 | rcesthetics/rcesthetics | Config files for my GitHub profile. | https://github.com/rcesthetics/rcesthetics | ['rce'] | 1 | 2021-10-17 20:13:06+00:00 | 0 | 0 | | 0 | [] |
 | Ravaan21/Tomcat-ReverseProxy-Bypasser | Here i do Solid Exploit dev | https://github.com/Ravaan21/Tomcat-ReverseProxy-Bypasser | ['exploit'] | 1 | 2021-10-17 20:18:49+00:00 | 0 | 0 | Python | 0 | [] |
 | TakentNo/DexSploitV2 | None | https://github.com/TakentNo/DexSploitV2 | ['sploit'] | 1 | 2021-10-17 19:53:37+00:00 | 0 | 0 | Lua | 0 | [] |
@@ -42,9 +44,9 @@
 | badzin/FE-Normal-UTG | roblox lua script utg fe for exploits :) | https://github.com/badzin/FE-Normal-UTG | ['exploit'] | 1 | 2021-10-17 18:25:36+00:00 | 0 | 0 | | 0 | [] |
 | jasonsett/Attack-and-Detect | An ELK server was configured to monitor a virtual network with an attacking machine, and two target machines. After the machines were successfully exploited, Kibana logs were analyzed to show the attacks. | https://github.com/jasonsett/Attack-and-Detect | ['exploit'] | 1 | 2021-10-17 17:39:03+00:00 | 0 | 0 | | 0 | [] |
 | lmNotJosh/VyperSploits | None | https://github.com/lmNotJosh/VyperSploits | ['sploit'] | 1 | 2021-10-17 16:53:56+00:00 | 0 | 0 | | 0 | [] |
-| acm-iem/CVE-2019-17662 | None | https://github.com/acm-iem/CVE-2019-17662 | ['cve-2 OR cve_2'] | 1 | 2021-10-17 16:33:57+00:00 | 0 | 0 | C | 0 | ['CVE-2019-17662'] |
+| Leader7X/LeaderPhoneSploit | None | https://github.com/Leader7X/LeaderPhoneSploit | ['sploit'] | 1 | 2021-10-17 16:09:08+00:00 | 0 | 0 | | 0 | [] |
+| vlourn/vc-exploit | a discord api requester / vc reconnecter to mass raid the api system cuasing lag / or vc interruption | https://github.com/vlourn/vc-exploit | ['exploit'] | 1 | 2021-10-17 04:06:51+00:00 | 0 | 0 | Batchfile | 0 | [] |
 | aarong1/ABM_covid | initially the scripts for exploitation of the IDM covasim agent based model | https://github.com/aarong1/ABM_covid | ['exploit'] | 1 | 2021-10-17 15:33:58+00:00 | 0 | 0 | R | 0 | [] |
-| cheatingwitdacode/apex-cheating | All of my code from exploiting Apex Legends released to the public. | https://github.com/cheatingwitdacode/apex-cheating | ['exploit'] | 1 | 2021-10-17 03:17:28+00:00 | 0 | 0 | | 0 | [] |
 | mebeim/linux-kernel-experiments | Some of my experiments related to Linux kernel development and exploitation, written for fun and educational purposes. | https://github.com/mebeim/linux-kernel-experiments | ['exploit'] | 1 | 2021-10-17 14:53:45+00:00 | 0 | 0 | C | 0 | [] |
 | anvbis/heap | Heap exploitation techniques. | https://github.com/anvbis/heap | ['exploit'] | 1 | 2021-10-17 15:18:21+00:00 | 0 | 0 | C | 0 | [] |
 | florient2016/exploit_vsftpd | Python code to exploit vsftpd service vulnerability | https://github.com/florient2016/exploit_vsftpd | ['exploit'] | 1 | 2021-10-17 13:58:29+00:00 | 0 | 0 | Python | 0 | [] |
@@ -54,10 +56,9 @@
 | Nihon-Development/Exploit-Source | None | https://github.com/Nihon-Development/Exploit-Source | ['exploit'] | 1 | 2021-10-17 08:34:20+00:00 | 0 | 0 | Smalltalk | 0 | [] |
 | ISFCR-CTF/Hacktoberfest-Workshop-2021 | Presentation by ISFCR Club & ZeroDay Club | https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021 | ['zeroday'] | 1 | 2021-10-17 06:16:14+00:00 | 0 | 0 | | 0 | [] |
 | s3min141/CommandInjection | None | https://github.com/s3min141/CommandInjection | ['command injection'] | 1 | 2021-10-17 05:21:03+00:00 | 0 | 0 | HTML | 0 | [] |
-| vlourn/vc-exploit | a discord api requester / vc reconnecter to mass raid the api system cuasing lag / or vc interruption | https://github.com/vlourn/vc-exploit | ['exploit'] | 1 | 2021-10-17 04:06:51+00:00 | 0 | 0 | Batchfile | 0 | [] |
 | kingkirpal2000/CSE-111 | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting da | https://github.com/kingkirpal2000/CSE-111 | ['exploit'] | 1 | 2021-10-17 20:06:51+00:00 | 7490 | 1 | ReScript | 0 | [] |
+| Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-10-17 15:58:17+00:00 | 79 | 1 | Python | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-17 02:26:13+00:00 | 2532 | 63 | | 91 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-17 00:05:27+00:00 | 27152 | 8376 | Python | 1446 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-10-17 14:28:38+00:00 | 71955 | 2527 | Python | 388 | [] |
 | FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-10-17 14:03:37+00:00 | 4981 | 28 | Shell | 5 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-10-17 09:30:17+00:00 | 3254558 | 2 | Batchfile | 0 | [] |
@@ -107,4 +108,4 @@
 | BuhuanJin/MetasploitCode | None | https://github.com/BuhuanJin/MetasploitCode | ['metasploit module OR payload'] | 1 | 2021-10-17 04:12:17+00:00 | 50 | 0 | Ruby | 0 | [] |
 | Pen-Test3rs/binary_exploits_backend | Educational web application demonstrating techniques of binary exploitation - (Back-end) | https://github.com/Pen-Test3rs/binary_exploits_backend | ['exploit'] | 1 | 2021-10-17 17:59:08+00:00 | 200 | 0 | Python | 0 | [] |
 | izaelbm/CVE_POC | None | https://github.com/izaelbm/CVE_POC | ['cve poc'] | 1 | 2021-10-17 22:02:41+00:00 | 8 | 0 | Shell | 0 | [] |
-| acm-iem/CVE-2019-17662-Exploit | Exploit for CVE-2019-17662 | https://github.com/acm-iem/CVE-2019-17662-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-17 21:07:48+00:00 | 0 | 0 | C | 1 | ['CVE-2019-17662'] |
+| exrocean/RConsoleEmulator | A RConsole Emulator for Roblox Exploits that don't support RConsole. | https://github.com/exrocean/RConsoleEmulator | ['exploit'] | 1 | 2021-10-17 23:45:29+00:00 | 0 | 0 | | 0 | [] |
