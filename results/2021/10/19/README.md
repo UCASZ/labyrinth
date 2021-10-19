@@ -1,15 +1,16 @@
 
 # Summary for results/2021/10/19
     
-57 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-19 02:15:01+00:00 | 21879 | 6048 | JavaScript | 1444 | [] |
-| y9x/webpack | Krunker cheats with shared libraries, built with Webpack. | https://github.com/y9x/webpack | ['sploit'] | 1 | 2021-10-19 02:07:18+00:00 | 1392 | 4 | JavaScript | 1 | [] |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-19 11:16:25+00:00 | 644811 | 25365 | Ruby | 11666 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-19 07:20:10+00:00 | 21 | 0 | Rust | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-19 01:11:44+00:00 | 12717 | 2 | Python | 0 | [] |
 | slatbox/shellcode-studio | A shellcode tool to make convenient shellcode programing work flow. | https://github.com/slatbox/shellcode-studio | ['shellcode'] | 1 | 2021-10-19 07:57:21+00:00 | 3009 | 3 | JavaScript | 0 | [] |
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-10-19 07:53:53+00:00 | 568 | 123 | Go | 27 | [] |
+| Rajchowdhury420/Horizontall-HTB-Exploit | One Click root Exploit for the machine Horizontall [HackTheBox] | https://github.com/Rajchowdhury420/Horizontall-HTB-Exploit | ['exploit'] | 1 | 2021-10-19 10:53:32+00:00 | 301 | 0 | Python | 0 | [] |
 | leonlai1234/FYP | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | ['exploit'] | 1 | 2021-10-19 07:04:55+00:00 | 977 | 0 | Python | 0 | [] |
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-10-19 09:10:27+00:00 | 528 | 416 | C++ | 63 | [] |
 | mgeeky/ShellcodeFluctuation | An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents | https://github.com/mgeeky/ShellcodeFluctuation | ['shellcode'] | 1 | 2021-10-19 09:10:52+00:00 | 1130 | 349 | C++ | 58 | [] |
@@ -19,11 +20,13 @@
 | nerap/BinanceBot | Bot exploiting Binance API | https://github.com/nerap/BinanceBot | ['exploit'] | 1 | 2021-10-19 06:19:21+00:00 | 111 | 1 | Python | 1 | [] |
 | PeterMxx/ps4_8.00_vuln_poc | My take on CVE-2021-30858 for ps4 8.xx | https://github.com/PeterMxx/ps4_8.00_vuln_poc | ['cve poc', 'vuln poc'] | 2 | 2021-10-19 10:18:51+00:00 | 19 | 3 | | 1 | ['CVE-2021-30858'] |
 | s7ck-Team/exploit-db | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | ['exploit'] | 1 | 2021-10-19 00:43:59+00:00 | 2122531 | 0 | Python | 0 | [] |
-| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-19 07:20:10+00:00 | 21 | 0 | Rust | 0 | [] |
+| 0xAJ2K/CVE-2020-11022-CVE-2020-11023 | Little thing put together quickly to demonstrate this CVE | https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023 | ['cve-2 OR cve_2'] | 1 | 2021-10-19 10:50:09+00:00 | 62 | 0 | PHP | 0 | ['CVE-2020-11022', 'CVE-2020-11023'] |
 | cheatingwitdacode/apex-cheating | All of my code from exploiting Apex Legends released to the public. | https://github.com/cheatingwitdacode/apex-cheating | ['exploit'] | 1 | 2021-10-19 01:17:13+00:00 | 1976 | 3 | C | 7 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-19 02:15:01+00:00 | 21879 | 6048 | JavaScript | 1444 | [] |
 | ISFCR-CTF/Hacktoberfest-Workshop-2021 | Presentation by ISFCR Club & ZeroDay Club | https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021 | ['zeroday'] | 1 | 2021-10-19 09:13:22+00:00 | 22439 | 1 | | 0 | [] |
 | Leader7X/LeaderPhoneSploit | None | https://github.com/Leader7X/LeaderPhoneSploit | ['sploit'] | 1 | 2021-10-19 09:58:52+00:00 | 2 | 0 | | 0 | [] |
 | jasonsett/Attack-and-Detect | An ELK server was configured to monitor a virtual network with an attacking machine, and two target machines. After the machines were successfully exploited, Kibana logs were analyzed to show the attacks. | https://github.com/jasonsett/Attack-and-Detect | ['exploit'] | 1 | 2021-10-19 01:36:37+00:00 | 0 | 0 | | 0 | [] |
+| naufalan/Web-App-Methodology | Collection of web app methodology from initial recon into exploit known vulnerability. Used when conducting Bug Bounty, Penetration Testing, or CTF | https://github.com/naufalan/Web-App-Methodology | ['exploit'] | 1 | 2021-10-19 10:48:15+00:00 | 642 | 0 | | 0 | [] |
 | S1lkys/CVE-2021-24884 | If an authenticated user who is able to edit Wordpress PHP code in any kind, clicks a malicious link, PHP code can be edited through XSS in Formidable Forms 4.09.04. | https://github.com/S1lkys/CVE-2021-24884 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-19 07:48:44+00:00 | 1044 | 0 | | 0 | ['CVE-2021-24884'] |
 | HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2021-10-19 01:47:03+00:00 | 305 | 0 | CSS | 1 | [] |
 | xiaojiangxl/CVE-2021-21234 | None | https://github.com/xiaojiangxl/CVE-2021-21234 | ['cve-2 OR cve_2'] | 1 | 2021-10-19 01:18:49+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-21234'] |
@@ -32,10 +35,13 @@
 | Vulnmachines/drupal-cve-2019-6339 | Drupal remote code execution vulnerabilty | https://github.com/Vulnmachines/drupal-cve-2019-6339 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-10-19 07:00:14+00:00 | 0 | 0 | PHP | 0 | ['CVE-2019-6339'] |
 | szyfra22/BabySploit | None | https://github.com/szyfra22/BabySploit | ['sploit'] | 1 | 2021-10-19 08:35:58+00:00 | 9148 | 0 | HTML | 0 | [] |
 | SpiralBL0CK/exploit-foxit-4.1.1-title-bof | None | https://github.com/SpiralBL0CK/exploit-foxit-4.1.1-title-bof | ['exploit'] | 1 | 2021-10-19 09:01:44+00:00 | 0 | 0 | Python | 0 | [] |
+| kunFeng1998/CVE-2020-13933Project | 此项目为复现CVE-2020-13933 shiro漏洞所搭建的简易springboot+shiro项目 | https://github.com/kunFeng1998/CVE-2020-13933Project | ['cve-2 OR cve_2'] | 1 | 2021-10-19 09:33:47+00:00 | 0 | 0 | | 0 | ['CVE-2020-13933'] |
+| fortbridge/Wordpress-plugins | exploiting LiteSpeed Cache + Contact Form 7 plugins | https://github.com/fortbridge/Wordpress-plugins | ['exploit'] | 1 | 2021-10-19 11:02:18+00:00 | 0 | 0 | Python | 0 | [] |
 | henryhuangbc/tradetower-exploit | None | https://github.com/henryhuangbc/tradetower-exploit | ['exploit'] | 1 | 2021-10-19 04:15:53+00:00 | 6 | 0 | Lua | 0 | [] |
+| y9x/webpack | Krunker cheats with shared libraries, built with Webpack. | https://github.com/y9x/webpack | ['sploit'] | 1 | 2021-10-19 02:07:18+00:00 | 1392 | 4 | JavaScript | 1 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-10-19 08:23:34+00:00 | 104270 | 0 | JavaScript | 0 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-19 01:04:33+00:00 | 27152 | 8382 | Python | 1449 | [] |
 | cood1n/cryo | ❄ discord freezer gif exploit using ffmpeg | https://github.com/cood1n/cryo | ['exploit'] | 1 | 2021-10-19 02:07:44+00:00 | 28 | 3 | Python | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-19 01:04:33+00:00 | 27152 | 8382 | Python | 1449 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-19 05:07:51+00:00 | 262972 | 6540 | C | 1810 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-19 04:52:56+00:00 | 5518 | 2931 | Python | 651 | [] |
 | C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2021-10-19 07:51:59+00:00 | 147 | 49 | Makefile | 3 | [] |
@@ -49,11 +55,14 @@
 | hugsy/gef-legacy | Legacy version of GEF running for GDB+Python2 | https://github.com/hugsy/gef-legacy | ['exploit'] | 1 | 2021-10-19 04:23:59+00:00 | 2898 | 10 | Python | 20 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-19 04:15:45+00:00 | 830 | 243 | Rust | 13 | [] |
 | Nooffy/Magisk-Patchs | here's some exploits in magisk that me and Fox2Code found | https://github.com/Nooffy/Magisk-Patchs | ['exploit'] | 1 | 2021-10-19 06:30:07+00:00 | 177 | 1 | Java | 0 | [] |
+| fs0c-sh/exploits | None | https://github.com/fs0c-sh/exploits | ['exploit'] | 1 | 2021-10-19 11:22:29+00:00 | 5215 | 1 | JavaScript | 0 | [] |
 | FunnyGuilds/FunnyCommands | FunnyGuilds commands framework based on top of the Panda dependency injection 🔨 | https://github.com/FunnyGuilds/FunnyCommands | ['command injection'] | 1 | 2021-10-19 09:51:35+00:00 | 359 | 11 | Java | 1 | [] |
 | VinAIResearch/mDSDI | Repository for the NeurIPS 2021 paper: "Exploiting Domain-Specific Features to Enhance Domain Generalization". | https://github.com/VinAIResearch/mDSDI | ['exploit'] | 1 | 2021-10-19 05:14:15+00:00 | 2215 | 2 | Python | 0 | [] |
 | mineo333/GhostFops | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | ['exploit'] | 1 | 2021-10-19 03:27:37+00:00 | 827 | 1 | C | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-19 00:03:01+00:00 | 420412 | 32 | | 19 | [] |
+| pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-10-19 11:19:11+00:00 | 384 | 56 | nan | 11 | [] |
 | whichbuffer/WindowsExploitDev | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | ['exploit', 'shellcode'] | 2 | 2021-10-19 08:49:07+00:00 | 19275 | 9 | HTML | 2 | [] |
+| b1tg/rs_shellcode | Another shellcode runner 🦀 🐚 | https://github.com/b1tg/rs_shellcode | ['shellcode'] | 1 | 2021-10-19 11:00:21+00:00 | 902 | 21 | Rust | 4 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-10-19 04:18:27+00:00 | 6974 | 1 | Java | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-19 00:41:38+00:00 | 73 | 0 | PHP | 0 | [] |
 | swagkarna/Rafel-Rat | -------> RAFEL<------ Android Rat Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/swagkarna/Rafel-Rat | ['exploit'] | 1 | 2021-10-19 04:39:02+00:00 | 139679 | 233 | PHP | 126 | [] |
@@ -61,4 +70,4 @@
 | herwonowr/exprolog | ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065) | https://github.com/herwonowr/exprolog | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-19 07:07:28+00:00 | 373 | 80 | Python | 25 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-19 04:02:06+00:00 | 82133 | 214 | Python | 62 | [] |
 | gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-19 10:00:36+00:00 | 1232 | 174 | Python | 37 | [] |
-| kunFeng1998/CVE-2020-13933Project | 此项目为复现CVE-2020-13933 shiro漏洞所搭建的简易springboot+shiro项目 | https://github.com/kunFeng1998/CVE-2020-13933Project | ['cve-2 OR cve_2'] | 1 | 2021-10-19 09:33:47+00:00 | 0 | 0 | | 0 | ['CVE-2020-13933'] |
+| 0x0021h/expbox | expbox is an exploit library. | https://github.com/0x0021h/expbox | ['exploit'] | 1 | 2021-10-19 11:30:03+00:00 | 0 | 0 | | 0 | [] |
