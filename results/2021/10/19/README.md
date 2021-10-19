@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/19
     
-109 records found after deduplication
+110 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -19,7 +19,7 @@
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-19 14:25:06+00:00 | 179 | 0 | Python | 1 | [] |
 | sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-19 08:30:33+00:00 | 109321 | 0 | Jupyter Notebook | 0 | [] |
 | rishabh-panda/QuantummNationn | Quantum computing, a study focused on the development of computer-based technologies centred around the principles of quantum theory. It is the amalgam of Physics, Mathematics, and Quantum Mechanics that exploits the collective properties of quantum states | https://github.com/rishabh-panda/QuantummNationn | ['exploit'] | 1 | 2021-10-19 17:12:08+00:00 | 171 | 1 | Jupyter Notebook | 0 | [] |
-| V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-19 17:45:01+00:00 | 98 | 0 | | 4 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-19 07:20:10+00:00 | 21 | 0 | Rust | 0 | [] |
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-10-19 09:10:27+00:00 | 528 | 416 | C++ | 63 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-19 17:47:42+00:00 | 2243 | 64 | | 109 | [] |
 | ProCryptoCoders/BSCHoneyPotContract | honeypot contract sourcecode for use on the BSC network | https://github.com/ProCryptoCoders/BSCHoneyPotContract | ['exploit'] | 1 | 2021-10-19 15:26:24+00:00 | 1 | 1 | | 1 | [] |
@@ -32,9 +32,10 @@
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-10-19 15:07:56+00:00 | 139 | 1 | C# | 1 | [] |
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-10-19 07:53:53+00:00 | 568 | 123 | Go | 27 | [] |
 | 0xAJ2K/CVE-2020-11022-CVE-2020-11023 | Little thing put together quickly to demonstrate this CVE | https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023 | ['cve-2 OR cve_2'] | 1 | 2021-10-19 10:50:09+00:00 | 62 | 0 | PHP | 0 | ['CVE-2020-11022', 'CVE-2020-11023'] |
-| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-19 07:20:10+00:00 | 21 | 0 | Rust | 0 | [] |
 | cheatingwitdacode/apex-cheating | All of my code from exploiting Apex Legends released to the public. | https://github.com/cheatingwitdacode/apex-cheating | ['exploit'] | 1 | 2021-10-19 01:17:13+00:00 | 1976 | 3 | C | 7 | [] |
-| ISFCR-CTF/Hacktoberfest-Workshop-2021 | Presentation by ISFCR Club & ZeroDay Club | https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021 | ['zeroday'] | 1 | 2021-10-19 09:13:22+00:00 | 22439 | 1 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-19 02:15:01+00:00 | 21879 | 6048 | JavaScript | 1444 | [] |
+| kunFeng1998/CVE-2020-13933Project | 此项目为复现CVE-2020-13933 shiro漏洞所搭建的简易springboot+shiro项目 | https://github.com/kunFeng1998/CVE-2020-13933Project | ['cve-2 OR cve_2'] | 1 | 2021-10-19 09:33:47+00:00 | 0 | 0 | | 0 | ['CVE-2020-13933'] |
+| jonathandata1/verizon_samsung_auto_enable_adb | Auto Enable ADB Zero-Day Exploit, Samsung Verizon Devices | https://github.com/jonathandata1/verizon_samsung_auto_enable_adb | ['exploit'] | 1 | 2021-10-19 20:30:54+00:00 | 0 | 0 | Shell | 0 | [] |
 | gh0x0st/OSEP-Breaking-Chains | A collection of code that I am using as I work through the PEN-300 course. | https://github.com/gh0x0st/OSEP-Breaking-Chains | ['shellcode'] | 1 | 2021-10-19 20:28:34+00:00 | 0 | 0 | C# | 0 | [] |
 | MindPrepp/My-Resume | This repository shows the trajectory transition of my progressive exploit and curiosity in the amazing wonder world of technology. | https://github.com/MindPrepp/My-Resume | ['exploit'] | 1 | 2021-10-19 20:09:05+00:00 | 0 | 0 | | 0 | [] |
 | GeraBruhh/Msf-Tool | Script para crear payloads facil, solo los crea no habre metasploit framework para completarlo :). | https://github.com/GeraBruhh/Msf-Tool | ['metasploit module OR payload'] | 1 | 2021-10-19 19:34:55+00:00 | 7 | 0 | Python | 0 | [] |
@@ -45,8 +46,8 @@
 | 0x0021h/expbox | expbox is an exploit library. | https://github.com/0x0021h/expbox | ['exploit'] | 1 | 2021-10-19 11:30:03+00:00 | 0 | 0 | | 0 | [] |
 | 0x0021h/exploitsearch | pwnwiki's command line query program | https://github.com/0x0021h/exploitsearch | ['exploit'] | 1 | 2021-10-19 10:58:23+00:00 | 4 | 0 | | 0 | [] |
 | fortbridge/Wordpress-plugins | exploiting LiteSpeed Cache + Contact Form 7 plugins | https://github.com/fortbridge/Wordpress-plugins | ['exploit'] | 1 | 2021-10-19 11:02:18+00:00 | 0 | 0 | Python | 0 | [] |
-| kunFeng1998/CVE-2020-13933Project | 此项目为复现CVE-2020-13933 shiro漏洞所搭建的简易springboot+shiro项目 | https://github.com/kunFeng1998/CVE-2020-13933Project | ['cve-2 OR cve_2'] | 1 | 2021-10-19 09:33:47+00:00 | 0 | 0 | | 0 | ['CVE-2020-13933'] |
 | SpiralBL0CK/exploit-foxit-4.1.1-title-bof | None | https://github.com/SpiralBL0CK/exploit-foxit-4.1.1-title-bof | ['exploit'] | 1 | 2021-10-19 09:01:44+00:00 | 0 | 0 | Python | 0 | [] |
+| ISFCR-CTF/Hacktoberfest-Workshop-2021 | Presentation by ISFCR Club & ZeroDay Club | https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021 | ['zeroday'] | 1 | 2021-10-19 09:13:22+00:00 | 22439 | 1 | | 0 | [] |
 | szyfra22/BabySploit | None | https://github.com/szyfra22/BabySploit | ['sploit'] | 1 | 2021-10-19 08:35:58+00:00 | 9148 | 0 | HTML | 0 | [] |
 | Vulnmachines/drupal-cve-2019-6339 | Drupal remote code execution vulnerabilty | https://github.com/Vulnmachines/drupal-cve-2019-6339 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-10-19 07:00:14+00:00 | 0 | 0 | PHP | 0 | ['CVE-2019-6339'] |
 | bibo318/kali-CVE-2019-0708-lab | None | https://github.com/bibo318/kali-CVE-2019-0708-lab | ['cve-2 OR cve_2'] | 1 | 2021-10-19 06:49:49+00:00 | 0 | 0 | | 0 | ['CVE-2019-0708'] |
@@ -59,8 +60,8 @@
 | jasonsett/Attack-and-Detect | An ELK server was configured to monitor a virtual network with an attacking machine, and two target machines. After the machines were successfully exploited, Kibana logs were analyzed to show the attacks. | https://github.com/jasonsett/Attack-and-Detect | ['exploit'] | 1 | 2021-10-19 01:36:37+00:00 | 0 | 0 | | 0 | [] |
 | Leader7X/LeaderPhoneSploit | None | https://github.com/Leader7X/LeaderPhoneSploit | ['sploit'] | 1 | 2021-10-19 09:58:52+00:00 | 2 | 0 | | 0 | [] |
 | slatbox/shellcode-studio | A shellcode tool to make convenient shellcode programing work flow. | https://github.com/slatbox/shellcode-studio | ['shellcode'] | 1 | 2021-10-19 07:57:21+00:00 | 3009 | 3 | JavaScript | 0 | [] |
+| V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-19 17:45:01+00:00 | 98 | 0 | | 4 | [] |
 | TAMSAT/capacity_building | Scripts to support users exploit TAMSAT rainfall estimates. | https://github.com/TAMSAT/capacity_building | ['exploit'] | 1 | 2021-10-19 17:51:07+00:00 | 4956 | 0 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-19 02:15:01+00:00 | 21879 | 6048 | JavaScript | 1444 | [] |
 | gbiagomba/Sherlock | This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.) | https://github.com/gbiagomba/Sherlock | ['metasploit module OR payload'] | 1 | 2021-10-19 00:04:55+00:00 | 12731 | 30 | Shell | 10 | [] |
 | luisfontes19/xxexploiter | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | ['exploit'] | 1 | 2021-10-19 13:51:21+00:00 | 706 | 344 | TypeScript | 56 | [] |
 | fs0c-sh/exploits | None | https://github.com/fs0c-sh/exploits | ['exploit'] | 1 | 2021-10-19 11:22:29+00:00 | 5215 | 1 | JavaScript | 0 | [] |
@@ -113,4 +114,4 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-19 00:03:01+00:00 | 420412 | 32 | | 19 | [] |
 | mineo333/GhostFops | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | ['exploit'] | 1 | 2021-10-19 03:27:37+00:00 | 827 | 1 | C | 1 | [] |
 | VinAIResearch/mDSDI | Repository for the NeurIPS 2021 paper: "Exploiting Domain-Specific Features to Enhance Domain Generalization". | https://github.com/VinAIResearch/mDSDI | ['exploit'] | 1 | 2021-10-19 05:14:15+00:00 | 2215 | 2 | Python | 0 | [] |
-| jonathandata1/verizon_samsung_auto_enable_adb | Auto Enable ADB Zero-Day Exploit, Samsung Verizon Devices | https://github.com/jonathandata1/verizon_samsung_auto_enable_adb | ['exploit'] | 1 | 2021-10-19 20:30:54+00:00 | 0 | 0 | Shell | 0 | [] |
+| RandomRhythm/winVulnAssess | Assess a mounted Windows volume for exploitable vulnerabilities | https://github.com/RandomRhythm/winVulnAssess | ['exploit'] | 1 | 2021-10-19 21:08:50+00:00 | 0 | 0 | VBScript | 0 | [] |
