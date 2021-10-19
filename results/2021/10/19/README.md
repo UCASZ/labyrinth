@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/19
     
-86 records found after deduplication
+88 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-19 11:16:25+00:00 | 644811 | 25365 | Ruby | 11666 | [] |
-| leonlai1234/FYP | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | ['exploit'] | 1 | 2021-10-19 07:04:55+00:00 | 977 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-19 02:15:01+00:00 | 21879 | 6048 | JavaScript | 1444 | [] |
+| nerap/BinanceBot | Bot exploiting Binance API | https://github.com/nerap/BinanceBot | ['exploit'] | 1 | 2021-10-19 06:19:21+00:00 | 111 | 1 | Python | 1 | [] |
 | DefconAlliance/php-Exploit | Trigger payload directly from URL | https://github.com/DefconAlliance/php-Exploit | ['exploit'] | 1 | 2021-10-19 06:03:09+00:00 | 5 | 0 | | 0 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-19 03:50:50+00:00 | 121 | 0 | Lua | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-19 14:25:06+00:00 | 179 | 0 | Python | 1 | [] |
@@ -15,8 +16,9 @@
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-10-19 09:10:27+00:00 | 528 | 416 | C++ | 63 | [] |
 | ProCryptoCoders/BSCHoneyPotContract | honeypot contract sourcecode for use on the BSC network | https://github.com/ProCryptoCoders/BSCHoneyPotContract | ['exploit'] | 1 | 2021-10-19 15:26:24+00:00 | 1 | 1 | | 1 | [] |
 | wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-19 15:31:09+00:00 | 77 | 0 | Go | 0 | [] |
+| leonlai1234/FYP | Final Year Project - Side-Channel Attack Exploitation Tools | https://github.com/leonlai1234/FYP | ['exploit'] | 1 | 2021-10-19 07:04:55+00:00 | 977 | 0 | Python | 0 | [] |
 | in-future-world/Hacking-Tools-Pack | Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 610 tools, | https://github.com/in-future-world/Hacking-Tools-Pack | ['exploit'] | 1 | 2021-10-19 14:04:31+00:00 | 2445 | 18 | | 4 | [] |
-| PeterMxx/ps4_8.00_vuln_poc | My take on CVE-2021-30858 for ps4 8.xx | https://github.com/PeterMxx/ps4_8.00_vuln_poc | ['cve poc', 'vuln poc'] | 2 | 2021-10-19 10:18:51+00:00 | 19 | 3 | nan | 1 | ['CVE-2021-30858'] |
+| Jonathan-Elias/Exploits | None | https://github.com/Jonathan-Elias/Exploits | ['exploit'] | 1 | 2021-10-19 16:05:59+00:00 | 11 | 0 | Python | 0 | [] |
 | Rajchowdhury420/Horizontall-HTB-Exploit | One Click root Exploit for the machine Horizontall [HackTheBox] | https://github.com/Rajchowdhury420/Horizontall-HTB-Exploit | ['exploit'] | 1 | 2021-10-19 10:53:32+00:00 | 301 | 0 | Python | 0 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-10-19 15:07:56+00:00 | 139 | 1 | C# | 1 | [] |
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-10-19 07:53:53+00:00 | 568 | 123 | Go | 27 | [] |
@@ -24,10 +26,9 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-19 01:11:44+00:00 | 12717 | 2 | Python | 0 | [] |
 | henryhuangbc/tradetower-exploit | None | https://github.com/henryhuangbc/tradetower-exploit | ['exploit'] | 1 | 2021-10-19 04:15:53+00:00 | 6 | 0 | Lua | 0 | [] |
 | minhaj981/Metasploit | Usage of Metasploit. A best tools for hacking. | https://github.com/minhaj981/Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-19 13:39:33+00:00 | 23863 | 0 | | 0 | [] |
-| y9x/webpack | Krunker cheats with shared libraries, built with Webpack. | https://github.com/y9x/webpack | ['sploit'] | 1 | 2021-10-19 02:07:18+00:00 | 1392 | 4 | JavaScript | 1 | [] |
-| nerap/BinanceBot | Bot exploiting Binance API | https://github.com/nerap/BinanceBot | ['exploit'] | 1 | 2021-10-19 06:19:21+00:00 | 111 | 1 | Python | 1 | [] |
+| PeterMxx/ps4_8.00_vuln_poc | My take on CVE-2021-30858 for ps4 8.xx | https://github.com/PeterMxx/ps4_8.00_vuln_poc | ['cve poc', 'vuln poc'] | 2 | 2021-10-19 10:18:51+00:00 | 19 | 3 | | 1 | ['CVE-2021-30858'] |
+| lvlup456/polymorphicShellcode | None | https://github.com/lvlup456/polymorphicShellcode | ['shellcode'] | 1 | 2021-10-19 16:28:09+00:00 | 5 | 0 | Python | 0 | [] |
 | s7ck-Team/exploit-db | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | ['exploit'] | 1 | 2021-10-19 00:43:59+00:00 | 2122531 | 0 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-19 02:15:01+00:00 | 21879 | 6048 | JavaScript | 1444 | [] |
 | senhaxor/msf_shellcode | None | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2021-10-19 04:44:05+00:00 | 0 | 0 | | 0 | [] |
 | 0x0021h/expbox | expbox is an exploit library. | https://github.com/0x0021h/expbox | ['exploit'] | 1 | 2021-10-19 11:30:03+00:00 | 0 | 0 | | 0 | [] |
 | 0x0021h/exploitsearch | pwnwiki's command line query program | https://github.com/0x0021h/exploitsearch | ['exploit'] | 1 | 2021-10-19 10:58:23+00:00 | 4 | 0 | | 0 | [] |
@@ -47,9 +48,9 @@
 | ISFCR-CTF/Hacktoberfest-Workshop-2021 | Presentation by ISFCR Club & ZeroDay Club | https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021 | ['zeroday'] | 1 | 2021-10-19 09:13:22+00:00 | 22439 | 1 | | 0 | [] |
 | cheatingwitdacode/apex-cheating | All of my code from exploiting Apex Legends released to the public. | https://github.com/cheatingwitdacode/apex-cheating | ['exploit'] | 1 | 2021-10-19 01:17:13+00:00 | 1976 | 3 | C | 7 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-19 07:20:10+00:00 | 21 | 0 | Rust | 0 | [] |
+| y9x/webpack | Krunker cheats with shared libraries, built with Webpack. | https://github.com/y9x/webpack | ['sploit'] | 1 | 2021-10-19 02:07:18+00:00 | 1392 | 4 | JavaScript | 1 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-10-19 08:23:34+00:00 | 104270 | 0 | JavaScript | 0 | [] |
 | Noizeeee/Exploits | None | https://github.com/Noizeeee/Exploits | ['exploit'] | 1 | 2021-10-19 12:26:23+00:00 | 23740 | 0 | | 0 | [] |
-| cood1n/cryo | ❄ discord freezer gif exploit using ffmpeg | https://github.com/cood1n/cryo | ['exploit'] | 1 | 2021-10-19 02:07:44+00:00 | 28 | 3 | Python | 0 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-10-19 07:54:25+00:00 | 294824 | 81 | Python | 13 | [] |
 | Nooffy/Magisk-Patchs | here's some exploits in magisk that me and Fox2Code found | https://github.com/Nooffy/Magisk-Patchs | ['exploit'] | 1 | 2021-10-19 06:30:07+00:00 | 177 | 1 | Java | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-19 12:45:06+00:00 | 37053 | 23 | | 14 | [] |
@@ -60,7 +61,7 @@
 | corkami/collisions | Hash collisions and their exploitations | https://github.com/corkami/collisions | ['exploit'] | 1 | 2021-10-19 07:37:07+00:00 | 28491 | 943 | Python | 84 | [] |
 | gbiagomba/Sherlock | This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.) | https://github.com/gbiagomba/Sherlock | ['metasploit module OR payload'] | 1 | 2021-10-19 00:04:55+00:00 | 12731 | 30 | Shell | 10 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-10-19 09:11:45+00:00 | 15663 | 909 | Python | 211 | [] |
-| gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-19 10:00:36+00:00 | 1232 | 174 | Python | 37 | [] |
+| fs0c-sh/exploits | None | https://github.com/fs0c-sh/exploits | ['exploit'] | 1 | 2021-10-19 11:22:29+00:00 | 5215 | 1 | JavaScript | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-19 00:16:58+00:00 | 157661 | 252 | Ruby | 77 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-19 11:35:04+00:00 | 72672 | 10226 | Jupyter Notebook | 1751 | [] |
 | shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2021-10-19 01:02:07+00:00 | 323 | 4875 | C | 951 | [] |
@@ -70,9 +71,10 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-19 05:07:51+00:00 | 262972 | 6540 | C | 1810 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-19 01:04:33+00:00 | 27152 | 8382 | Python | 1449 | [] |
 | ind3p3nd3nt/vncperlbot | Perl IRC Bot for scanning and exploiting VNC servers on several ports using Mojo::IRC module. | https://github.com/ind3p3nd3nt/vncperlbot | ['exploit'] | 1 | 2021-10-19 14:19:33+00:00 | 522 | 6 | Perl | 1 | [] |
-| fs0c-sh/exploits | None | https://github.com/fs0c-sh/exploits | ['exploit'] | 1 | 2021-10-19 11:22:29+00:00 | 5215 | 1 | JavaScript | 0 | [] |
 | luisfontes19/xxexploiter | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | ['exploit'] | 1 | 2021-10-19 13:51:21+00:00 | 706 | 344 | TypeScript | 56 | [] |
-| FunnyGuilds/FunnyCommands | FunnyGuilds commands framework based on top of the Panda dependency injection 🔨 | https://github.com/FunnyGuilds/FunnyCommands | ['command injection'] | 1 | 2021-10-19 09:51:35+00:00 | 359 | 11 | Java | 1 | [] |
+| cood1n/cryo | ❄ discord freezer gif exploit using ffmpeg | https://github.com/cood1n/cryo | ['exploit'] | 1 | 2021-10-19 02:07:44+00:00 | 28 | 3 | Python | 0 | [] |
+| b1tg/rs_shellcode | Another shellcode runner 🦀 🐚 | https://github.com/b1tg/rs_shellcode | ['shellcode'] | 1 | 2021-10-19 11:00:21+00:00 | 902 | 21 | Rust | 4 | [] |
+| gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-19 10:00:36+00:00 | 1232 | 174 | Python | 37 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-19 04:02:06+00:00 | 82133 | 214 | Python | 62 | [] |
 | gittina/expressyouRcell | None | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2021-10-19 12:38:33+00:00 | 3504 | 0 | R | 0 | [] |
 | herwonowr/exprolog | ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065) | https://github.com/herwonowr/exprolog | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-19 07:07:28+00:00 | 373 | 80 | Python | 25 | [] |
@@ -80,8 +82,8 @@
 | swagkarna/Rafel-Rat | -------> RAFEL<------ Android Rat Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/swagkarna/Rafel-Rat | ['exploit'] | 1 | 2021-10-19 04:39:02+00:00 | 139679 | 233 | PHP | 126 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-19 00:41:38+00:00 | 73 | 0 | PHP | 0 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-10-19 04:18:27+00:00 | 6974 | 1 | Java | 0 | [] |
-| b1tg/rs_shellcode | Another shellcode runner 🦀 🐚 | https://github.com/b1tg/rs_shellcode | ['shellcode'] | 1 | 2021-10-19 11:00:21+00:00 | 902 | 21 | Rust | 4 | [] |
 | whichbuffer/WindowsExploitDev | Windows Exploit Development Tutorial Series | https://github.com/whichbuffer/WindowsExploitDev | ['exploit', 'shellcode'] | 2 | 2021-10-19 08:49:07+00:00 | 19275 | 9 | HTML | 2 | [] |
+| FunnyGuilds/FunnyCommands | FunnyGuilds commands framework based on top of the Panda dependency injection 🔨 | https://github.com/FunnyGuilds/FunnyCommands | ['command injection'] | 1 | 2021-10-19 09:51:35+00:00 | 359 | 11 | Java | 1 | [] |
 | pen4uin/Poc-Exp | 漏洞研究，中间件/OA/CMS/路由器/... | https://github.com/pen4uin/Poc-Exp | ['cve poc', 'vulnerability poc'] | 2 | 2021-10-19 11:19:11+00:00 | 384 | 56 | nan | 11 | [] |
 | lebr0nli/NCU-ADL-CTF | ADL challenges and my exploit backup | https://github.com/lebr0nli/NCU-ADL-CTF | ['exploit'] | 1 | 2021-10-19 14:27:11+00:00 | 1257 | 1 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-19 00:03:01+00:00 | 420412 | 32 | | 19 | [] |
