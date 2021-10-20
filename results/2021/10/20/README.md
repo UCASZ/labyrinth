@@ -1,25 +1,27 @@
 
 # Summary for results/2021/10/20
     
-54 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-20 00:24:12+00:00 | 645975 | 25367 | Ruby | 11669 | [] |
-| Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-20 09:22:09+00:00 | 1 | 0 | | 0 | [] |
+| ThottySploity/ThottySploity | Config files for my GitHub profile. | https://github.com/ThottySploity/ThottySploity | ['sploit'] | 1 | 2021-10-20 11:27:00+00:00 | 9 | 0 | | 1 | [] |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-10-20 05:04:58+00:00 | 52 | 0 | | 0 | [] |
 | NULLHE4D/kzexploits | A collection of exploit scripts and payloads I've written while learning reverse engineering (for reference). | https://github.com/NULLHE4D/kzexploits | ['exploit'] | 1 | 2021-10-20 10:04:53+00:00 | 1 | 0 | Python | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-10-20 00:41:52+00:00 | 199 | 0 | TypeScript | 0 | [] |
 | llkbkh/DriverRead-Windows | 采用ShellCode方式注入内核，驱动有，读写，注入，申请内存，绘制等基本功能，目前未被反作弊发现。 | https://github.com/llkbkh/DriverRead-Windows | ['shellcode'] | 1 | 2021-10-20 01:29:01+00:00 | 12371 | 2 | C++ | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-20 01:38:07+00:00 | 2245 | 66 | JavaScript | 111 | [] |
+| Phoenixthrush/phoenixsploit | my own metasploit ig in python (debian/ arch based linux distros) | https://github.com/Phoenixthrush/phoenixsploit | ['metasploit module OR payload'] | 1 | 2021-10-20 11:26:53+00:00 | 97 | 1 | Python | 0 | [] |
 | sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-20 08:00:55+00:00 | 124623 | 0 | Jupyter Notebook | 0 | [] |
 | nop-tech/learning-resources | Collection of resources for learning pentesting, exploit development, obfuscation & much more. | https://github.com/nop-tech/learning-resources | ['exploit'] | 1 | 2021-10-20 07:57:40+00:00 | 25 | 1 | | 0 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-20 10:04:55+00:00 | 217 | 0 | Lua | 0 | [] |
 | musergi/CVE-2021-3156 | None | https://github.com/musergi/CVE-2021-3156 | ['cve-2 OR cve_2'] | 1 | 2021-10-20 08:05:47+00:00 | 2 | 1 | C | 0 | ['CVE-2021-3156'] |
 | plackyhacker/Shellcode-Injection-Techniques | A collection of C# shellcode injection techniques. All techniques use an AES encrypted meterpreter payload. I will be building this project up as I learn, discover or develop more techniques. Some techniques are better than others at bypassing AV. | https://github.com/plackyhacker/Shellcode-Injection-Techniques | ['shellcode'] | 1 | 2021-10-20 06:58:18+00:00 | 89 | 143 | C# | 22 | [] |
 | nerap/McTrade | Bot exploiting Binance API | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-10-20 09:41:47+00:00 | 147 | 1 | Python | 1 | [] |
+| GeorgePatsias/PayloadFactory | C# implementation of Shellcode delivery techniques using PInvoke and DInvoke variations for API calling. | https://github.com/GeorgePatsias/PayloadFactory | ['shellcode'] | 1 | 2021-10-20 10:47:20+00:00 | 123 | 3 | C# | 1 | [] |
+| Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-20 09:22:09+00:00 | 1 | 0 | | 0 | [] |
 | jonathandata1/verizon_samsung_auto_enable_adb | Auto Enable ADB Zero-Day Exploit, Samsung Verizon Devices | https://github.com/jonathandata1/verizon_samsung_auto_enable_adb | ['exploit'] | 1 | 2021-10-20 03:54:11+00:00 | 720 | 4 | Shell | 2 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-20 01:33:22+00:00 | 27152 | 8386 | Python | 1451 | [] |
 | cloudbyteelias/CVE-2021-41773 | CVE-2021-41773 Docker lab | https://github.com/cloudbyteelias/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-20 01:21:34+00:00 | 0 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
 | soumenbondhu/ML-project-using-Titenic-Data | Logistic Regression is being used in this project . For handling the Nan values , the Group by method is being used for Filling the ‘age’ column .The correlation is being exploited by heatmap. The model has achieved 83% of training accuracy | https://github.com/soumenbondhu/ML-project-using-Titenic-Data | ['exploit'] | 1 | 2021-10-20 04:03:31+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | 00xData/Metasploit-Fast-Handlers | None | https://github.com/00xData/Metasploit-Fast-Handlers | ['metasploit module OR payload'] | 1 | 2021-10-20 04:35:58+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -31,12 +33,15 @@
 | Henry4E36/dedecms_5.8.1_RCE | dedecms_5.8.1代码执行漏洞 | https://github.com/Henry4E36/dedecms_5.8.1_RCE | ['rce'] | 1 | 2021-10-20 09:18:33+00:00 | 0 | 2 | Python | 0 | [] |
 | HetuLib/dedecms_5.8.1_RCE | dedecms_5.8.1代码执行漏洞 | https://github.com/HetuLib/dedecms_5.8.1_RCE | ['rce'] | 1 | 2021-10-20 09:12:50+00:00 | 0 | 0 | Python | 0 | [] |
 | KaLendsi/CVE-2021-40449-Exploit | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-20 09:29:17+00:00 | 1965 | 1 | C++ | 0 | ['CVE-2021-40449'] |
+| dombg1337/Exploit_Templates | Just some useful helper templates | https://github.com/dombg1337/Exploit_Templates | ['exploit'] | 1 | 2021-10-20 10:31:08+00:00 | 0 | 0 | Python | 0 | [] |
 | STRT-Official/Ansploit | Android exploits made easy. | https://github.com/STRT-Official/Ansploit | ['exploit'] | 1 | 2021-10-20 05:54:52+00:00 | 8 | 1 | Python | 0 | [] |
 | rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-20 05:18:37+00:00 | 11376 | 0 | HTML | 0 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-20 01:33:22+00:00 | 27152 | 8386 | Python | 1451 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-20 01:11:05+00:00 | 14229 | 2 | Python | 0 | [] |
-| mauricelambert/PyWCGIshell | This package implement a WebShell for CGI and WSGI server. | https://github.com/mauricelambert/PyWCGIshell | ['exploit'] | 1 | 2021-10-20 10:17:53+00:00 | 32 | 1 | Python | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-20 05:07:49+00:00 | 265014 | 6543 | C | 1810 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-20 06:02:42+00:00 | 5531 | 2939 | Python | 651 | [] |
+| seduceIDS/seduce | ShellcodE Detection Using CPU Emulation | https://github.com/seduceIDS/seduce | ['shellcode'] | 1 | 2021-10-20 11:10:50+00:00 | 6855 | 0 | C | 0 | [] |
+| orleven/Tentacle | Tentacle is a POC vulnerability verification and exploit framework. It supports free extension of exploits and uses POC scripts. It supports calls to zoomeye, fofa, shodan and other APIs to perform bulk vulnerability verification for multiple targets. | https://github.com/orleven/Tentacle | ['exploit', 'vulnerability poc'] | 2 | 2021-10-20 11:16:24+00:00 | 228923 | 312 | Python | 114 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-20 00:16:56+00:00 | 157662 | 252 | Ruby | 77 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-20 01:36:31+00:00 | 2759592 | 353 | | 53 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2021-10-20 01:50:14+00:00 | 40074 | 6777 | Python | 1622 | [] |
@@ -47,6 +52,7 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-20 06:45:07+00:00 | 37153 | 23 | | 14 | [] |
 | Patrowl/PatrowlHears | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | ['exploit'] | 1 | 2021-10-20 07:52:56+00:00 | 497250 | 107 | Python | 37 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-10-20 03:16:52+00:00 | 274 | 7 | Go | 7 | [] |
+| jamesmoriarty/gomem | A Go library for manipulating Windows processes. | https://github.com/jamesmoriarty/gomem | ['exploit'] | 1 | 2021-10-20 10:54:22+00:00 | 56 | 17 | Go | 3 | [] |
 | bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2021-10-20 07:15:43+00:00 | 4546 | 621 | C | 81 | [] |
 | plackyhacker/Shellcode-Encryptor | A simple shell code encryptor/decryptor/executor to bypass anti virus. | https://github.com/plackyhacker/Shellcode-Encryptor | ['shellcode'] | 1 | 2021-10-20 07:03:28+00:00 | 2847 | 61 | C# | 10 | [] |
 | sketchyboi14/PhoneSploitGui | A GUI version of the PhoneSpoit CLI tool. | https://github.com/sketchyboi14/PhoneSploitGui | ['sploit'] | 1 | 2021-10-20 03:01:28+00:00 | 17746 | 1 | Python | 0 | [] |
@@ -58,4 +64,5 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-20 01:15:17+00:00 | 73 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-20 04:02:04+00:00 | 84757 | 214 | Python | 62 | [] |
 | ZephrFish/CVE-2021-22893_HoneyPoC2 | DO NOT RUN THIS. | https://github.com/ZephrFish/CVE-2021-22893_HoneyPoC2 | ['cve-2 OR cve_2'] | 1 | 2021-10-20 01:14:45+00:00 | 25 | 44 | Shell | 17 | ['CVE-2021-22893'] |
-| dombg1337/Exploit_Templates | Just some useful helper templates | https://github.com/dombg1337/Exploit_Templates | ['exploit'] | 1 | 2021-10-20 10:31:08+00:00 | 0 | 0 | Python | 0 | [] |
+| mauricelambert/PyWCGIshell | This package implement a WebShell for CGI and WSGI server. | https://github.com/mauricelambert/PyWCGIshell | ['exploit'] | 1 | 2021-10-20 10:17:53+00:00 | 32 | 1 | Python | 0 | [] |
+| qwutony/CVE-2021-41773 | None | https://github.com/qwutony/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-20 11:27:12+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
