@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/19
     
-116 records found after deduplication
+117 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -20,7 +20,7 @@
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-19 14:25:06+00:00 | 179 | 0 | Python | 1 | [] |
 | fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit | None | https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-19 22:32:49+00:00 | 7107 | 0 | | 0 | [] |
 | mgeeky/ShellcodeFluctuation | An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents | https://github.com/mgeeky/ShellcodeFluctuation | ['shellcode'] | 1 | 2021-10-19 09:10:52+00:00 | 1130 | 349 | C++ | 58 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-19 02:15:01+00:00 | 21879 | 6048 | JavaScript | 1444 | [] |
+| V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-19 17:45:01+00:00 | 98 | 0 | | 4 | [] |
 | rishabh-panda/QuantummNationn | Quantum computing, a study focused on the development of computer-based technologies centred around the principles of quantum theory. It is the amalgam of Physics, Mathematics, and Quantum Mechanics that exploits the collective properties of quantum states | https://github.com/rishabh-panda/QuantummNationn | ['exploit'] | 1 | 2021-10-19 17:12:08+00:00 | 171 | 1 | Jupyter Notebook | 0 | [] |
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-10-19 09:10:27+00:00 | 528 | 416 | C++ | 63 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-19 17:47:42+00:00 | 2243 | 64 | | 109 | [] |
@@ -63,9 +63,9 @@
 | jasonsett/Attack-and-Detect | An ELK server was configured to monitor a virtual network with an attacking machine, and two target machines. After the machines were successfully exploited, Kibana logs were analyzed to show the attacks. | https://github.com/jasonsett/Attack-and-Detect | ['exploit'] | 1 | 2021-10-19 01:36:37+00:00 | 0 | 0 | | 0 | [] |
 | Leader7X/LeaderPhoneSploit | None | https://github.com/Leader7X/LeaderPhoneSploit | ['sploit'] | 1 | 2021-10-19 09:58:52+00:00 | 2 | 0 | | 0 | [] |
 | slatbox/shellcode-studio | A shellcode tool to make convenient shellcode programing work flow. | https://github.com/slatbox/shellcode-studio | ['shellcode'] | 1 | 2021-10-19 07:57:21+00:00 | 3009 | 3 | JavaScript | 0 | [] |
-| V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-19 17:45:01+00:00 | 98 | 0 | | 4 | [] |
 | TAMSAT/capacity_building | Scripts to support users exploit TAMSAT rainfall estimates. | https://github.com/TAMSAT/capacity_building | ['exploit'] | 1 | 2021-10-19 17:51:07+00:00 | 4956 | 0 | Python | 0 | [] |
-| hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-19 13:02:40+00:00 | 377 | 470 | | 103 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-19 02:15:01+00:00 | 21879 | 6048 | JavaScript | 1444 | [] |
+| instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2021-10-19 20:31:00+00:00 | 1313 | 13 | JavaScript | 24 | [] |
 | luisfontes19/xxexploiter | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | ['exploit'] | 1 | 2021-10-19 13:51:21+00:00 | 706 | 344 | TypeScript | 56 | [] |
 | fs0c-sh/exploits | None | https://github.com/fs0c-sh/exploits | ['exploit'] | 1 | 2021-10-19 11:22:29+00:00 | 5215 | 1 | JavaScript | 0 | [] |
 | ind3p3nd3nt/vncperlbot | Perl IRC Bot for scanning and exploiting VNC servers on several ports using Mojo::IRC module. | https://github.com/ind3p3nd3nt/vncperlbot | ['exploit'] | 1 | 2021-10-19 14:19:33+00:00 | 522 | 6 | Perl | 1 | [] |
@@ -78,8 +78,8 @@
 | remo7777/Termux-Metasploit | metasploit-framework version 5.0.53-dev for termux specially for android version 5 and 6 | https://github.com/remo7777/Termux-Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-19 08:28:21+00:00 | 47 | 56 | Shell | 17 | [] |
 | corkami/collisions | Hash collisions and their exploitations | https://github.com/corkami/collisions | ['exploit'] | 1 | 2021-10-19 07:37:07+00:00 | 28491 | 943 | Python | 84 | [] |
 | gbiagomba/Sherlock | This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.) | https://github.com/gbiagomba/Sherlock | ['metasploit module OR payload'] | 1 | 2021-10-19 00:04:55+00:00 | 12731 | 30 | Shell | 10 | [] |
-| instructure/canvas-rce-api | None | https://github.com/instructure/canvas-rce-api | ['rce'] | 1 | 2021-10-19 20:31:00+00:00 | 1313 | 13 | JavaScript | 24 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-10-19 07:54:25+00:00 | 294824 | 81 | Python | 13 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-19 01:11:44+00:00 | 12717 | 2 | Python | 0 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-10-19 09:11:45+00:00 | 15663 | 909 | Python | 211 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-19 00:16:58+00:00 | 157661 | 252 | Ruby | 77 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-19 11:35:04+00:00 | 72672 | 10226 | Jupyter Notebook | 1751 | [] |
@@ -90,10 +90,11 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-19 04:52:56+00:00 | 5518 | 2931 | Python | 651 | [] |
 | torque59/Nosql-Exploitation-Framework | A Python Framework For NoSQL Scanning and Exploitation | https://github.com/torque59/Nosql-Exploitation-Framework | ['exploit'] | 1 | 2021-10-19 21:26:33+00:00 | 2929 | 578 | Python | 155 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-19 05:07:51+00:00 | 262972 | 6540 | C | 1810 | [] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-10-19 12:29:12+00:00 | 3716 | 2512 | PowerShell | 727 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-19 01:04:33+00:00 | 27152 | 8382 | Python | 1449 | [] |
 | FunnyGuilds/FunnyCommands | FunnyGuilds commands framework based on top of the Panda dependency injection 🔨 | https://github.com/FunnyGuilds/FunnyCommands | ['command injection'] | 1 | 2021-10-19 09:51:35+00:00 | 359 | 11 | Java | 1 | [] |
+| hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-19 13:02:40+00:00 | 377 | 470 | | 103 | [] |
 | tony23x/MSF-INSTALL | Script solo para Termux que automatiza la instalación de Metasploit Framework | https://github.com/tony23x/MSF-INSTALL | ['metasploit module OR payload'] | 1 | 2021-10-19 23:00:17+00:00 | 7894 | 4 | Shell | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-19 01:11:44+00:00 | 12717 | 2 | Python | 0 | [] |
 | THEpWn3R-o/metasploit-exploit-launcher | This is a tool made with tkinter that launches metasploit exploits | https://github.com/THEpWn3R-o/metasploit-exploit-launcher | ['exploit', 'metasploit module OR payload'] | 2 | 2021-10-19 14:44:00+00:00 | 7 | 1 | Python | 0 | [] |
 | henryhuangbc/tradetower-exploit | None | https://github.com/henryhuangbc/tradetower-exploit | ['exploit'] | 1 | 2021-10-19 04:15:53+00:00 | 6 | 0 | Lua | 0 | [] |
 | minhaj981/Metasploit | Usage of Metasploit. A best tools for hacking. | https://github.com/minhaj981/Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-19 13:39:33+00:00 | 23863 | 0 | | 0 | [] |
