@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/19
     
-114 records found after deduplication
+116 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-19 11:16:25+00:00 | 644811 | 25365 | Ruby | 11666 | [] |
-| 0xAJ2K/CVE-2020-11022-CVE-2020-11023 | Little thing put together quickly to demonstrate this CVE | https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023 | ['cve-2 OR cve_2'] | 1 | 2021-10-19 10:50:09+00:00 | 62 | 0 | PHP | 0 | ['CVE-2020-11022', 'CVE-2020-11023'] |
+| sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-19 08:30:33+00:00 | 109321 | 0 | Jupyter Notebook | 0 | [] |
+| s7ck-Team/exploit-db | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | ['exploit'] | 1 | 2021-10-19 00:43:59+00:00 | 2122531 | 0 | Python | 0 | [] |
 | lvlup456/polymorphicShellcode | None | https://github.com/lvlup456/polymorphicShellcode | ['shellcode'] | 1 | 2021-10-19 16:28:09+00:00 | 5 | 0 | Python | 0 | [] |
 | PeterMxx/ps4_8.00_vuln_poc | My take on CVE-2021-30858 for ps4 8.xx | https://github.com/PeterMxx/ps4_8.00_vuln_poc | ['cve poc', 'vuln poc'] | 2 | 2021-10-19 10:18:51+00:00 | 19 | 3 | | 1 | ['CVE-2021-30858'] |
 | nerap/BinanceBot | Bot exploiting Binance API | https://github.com/nerap/BinanceBot | ['exploit'] | 1 | 2021-10-19 06:19:21+00:00 | 111 | 1 | Python | 1 | [] |
@@ -18,8 +19,8 @@
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-19 03:50:50+00:00 | 121 | 0 | Lua | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-19 14:25:06+00:00 | 179 | 0 | Python | 1 | [] |
 | fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit | None | https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-19 22:32:49+00:00 | 7107 | 0 | | 0 | [] |
-| sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-19 08:30:33+00:00 | 109321 | 0 | Jupyter Notebook | 0 | [] |
 | mgeeky/ShellcodeFluctuation | An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents | https://github.com/mgeeky/ShellcodeFluctuation | ['shellcode'] | 1 | 2021-10-19 09:10:52+00:00 | 1130 | 349 | C++ | 58 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-19 02:15:01+00:00 | 21879 | 6048 | JavaScript | 1444 | [] |
 | rishabh-panda/QuantummNationn | Quantum computing, a study focused on the development of computer-based technologies centred around the principles of quantum theory. It is the amalgam of Physics, Mathematics, and Quantum Mechanics that exploits the collective properties of quantum states | https://github.com/rishabh-panda/QuantummNationn | ['exploit'] | 1 | 2021-10-19 17:12:08+00:00 | 171 | 1 | Jupyter Notebook | 0 | [] |
 | mgeeky/ThreadStackSpoofer | Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts. | https://github.com/mgeeky/ThreadStackSpoofer | ['shellcode'] | 1 | 2021-10-19 09:10:27+00:00 | 528 | 416 | C++ | 63 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-19 17:47:42+00:00 | 2243 | 64 | | 109 | [] |
@@ -32,10 +33,10 @@
 | Rajchowdhury420/Horizontall-HTB-Exploit | One Click root Exploit for the machine Horizontall [HackTheBox] | https://github.com/Rajchowdhury420/Horizontall-HTB-Exploit | ['exploit'] | 1 | 2021-10-19 10:53:32+00:00 | 301 | 0 | Python | 0 | [] |
 | bhassani/DoublepulsarUploader | Repository for DoublePulsar DLL/Shellcode uploader programs | https://github.com/bhassani/DoublepulsarUploader | ['shellcode'] | 1 | 2021-10-19 15:07:56+00:00 | 139 | 1 | C# | 1 | [] |
 | yqcs/ZheTian | ZheTian 免杀shellcode执行程序 | https://github.com/yqcs/ZheTian | ['shellcode'] | 1 | 2021-10-19 07:53:53+00:00 | 568 | 123 | Go | 27 | [] |
-| s7ck-Team/exploit-db | exploit-db备份 | https://github.com/s7ck-Team/exploit-db | ['exploit'] | 1 | 2021-10-19 00:43:59+00:00 | 2122531 | 0 | Python | 0 | [] |
+| 0xAJ2K/CVE-2020-11022-CVE-2020-11023 | Little thing put together quickly to demonstrate this CVE | https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023 | ['cve-2 OR cve_2'] | 1 | 2021-10-19 10:50:09+00:00 | 62 | 0 | PHP | 0 | ['CVE-2020-11022', 'CVE-2020-11023'] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-19 07:20:10+00:00 | 21 | 0 | Rust | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-19 02:15:01+00:00 | 21879 | 6048 | JavaScript | 1444 | [] |
 | cheatingwitdacode/apex-cheating | All of my code from exploiting Apex Legends released to the public. | https://github.com/cheatingwitdacode/apex-cheating | ['exploit'] | 1 | 2021-10-19 01:17:13+00:00 | 1976 | 3 | C | 7 | [] |
+| ISFCR-CTF/Hacktoberfest-Workshop-2021 | Presentation by ISFCR Club & ZeroDay Club | https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021 | ['zeroday'] | 1 | 2021-10-19 09:13:22+00:00 | 22439 | 1 | | 0 | [] |
 | jonathandata1/verizon_samsung_auto_enable_adb | Auto Enable ADB Zero-Day Exploit, Samsung Verizon Devices | https://github.com/jonathandata1/verizon_samsung_auto_enable_adb | ['exploit'] | 1 | 2021-10-19 20:30:54+00:00 | 0 | 0 | Shell | 0 | [] |
 | gh0x0st/OSEP-Breaking-Chains | A collection of code that I am using as I work through the PEN-300 course. | https://github.com/gh0x0st/OSEP-Breaking-Chains | ['shellcode'] | 1 | 2021-10-19 20:28:34+00:00 | 0 | 0 | C# | 0 | [] |
 | MindPrepp/My-Resume | This repository shows the trajectory transition of my progressive exploit and curiosity in the amazing wonder world of technology. | https://github.com/MindPrepp/My-Resume | ['exploit'] | 1 | 2021-10-19 20:09:05+00:00 | 0 | 0 | | 0 | [] |
@@ -43,6 +44,7 @@
 | Barbarisch/CVE-2019-3980 | CVE-2019-3980 exploit written in win32/c++ (openssl dependency). Port of https://github.com/tenable/poc/blob/master/Solarwinds/Dameware/dwrcs_dwDrvInst_rce.py | https://github.com/Barbarisch/CVE-2019-3980 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2021-10-19 18:28:48+00:00 | 0 | 0 | | 0 | ['CVE-2019-3980'] |
 | R7flexx/R7flex-exploit | An Roblox Lua Executor | https://github.com/R7flexx/R7flex-exploit | ['exploit'] | 1 | 2021-10-19 18:15:43+00:00 | 0 | 0 | | 0 | [] |
 | ThaMessia/IesseOS | The operating system simulator I exploited in my youtube video. | https://github.com/ThaMessia/IesseOS | ['exploit'] | 1 | 2021-10-19 17:31:09+00:00 | 0 | 1 | C | 0 | [] |
+| Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-19 13:10:43+00:00 | 1 | 0 | | 0 | [] |
 | MaheLucas/Exploit2Learn | None | https://github.com/MaheLucas/Exploit2Learn | ['exploit'] | 1 | 2021-10-19 11:59:43+00:00 | 0 | 0 | | 0 | [] |
 | 0x0021h/expbox | expbox is an exploit library. | https://github.com/0x0021h/expbox | ['exploit'] | 1 | 2021-10-19 11:30:03+00:00 | 0 | 0 | | 0 | [] |
 | 0x0021h/exploitsearch | pwnwiki's command line query program | https://github.com/0x0021h/exploitsearch | ['exploit'] | 1 | 2021-10-19 10:58:23+00:00 | 4 | 0 | | 0 | [] |
@@ -60,12 +62,10 @@
 | naufalan/Web-App-Methodology | Collection of web app methodology from initial recon into exploit known vulnerability. Used when conducting Bug Bounty, Penetration Testing, or CTF | https://github.com/naufalan/Web-App-Methodology | ['exploit'] | 1 | 2021-10-19 10:48:15+00:00 | 642 | 0 | | 0 | [] |
 | jasonsett/Attack-and-Detect | An ELK server was configured to monitor a virtual network with an attacking machine, and two target machines. After the machines were successfully exploited, Kibana logs were analyzed to show the attacks. | https://github.com/jasonsett/Attack-and-Detect | ['exploit'] | 1 | 2021-10-19 01:36:37+00:00 | 0 | 0 | | 0 | [] |
 | Leader7X/LeaderPhoneSploit | None | https://github.com/Leader7X/LeaderPhoneSploit | ['sploit'] | 1 | 2021-10-19 09:58:52+00:00 | 2 | 0 | | 0 | [] |
-| ISFCR-CTF/Hacktoberfest-Workshop-2021 | Presentation by ISFCR Club & ZeroDay Club | https://github.com/ISFCR-CTF/Hacktoberfest-Workshop-2021 | ['zeroday'] | 1 | 2021-10-19 09:13:22+00:00 | 22439 | 1 | | 0 | [] |
 | slatbox/shellcode-studio | A shellcode tool to make convenient shellcode programing work flow. | https://github.com/slatbox/shellcode-studio | ['shellcode'] | 1 | 2021-10-19 07:57:21+00:00 | 3009 | 3 | JavaScript | 0 | [] |
 | V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-19 17:45:01+00:00 | 98 | 0 | | 4 | [] |
 | TAMSAT/capacity_building | Scripts to support users exploit TAMSAT rainfall estimates. | https://github.com/TAMSAT/capacity_building | ['exploit'] | 1 | 2021-10-19 17:51:07+00:00 | 4956 | 0 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-19 01:11:44+00:00 | 12717 | 2 | Python | 0 | [] |
-| FunnyGuilds/FunnyCommands | FunnyGuilds commands framework based on top of the Panda dependency injection 🔨 | https://github.com/FunnyGuilds/FunnyCommands | ['command injection'] | 1 | 2021-10-19 09:51:35+00:00 | 359 | 11 | Java | 1 | [] |
+| hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-19 13:02:40+00:00 | 377 | 470 | | 103 | [] |
 | luisfontes19/xxexploiter | Tool to help exploit XXE vulnerabilities | https://github.com/luisfontes19/xxexploiter | ['exploit'] | 1 | 2021-10-19 13:51:21+00:00 | 706 | 344 | TypeScript | 56 | [] |
 | fs0c-sh/exploits | None | https://github.com/fs0c-sh/exploits | ['exploit'] | 1 | 2021-10-19 11:22:29+00:00 | 5215 | 1 | JavaScript | 0 | [] |
 | ind3p3nd3nt/vncperlbot | Perl IRC Bot for scanning and exploiting VNC servers on several ports using Mojo::IRC module. | https://github.com/ind3p3nd3nt/vncperlbot | ['exploit'] | 1 | 2021-10-19 14:19:33+00:00 | 522 | 6 | Perl | 1 | [] |
@@ -88,12 +88,13 @@
 | C0deH4cker/PwnableHarness | Manage building and deploying exploitation challenges with ease | https://github.com/C0deH4cker/PwnableHarness | ['exploit'] | 1 | 2021-10-19 07:51:59+00:00 | 147 | 49 | Makefile | 3 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-10-19 14:44:25+00:00 | 5449 | 4031 | Python | 558 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-19 04:52:56+00:00 | 5518 | 2931 | Python | 651 | [] |
+| torque59/Nosql-Exploitation-Framework | A Python Framework For NoSQL Scanning and Exploitation | https://github.com/torque59/Nosql-Exploitation-Framework | ['exploit'] | 1 | 2021-10-19 21:26:33+00:00 | 2929 | 578 | Python | 155 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-19 05:07:51+00:00 | 262972 | 6540 | C | 1810 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-19 01:04:33+00:00 | 27152 | 8382 | Python | 1449 | [] |
-| hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-19 13:02:40+00:00 | 377 | 470 | | 103 | [] |
+| FunnyGuilds/FunnyCommands | FunnyGuilds commands framework based on top of the Panda dependency injection 🔨 | https://github.com/FunnyGuilds/FunnyCommands | ['command injection'] | 1 | 2021-10-19 09:51:35+00:00 | 359 | 11 | Java | 1 | [] |
 | tony23x/MSF-INSTALL | Script solo para Termux que automatiza la instalación de Metasploit Framework | https://github.com/tony23x/MSF-INSTALL | ['metasploit module OR payload'] | 1 | 2021-10-19 23:00:17+00:00 | 7894 | 4 | Shell | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-19 01:11:44+00:00 | 12717 | 2 | Python | 0 | [] |
 | THEpWn3R-o/metasploit-exploit-launcher | This is a tool made with tkinter that launches metasploit exploits | https://github.com/THEpWn3R-o/metasploit-exploit-launcher | ['exploit', 'metasploit module OR payload'] | 2 | 2021-10-19 14:44:00+00:00 | 7 | 1 | Python | 0 | [] |
-| herwonowr/exprolog | ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065) | https://github.com/herwonowr/exprolog | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-19 07:07:28+00:00 | 373 | 80 | Python | 25 | [] |
 | henryhuangbc/tradetower-exploit | None | https://github.com/henryhuangbc/tradetower-exploit | ['exploit'] | 1 | 2021-10-19 04:15:53+00:00 | 6 | 0 | Lua | 0 | [] |
 | minhaj981/Metasploit | Usage of Metasploit. A best tools for hacking. | https://github.com/minhaj981/Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-19 13:39:33+00:00 | 23863 | 0 | | 0 | [] |
 | y9x/webpack | Krunker cheats with shared libraries, built with Webpack. | https://github.com/y9x/webpack | ['sploit'] | 1 | 2021-10-19 02:07:18+00:00 | 1392 | 4 | JavaScript | 1 | [] |
@@ -105,8 +106,8 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-19 04:02:06+00:00 | 82133 | 214 | Python | 62 | [] |
 | gittina/expressyouRcell | None | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2021-10-19 12:38:33+00:00 | 3504 | 0 | R | 0 | [] |
 | HadiMed/pwn | Exploits for some pwn challenges on windows and linux . | https://github.com/HadiMed/pwn | ['exploit'] | 1 | 2021-10-19 20:14:29+00:00 | 520 | 0 | Python | 0 | [] |
+| herwonowr/exprolog | ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065) | https://github.com/herwonowr/exprolog | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-19 07:07:28+00:00 | 373 | 80 | Python | 25 | [] |
 | xxycfhb/pku_exploit_files | None | https://github.com/xxycfhb/pku_exploit_files | ['exploit'] | 1 | 2021-10-19 09:07:10+00:00 | 153773 | 3 | | 0 | [] |
-| bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2021-10-19 14:37:51+00:00 | 4546 | 620 | C | 81 | [] |
 | swagkarna/Rafel-Rat | -------> RAFEL<------ Android Rat Written in Java With WebPanel For Controlling Victims...Hack Android Devices | https://github.com/swagkarna/Rafel-Rat | ['exploit'] | 1 | 2021-10-19 04:39:02+00:00 | 139679 | 233 | PHP | 126 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-19 00:41:38+00:00 | 73 | 0 | PHP | 0 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2021-10-19 04:18:27+00:00 | 6974 | 1 | Java | 0 | [] |
@@ -118,4 +119,5 @@
 | mineo333/GhostFops | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | ['exploit'] | 1 | 2021-10-19 03:27:37+00:00 | 827 | 1 | C | 1 | [] |
 | VinAIResearch/mDSDI | Repository for the NeurIPS 2021 paper: "Exploiting Domain-Specific Features to Enhance Domain Generalization". | https://github.com/VinAIResearch/mDSDI | ['exploit'] | 1 | 2021-10-19 05:14:15+00:00 | 2215 | 2 | Python | 0 | [] |
 | sketchyboi14/PhoneSploitGui | A GUI version of the PhoneSpoit CLI tool. | https://github.com/sketchyboi14/PhoneSploitGui | ['sploit'] | 1 | 2021-10-19 23:18:58+00:00 | 17721 | 1 | Python | 0 | [] |
+| bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2021-10-19 14:37:51+00:00 | 4546 | 620 | C | 81 | [] |
 | RandomRhythm/winVulnAssess | Assess a mounted Windows volume for exploitable vulnerabilities | https://github.com/RandomRhythm/winVulnAssess | ['exploit'] | 1 | 2021-10-19 21:08:50+00:00 | 0 | 0 | VBScript | 0 | [] |
