@@ -1,14 +1,12 @@
 
 # Summary for results/2021/10/20
     
-44 records found after deduplication
+47 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-20 00:24:12+00:00 | 645975 | 25367 | Ruby | 11669 | [] |
-| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-20 01:33:22+00:00 | 27152 | 8386 | Python | 1451 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-20 01:11:05+00:00 | 14229 | 2 | Python | 0 | [] |
-| rockdiary/RCETC | nan | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-20 05:18:37+00:00 | 11376 | 0 | HTML | 0 | [] |
+| Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-20 09:22:09+00:00 | 1 | 0 | | 0 | [] |
 | STRT-Official/Ansploit | Android exploits made easy. | https://github.com/STRT-Official/Ansploit | ['exploit'] | 1 | 2021-10-20 05:54:52+00:00 | 8 | 1 | Python | 0 | [] |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-10-20 05:04:58+00:00 | 52 | 0 | | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-10-20 00:41:52+00:00 | 199 | 0 | TypeScript | 0 | [] |
@@ -19,6 +17,7 @@
 | musergi/CVE-2021-3156 | None | https://github.com/musergi/CVE-2021-3156 | ['cve-2 OR cve_2'] | 1 | 2021-10-20 08:05:47+00:00 | 2 | 1 | C | 0 | ['CVE-2021-3156'] |
 | plackyhacker/Shellcode-Injection-Techniques | A collection of C# shellcode injection techniques. All techniques use an AES encrypted meterpreter payload. I will be building this project up as I learn, discover or develop more techniques. Some techniques are better than others at bypassing AV. | https://github.com/plackyhacker/Shellcode-Injection-Techniques | ['shellcode'] | 1 | 2021-10-20 06:58:18+00:00 | 89 | 143 | C# | 22 | [] |
 | jonathandata1/verizon_samsung_auto_enable_adb | Auto Enable ADB Zero-Day Exploit, Samsung Verizon Devices | https://github.com/jonathandata1/verizon_samsung_auto_enable_adb | ['exploit'] | 1 | 2021-10-20 03:54:11+00:00 | 720 | 4 | Shell | 2 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-20 01:11:05+00:00 | 14229 | 2 | Python | 0 | [] |
 | cloudbyteelias/CVE-2021-41773 | CVE-2021-41773 Docker lab | https://github.com/cloudbyteelias/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-20 01:21:34+00:00 | 0 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
 | soumenbondhu/ML-project-using-Titenic-Data | Logistic Regression is being used in this project . For handling the Nan values , the Group by method is being used for Filling the ‘age’ column .The correlation is being exploited by heatmap. The model has achieved 83% of training accuracy | https://github.com/soumenbondhu/ML-project-using-Titenic-Data | ['exploit'] | 1 | 2021-10-20 04:03:31+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | 00xData/Metasploit-Fast-Handlers | None | https://github.com/00xData/Metasploit-Fast-Handlers | ['metasploit module OR payload'] | 1 | 2021-10-20 04:35:58+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -26,10 +25,12 @@
 | Bubleh21/CVE-2021-3156 | CVE-2021-3156 exploit | https://github.com/Bubleh21/CVE-2021-3156 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-20 07:48:38+00:00 | 11 | 0 | C | 0 | ['CVE-2021-3156'] |
 | adwait1-G/bof-and-exploits | Repo consisting of all lab exercises of a workshop I conducted on BOF and exploits in Cisco SecCon 2021. | https://github.com/adwait1-G/bof-and-exploits | ['exploit'] | 1 | 2021-10-20 07:44:19+00:00 | 0 | 0 | Python | 0 | [] |
 | ConMiko/CVE-2021-31166-exploit | Just a simple CVE-2021-31166 exploit tool | https://github.com/ConMiko/CVE-2021-31166-exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-20 07:50:52+00:00 | 0 | 1 | | 0 | ['CVE-2021-31166'] |
+| Axelle-Donot/Sys_Exploite | None | https://github.com/Axelle-Donot/Sys_Exploite | ['exploit'] | 1 | 2021-10-20 08:26:21+00:00 | 0 | 0 | C | 0 | [] |
+| Henry4E36/dedecms_5.8.1_RCE | dedecms_5.8.1代码执行漏洞 | https://github.com/Henry4E36/dedecms_5.8.1_RCE | ['rce'] | 1 | 2021-10-20 09:18:33+00:00 | 0 | 2 | Python | 0 | [] |
+| rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-20 05:18:37+00:00 | 11376 | 0 | HTML | 0 | [] |
 | ZephrFish/CVE-2021-22893_HoneyPoC2 | DO NOT RUN THIS. | https://github.com/ZephrFish/CVE-2021-22893_HoneyPoC2 | ['cve-2 OR cve_2'] | 1 | 2021-10-20 01:14:45+00:00 | 25 | 44 | Shell | 17 | ['CVE-2021-22893'] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-20 04:02:04+00:00 | 84757 | 214 | Python | 62 | [] |
-| tencentcloud-sdk-php/rce | nan | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-20 01:15:17+00:00 | 73 | 0 | PHP | 0 | [] |
-| bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2021-10-20 02:39:14+00:00 | 15716 | 260 | C | 37 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-20 01:33:22+00:00 | 27152 | 8386 | Python | 1451 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-20 06:45:07+00:00 | 37153 | 23 | | 14 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-20 05:07:49+00:00 | 265014 | 6543 | C | 1810 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-20 06:02:42+00:00 | 5531 | 2939 | Python | 651 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-20 00:16:56+00:00 | 157662 | 252 | Ruby | 77 | [] |
@@ -38,9 +39,9 @@
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-10-20 08:35:33+00:00 | 294849 | 81 | Python | 13 | [] |
 | snyk/exploit-workshop | A step by step workshop to exploit various vulnerabilities in Node.js and Java applications | https://github.com/snyk/exploit-workshop | ['exploit'] | 1 | 2021-10-20 06:39:10+00:00 | 5282 | 129 | | 77 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-20 01:31:03+00:00 | 852 | 243 | Rust | 13 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-20 06:45:07+00:00 | 37153 | 23 | | 14 | [] |
-| nighthawkk/Linux-LPE-Checker | A script to check LPE in linux | https://github.com/nighthawkk/Linux-LPE-Checker | ['exploit'] | 1 | 2021-10-20 07:13:56+00:00 | 7 | 0 | Python | 1 | [] |
+| bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2021-10-20 02:39:14+00:00 | 15716 | 260 | C | 37 | [] |
 | Patrowl/PatrowlHears | PatrowlHears - Vulnerability Intelligence Center / Exploits | https://github.com/Patrowl/PatrowlHears | ['exploit'] | 1 | 2021-10-20 07:52:56+00:00 | 497250 | 107 | Python | 37 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-20 04:02:04+00:00 | 84757 | 214 | Python | 62 | [] |
 | vulsio/go-msfdb | CVEs <--> Metasploit-Framework modules | https://github.com/vulsio/go-msfdb | ['metasploit module OR payload'] | 1 | 2021-10-20 03:16:52+00:00 | 274 | 7 | Go | 7 | [] |
 | bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2021-10-20 07:15:43+00:00 | 4546 | 621 | C | 81 | [] |
 | plackyhacker/Shellcode-Encryptor | A simple shell code encryptor/decryptor/executor to bypass anti virus. | https://github.com/plackyhacker/Shellcode-Encryptor | ['shellcode'] | 1 | 2021-10-20 07:03:28+00:00 | 2847 | 61 | C# | 10 | [] |
@@ -48,4 +49,6 @@
 | s0i37/shellcode_inject | inject and run code into arbitrary process (x86 and x64) | https://github.com/s0i37/shellcode_inject | ['shellcode'] | 1 | 2021-10-20 06:05:07+00:00 | 147 | 8 | C | 1 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2021-10-20 02:39:09+00:00 | 187954 | 113 | C | 21 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-20 00:03:42+00:00 | 421811 | 32 | | 19 | [] |
-| Axelle-Donot/Sys_Exploite | None | https://github.com/Axelle-Donot/Sys_Exploite | ['exploit'] | 1 | 2021-10-20 08:26:21+00:00 | 0 | 0 | C | 0 | [] |
+| nighthawkk/Linux-LPE-Checker | A script to check LPE in linux | https://github.com/nighthawkk/Linux-LPE-Checker | ['exploit'] | 1 | 2021-10-20 07:13:56+00:00 | 7 | 0 | Python | 1 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-20 01:15:17+00:00 | 73 | 0 | PHP | 0 | [] |
+| HetuLib/dedecms_5.8.1_RCE | dedecms_5.8.1代码执行漏洞 | https://github.com/HetuLib/dedecms_5.8.1_RCE | ['rce'] | 1 | 2021-10-20 09:12:50+00:00 | 0 | 0 | Python | 0 | [] |
