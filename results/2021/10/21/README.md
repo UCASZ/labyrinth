@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/21
     
-14 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
@@ -13,8 +13,10 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-21 00:03:37+00:00 | 427008 | 32 | | 19 | [] |
 | gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-21 00:01:30+00:00 | 1270 | 174 | Python | 37 | [] |
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-10-21 02:12:27+00:00 | 89 | 0 | Python | 0 | [] |
+| P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-10-21 03:01:28+00:00 | 12434 | 1 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-21 01:15:05+00:00 | 15688 | 2 | Python | 0 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2021-10-21 00:19:35+00:00 | 112 | 0 | Lua | 0 | [] |
+| aesophor/requiem | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-10-21 02:51:21+00:00 | 9451 | 11 | C++ | 3 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-21 02:25:25+00:00 | 253 | 0 | Lua | 0 | [] |
 | HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2021-10-21 00:43:54+00:00 | 335 | 0 | CSS | 1 | [] |
 | TheBoinkner/AccountRecoveryForWindows | Allows you to gain to recover windows accounts via the ease of access cmd swap exploit with ease | https://github.com/TheBoinkner/AccountRecoveryForWindows | ['exploit'] | 1 | 2021-10-21 01:05:00+00:00 | 8 | 0 | C# | 0 | [] |
