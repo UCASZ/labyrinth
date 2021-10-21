@@ -1,17 +1,21 @@
 
 # Summary for results/2021/10/21
     
-24 records found after deduplication
+30 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------|
+|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-21 00:42:59+00:00 | 645982 | 25381 | Ruby | 11677 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-21 05:07:50+00:00 | 267101 | 6545 | C | 1810 | [] |
+| ManhKhoa1507/Secure-Programming-and-Exploiting-Vulnerabilities | None | https://github.com/ManhKhoa1507/Secure-Programming-and-Exploiting-Vulnerabilities | ['exploit'] | 1 | 2021-10-21 06:46:03+00:00 | 0 | 0 | Python | 0 | [] |
+| Skyro468/Metasploitable | None | https://github.com/Skyro468/Metasploitable | ['metasploit module OR payload'] | 1 | 2021-10-21 05:01:34+00:00 | 0 | 0 | | 0 | [] |
 | bobroblox123/hackbss | for n,e in pairs({(function(e,...)local k="This file was obfuscated using PSU Obfuscator 4.0.A _ https://www.psu.dev/ & discord.gg/psu";local d=e[(87840425)];local _=e['fY0mAN0My'];local Q=e[(646335424)];local G=e.HaVOfqgRX2;local t=e.QYyiVi0oXu;local F=e[ | https://github.com/bobroblox123/hackbss | ['exploit'] | 1 | 2021-10-21 01:55:54+00:00 | 0 | 0 | | 0 | [] |
 | JUICY00000/Vindicator | Advanced Undetectable Loader Using Fibers [With a Pro Version] | https://github.com/JUICY00000/Vindicator | ['shellcode'] | 1 | 2021-10-21 06:34:17+00:00 | 16 | 0 | C++ | 0 | [] |
 | TheBoinkner/AccountRecoveryForWindows | Allows you to gain to recover windows accounts via the ease of access cmd swap exploit with ease | https://github.com/TheBoinkner/AccountRecoveryForWindows | ['exploit'] | 1 | 2021-10-21 01:05:00+00:00 | 8 | 0 | C# | 0 | [] |
 | HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2021-10-21 00:43:54+00:00 | 335 | 0 | CSS | 1 | [] |
+| LudovicPatho/CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 07:26:13+00:00 | 58 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-21 02:25:25+00:00 | 253 | 0 | Lua | 0 | [] |
+| WCBandit/Shell-Basher | A tool developed to simplify the exploiting of web-shells. | https://github.com/WCBandit/Shell-Basher | ['exploit'] | 1 | 2021-10-21 07:18:43+00:00 | 3 | 1 | | 0 | [] |
 | aesophor/requiem | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-10-21 02:51:21+00:00 | 9451 | 11 | C++ | 3 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2021-10-21 00:19:35+00:00 | 112 | 0 | Lua | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-21 01:15:05+00:00 | 15688 | 2 | Python | 0 | [] |
@@ -24,8 +28,10 @@
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-10-21 06:31:59+00:00 | 20 | 0 | | 0 | [] |
 | d4t4s3c/Win7Blue | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2021-10-21 06:21:09+00:00 | 1691 | 14 | Python | 3 | ['MS17-010'] |
 | 0xricksanchez/paper_collection | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | ['exploit'] | 1 | 2021-10-21 06:28:19+00:00 | 69 | 805 | | 90 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-21 06:45:06+00:00 | 37845 | 23 | | 14 | [] |
 | guldenolgun/NoRCE | Non-coding RNA sets Cis Enrichment Tool (NoRCE) | https://github.com/guldenolgun/NoRCE | ['rce'] | 1 | 2021-10-21 02:31:13+00:00 | 73920 | 1 | R | 1 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-10-21 01:01:13+00:00 | 517 | 103 | Julia | 22 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-21 01:36:36+00:00 | 2760356 | 353 | | 53 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-21 00:17:10+00:00 | 159184 | 252 | Ruby | 77 | [] |
-| Skyro468/Metasploitable | None | https://github.com/Skyro468/Metasploitable | ['metasploit module OR payload'] | 1 | 2021-10-21 05:01:34+00:00 | 0 | 0 | | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-21 06:49:43+00:00 | 5551 | 2946 | Python | 651 | [] |
+| BKannan007/Exploiting-server | This is an exploiting server for bug hunting POC | https://github.com/BKannan007/Exploiting-server | ['exploit'] | 1 | 2021-10-21 07:06:36+00:00 | 0 | 0 | HTML | 0 | [] |
