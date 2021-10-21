@@ -1,13 +1,14 @@
 
 # Summary for results/2021/10/21
     
-20 records found after deduplication
+24 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-21 00:42:59+00:00 | 645982 | 25381 | Ruby | 11677 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-21 05:07:50+00:00 | 267101 | 6545 | C | 1810 | [] |
 | bobroblox123/hackbss | for n,e in pairs({(function(e,...)local k="This file was obfuscated using PSU Obfuscator 4.0.A _ https://www.psu.dev/ & discord.gg/psu";local d=e[(87840425)];local _=e['fY0mAN0My'];local Q=e[(646335424)];local G=e.HaVOfqgRX2;local t=e.QYyiVi0oXu;local F=e[ | https://github.com/bobroblox123/hackbss | ['exploit'] | 1 | 2021-10-21 01:55:54+00:00 | 0 | 0 | | 0 | [] |
+| JUICY00000/Vindicator | Advanced Undetectable Loader Using Fibers [With a Pro Version] | https://github.com/JUICY00000/Vindicator | ['shellcode'] | 1 | 2021-10-21 06:34:17+00:00 | 16 | 0 | C++ | 0 | [] |
 | TheBoinkner/AccountRecoveryForWindows | Allows you to gain to recover windows accounts via the ease of access cmd swap exploit with ease | https://github.com/TheBoinkner/AccountRecoveryForWindows | ['exploit'] | 1 | 2021-10-21 01:05:00+00:00 | 8 | 0 | C# | 0 | [] |
 | HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2021-10-21 00:43:54+00:00 | 335 | 0 | CSS | 1 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-21 02:25:25+00:00 | 253 | 0 | Lua | 0 | [] |
@@ -20,6 +21,9 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-21 04:02:05+00:00 | 87379 | 214 | Python | 62 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-21 05:16:52+00:00 | 74 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-21 00:03:37+00:00 | 427008 | 32 | | 19 | [] |
+| edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-10-21 06:31:59+00:00 | 20 | 0 | | 0 | [] |
+| d4t4s3c/Win7Blue | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2021-10-21 06:21:09+00:00 | 1691 | 14 | Python | 3 | ['MS17-010'] |
+| 0xricksanchez/paper_collection | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | ['exploit'] | 1 | 2021-10-21 06:28:19+00:00 | 69 | 805 | | 90 | [] |
 | guldenolgun/NoRCE | Non-coding RNA sets Cis Enrichment Tool (NoRCE) | https://github.com/guldenolgun/NoRCE | ['rce'] | 1 | 2021-10-21 02:31:13+00:00 | 73920 | 1 | R | 1 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-10-21 01:01:13+00:00 | 517 | 103 | Julia | 22 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-21 01:36:36+00:00 | 2760356 | 353 | | 53 | [] |
