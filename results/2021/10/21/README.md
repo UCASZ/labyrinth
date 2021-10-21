@@ -1,16 +1,17 @@
 
 # Summary for results/2021/10/21
     
-55 records found after deduplication
+59 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-21 00:42:59+00:00 | 645982 | 25381 | Ruby | 11677 | [] |
 | LudovicPatho/CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 07:26:13+00:00 | 58 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-21 01:15:05+00:00 | 15688 | 2 | Python | 0 | [] |
+| rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-21 13:03:04+00:00 | 16388 | 0 | HTML | 0 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2021-10-21 00:19:35+00:00 | 112 | 0 | Lua | 0 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 09:12:37+00:00 | 3274 | 5 | Python | 1 | [] |
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-10-21 09:46:44+00:00 | 18785 | 1 | | 1 | [] |
+| AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-10-21 13:07:09+00:00 | 74259 | 1 | CSS | 0 | [] |
 | aesophor/requiem | 🎻 Automatic Exploit Generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-10-21 02:51:21+00:00 | 9451 | 11 | C++ | 3 | [] |
 | kal1gh0st/CVE-2021-40444_CAB_archives | CVE 2021 40444 Windows Exploit services.dll | https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-21 09:46:39+00:00 | 5 | 1 | Python | 0 | ['CVE-2021-40444'] |
 | sergiopicascia/thesis | Exploitation of Lyrics, Music and Vocals in Multimodal Song Classification Systems | https://github.com/sergiopicascia/thesis | ['exploit'] | 1 | 2021-10-21 09:48:09+00:00 | 125568 | 0 | Jupyter Notebook | 0 | [] |
@@ -19,7 +20,7 @@
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-21 02:25:25+00:00 | 253 | 0 | Lua | 0 | [] |
 | nerap/McTrade | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-10-21 08:55:29+00:00 | 198 | 2 | Python | 1 | [] |
 | HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2021-10-21 00:43:54+00:00 | 335 | 0 | CSS | 1 | [] |
-| thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-10-21 02:12:27+00:00 | 89 | 0 | Python | 0 | [] |
+| P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-10-21 03:01:28+00:00 | 12434 | 1 | | 0 | [] |
 | TheBoinkner/AccountRecoveryForWindows | Allows you to gain to recover windows accounts via the ease of access cmd swap exploit with ease | https://github.com/TheBoinkner/AccountRecoveryForWindows | ['exploit'] | 1 | 2021-10-21 01:05:00+00:00 | 8 | 0 | C# | 0 | [] |
 | JUICY00000/Vindicator | Advanced Undetectable Loader Using Fibers [With a Pro Version] | https://github.com/JUICY00000/Vindicator | ['shellcode'] | 1 | 2021-10-21 06:34:17+00:00 | 16 | 0 | C++ | 0 | [] |
 | bobroblox123/hackbss | for n,e in pairs({(function(e,...)local k="This file was obfuscated using PSU Obfuscator 4.0.A _ https://www.psu.dev/ & discord.gg/psu";local d=e[(87840425)];local _=e['fY0mAN0My'];local Q=e[(646335424)];local G=e.HaVOfqgRX2;local t=e.QYyiVi0oXu;local F=e[ | https://github.com/bobroblox123/hackbss | ['exploit'] | 1 | 2021-10-21 01:55:54+00:00 | 0 | 0 | | 0 | [] |
@@ -31,10 +32,12 @@
 | itoh-web/exploit | None | https://github.com/itoh-web/exploit | ['exploit'] | 1 | 2021-10-21 10:14:15+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | IsraelAbaho/color-change-application | I made this application to exploit my skills with indexes in JavaScript. Each color on the parret on clicked changes the color in the main division | https://github.com/IsraelAbaho/color-change-application | ['exploit'] | 1 | 2021-10-21 11:07:09+00:00 | 0 | 0 | SCSS | 0 | [] |
 | sinjeanmin/cvedetails_2020 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 11:33:29+00:00 | 1141 | 0 | | 0 | [] |
-| P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-10-21 03:01:28+00:00 | 12434 | 1 | | 0 | [] |
-| nibrasmuhamed/CTF-Walkthrough | This repository contains hints to exploit and capture flag of CTF machines from various platforms. this isn't a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | ['exploit'] | 1 | 2021-10-21 12:22:19+00:00 | 2095 | 0 | | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-21 05:07:50+00:00 | 267101 | 6545 | C | 1810 | [] |
+| kmngtkm/command_injection | コマンドインジェクション検証用の脆弱性のあるアプリケーション | https://github.com/kmngtkm/command_injection | ['command injection'] | 1 | 2021-10-21 13:04:40+00:00 | 3 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-21 01:15:05+00:00 | 15688 | 2 | Python | 0 | [] |
+| thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-10-21 02:12:27+00:00 | 89 | 0 | Python | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-21 13:14:33+00:00 | 21879 | 6056 | JavaScript | 1445 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-21 09:08:26+00:00 | 35956 | 5915 | Vue | 1238 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-21 05:07:50+00:00 | 267101 | 6545 | C | 1810 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-21 06:49:43+00:00 | 5551 | 2946 | Python | 651 | [] |
 | seduceIDS/seduce | ShellcodE Detection Using CPU Emulation | https://github.com/seduceIDS/seduce | ['shellcode'] | 1 | 2021-10-21 11:22:22+00:00 | 6862 | 0 | C | 0 | [] |
 | techdivision/import-cli-simple | This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can | https://github.com/techdivision/import-cli-simple | ['command injection'] | 1 | 2021-10-21 11:12:32+00:00 | 9212 | 67 | PHP | 15 | [] |
@@ -47,7 +50,7 @@
 | guldenolgun/NoRCE | Non-coding RNA sets Cis Enrichment Tool (NoRCE) | https://github.com/guldenolgun/NoRCE | ['rce'] | 1 | 2021-10-21 02:31:13+00:00 | 73920 | 1 | R | 1 | [] |
 | gobysec/Goby | Attack surface mapping | https://github.com/gobysec/Goby | ['exploit'] | 1 | 2021-10-21 07:42:24+00:00 | 4554 | 679 | | 80 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-21 06:45:06+00:00 | 37845 | 23 | | 14 | [] |
-| gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-21 00:01:30+00:00 | 1270 | 174 | Python | 37 | [] |
+| nibrasmuhamed/CTF-Walkthrough | This repository contains hints to exploit and capture flag of CTF machines from various platforms. this isn't a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | ['exploit'] | 1 | 2021-10-21 12:22:19+00:00 | 2095 | 0 | | 0 | [] |
 | 0xricksanchez/paper_collection | Academic papers related to fuzzing, binary analysis, and exploit dev, which I want to read or have already read | https://github.com/0xricksanchez/paper_collection | ['exploit'] | 1 | 2021-10-21 06:28:19+00:00 | 69 | 805 | | 90 | [] |
 | JimChr-R4GN4R/GreyNoiseSploit | GreyNoiseSploit is a script that help you use GreyNoise.io API simply,fast and with extra features! | https://github.com/JimChr-R4GN4R/GreyNoiseSploit | ['sploit'] | 1 | 2021-10-21 11:48:35+00:00 | 101 | 1 | Python | 0 | [] |
 | d4t4s3c/Win7Blue | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2021-10-21 06:21:09+00:00 | 1691 | 14 | Python | 3 | ['MS17-010'] |
@@ -59,4 +62,5 @@
 | kal1gh0st/WhatsAppHACK-RCE | Whatsapp remote code execution CVE-2019-11932 https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/ | https://github.com/kal1gh0st/WhatsAppHACK-RCE | ['rce', 'remote code execution'] | 2 | 2021-10-21 09:44:08+00:00 | 2869 | 4 | CSS | 0 | ['CVE-2019-11932'] |
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-10-21 07:42:43+00:00 | 4278 | 73 | HTML | 30 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-21 04:02:05+00:00 | 87379 | 214 | Python | 62 | [] |
+| gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-21 00:01:30+00:00 | 1270 | 174 | Python | 37 | [] |
 | ItsFadinG/CVE-2018-11235 | None | https://github.com/ItsFadinG/CVE-2018-11235 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 12:12:17+00:00 | 0 | 0 | | 0 | ['CVE-2018-11235'] |
