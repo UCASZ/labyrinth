@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/22
     
-62 records found after deduplication
+66 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -13,6 +13,7 @@
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-22 00:14:41+00:00 | 2810 | 72 | JavaScript | 122 | [] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-22 14:41:03+00:00 | 64 | 36 | C# | 9 | [] |
 | vi11ain/phoenix-writeup | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | ['exploit'] | 1 | 2021-10-22 13:34:00+00:00 | 238 | 0 | | 0 | [] |
+| Badbird3/BrowserExploitStudy | None | https://github.com/Badbird3/BrowserExploitStudy | ['exploit'] | 1 | 2021-10-22 17:17:23+00:00 | 351 | 0 | HTML | 0 | [] |
 | NotFoundHacker/KaliExploit | None | https://github.com/NotFoundHacker/KaliExploit | ['exploit'] | 1 | 2021-10-22 10:59:36+00:00 | 87 | 0 | Python | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-22 13:29:00+00:00 | 63 | 1 | Python | 0 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-22 03:17:58+00:00 | 272 | 0 | Lua | 0 | [] |
@@ -35,13 +36,15 @@
 | Cerbersec/EarlyBird | shellcode injector using EarlyBird QueueApcThread, PPID spoofing, MS CIG and direct sys calls. | https://github.com/Cerbersec/EarlyBird | ['shellcode'] | 1 | 2021-10-22 15:10:43+00:00 | 0 | 0 | C | 0 | [] |
 | BabyTeam1024/CVE-2021-41773 | None | https://github.com/BabyTeam1024/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-22 15:23:56+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
 | cckuailong/CVE-2021-2471 | None | https://github.com/cckuailong/CVE-2021-2471 | ['cve-2 OR cve_2'] | 1 | 2021-10-22 15:36:39+00:00 | 0 | 0 | | 0 | ['CVE-2021-2471'] |
+| pizza-power/motioneye-authenticated-RCE | A Python 3 script that uploads a tasks.pickle file that enables RCE in MotionEye | https://github.com/pizza-power/motioneye-authenticated-RCE | ['rce'] | 1 | 2021-10-22 16:18:13+00:00 | 0 | 0 | Python | 0 | [] |
 | Sebastians349/ui-rcel | None | https://github.com/Sebastians349/ui-rcel | ['rce'] | 1 | 2021-10-22 14:14:09+00:00 | 544 | 0 | JavaScript | 0 | [] |
+| I2345/FelixHub | A Paid Roblox Exploit Hub | https://github.com/I2345/FelixHub | ['exploit'] | 1 | 2021-10-22 16:51:54+00:00 | 135 | 0 | | 0 | [] |
 | AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-10-22 13:10:58+00:00 | 74270 | 1 | CSS | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-22 01:18:13+00:00 | 17021 | 2 | Python | 0 | [] |
-| REW-sploit/REW-sploit | Emulate and Dissect MSF and *other* attacks | https://github.com/REW-sploit/REW-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-10-22 14:17:43+00:00 | 1377 | 105 | Python | 17 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-22 01:31:35+00:00 | 27152 | 8398 | Python | 1453 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-22 05:07:57+00:00 | 269169 | 6549 | C | 1810 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-22 06:14:11+00:00 | 5555 | 2949 | Python | 651 | [] |
+| danielga/gmsv_serversecure | A module for Garry's Mod that mitigates exploits on the Source engine. | https://github.com/danielga/gmsv_serversecure | ['exploit'] | 1 | 2021-10-22 17:21:09+00:00 | 432 | 77 | C++ | 21 | [] |
 | CBIIT/rcellminerData | None | https://github.com/CBIIT/rcellminerData | ['rce'] | 1 | 2021-10-22 13:17:27+00:00 | 527290 | 2 | R | 1 | [] |
 | techdivision/import-cli-simple | This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can | https://github.com/techdivision/import-cli-simple | ['command injection'] | 1 | 2021-10-22 14:44:33+00:00 | 9212 | 67 | PHP | 15 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-22 11:35:04+00:00 | 72964 | 10231 | Jupyter Notebook | 1753 | [] |
@@ -66,4 +69,5 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-22 04:01:53+00:00 | 89480 | 214 | Python | 62 | [] |
 | mauricelambert/PyWCGIshell | This package implement a WebShell for CGI and WSGI server. | https://github.com/mauricelambert/PyWCGIshell | ['exploit'] | 1 | 2021-10-22 06:57:40+00:00 | 63 | 1 | Python | 0 | [] |
 | RudigerMorinDocter/CSRF-Attender | CSRF Attender is a Burp Suite extension that illustrates a PoC for automatically generating CSRF attacks on a WebSite (works only for GET requests and HTTP1.1) | https://github.com/RudigerMorinDocter/CSRF-Attender | ['attack poc'] | 1 | 2021-10-22 10:13:01+00:00 | 142 | 1 | Java | 0 | [] |
-| pizza-power/motioneye-authenticated-RCE | A Python 3 script that uploads a tasks.pickle file that enables RCE in MotionEye | https://github.com/pizza-power/motioneye-authenticated-RCE | ['rce'] | 1 | 2021-10-22 16:18:13+00:00 | 0 | 0 | Python | 0 | [] |
+| REW-sploit/REW-sploit | Emulate and Dissect MSF and *other* attacks | https://github.com/REW-sploit/REW-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-10-22 14:17:43+00:00 | 1377 | 105 | Python | 17 | [] |
+| arsium/ShellCodeLoaderDlang | A class to load shellcode in memory written in D | https://github.com/arsium/ShellCodeLoaderDlang | ['shellcode'] | 1 | 2021-10-22 17:11:04+00:00 | 0 | 0 | D | 0 | [] |
