@@ -1,21 +1,22 @@
 
 # Summary for results/2021/10/22
     
-41 records found after deduplication
+42 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-22 00:51:39+00:00 | 646152 | 25390 | Ruby | 11679 | [] |
-| RudigerMorinDocter/CSRF-Attender | CSRF Attender is a Burp Suite extension that illustrates a PoC for automatically generating CSRF attacks on a WebSite (works only for GET requests and HTTP1.1) | https://github.com/RudigerMorinDocter/CSRF-Attender | ['attack poc'] | 1 | 2021-10-22 10:13:01+00:00 | 142 | 1 | Java | 0 | [] |
+| senhaxor/msf_shellcode | None | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2021-10-22 03:47:59+00:00 | 6 | 0 | | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-10-22 01:16:11+00:00 | 209 | 0 | TypeScript | 0 | [] |
 | dock0d1/CVE-2021-26084_Confluence | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-22 04:53:43+00:00 | 6 | 0 | Python | 1 | ['CVE-2021-26084'] |
 | ManuelHuber-Github/Agricultural-SandboxNL | Agricultural Monitoring exploiting Sentinel 1 and Sentinel 2. SandboxNL contains detailed explanations about the creation and usage of the parcel based Sentinel datasets. | https://github.com/ManuelHuber-Github/Agricultural-SandboxNL | ['exploit'] | 1 | 2021-10-22 06:58:22+00:00 | 6219 | 0 | Jupyter Notebook | 1 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-22 00:14:41+00:00 | 2810 | 72 | JavaScript | 122 | [] |
+| NotFoundHacker/KaliExploit | None | https://github.com/NotFoundHacker/KaliExploit | ['exploit'] | 1 | 2021-10-22 10:59:36+00:00 | 87 | 0 | Python | 0 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-22 03:17:58+00:00 | 272 | 0 | Lua | 0 | [] |
 | DefconAlliance/php-Exploit | Trigger payload directly from URL | https://github.com/DefconAlliance/php-Exploit | ['exploit'] | 1 | 2021-10-22 07:09:30+00:00 | 148 | 0 | HTML | 0 | [] |
 | mubarakone/CaptureTheEther | Copies of the CaptureTheEther CTF challenges, exploited, audited and commented of the audit process. | https://github.com/mubarakone/CaptureTheEther | ['exploit'] | 1 | 2021-10-22 00:44:15+00:00 | 78 | 0 | Solidity | 0 | [] |
-| senhaxor/msf_shellcode | None | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2021-10-22 03:47:59+00:00 | 6 | 0 | | 0 | [] |
 | Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-22 07:24:27+00:00 | 3 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-22 01:05:01+00:00 | 21879 | 6057 | JavaScript | 1446 | [] |
 | jonathandata1/verizon_samsung_auto_enable_adb | Auto Enable ADB Zero-Day Exploit, Samsung Verizon Devices | https://github.com/jonathandata1/verizon_samsung_auto_enable_adb | ['exploit'] | 1 | 2021-10-22 00:10:21+00:00 | 2510 | 8 | Shell | 3 | [] |
 | mauricelambert/WebScriptsWebShell | Install a WebShell on hardened and deployed WebScripts (using Apache and mod_wsgi). | https://github.com/mauricelambert/WebScriptsWebShell | ['exploit'] | 1 | 2021-10-22 06:59:17+00:00 | 17 | 0 | Python | 0 | [] |
 | cshewmake2/cone-classification | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects' cone cl | https://github.com/cshewmake2/cone-classification | ['exploit'] | 1 | 2021-10-22 03:55:21+00:00 | 1629 | 0 | Jupyter Notebook | 0 | [] |
@@ -25,8 +26,8 @@
 | scopion/CVE-2017-3241 | None | https://github.com/scopion/CVE-2017-3241 | ['cve-2 OR cve_2'] | 1 | 2021-10-22 03:40:42+00:00 | 0 | 0 | | 0 | ['CVE-2017-3241'] |
 | Lucijan2556/Fixed-WeAreDevs-exploit-template | None | https://github.com/Lucijan2556/Fixed-WeAreDevs-exploit-template | ['exploit'] | 1 | 2021-10-22 08:33:18+00:00 | 0 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-22 01:18:13+00:00 | 17021 | 2 | Python | 0 | [] |
+| RudigerMorinDocter/CSRF-Attender | CSRF Attender is a Burp Suite extension that illustrates a PoC for automatically generating CSRF attacks on a WebSite (works only for GET requests and HTTP1.1) | https://github.com/RudigerMorinDocter/CSRF-Attender | ['attack poc'] | 1 | 2021-10-22 10:13:01+00:00 | 142 | 1 | Java | 0 | [] |
 | mauricelambert/PyWCGIshell | This package implement a WebShell for CGI and WSGI server. | https://github.com/mauricelambert/PyWCGIshell | ['exploit'] | 1 | 2021-10-22 06:57:40+00:00 | 63 | 1 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-22 01:05:01+00:00 | 21879 | 6057 | JavaScript | 1446 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-22 04:01:53+00:00 | 89480 | 214 | Python | 62 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-22 01:31:35+00:00 | 27152 | 8398 | Python | 1453 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-22 05:07:57+00:00 | 269169 | 6549 | C | 1810 | [] |
