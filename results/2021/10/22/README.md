@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/22
     
-58 records found after deduplication
+62 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-22 00:51:39+00:00 | 646152 | 25390 | Ruby | 11679 | [] |
-| senhaxor/msf_shellcode | None | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2021-10-22 03:47:59+00:00 | 6 | 0 | | 0 | [] |
+| Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-22 07:24:27+00:00 | 3 | 0 | | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-10-22 01:16:11+00:00 | 209 | 0 | TypeScript | 0 | [] |
 | dock0d1/CVE-2021-26084_Confluence | Exploit CVE 2021 26084 Confluence | https://github.com/dock0d1/CVE-2021-26084_Confluence | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-22 04:53:43+00:00 | 6 | 0 | Python | 1 | ['CVE-2021-26084'] |
 | ManuelHuber-Github/Agricultural-SandboxNL | Agricultural Monitoring exploiting Sentinel 1 and Sentinel 2. SandboxNL contains detailed explanations about the creation and usage of the parcel based Sentinel datasets. | https://github.com/ManuelHuber-Github/Agricultural-SandboxNL | ['exploit'] | 1 | 2021-10-22 06:58:22+00:00 | 6219 | 0 | Jupyter Notebook | 1 | [] |
@@ -19,9 +19,9 @@
 | DefconAlliance/php-Exploit | Trigger payload directly from URL | https://github.com/DefconAlliance/php-Exploit | ['exploit'] | 1 | 2021-10-22 07:09:30+00:00 | 148 | 0 | HTML | 0 | [] |
 | nerap/McTrade | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-10-22 13:59:33+00:00 | 233 | 4 | Python | 0 | [] |
 | mubarakone/CaptureTheEther | Copies of the CaptureTheEther CTF challenges, exploited, audited and commented of the audit process. | https://github.com/mubarakone/CaptureTheEther | ['exploit'] | 1 | 2021-10-22 00:44:15+00:00 | 78 | 0 | Solidity | 0 | [] |
-| Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-22 07:24:27+00:00 | 3 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-22 01:05:01+00:00 | 21879 | 6057 | JavaScript | 1446 | [] |
+| senhaxor/msf_shellcode | None | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2021-10-22 03:47:59+00:00 | 6 | 0 | | 0 | [] |
 | jonathandata1/verizon_samsung_auto_enable_adb | Auto Enable ADB Zero-Day Exploit, Samsung Verizon Devices | https://github.com/jonathandata1/verizon_samsung_auto_enable_adb | ['exploit'] | 1 | 2021-10-22 00:10:21+00:00 | 2510 | 8 | Shell | 3 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-22 01:05:01+00:00 | 21879 | 6057 | JavaScript | 1446 | [] |
 | LayarKacaSiber/CVE-2021-42013 | None | https://github.com/LayarKacaSiber/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-22 13:56:42+00:00 | 17 | 0 | Shell | 0 | ['CVE-2021-42013'] |
 | mauricelambert/WebScriptsWebShell | Install a WebShell on hardened and deployed WebScripts (using Apache and mod_wsgi). | https://github.com/mauricelambert/WebScriptsWebShell | ['exploit'] | 1 | 2021-10-22 06:59:17+00:00 | 17 | 0 | Python | 0 | [] |
 | cshewmake2/cone-classification | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects' cone cl | https://github.com/cshewmake2/cone-classification | ['exploit'] | 1 | 2021-10-22 03:55:21+00:00 | 1629 | 0 | Jupyter Notebook | 0 | [] |
@@ -33,6 +33,8 @@
 | 0xAgun/Arbitrary-File-Upload-ZoomSounds | ZoomSounds < 6.05 allowing unauthenticated users to upload an arbitrary file anywhere on the web server. | https://github.com/0xAgun/Arbitrary-File-Upload-ZoomSounds | ['exploit'] | 1 | 2021-10-22 09:07:08+00:00 | 0 | 0 | Python | 0 | [] |
 | y0usefalsaadany/data-sploit | None | https://github.com/y0usefalsaadany/data-sploit | ['sploit'] | 1 | 2021-10-22 14:12:37+00:00 | 0 | 0 | Python | 0 | [] |
 | Cerbersec/EarlyBird | shellcode injector using EarlyBird QueueApcThread, PPID spoofing, MS CIG and direct sys calls. | https://github.com/Cerbersec/EarlyBird | ['shellcode'] | 1 | 2021-10-22 15:10:43+00:00 | 0 | 0 | C | 0 | [] |
+| BabyTeam1024/CVE-2021-41773 | None | https://github.com/BabyTeam1024/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-22 15:23:56+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
+| cckuailong/CVE-2021-2471 | None | https://github.com/cckuailong/CVE-2021-2471 | ['cve-2 OR cve_2'] | 1 | 2021-10-22 15:36:39+00:00 | 0 | 0 | | 0 | ['CVE-2021-2471'] |
 | Sebastians349/ui-rcel | None | https://github.com/Sebastians349/ui-rcel | ['rce'] | 1 | 2021-10-22 14:14:09+00:00 | 544 | 0 | JavaScript | 0 | [] |
 | AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-10-22 13:10:58+00:00 | 74270 | 1 | CSS | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-22 01:18:13+00:00 | 17021 | 2 | Python | 0 | [] |
@@ -45,6 +47,7 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-22 11:35:04+00:00 | 72964 | 10231 | Jupyter Notebook | 1753 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-22 00:17:14+00:00 | 160706 | 252 | Ruby | 77 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-22 01:36:28+00:00 | 2760444 | 355 | | 53 | [] |
+| mmxsrup/CVE-2018-3639 | Speculative Store Bypass (CVE-2018-3639) proof of concept for Linux | https://github.com/mmxsrup/CVE-2018-3639 | ['cve-2 OR cve_2'] | 1 | 2021-10-22 16:05:33+00:00 | 2 | 4 | C | 2 | ['CVE-2018-3639'] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-22 07:09:02+00:00 | 35639 | 5916 | Vue | 1238 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-22 10:10:38+00:00 | 1345351 | 3655 | PowerShell | 1261 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-10-22 07:30:39+00:00 | 61863 | 1250 | Python | 256 | [] |
@@ -55,6 +58,7 @@
 | TAbdiukov/Exploit-DB | Various pwning scripts i CAN publish | https://github.com/TAbdiukov/Exploit-DB | ['exploit'] | 1 | 2021-10-22 03:39:31+00:00 | 8 | 0 | Python | 0 | [] |
 | hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-22 05:13:44+00:00 | 386 | 472 | | 107 | [] |
 | rcedror/rcedror.github.io | Personal Page | https://github.com/rcedror/rcedror.github.io | ['rce'] | 1 | 2021-10-22 01:51:48+00:00 | 25 | 0 | HTML | 0 | [] |
+| plackyhacker/Shellcode-Encryptor | A simple shell code encryptor/decryptor/executor to bypass anti virus. | https://github.com/plackyhacker/Shellcode-Encryptor | ['shellcode'] | 1 | 2021-10-22 16:14:34+00:00 | 2852 | 64 | C# | 11 | [] |
 | insightglacier/Dictionary-Of-Pentesting | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | ['rce'] | 1 | 2021-10-22 00:24:25+00:00 | 251241 | 906 | Shell | 202 | [] |
 | mineo333/GhostFops | A post-exploitation kernel module that allows an attacker to edit files with little to no footprint. | https://github.com/mineo333/GhostFops | ['exploit'] | 1 | 2021-10-22 03:11:51+00:00 | 831 | 1 | C | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-22 00:03:13+00:00 | 429098 | 33 | | 19 | [] |
@@ -62,4 +66,4 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-22 04:01:53+00:00 | 89480 | 214 | Python | 62 | [] |
 | mauricelambert/PyWCGIshell | This package implement a WebShell for CGI and WSGI server. | https://github.com/mauricelambert/PyWCGIshell | ['exploit'] | 1 | 2021-10-22 06:57:40+00:00 | 63 | 1 | Python | 0 | [] |
 | RudigerMorinDocter/CSRF-Attender | CSRF Attender is a Burp Suite extension that illustrates a PoC for automatically generating CSRF attacks on a WebSite (works only for GET requests and HTTP1.1) | https://github.com/RudigerMorinDocter/CSRF-Attender | ['attack poc'] | 1 | 2021-10-22 10:13:01+00:00 | 142 | 1 | Java | 0 | [] |
-| BabyTeam1024/CVE-2021-41773 | None | https://github.com/BabyTeam1024/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-22 15:23:56+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
+| pizza-power/motioneye-authenticated-RCE | A Python 3 script that uploads a tasks.pickle file that enables RCE in MotionEye | https://github.com/pizza-power/motioneye-authenticated-RCE | ['rce'] | 1 | 2021-10-22 16:18:13+00:00 | 0 | 0 | Python | 0 | [] |
