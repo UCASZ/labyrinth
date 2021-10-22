@@ -1,13 +1,12 @@
 
 # Summary for results/2021/10/21
     
-97 records found after deduplication
+98 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-21 00:42:59+00:00 | 645982 | 25381 | Ruby | 11677 | [] |
-| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-21 15:49:15+00:00 | 28606 | 0 | Python | 0 | [] |
-| LudovicPatho/CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 07:26:13+00:00 | 58 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-21 21:52:58+00:00 | 26 | 0 | Rust | 0 | [] |
 | mubarakone/CaptureTheEther | Copies of the CaptureTheEther CTF challenges, exploited, audited and commented of the audit process. | https://github.com/mubarakone/CaptureTheEther | ['exploit'] | 1 | 2021-10-21 21:27:45+00:00 | 28 | 0 | Solidity | 0 | [] |
 | nerap/McTrade | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-10-21 08:55:29+00:00 | 198 | 2 | Python | 1 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-21 02:25:25+00:00 | 253 | 0 | Lua | 0 | [] |
@@ -28,10 +27,11 @@
 | scmanjarrez/CVEScannerV2DB | Semiupdated database of CVEScannerV2 | https://github.com/scmanjarrez/CVEScannerV2DB | ['cve-2 OR cve_2'] | 1 | 2021-10-21 09:46:44+00:00 | 18785 | 1 | | 1 | [] |
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 09:12:37+00:00 | 3274 | 5 | Python | 1 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2021-10-21 00:19:35+00:00 | 112 | 0 | Lua | 0 | [] |
-| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-21 21:52:58+00:00 | 26 | 0 | Rust | 0 | [] |
+| rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-21 13:03:04+00:00 | 16388 | 0 | HTML | 0 | [] |
+| LudovicPatho/CVE-2021-41773 | The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49. | https://github.com/LudovicPatho/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 07:26:13+00:00 | 58 | 0 | Dockerfile | 1 | ['CVE-2021-41773'] |
 | HonestlyDex/DexHubWeb | None | https://github.com/HonestlyDex/DexHubWeb | ['exploit'] | 1 | 2021-10-21 00:43:54+00:00 | 335 | 0 | CSS | 1 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-21 13:14:33+00:00 | 21879 | 6056 | JavaScript | 1445 | [] |
 | GeraBruhh/Msf-Tool | Script para crear payloads facil, solo los crea no habre metasploit framework para completarlo :). | https://github.com/GeraBruhh/Msf-Tool | ['metasploit module OR payload'] | 1 | 2021-10-21 17:17:48+00:00 | 7 | 0 | Python | 0 | [] |
-| IsraelAbaho/color-change-application | I made this application to exploit my skills with indexes in JavaScript. Each color on the parret on clicked changes the color in the main division | https://github.com/IsraelAbaho/color-change-application | ['exploit'] | 1 | 2021-10-21 11:07:09+00:00 | 0 | 0 | SCSS | 0 | [] |
 | x6t/vc-exploit | to lag vcs | https://github.com/x6t/vc-exploit | ['exploit'] | 1 | 2021-10-21 21:36:21+00:00 | 0 | 0 | | 0 | [] |
 | cshewmake2/cone-classification | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects' cone cl | https://github.com/cshewmake2/cone-classification | ['exploit'] | 1 | 2021-10-21 22:23:00+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
 | EvelynXu22/ImageLab-OpenCVExamples-main-2 | None | https://github.com/EvelynXu22/ImageLab-OpenCVExamples-main-2 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 20:10:25+00:00 | 0 | 0 | C++ | 0 | [] |
@@ -41,8 +41,8 @@
 | ItsFadinG/CVE-2018-11235 | None | https://github.com/ItsFadinG/CVE-2018-11235 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 12:12:17+00:00 | 0 | 0 | | 0 | ['CVE-2018-11235'] |
 | kmngtkm/command_injection | コマンドインジェクション検証用の脆弱性のあるアプリケーション | https://github.com/kmngtkm/command_injection | ['command injection'] | 1 | 2021-10-21 13:04:40+00:00 | 3 | 0 | Python | 0 | [] |
 | sinjeanmin/cvedetails_2020 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | ['cve-2 OR cve_2'] | 1 | 2021-10-21 11:33:29+00:00 | 1141 | 0 | | 0 | [] |
+| IsraelAbaho/color-change-application | I made this application to exploit my skills with indexes in JavaScript. Each color on the parret on clicked changes the color in the main division | https://github.com/IsraelAbaho/color-change-application | ['exploit'] | 1 | 2021-10-21 11:07:09+00:00 | 0 | 0 | SCSS | 0 | [] |
 | itoh-web/exploit | None | https://github.com/itoh-web/exploit | ['exploit'] | 1 | 2021-10-21 10:14:15+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| TheBoinkner/AccountRecoveryForWindows | Allows you to gain to recover windows accounts via the ease of access cmd swap exploit with ease | https://github.com/TheBoinkner/AccountRecoveryForWindows | ['exploit'] | 1 | 2021-10-21 01:05:00+00:00 | 8 | 0 | C# | 0 | [] |
 | vee-jain/RavenAFS | AFS exploitation by non-breeding ravens in the Austrian Alps | https://github.com/vee-jain/RavenAFS | ['exploit'] | 1 | 2021-10-21 09:52:29+00:00 | 0 | 0 | | 0 | [] |
 | WhitfieBad/MemLeakExploit | None | https://github.com/WhitfieBad/MemLeakExploit | ['exploit'] | 1 | 2021-10-21 07:57:59+00:00 | 0 | 0 | C | 0 | [] |
 | BKannan007/Exploiting-server | This is an exploiting server for bug hunting POC | https://github.com/BKannan007/Exploiting-server | ['exploit'] | 1 | 2021-10-21 07:06:36+00:00 | 0 | 0 | HTML | 0 | [] |
@@ -52,10 +52,11 @@
 | cocomelonc/2021-10-20-buffer-overflow-1 | Classic stack buffer overflow exploitation | https://github.com/cocomelonc/2021-10-20-buffer-overflow-1 | ['exploit'] | 1 | 2021-10-21 15:04:57+00:00 | 3 | 0 | Python | 0 | [] |
 | JUICY00000/Vindicator | Advanced Undetectable Loader Using Fibers [With a Pro Version] | https://github.com/JUICY00000/Vindicator | ['shellcode'] | 1 | 2021-10-21 06:34:17+00:00 | 16 | 0 | C++ | 0 | [] |
 | 00xData/Metasploit-Fast-Handlers | None | https://github.com/00xData/Metasploit-Fast-Handlers | ['metasploit module OR payload'] | 1 | 2021-10-21 22:40:58+00:00 | 2 | 0 | Shell | 0 | [] |
-| rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-21 13:03:04+00:00 | 16388 | 0 | HTML | 0 | [] |
+| TheBoinkner/AccountRecoveryForWindows | Allows you to gain to recover windows accounts via the ease of access cmd swap exploit with ease | https://github.com/TheBoinkner/AccountRecoveryForWindows | ['exploit'] | 1 | 2021-10-21 01:05:00+00:00 | 8 | 0 | C# | 0 | [] |
+| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-21 15:49:15+00:00 | 28606 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-21 01:15:05+00:00 | 15688 | 2 | Python | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-21 13:14:33+00:00 | 21879 | 6056 | JavaScript | 1445 | [] |
 | P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-10-21 03:01:28+00:00 | 12434 | 1 | | 0 | [] |
+| Sma-Das/TryHackMe | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | ['exploit'] | 1 | 2021-10-21 15:30:49+00:00 | 63118 | 9 | Python | 0 | [] |
 | d4t4s3c/Win7Blue | Scan & Exploit - EternalBlue MS17-010 - Windows 7 x86 & x64 | https://github.com/d4t4s3c/Win7Blue | ['exploit'] | 1 | 2021-10-21 06:21:09+00:00 | 1691 | 14 | Python | 3 | ['MS17-010'] |
 | AS400JPLPC/nim_termcurs | api s'inspirant du 5250/3270 utilisant NIM-LANG exploitation du terminal | https://github.com/AS400JPLPC/nim_termcurs | ['exploit'] | 1 | 2021-10-21 17:29:18+00:00 | 4068 | 4 | HTML | 0 | [] |
 | JimChr-R4GN4R/GreyNoiseSploit | GreyNoiseSploit is a script that help you use GreyNoise.io API simply,fast and with extra features! | https://github.com/JimChr-R4GN4R/GreyNoiseSploit | ['sploit'] | 1 | 2021-10-21 11:48:35+00:00 | 101 | 1 | Python | 0 | [] |
@@ -81,11 +82,11 @@
 | iamniki01/Side-Channel-Attack | Side-channel attacks on devices have gained increasing attention since their introduction in 2007. While traditional side-channel attacks, such as power analysis attacks and electromagnetic analysis attacks, required physical presence of the attacker as we | https://github.com/iamniki01/Side-Channel-Attack | ['exploit'] | 1 | 2021-10-21 17:38:09+00:00 | 1268 | 0 | C | 0 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-10-21 06:31:59+00:00 | 20 | 0 | | 0 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-10-21 20:31:51+00:00 | 39 | 0 | C | 0 | [] |
-| Sma-Das/TryHackMe | Writeups on my TryHackMe adventures! | https://github.com/Sma-Das/TryHackMe | ['exploit'] | 1 | 2021-10-21 15:30:49+00:00 | 63118 | 9 | Python | 0 | [] |
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-10-21 02:12:27+00:00 | 89 | 0 | Python | 0 | [] |
 | REW-sploit/REW-sploit | Emulate and Dissect MSF and *other* attacks | https://github.com/REW-sploit/REW-sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2021-10-21 21:53:20+00:00 | 1366 | 105 | Python | 17 | [] |
 | nibrasmuhamed/CTF-Walkthrough | This repository contains hints to exploit and capture flag of CTF machines from various platforms. this isn't a detailed walk-through. from some boxes which I hunt. | https://github.com/nibrasmuhamed/CTF-Walkthrough | ['exploit'] | 1 | 2021-10-21 12:22:19+00:00 | 2095 | 0 | | 0 | [] |
 | theritwikkundu/Covicare | The main objective of this project is to help common people exploit the online services by means of an all-round COVID-19 care solution easily and effectively in this era of digital revolution. | https://github.com/theritwikkundu/Covicare | ['exploit'] | 1 | 2021-10-21 19:56:33+00:00 | 305 | 0 | Dart | 0 | [] |
+| jweny/pocassist | 全新的开源漏洞测试框架，实现poc在线编辑、运行、批量测试。使用文档： | https://github.com/jweny/pocassist | ['cve poc', 'vulnerability poc'] | 2 | 2021-10-21 17:04:13+00:00 | 56685 | 760 | Go | 134 | [] |
 | gl4ssesbo1/Nebula | Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components. | https://github.com/gl4ssesbo1/Nebula | ['exploit'] | 1 | 2021-10-21 00:01:30+00:00 | 1270 | 174 | Python | 37 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-21 04:02:05+00:00 | 87379 | 214 | Python | 62 | [] |
 | Th30neAnd0nly/Ohm | Android RAT with web panel and undetectable App | https://github.com/Th30neAnd0nly/Ohm | ['exploit'] | 1 | 2021-10-21 07:42:43+00:00 | 4278 | 73 | HTML | 30 | [] |
