@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/22
     
-26 records found after deduplication
+28 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -29,5 +29,7 @@
 | TAbdiukov/Exploit-DB | Various pwning scripts i CAN publish | https://github.com/TAbdiukov/Exploit-DB | ['exploit'] | 1 | 2021-10-22 03:39:31+00:00 | 8 | 0 | Python | 0 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-22 01:36:28+00:00 | 2760444 | 355 | | 53 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-22 00:17:14+00:00 | 160706 | 252 | Ruby | 77 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-22 06:14:11+00:00 | 5555 | 2949 | Python | 651 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-22 05:07:57+00:00 | 269169 | 6549 | C | 1810 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-10-22 01:31:35+00:00 | 27152 | 8398 | Python | 1453 | [] |
 | scopion/CVE-2017-3241 | None | https://github.com/scopion/CVE-2017-3241 | ['cve-2 OR cve_2'] | 1 | 2021-10-22 03:40:42+00:00 | 0 | 0 | | 0 | ['CVE-2017-3241'] |
