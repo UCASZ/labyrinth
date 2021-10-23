@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/23
     
-31 records found after deduplication
+33 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-23 00:06:36+00:00 | 646229 | 25399 | Ruby | 11681 | [] |
-| PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-23 02:29:11+00:00 | 339 | 0 | Lua | 0 | [] |
+| naufalan/Web-App-Methodology | Collection of web app methodology from initial recon into exploit known vulnerability. Used when conducting Bug Bounty, Penetration Testing, or CTF | https://github.com/naufalan/Web-App-Methodology | ['exploit'] | 1 | 2021-10-23 06:23:56+00:00 | 932 | 0 | | 0 | [] |
+| here4thee/claircore-cnvd | nan | https://github.com/here4thee/claircore-cnvd | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-23 07:22:07+00:00 | 0 | 0 | nan | 0 | [] |
 | XRSec/CobaltStrike-Update | Cobalt Strike is a powerful threat emulation tool that provides a post-exploitation agent and covert channels ideal for Adversary Simulations and Red Team exercises. With Cobalt Strike, companies can emulate the tactics and techniques of a quiet long-term | https://github.com/XRSec/CobaltStrike-Update | ['exploit'] | 1 | 2021-10-23 06:28:08+00:00 | 0 | 0 | | 0 | [] |
 | PewPewBoy/for-paid-exploits | None | https://github.com/PewPewBoy/for-paid-exploits | ['exploit'] | 1 | 2021-10-23 06:25:55+00:00 | 0 | 0 | | 0 | [] |
 | rcecilia1/rcecilia1 | Config files for my GitHub profile. | https://github.com/rcecilia1/rcecilia1 | ['rce'] | 1 | 2021-10-23 05:24:00+00:00 | 0 | 0 | | 0 | [] |
@@ -19,9 +20,10 @@
 | aravinddathd/CVE-2018-1123 | None | https://github.com/aravinddathd/CVE-2018-1123 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 07:10:30+00:00 | 0 | 0 | Shell | 0 | ['CVE-2018-1123'] |
 | cckuailong/CVE-2021-2471 | None | https://github.com/cckuailong/CVE-2021-2471 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 02:06:40+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-2471'] |
 | Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-23 02:16:47+00:00 | 4 | 0 | | 0 | [] |
-| naufalan/Web-App-Methodology | Collection of web app methodology from initial recon into exploit known vulnerability. Used when conducting Bug Bounty, Penetration Testing, or CTF | https://github.com/naufalan/Web-App-Methodology | ['exploit'] | 1 | 2021-10-23 06:23:56+00:00 | 932 | 0 | | 0 | [] |
-| V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-23 00:20:57+00:00 | 104 | 0 | | 4 | [] |
+| rbctee/Shellcode | Shellcode | https://github.com/rbctee/Shellcode | ['shellcode'] | 1 | 2021-10-23 08:11:38+00:00 | 3 | 0 | Assembly | 0 | [] |
+| PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-23 02:29:11+00:00 | 339 | 0 | Lua | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-23 05:07:50+00:00 | 271378 | 6553 | C | 1811 | [] |
+| V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-23 00:20:57+00:00 | 104 | 0 | | 4 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-23 01:10:30+00:00 | 18495 | 2 | Python | 0 | [] |
 | P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-10-23 02:35:42+00:00 | 12436 | 1 | nan | 0 | [] |
 | CFMTech/monitor-server-api | Monitor-server-api helps you to collect, historicize and exploit the data from your tests written with pytest and monitored with pytest-monitor. | https://github.com/CFMTech/monitor-server-api | ['exploit'] | 1 | 2021-10-23 07:17:38+00:00 | 151 | 3 | Python | 0 | [] |
@@ -35,4 +37,4 @@
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-23 01:36:33+00:00 | 2760531 | 355 | | 53 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-23 00:16:57+00:00 | 162228 | 252 | Ruby | 77 | [] |
 | robertdebock/mirror | A (Docker) application to mirror any website. | https://github.com/robertdebock/mirror | ['shellcode'] | 1 | 2021-10-23 06:21:58+00:00 | 32 | 13 | Shell | 3 | [] |
-| here4thee/claircore-cnvd | nan | https://github.com/here4thee/claircore-cnvd | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-23 07:22:07+00:00 | 0 | 0 | nan | 0 | [] |
+| here4thee/claircore-cnvd | nan | https://github.com/here4thee/claircore-cnvd | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-23 08:28:48+00:00 | 0 | 0 | nan | 0 | [] |
