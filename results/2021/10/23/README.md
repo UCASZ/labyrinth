@@ -1,12 +1,14 @@
 
 # Summary for results/2021/10/23
     
-78 records found after deduplication
+81 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-23 00:06:36+00:00 | 646229 | 25399 | Ruby | 11681 | [] |
-| Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-23 02:16:47+00:00 | 4 | 0 | | 0 | [] |
+| iikla/Vega-X-Source | Source of Vega X a free roblox exploit | https://github.com/iikla/Vega-X-Source | ['exploit'] | 1 | 2021-10-23 18:21:12+00:00 | 330 | 0 | C# | 0 | [] |
+| Y4er/CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-10-23 01:44:54+00:00 | 0 | 0 | | 0 | ['CVE-2021-35215'] |
+| I2rys/pw-metasploit | Advance version of MsfSearch kinda as well as a module. | https://github.com/I2rys/pw-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-23 00:04:46+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | rcedror/rcedror | None | https://github.com/rcedror/rcedror | ['rce'] | 1 | 2021-10-23 00:39:54+00:00 | 0 | 0 | | 0 | [] |
 | aravinddathd/CVE-2018-1123 | None | https://github.com/aravinddathd/CVE-2018-1123 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 07:10:30+00:00 | 0 | 0 | Shell | 0 | ['CVE-2018-1123'] |
 | cckuailong/CVE-2021-2471 | None | https://github.com/cckuailong/CVE-2021-2471 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 02:06:40+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-2471'] |
@@ -14,39 +16,39 @@
 | Lucijan2556/Fixed-WeAreDevs-exploit-template | None | https://github.com/Lucijan2556/Fixed-WeAreDevs-exploit-template | ['exploit'] | 1 | 2021-10-23 09:10:30+00:00 | 43 | 0 | | 0 | [] |
 | LayarKacaSiber/CVE-2021-42013 | None | https://github.com/LayarKacaSiber/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:16:53+00:00 | 17 | 0 | Shell | 0 | ['CVE-2021-42013'] |
 | LayarKacaSiber/CVE-2021-41773 | None | https://github.com/LayarKacaSiber/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:15:48+00:00 | 20 | 0 | Shell | 0 | ['CVE-2021-41773'] |
+| Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-23 02:16:47+00:00 | 4 | 0 | | 0 | [] |
 | crtaylor315/PrintNightmare-Before-Halloween | OKU 2105 Capstone Research on PrintNightmare | https://github.com/crtaylor315/PrintNightmare-Before-Halloween | ['exploit'] | 1 | 2021-10-23 18:14:11+00:00 | 192 | 1 | Python | 0 | [] |
-| Y4er/CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-10-23 01:44:54+00:00 | 0 | 0 | | 0 | ['CVE-2021-35215'] |
 | rbctee/Shellcode | Shellcode | https://github.com/rbctee/Shellcode | ['shellcode'] | 1 | 2021-10-23 08:11:38+00:00 | 3 | 0 | Assembly | 0 | [] |
 | naufalan/Web-App-Methodology | Collection of web app methodology from initial recon into exploit known vulnerability. Used when conducting Bug Bounty, Penetration Testing, or CTF | https://github.com/naufalan/Web-App-Methodology | ['exploit'] | 1 | 2021-10-23 06:23:56+00:00 | 932 | 0 | | 0 | [] |
 | r3kind1e/INE | The Exploit of INE CYBER SECURITY Learning Paths, authored by r3kind1e. Try to find better solutions beyond the official Solutions. | https://github.com/r3kind1e/INE | ['exploit'] | 1 | 2021-10-23 14:23:09+00:00 | 10 | 0 | C++ | 0 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-23 02:29:11+00:00 | 339 | 0 | Lua | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-23 11:07:34+00:00 | 73 | 1 | Python | 0 | [] |
 | Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-23 13:58:06+00:00 | 210 | 0 | Python | 1 | [] |
-| NotFoundHacker/KaliExploit | None | https://github.com/NotFoundHacker/KaliExploit | ['exploit'] | 1 | 2021-10-23 19:09:24+00:00 | 89 | 0 | Python | 0 | [] |
-| I2rys/pw-metasploit | Advance version of MsfSearch kinda as well as a module. | https://github.com/I2rys/pw-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-23 00:04:46+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | FurryVile/WindowsExploitGoodies | Exploit Repository For Windows Computers | https://github.com/FurryVile/WindowsExploitGoodies | ['exploit'] | 1 | 2021-10-23 01:49:57+00:00 | 0 | 0 | | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-23 05:07:50+00:00 | 271378 | 6553 | C | 1811 | [] |
-| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-10-23 12:08:27+00:00 | 0 | 0 | Python | 0 | [] |
+| ZeroM3m0ry/Shellcode-Injector | shell code injector | https://github.com/ZeroM3m0ry/Shellcode-Injector | ['shellcode'] | 1 | 2021-10-23 02:33:53+00:00 | 0 | 2 | C++ | 0 | [] |
+| engkikarnando/cvengki.html-2021 | None | https://github.com/engkikarnando/cvengki.html-2021 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 03:01:42+00:00 | 0 | 0 | | 0 | [] |
+| whoismissing/full-chain-practice | practicing writing full chain exploits | https://github.com/whoismissing/full-chain-practice | ['exploit'] | 1 | 2021-10-23 14:29:57+00:00 | 0 | 0 | C | 0 | [] |
+| TheLastVvV/CVE-2021-41773 | Poc CVE 2021-41773 - Apache 2.4.49 with CGI enabled | https://github.com/TheLastVvV/CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-23 21:50:36+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-41773'] |
+| fitrailyasa/exploit20 | None | https://github.com/fitrailyasa/exploit20 | ['exploit'] | 1 | 2021-10-23 21:21:36+00:00 | 0 | 0 | HTML | 0 | [] |
 | Dnotcashier/Heckersploit | Roblox exploit | https://github.com/Dnotcashier/Heckersploit | ['exploit'] | 1 | 2021-10-23 20:49:43+00:00 | 0 | 0 | | 0 | [] |
 | S-E-S-S-O/SS-SessoSploit | None | https://github.com/S-E-S-S-O/SS-SessoSploit | ['sploit'] | 1 | 2021-10-23 20:27:17+00:00 | 0 | 1 | Python | 0 | [] |
 | poopMaster2000/IdKv2Hub | Roblox Exploit Hub | https://github.com/poopMaster2000/IdKv2Hub | ['exploit'] | 1 | 2021-10-23 19:14:35+00:00 | 0 | 0 | | 0 | [] |
 | ismael-val1998/Projet-Syst-me-d-exploitation-Gestion-de-serveurs | Le but du projet est de développer une application multi processus en utilisant des outils de communication et de synchronisation sous Linux. | https://github.com/ismael-val1998/Projet-Syst-me-d-exploitation-Gestion-de-serveurs | ['exploit'] | 1 | 2021-10-23 18:19:11+00:00 | 0 | 0 | | 0 | [] |
 | sunhui-blog7/heltonWernikl | OpenFuck exploit updated to linux 2018 - Apache mod_ssl < 2.8.7 OpenSSL - Remote Buffer Overflow | https://github.com/sunhui-blog7/heltonWernikl | ['exploit'] | 1 | 2021-10-23 17:19:35+00:00 | 0 | 0 | | 0 | [] |
-| whoismissing/full-chain-practice | practicing writing full chain exploits | https://github.com/whoismissing/full-chain-practice | ['exploit'] | 1 | 2021-10-23 14:29:57+00:00 | 0 | 0 | C | 0 | [] |
 | Vladeke/ExploitRoblox | Its a Exploit for you man | https://github.com/Vladeke/ExploitRoblox | ['exploit'] | 1 | 2021-10-23 12:22:46+00:00 | 0 | 0 | Lua | 0 | [] |
+| rcecilia1/rcecilia1 | Config files for my GitHub profile. | https://github.com/rcecilia1/rcecilia1 | ['rce'] | 1 | 2021-10-23 05:24:00+00:00 | 0 | 0 | | 0 | [] |
+| 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-10-23 12:08:27+00:00 | 0 | 0 | Python | 0 | [] |
 | KastureeK/Elliptic-Curve-Digest | MD5 as it is, can be cracked and suffers from vulnerabilities such as collisions, due to which cases of exploitation have been reported where data has been compromised. The general hashing algorithms use iterations combined with the auxiliary functions to | https://github.com/KastureeK/Elliptic-Curve-Digest | ['exploit'] | 1 | 2021-10-23 10:45:56+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
-| ZeroM3m0ry/Shellcode-Injector | shell code injector | https://github.com/ZeroM3m0ry/Shellcode-Injector | ['shellcode'] | 1 | 2021-10-23 02:33:53+00:00 | 0 | 2 | C++ | 0 | [] |
 | enty8080/HatSploit-beacons | HatSploit beacons source code | https://github.com/enty8080/HatSploit-beacons | ['sploit'] | 1 | 2021-10-23 09:16:51+00:00 | 0 | 0 | | 0 | [] |
 | here4thee/claircore-cnvd | nan | https://github.com/here4thee/claircore-cnvd | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-23 08:28:48+00:00 | 0 | 0 | nan | 0 | [] |
 | here4thee/claircore-cnvd | nan | https://github.com/here4thee/claircore-cnvd | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-23 07:22:07+00:00 | 0 | 0 | nan | 0 | [] |
 | XRSec/CobaltStrike-Update | Cobalt Strike is a powerful threat emulation tool that provides a post-exploitation agent and covert channels ideal for Adversary Simulations and Red Team exercises. With Cobalt Strike, companies can emulate the tactics and techniques of a quiet long-term | https://github.com/XRSec/CobaltStrike-Update | ['exploit'] | 1 | 2021-10-23 06:28:08+00:00 | 0 | 0 | | 0 | [] |
 | PewPewBoy/for-paid-exploits | None | https://github.com/PewPewBoy/for-paid-exploits | ['exploit'] | 1 | 2021-10-23 06:25:55+00:00 | 0 | 0 | | 0 | [] |
-| rcecilia1/rcecilia1 | Config files for my GitHub profile. | https://github.com/rcecilia1/rcecilia1 | ['rce'] | 1 | 2021-10-23 05:24:00+00:00 | 0 | 0 | | 0 | [] |
-| engkikarnando/cvengki.html-2021 | None | https://github.com/engkikarnando/cvengki.html-2021 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 03:01:42+00:00 | 0 | 0 | | 0 | [] |
-| iikla/Vega-X-Source | Source of Vega X a free roblox exploit | https://github.com/iikla/Vega-X-Source | ['exploit'] | 1 | 2021-10-23 18:21:12+00:00 | 330 | 0 | C# | 0 | [] |
+| NotFoundHacker/KaliExploit | None | https://github.com/NotFoundHacker/KaliExploit | ['exploit'] | 1 | 2021-10-23 19:09:24+00:00 | 89 | 0 | Python | 0 | [] |
 | Unknown3958/UnknownExploit | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | ['exploit'] | 1 | 2021-10-23 13:54:45+00:00 | 25 | 0 | | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-23 05:07:50+00:00 | 271378 | 6553 | C | 1811 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-23 20:04:05+00:00 | 2829 | 72 | JavaScript | 128 | [] |
-| mdulin2/Zyxel_NAS326_Exploit | Exploit of 3 different CVE's in Zyxel NAS 326 | https://github.com/mdulin2/Zyxel_NAS326_Exploit | ['exploit'] | 1 | 2021-10-23 19:27:52+00:00 | 20 | 2 | Python | 0 | [] |
+| Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2021-10-23 10:32:47+00:00 | 2006 | 19 | PHP | 8 | [] |
 | rcedror/rcedror.github.io | Personal Page | https://github.com/rcedror/rcedror.github.io | ['rce'] | 1 | 2021-10-23 01:11:37+00:00 | 26 | 0 | HTML | 0 | [] |
 | hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-23 11:32:00+00:00 | 396 | 474 | | 108 | [] |
 | hugsy/pwn-- | A (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2021-10-23 18:13:10+00:00 | 992 | 34 | C++ | 3 | [] |
@@ -54,8 +56,8 @@
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-23 06:45:08+00:00 | 38045 | 24 | | 14 | [] |
 | jeffrey200/ps4_webkit_exploit_5.05 | A fully implemented kernel exploit for the PS4 on 5.05FW | https://github.com/jeffrey200/ps4_webkit_exploit_5.05 | ['exploit'] | 1 | 2021-10-23 15:49:26+00:00 | 101 | 0 | JavaScript | 0 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-23 05:01:41+00:00 | 1345351 | 3657 | PowerShell | 1262 | [] |
+| mdulin2/Zyxel_NAS326_Exploit | Exploit of 3 different CVE's in Zyxel NAS 326 | https://github.com/mdulin2/Zyxel_NAS326_Exploit | ['exploit'] | 1 | 2021-10-23 19:27:52+00:00 | 20 | 2 | Python | 0 | [] |
 | mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-10-23 10:34:09+00:00 | 15720 | 934 | Python | 217 | [] |
-| wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-23 17:09:49+00:00 | 92 | 0 | Go | 0 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-23 01:36:33+00:00 | 2760531 | 355 | | 53 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-23 00:16:57+00:00 | 162228 | 252 | Ruby | 77 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-23 11:35:05+00:00 | 73061 | 10234 | Jupyter Notebook | 1753 | [] |
@@ -63,17 +65,19 @@
 | Dankirk/cve-2017-0065 | Exploiting Edge's read:// urlhandler | https://github.com/Dankirk/cve-2017-0065 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-23 14:56:30+00:00 | 3 | 15 | HTML | 14 | ['CVE-2017-0065'] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-10-23 15:29:45+00:00 | 2839 | 83 | Go | 7 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-23 13:21:54+00:00 | 12376 | 4037 | Python | 583 | [] |
-| Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2021-10-23 10:32:47+00:00 | 2006 | 19 | PHP | 8 | [] |
 | Alekseyyy/ctfs | infosec ctfs, coding puzzles and other contests | https://github.com/Alekseyyy/ctfs | ['rce'] | 1 | 2021-10-23 04:26:37+00:00 | 4909 | 2 | Python | 1 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-23 00:03:22+00:00 | 432558 | 33 | | 19 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-10-23 14:52:08+00:00 | 678 | 13 | Python | 3 | [] |
+| rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-23 13:44:33+00:00 | 16391 | 0 | HTML | 0 | [] |
+| wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-23 17:09:49+00:00 | 92 | 0 | Go | 0 | [] |
 | YTZirex/Zirexium-Exploit | None | https://github.com/YTZirex/Zirexium-Exploit | ['exploit'] | 1 | 2021-10-23 19:02:26+00:00 | 3 | 0 | | 0 | [] |
+| Sebastians349/ui-rcel | None | https://github.com/Sebastians349/ui-rcel | ['rce'] | 1 | 2021-10-23 21:48:35+00:00 | 553 | 0 | JavaScript | 0 | [] |
 | I2345/FelixHub | A Paid Roblox Exploit Hub | https://github.com/I2345/FelixHub | ['exploit'] | 1 | 2021-10-23 09:34:33+00:00 | 135 | 0 | | 0 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-10-23 12:41:32+00:00 | 106515 | 6 | PowerShell | 5 | [] |
 | AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-10-23 13:12:01+00:00 | 76727 | 1 | CSS | 0 | [] |
 | obsrva/obsrva.org | The Internet Observatory (Obsrva) is a vulnerability research project founded by independent security researcher Tyler Butler. Obsrva engages product vendors in coordinated disclosures, publishes vulnerability advisories, and creates proof of concept explo | https://github.com/obsrva/obsrva.org | ['exploit'] | 1 | 2021-10-23 19:48:18+00:00 | 96177 | 1 | JavaScript | 0 | [] |
-| rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-23 13:44:33+00:00 | 16391 | 0 | HTML | 0 | [] |
 | V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-23 00:20:57+00:00 | 104 | 0 | | 4 | [] |
+| dylanmeca/labsecurity | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylanmeca/labsecurity | ['exploit'] | 1 | 2021-10-23 03:01:37+00:00 | 783 | 8 | Python | 5 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-23 01:10:30+00:00 | 18495 | 2 | Python | 0 | [] |
 | P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-10-23 02:35:42+00:00 | 12436 | 1 | | 0 | [] |
 | iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-10-23 17:52:00+00:00 | 1150 | 1 | Lua | 0 | [] |
@@ -81,5 +85,4 @@
 | PRBonn/LiDAR-MOS | Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | ['exploit'] | 1 | 2021-10-23 14:30:19+00:00 | 42714 | 190 | Python | 40 | [] |
 | CFMTech/monitor-server-api | Monitor-server-api helps you to collect, historicize and exploit the data from your tests written with pytest and monitored with pytest-monitor. | https://github.com/CFMTech/monitor-server-api | ['exploit'] | 1 | 2021-10-23 07:17:38+00:00 | 151 | 3 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-23 04:01:59+00:00 | 92629 | 215 | Python | 62 | [] |
-| dylanmeca/labsecurity | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylanmeca/labsecurity | ['exploit'] | 1 | 2021-10-23 03:01:37+00:00 | 783 | 8 | Python | 5 | [] |
-| fitrailyasa/exploit20 | None | https://github.com/fitrailyasa/exploit20 | ['exploit'] | 1 | 2021-10-23 21:21:36+00:00 | 0 | 0 | HTML | 0 | [] |
+| TheLastVvV/CVE-2021-42013 | Poc CVE-2021-42013 - Apache 2.4.50 without CGI | https://github.com/TheLastVvV/CVE-2021-42013 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-23 22:00:34+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-42013'] |
