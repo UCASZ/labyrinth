@@ -1,0 +1,13 @@
+
+# Summary for results/2021/10/23
+    
+6 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-23 00:06:36+00:00 | 646229 | 25399 | Ruby | 11681 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-23 00:16:57+00:00 | 162228 | 252 | Ruby | 77 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-23 00:03:22+00:00 | 432558 | 33 | nan | 19 | [] |
+| V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-23 00:20:57+00:00 | 104 | 0 | nan | 4 | [] |
+| rcedror/rcedror | nan | https://github.com/rcedror/rcedror | ['rce'] | 1 | 2021-10-23 00:39:54+00:00 | 0 | 0 | nan | 0 | [] |
+| I2rys/pw-metasploit | Advance version of MsfSearch kinda as well as a module. | https://github.com/I2rys/pw-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-23 00:04:46+00:00 | 0 | 0 | JavaScript | 0 | [] |
