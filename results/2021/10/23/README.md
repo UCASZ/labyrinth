@@ -1,13 +1,15 @@
 
 # Summary for results/2021/10/23
     
-45 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-23 00:06:36+00:00 | 646229 | 25399 | Ruby | 11681 | [] |
 | naufalan/Web-App-Methodology | Collection of web app methodology from initial recon into exploit known vulnerability. Used when conducting Bug Bounty, Penetration Testing, or CTF | https://github.com/naufalan/Web-App-Methodology | ['exploit'] | 1 | 2021-10-23 06:23:56+00:00 | 932 | 0 | | 0 | [] |
 | Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-23 02:16:47+00:00 | 4 | 0 | | 0 | [] |
+| LayarKacaSiber/CVE-2021-41773 | None | https://github.com/LayarKacaSiber/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:15:48+00:00 | 20 | 0 | Shell | 0 | ['CVE-2021-41773'] |
+| LayarKacaSiber/CVE-2021-42013 | None | https://github.com/LayarKacaSiber/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:16:53+00:00 | 17 | 0 | Shell | 0 | ['CVE-2021-42013'] |
 | Lucijan2556/Fixed-WeAreDevs-exploit-template | None | https://github.com/Lucijan2556/Fixed-WeAreDevs-exploit-template | ['exploit'] | 1 | 2021-10-23 09:10:30+00:00 | 43 | 0 | | 0 | [] |
 | 0xAgun/Arbitrary-File-Upload-ZoomSounds | ZoomSounds < 6.05 allowing unauthenticated users to upload an arbitrary file anywhere on the web server. | https://github.com/0xAgun/Arbitrary-File-Upload-ZoomSounds | ['exploit'] | 1 | 2021-10-23 12:38:34+00:00 | 7 | 0 | Python | 0 | [] |
 | cckuailong/CVE-2021-2471 | None | https://github.com/cckuailong/CVE-2021-2471 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 02:06:40+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-2471'] |
@@ -48,5 +50,7 @@
 | P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-10-23 02:35:42+00:00 | 12436 | 1 | nan | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-23 01:10:30+00:00 | 18495 | 2 | Python | 0 | [] |
 | V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-23 00:20:57+00:00 | 104 | 0 | | 4 | [] |
+| AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-10-23 13:12:01+00:00 | 76727 | 1 | CSS | 0 | [] |
+| BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-10-23 12:41:32+00:00 | 106515 | 6 | PowerShell | 5 | [] |
 | I2345/FelixHub | A Paid Roblox Exploit Hub | https://github.com/I2345/FelixHub | ['exploit'] | 1 | 2021-10-23 09:34:33+00:00 | 135 | 0 | | 0 | [] |
 | Vladeke/ExploitRoblox | Its a Exploit for you man | https://github.com/Vladeke/ExploitRoblox | ['exploit'] | 1 | 2021-10-23 12:22:46+00:00 | 0 | 0 | Lua | 0 | [] |
