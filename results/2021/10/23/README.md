@@ -1,27 +1,29 @@
 
 # Summary for results/2021/10/23
     
-63 records found after deduplication
+68 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-23 00:06:36+00:00 | 646229 | 25399 | Ruby | 11681 | [] |
-| I2rys/pw-metasploit | Advance version of MsfSearch kinda as well as a module. | https://github.com/I2rys/pw-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-23 00:04:46+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-23 11:07:34+00:00 | 73 | 1 | Python | 0 | [] |
-| PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-23 02:29:11+00:00 | 339 | 0 | Lua | 0 | [] |
-| r3kind1e/INE | The Exploit of INE CYBER SECURITY Learning Paths, authored by r3kind1e. Try to find better solutions beyond the official Solutions. | https://github.com/r3kind1e/INE | ['exploit'] | 1 | 2021-10-23 14:23:09+00:00 | 10 | 0 | C++ | 0 | [] |
-| naufalan/Web-App-Methodology | Collection of web app methodology from initial recon into exploit known vulnerability. Used when conducting Bug Bounty, Penetration Testing, or CTF | https://github.com/naufalan/Web-App-Methodology | ['exploit'] | 1 | 2021-10-23 06:23:56+00:00 | 932 | 0 | | 0 | [] |
-| rbctee/Shellcode | Shellcode | https://github.com/rbctee/Shellcode | ['shellcode'] | 1 | 2021-10-23 08:11:38+00:00 | 3 | 0 | Assembly | 0 | [] |
 | Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-23 02:16:47+00:00 | 4 | 0 | | 0 | [] |
-| LayarKacaSiber/CVE-2021-41773 | None | https://github.com/LayarKacaSiber/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:15:48+00:00 | 20 | 0 | Shell | 0 | ['CVE-2021-41773'] |
-| LayarKacaSiber/CVE-2021-42013 | None | https://github.com/LayarKacaSiber/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:16:53+00:00 | 17 | 0 | Shell | 0 | ['CVE-2021-42013'] |
-| Lucijan2556/Fixed-WeAreDevs-exploit-template | None | https://github.com/Lucijan2556/Fixed-WeAreDevs-exploit-template | ['exploit'] | 1 | 2021-10-23 09:10:30+00:00 | 43 | 0 | | 0 | [] |
-| 0xAgun/Arbitrary-File-Upload-ZoomSounds | ZoomSounds < 6.05 allowing unauthenticated users to upload an arbitrary file anywhere on the web server. | https://github.com/0xAgun/Arbitrary-File-Upload-ZoomSounds | ['exploit'] | 1 | 2021-10-23 12:38:34+00:00 | 7 | 0 | Python | 0 | [] |
-| cckuailong/CVE-2021-2471 | None | https://github.com/cckuailong/CVE-2021-2471 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 02:06:40+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-2471'] |
 | aravinddathd/CVE-2018-1123 | None | https://github.com/aravinddathd/CVE-2018-1123 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 07:10:30+00:00 | 0 | 0 | Shell | 0 | ['CVE-2018-1123'] |
+| cckuailong/CVE-2021-2471 | None | https://github.com/cckuailong/CVE-2021-2471 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 02:06:40+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-2471'] |
+| 0xAgun/Arbitrary-File-Upload-ZoomSounds | ZoomSounds < 6.05 allowing unauthenticated users to upload an arbitrary file anywhere on the web server. | https://github.com/0xAgun/Arbitrary-File-Upload-ZoomSounds | ['exploit'] | 1 | 2021-10-23 12:38:34+00:00 | 7 | 0 | Python | 0 | [] |
+| Lucijan2556/Fixed-WeAreDevs-exploit-template | None | https://github.com/Lucijan2556/Fixed-WeAreDevs-exploit-template | ['exploit'] | 1 | 2021-10-23 09:10:30+00:00 | 43 | 0 | | 0 | [] |
+| LayarKacaSiber/CVE-2021-42013 | None | https://github.com/LayarKacaSiber/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:16:53+00:00 | 17 | 0 | Shell | 0 | ['CVE-2021-42013'] |
+| LayarKacaSiber/CVE-2021-41773 | None | https://github.com/LayarKacaSiber/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:15:48+00:00 | 20 | 0 | Shell | 0 | ['CVE-2021-41773'] |
+| crtaylor315/PrintNightmare-Before-Halloween | OKU 2105 Capstone Research on PrintNightmare | https://github.com/crtaylor315/PrintNightmare-Before-Halloween | ['exploit'] | 1 | 2021-10-23 18:14:11+00:00 | 192 | 1 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-23 05:07:50+00:00 | 271378 | 6553 | C | 1811 | [] |
+| rbctee/Shellcode | Shellcode | https://github.com/rbctee/Shellcode | ['shellcode'] | 1 | 2021-10-23 08:11:38+00:00 | 3 | 0 | Assembly | 0 | [] |
+| naufalan/Web-App-Methodology | Collection of web app methodology from initial recon into exploit known vulnerability. Used when conducting Bug Bounty, Penetration Testing, or CTF | https://github.com/naufalan/Web-App-Methodology | ['exploit'] | 1 | 2021-10-23 06:23:56+00:00 | 932 | 0 | | 0 | [] |
+| r3kind1e/INE | The Exploit of INE CYBER SECURITY Learning Paths, authored by r3kind1e. Try to find better solutions beyond the official Solutions. | https://github.com/r3kind1e/INE | ['exploit'] | 1 | 2021-10-23 14:23:09+00:00 | 10 | 0 | C++ | 0 | [] |
+| PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-23 02:29:11+00:00 | 339 | 0 | Lua | 0 | [] |
+| mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-23 11:07:34+00:00 | 73 | 1 | Python | 0 | [] |
+| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-23 13:58:06+00:00 | 210 | 0 | Python | 1 | [] |
 | rcedror/rcedror | None | https://github.com/rcedror/rcedror | ['rce'] | 1 | 2021-10-23 00:39:54+00:00 | 0 | 0 | | 0 | [] |
+| I2rys/pw-metasploit | Advance version of MsfSearch kinda as well as a module. | https://github.com/I2rys/pw-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-23 00:04:46+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | Y4er/CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-10-23 01:44:54+00:00 | 0 | 0 | | 0 | ['CVE-2021-35215'] |
-| Unknown3958/UnknownExploit | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | ['exploit'] | 1 | 2021-10-23 13:54:45+00:00 | 25 | 0 | | 0 | [] |
 | FurryVile/WindowsExploitGoodies | Exploit Repository For Windows Computers | https://github.com/FurryVile/WindowsExploitGoodies | ['exploit'] | 1 | 2021-10-23 01:49:57+00:00 | 0 | 0 | | 0 | [] |
 | ZeroM3m0ry/Shellcode-Injector | shell code injector | https://github.com/ZeroM3m0ry/Shellcode-Injector | ['shellcode'] | 1 | 2021-10-23 02:33:53+00:00 | 0 | 2 | C++ | 0 | [] |
 | engkikarnando/cvengki.html-2021 | None | https://github.com/engkikarnando/cvengki.html-2021 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 03:01:42+00:00 | 0 | 0 | | 0 | [] |
@@ -35,9 +37,10 @@
 | 7Rocky/HackTheBox-scripts | Useful scripts to exploit Hack The Box retired machines/challenges | https://github.com/7Rocky/HackTheBox-scripts | ['exploit'] | 1 | 2021-10-23 12:08:27+00:00 | 0 | 0 | Python | 0 | [] |
 | Vladeke/ExploitRoblox | Its a Exploit for you man | https://github.com/Vladeke/ExploitRoblox | ['exploit'] | 1 | 2021-10-23 12:22:46+00:00 | 0 | 0 | Lua | 0 | [] |
 | whoismissing/full-chain-practice | practicing writing full chain exploits | https://github.com/whoismissing/full-chain-practice | ['exploit'] | 1 | 2021-10-23 14:29:57+00:00 | 0 | 0 | C | 0 | [] |
-| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-23 13:58:06+00:00 | 210 | 0 | Python | 1 | [] |
+| sunhui-blog7/heltonWernikl | OpenFuck exploit updated to linux 2018 - Apache mod_ssl < 2.8.7 OpenSSL - Remote Buffer Overflow | https://github.com/sunhui-blog7/heltonWernikl | ['exploit'] | 1 | 2021-10-23 17:19:35+00:00 | 0 | 0 | | 0 | [] |
+| iikla/Vega-X-Source | Source of Vega X a free roblox exploit | https://github.com/iikla/Vega-X-Source | ['exploit'] | 1 | 2021-10-23 18:21:12+00:00 | 330 | 0 | C# | 0 | [] |
+| Unknown3958/UnknownExploit | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | ['exploit'] | 1 | 2021-10-23 13:54:45+00:00 | 25 | 0 | | 0 | [] |
 | wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-23 17:09:49+00:00 | 92 | 0 | Go | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-23 05:07:50+00:00 | 271378 | 6553 | C | 1811 | [] |
 | rcedror/rcedror.github.io | Personal Page | https://github.com/rcedror/rcedror.github.io | ['rce'] | 1 | 2021-10-23 01:11:37+00:00 | 26 | 0 | HTML | 0 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-23 13:21:54+00:00 | 12376 | 4037 | Python | 583 | [] |
 | gate-computer/gate | Benign remote code execution | https://github.com/gate-computer/gate | ['remote code execution'] | 1 | 2021-10-23 15:29:45+00:00 | 2839 | 83 | Go | 7 | [] |
@@ -51,6 +54,7 @@
 | jeffrey200/ps4_webkit_exploit_5.05 | A fully implemented kernel exploit for the PS4 on 5.05FW | https://github.com/jeffrey200/ps4_webkit_exploit_5.05 | ['exploit'] | 1 | 2021-10-23 15:49:26+00:00 | 101 | 0 | JavaScript | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-23 06:45:08+00:00 | 38045 | 24 | | 14 | [] |
 | jm33-m0/emp3r0r | linux post-exploitation framework made by linux user | https://github.com/jm33-m0/emp3r0r | ['exploit'] | 1 | 2021-10-23 14:24:21+00:00 | 17588 | 567 | Go | 116 | [] |
+| hugsy/pwn-- | A (bad) C++17 pwn library for Windows & Linux | https://github.com/hugsy/pwn-- | ['exploit'] | 1 | 2021-10-23 18:13:10+00:00 | 992 | 34 | C++ | 3 | [] |
 | hhhrrrttt222111/Ethical-Hacking-Tools | Complete Listing and Usage of Tools used for Ethical Hacking | https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools | ['metasploit module OR payload'] | 1 | 2021-10-23 11:32:00+00:00 | 396 | 474 | | 108 | [] |
 | Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2021-10-23 10:32:47+00:00 | 2006 | 19 | PHP | 8 | [] |
 | I2345/FelixHub | A Paid Roblox Exploit Hub | https://github.com/I2345/FelixHub | ['exploit'] | 1 | 2021-10-23 09:34:33+00:00 | 135 | 0 | | 0 | [] |
@@ -61,10 +65,11 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-23 04:01:59+00:00 | 92629 | 215 | Python | 62 | [] |
 | CFMTech/monitor-server-api | Monitor-server-api helps you to collect, historicize and exploit the data from your tests written with pytest and monitored with pytest-monitor. | https://github.com/CFMTech/monitor-server-api | ['exploit'] | 1 | 2021-10-23 07:17:38+00:00 | 151 | 3 | Python | 0 | [] |
 | PRBonn/LiDAR-MOS | Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021) | https://github.com/PRBonn/LiDAR-MOS | ['exploit'] | 1 | 2021-10-23 14:30:19+00:00 | 42714 | 190 | Python | 40 | [] |
+| iamtryingtofindname/Artemis | A private Da Hood exploit script | https://github.com/iamtryingtofindname/Artemis | ['exploit'] | 1 | 2021-10-23 17:52:00+00:00 | 1150 | 1 | Lua | 0 | [] |
 | P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-10-23 02:35:42+00:00 | 12436 | 1 | nan | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-23 01:10:30+00:00 | 18495 | 2 | Python | 0 | [] |
 | V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-10-23 00:20:57+00:00 | 104 | 0 | | 4 | [] |
 | rockdiary/RCETC | None | https://github.com/rockdiary/RCETC | ['rce'] | 1 | 2021-10-23 13:44:33+00:00 | 16391 | 0 | HTML | 0 | [] |
 | AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-10-23 13:12:01+00:00 | 76727 | 1 | CSS | 0 | [] |
 | BlackSnufkin/PT-ToolKit | Exploits Scripts and other tools that are useful during Penetration-Testing or Red Team engagement | https://github.com/BlackSnufkin/PT-ToolKit | ['exploit'] | 1 | 2021-10-23 12:41:32+00:00 | 106515 | 6 | PowerShell | 5 | [] |
-| sunhui-blog7/heltonWernikl | OpenFuck exploit updated to linux 2018 - Apache mod_ssl < 2.8.7 OpenSSL - Remote Buffer Overflow | https://github.com/sunhui-blog7/heltonWernikl | ['exploit'] | 1 | 2021-10-23 17:19:35+00:00 | 0 | 0 | | 0 | [] |
+| ismael-val1998/Projet-Syst-me-d-exploitation-Gestion-de-serveurs | Le but du projet est de développer une application multi processus en utilisant des outils de communication et de synchronisation sous Linux. | https://github.com/ismael-val1998/Projet-Syst-me-d-exploitation-Gestion-de-serveurs | ['exploit'] | 1 | 2021-10-23 18:19:11+00:00 | 0 | 0 | | 0 | [] |
