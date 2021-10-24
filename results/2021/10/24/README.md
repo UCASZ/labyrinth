@@ -1,15 +1,17 @@
 
 # Summary for results/2021/10/24
     
-18 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-24 05:37:52+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-24 00:16:59+00:00 | 163750 | 252 | Ruby | 77 | [] |
-| offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-24 01:36:33+00:00 | 2760619 | 355 | | 54 | [] |
+| SrlmTexh/SSRF_THM_testScript | This is a Python Script that was used as a PoC of a SSRF vulnerability on TryHackMe Machine | https://github.com/SrlmTexh/SSRF_THM_testScript | ['vulnerability poc'] | 1 | 2021-10-24 04:56:26+00:00 | 0 | 0 | Python | 0 | [] |
 | SleepTheGod/DiscorExploits | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscorExploits | ['exploit'] | 1 | 2021-10-24 00:51:10+00:00 | 0 | 0 | Python | 0 | [] |
 | Exunys/Cookie-Clicker-Exploits | Infinite Cookies Script for Cookie Clicker | https://github.com/Exunys/Cookie-Clicker-Exploits | ['exploit'] | 1 | 2021-10-24 00:16:56+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | pizza-power/motioneye-authenticated-RCE | A Python 3 script that uploads a tasks.pickle file that enables RCE in MotionEye | https://github.com/pizza-power/motioneye-authenticated-RCE | ['rce'] | 1 | 2021-10-24 00:43:38+00:00 | 8 | 1 | Python | 0 | [] |
+| 0x0021h/exploitsearch | pwnwiki's command-line query program | https://github.com/0x0021h/exploitsearch | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-10-24 06:18:04+00:00 | 4 | 0 | Python | 0 | [] |
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2021-10-24 02:03:50+00:00 | 9 | 1 | | 0 | [] |
 | nop-tech/learning-resources | Collection of resources for learning pentesting, exploit development, obfuscation & much more. | https://github.com/nop-tech/learning-resources | ['exploit'] | 1 | 2021-10-24 05:30:37+00:00 | 27 | 1 | | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-24 02:18:18+00:00 | 2851 | 73 | JavaScript | 129 | [] |
@@ -20,6 +22,8 @@
 | insightglacier/Dictionary-Of-Pentesting | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | ['rce'] | 1 | 2021-10-24 05:20:19+00:00 | 251244 | 907 | Shell | 202 | [] |
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2021-10-24 01:12:41+00:00 | 68352 | 567 | Lua | 119 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-24 01:51:03+00:00 | 897 | 244 | Rust | 13 | [] |
+| noob-hackers/m-wiz | Install Metasploit And Repair Metasploit In Termux With Easy Steps | https://github.com/noob-hackers/m-wiz | ['metasploit module OR payload'] | 1 | 2021-10-24 06:31:33+00:00 | 7887 | 297 | Shell | 67 | [] |
 | k8gege/k8gege.github.io | K8博客 | https://github.com/k8gege/k8gege.github.io | ['exploit'] | 1 | 2021-10-24 01:41:33+00:00 | 255162 | 18 | HTML | 7 | [] |
 | mdulin2/Zyxel_NAS326_Exploit | Exploit of 3 different CVE's in Zyxel NAS 326 | https://github.com/mdulin2/Zyxel_NAS326_Exploit | ['exploit'] | 1 | 2021-10-24 01:50:38+00:00 | 19 | 2 | Python | 0 | [] |
-| SrlmTexh/SSRF_THM_testScript | This is a Python Script that was used as a PoC of a SSRF vulnerability on TryHackMe Machine | https://github.com/SrlmTexh/SSRF_THM_testScript | ['vulnerability poc'] | 1 | 2021-10-24 04:56:26+00:00 | 0 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-24 01:36:33+00:00 | 2760619 | 355 | | 54 | [] |
+| mshhlvxk/best-exploits-for-roblox | i guess so, these are some gud scripts, updating anytime | https://github.com/mshhlvxk/best-exploits-for-roblox | ['exploit'] | 1 | 2021-10-24 06:26:47+00:00 | 0 | 0 | | 0 | [] |
