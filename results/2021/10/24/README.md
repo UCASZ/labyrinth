@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/24
     
-58 records found after deduplication
+59 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -20,7 +20,7 @@
 | PewPewBoy/for-paid-exploits | None | https://github.com/PewPewBoy/for-paid-exploits | ['exploit'] | 1 | 2021-10-24 09:12:03+00:00 | 71 | 0 | | 0 | [] |
 | walnutsecurity/cve-2021-41773 | CVE-2021-41773 is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-10-24 06:56:59+00:00 | 21 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | Exunys/Cookie-Clicker-Exploits | Infinite Cookies Script for Cookie Clicker | https://github.com/Exunys/Cookie-Clicker-Exploits | ['exploit'] | 1 | 2021-10-24 00:16:56+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| metasploit/metasploit.github.io | GitHub pages for great justice. Mostly for public resources associated with Metasploit Framework and friends. | https://github.com/metasploit/metasploit.github.io | ['metasploit module OR payload'] | 1 | 2021-10-24 12:34:36+00:00 | 13186 | 7 | HTML | 3 | [] |
+| MS-9web/shellcodes | None | https://github.com/MS-9web/shellcodes | ['shellcode'] | 1 | 2021-10-24 13:21:03+00:00 | 77 | 1 | Python | 1 | [] |
 | SleepTheGod/DiscorExploits | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscorExploits | ['exploit'] | 1 | 2021-10-24 00:51:10+00:00 | 0 | 0 | Python | 0 | [] |
 | SrlmTexh/SSRF_THM_testScript | This is a Python Script that was used as a PoC of a SSRF vulnerability on TryHackMe Machine | https://github.com/SrlmTexh/SSRF_THM_testScript | ['vulnerability poc'] | 1 | 2021-10-24 04:56:26+00:00 | 0 | 0 | Python | 0 | [] |
 | mshhlvxk/best-exploits-for-roblox | i guess so, these are some gud scripts, updating anytime | https://github.com/mshhlvxk/best-exploits-for-roblox | ['exploit'] | 1 | 2021-10-24 06:26:47+00:00 | 0 | 0 | | 0 | [] |
@@ -34,9 +34,9 @@
 | TheLastVvV/CVE-2021-42013_Reverse-Shell | PoC CVE-2021-42013 reverse shell Apache 2.4.50 with CGI | https://github.com/TheLastVvV/CVE-2021-42013_Reverse-Shell | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-24 13:26:02+00:00 | 0 | 1 | Shell | 0 | ['CVE-2021-42013'] |
 | wangxb96/EODE | Paper Code : Exhaustive Exploitation of Nature-inspired Computation for Cancer Screening in an Ensemble Manner | https://github.com/wangxb96/EODE | ['exploit'] | 1 | 2021-10-24 13:29:54+00:00 | 0 | 0 | | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-24 02:18:18+00:00 | 2851 | 73 | JavaScript | 129 | [] |
-| MS-9web/shellcodes | None | https://github.com/MS-9web/shellcodes | ['shellcode'] | 1 | 2021-10-24 13:21:03+00:00 | 77 | 1 | Python | 1 | [] |
 | wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-24 01:03:53+00:00 | 105 | 0 | Go | 0 | [] |
-| AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-10-24 15:21:54+00:00 | 87616 | 1 | CSS | 0 | [] |
+| metasploit/metasploit.github.io | GitHub pages for great justice. Mostly for public resources associated with Metasploit Framework and friends. | https://github.com/metasploit/metasploit.github.io | ['metasploit module OR payload'] | 1 | 2021-10-24 12:34:36+00:00 | 13186 | 7 | HTML | 3 | [] |
+| mishrasunny174/pwn-docker | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | ['exploit'] | 1 | 2021-10-24 07:52:35+00:00 | 114 | 8 | Dockerfile | 2 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-24 11:35:04+00:00 | 70448 | 10238 | Jupyter Notebook | 1753 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-24 00:16:59+00:00 | 163750 | 252 | Ruby | 77 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-24 01:36:33+00:00 | 2760619 | 355 | | 54 | [] |
@@ -46,10 +46,11 @@
 | k8gege/Aggressor | Ladon for Cobalt Strike, Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password/brute-force/psexec/atexec/sshexec/webshell/smbexec/netcat/osscan/netscan/struts2Poc/weblogicExp | https://github.com/k8gege/Aggressor | ['exploit'] | 1 | 2021-10-24 08:30:15+00:00 | 16938 | 319 | | 75 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-24 01:51:03+00:00 | 897 | 244 | Rust | 13 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-24 14:56:09+00:00 | 38243 | 24 | | 14 | [] |
+| TAbdiukov/Exploit-DB | Various pwning scripts i CAN publish | https://github.com/TAbdiukov/Exploit-DB | ['exploit'] | 1 | 2021-10-24 16:12:40+00:00 | 9 | 0 | Python | 0 | [] |
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2021-10-24 01:12:41+00:00 | 68352 | 567 | Lua | 119 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-10-24 09:05:16+00:00 | 3340731 | 2 | Batchfile | 0 | [] |
-| mishrasunny174/pwn-docker | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | ['exploit'] | 1 | 2021-10-24 07:52:35+00:00 | 114 | 8 | Dockerfile | 2 | [] |
 | insightglacier/Dictionary-Of-Pentesting | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | ['rce'] | 1 | 2021-10-24 05:20:19+00:00 | 251244 | 907 | Shell | 202 | [] |
+| AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-10-24 15:21:54+00:00 | 87616 | 1 | CSS | 0 | [] |
 | sketchyboi14/PhoneSploitGui | A GUI version of the PhoneSpoit CLI tool. | https://github.com/sketchyboi14/PhoneSploitGui | ['sploit'] | 1 | 2021-10-24 13:02:25+00:00 | 17752 | 1 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-24 00:03:20+00:00 | 403217 | 33 | | 19 | [] |
 | topcue/dact-exploit-poc | None | https://github.com/topcue/dact-exploit-poc | ['exploit'] | 1 | 2021-10-24 13:08:49+00:00 | 0 | 0 | Python | 0 | [] |
