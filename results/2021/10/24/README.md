@@ -1,12 +1,14 @@
 
 # Summary for results/2021/10/24
     
-22 records found after deduplication
+24 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-24 05:37:52+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-24 00:16:59+00:00 | 163750 | 252 | Ruby | 77 | [] |
+| Crypto-Virus/indexed-finance-exploit-example | None | https://github.com/Crypto-Virus/indexed-finance-exploit-example | ['exploit'] | 1 | 2021-10-24 07:15:38+00:00 | 0 | 0 | Solidity | 0 | [] |
+| mshhlvxk/best-exploits-for-roblox | i guess so, these are some gud scripts, updating anytime | https://github.com/mshhlvxk/best-exploits-for-roblox | ['exploit'] | 1 | 2021-10-24 06:26:47+00:00 | 0 | 0 | | 0 | [] |
 | SrlmTexh/SSRF_THM_testScript | This is a Python Script that was used as a PoC of a SSRF vulnerability on TryHackMe Machine | https://github.com/SrlmTexh/SSRF_THM_testScript | ['vulnerability poc'] | 1 | 2021-10-24 04:56:26+00:00 | 0 | 0 | Python | 0 | [] |
 | SleepTheGod/DiscorExploits | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscorExploits | ['exploit'] | 1 | 2021-10-24 00:51:10+00:00 | 0 | 0 | Python | 0 | [] |
 | Exunys/Cookie-Clicker-Exploits | Infinite Cookies Script for Cookie Clicker | https://github.com/Exunys/Cookie-Clicker-Exploits | ['exploit'] | 1 | 2021-10-24 00:16:56+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -26,4 +28,4 @@
 | k8gege/k8gege.github.io | K8博客 | https://github.com/k8gege/k8gege.github.io | ['exploit'] | 1 | 2021-10-24 01:41:33+00:00 | 255162 | 18 | HTML | 7 | [] |
 | mdulin2/Zyxel_NAS326_Exploit | Exploit of 3 different CVE's in Zyxel NAS 326 | https://github.com/mdulin2/Zyxel_NAS326_Exploit | ['exploit'] | 1 | 2021-10-24 01:50:38+00:00 | 19 | 2 | Python | 0 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-24 01:36:33+00:00 | 2760619 | 355 | | 54 | [] |
-| mshhlvxk/best-exploits-for-roblox | i guess so, these are some gud scripts, updating anytime | https://github.com/mshhlvxk/best-exploits-for-roblox | ['exploit'] | 1 | 2021-10-24 06:26:47+00:00 | 0 | 0 | | 0 | [] |
+| JUICY00000/HellLoader | Undetectable Loader for Cobalt Strike Using Syscalls And A External Shellcode | https://github.com/JUICY00000/HellLoader | ['shellcode'] | 1 | 2021-10-24 07:22:45+00:00 | 0 | 0 | C | 0 | [] |
