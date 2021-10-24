@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/24
     
-30 records found after deduplication
+32 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-24 05:37:52+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-24 00:16:59+00:00 | 163750 | 252 | Ruby | 77 | [] |
+| Titan3301/ethereum-exploit | Ethereum Exploit , Get upto 10 Ethereum For Free | https://github.com/Titan3301/ethereum-exploit | ['exploit'] | 1 | 2021-10-24 09:28:13+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | i-sotnikov/shellcodes-linux | None | https://github.com/i-sotnikov/shellcodes-linux | ['shellcode'] | 1 | 2021-10-24 09:00:14+00:00 | 0 | 0 | Assembly | 0 | [] |
 | JUICY00000/HellLoader | Undetectable Loader for Cobalt Strike Using Syscalls And A External Shellcode | https://github.com/JUICY00000/HellLoader | ['shellcode'] | 1 | 2021-10-24 07:22:45+00:00 | 0 | 0 | C | 0 | [] |
 | Crypto-Virus/indexed-finance-exploit-example | None | https://github.com/Crypto-Virus/indexed-finance-exploit-example | ['exploit'] | 1 | 2021-10-24 07:15:38+00:00 | 0 | 0 | Solidity | 0 | [] |
@@ -23,6 +24,7 @@
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-24 02:18:18+00:00 | 2851 | 73 | JavaScript | 129 | [] |
 | wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-24 01:03:53+00:00 | 105 | 0 | Go | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-24 01:08:38+00:00 | 19866 | 2 | Python | 0 | [] |
+| jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2021-10-24 10:31:50+00:00 | 51 | 10 | Python | 6 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-24 01:17:36+00:00 | 95781 | 215 | Python | 62 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-24 00:03:20+00:00 | 403217 | 33 | | 19 | [] |
 | insightglacier/Dictionary-Of-Pentesting | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | ['rce'] | 1 | 2021-10-24 05:20:19+00:00 | 251244 | 907 | Shell | 202 | [] |
@@ -34,4 +36,4 @@
 | k8gege/k8gege.github.io | K8博客 | https://github.com/k8gege/k8gege.github.io | ['exploit'] | 1 | 2021-10-24 01:41:33+00:00 | 255162 | 18 | HTML | 7 | [] |
 | mdulin2/Zyxel_NAS326_Exploit | Exploit of 3 different CVE's in Zyxel NAS 326 | https://github.com/mdulin2/Zyxel_NAS326_Exploit | ['exploit'] | 1 | 2021-10-24 01:50:38+00:00 | 19 | 2 | Python | 0 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-24 01:36:33+00:00 | 2760619 | 355 | | 54 | [] |
-| Titan3301/ethereum-exploit | Ethereum Exploit , Get upto 10 Ethereum For Free | https://github.com/Titan3301/ethereum-exploit | ['exploit'] | 1 | 2021-10-24 09:28:13+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| sixpacksecurity/CVE-2021-40438 | CVE-2021-40438 exploit PoC with Docker setup. | https://github.com/sixpacksecurity/CVE-2021-40438 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-10-24 10:21:12+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2021-40438'] |
