@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/24
     
-24 records found after deduplication
+26 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
@@ -16,12 +16,14 @@
 | 0x0021h/exploitsearch | pwnwiki's command-line query program | https://github.com/0x0021h/exploitsearch | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-10-24 06:18:04+00:00 | 4 | 0 | Python | 0 | [] |
 | PM2Exploit/PM2Exploit | None | https://github.com/PM2Exploit/PM2Exploit | ['exploit'] | 1 | 2021-10-24 02:03:50+00:00 | 9 | 1 | | 0 | [] |
 | nop-tech/learning-resources | Collection of resources for learning pentesting, exploit development, obfuscation & much more. | https://github.com/nop-tech/learning-resources | ['exploit'] | 1 | 2021-10-24 05:30:37+00:00 | 27 | 1 | | 0 | [] |
+| jravis-8520/h-sploit-paylod | H-SPLOIT-PAYLOAD IS A TOOL TO GENERATE A PAYLOAD IN 1 CLICK | https://github.com/jravis-8520/h-sploit-paylod | ['metasploit module OR payload', 'sploit'] | 2 | 2021-10-24 07:34:12+00:00 | 39 | 0 | Shell | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-24 02:18:18+00:00 | 2851 | 73 | JavaScript | 129 | [] |
 | wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-24 01:03:53+00:00 | 105 | 0 | Go | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-24 01:08:38+00:00 | 19866 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-24 01:17:36+00:00 | 95781 | 215 | Python | 62 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-24 00:03:20+00:00 | 403217 | 33 | | 19 | [] |
 | insightglacier/Dictionary-Of-Pentesting | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | ['rce'] | 1 | 2021-10-24 05:20:19+00:00 | 251244 | 907 | Shell | 202 | [] |
+| mishrasunny174/pwn-docker | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | ['exploit'] | 1 | 2021-10-24 07:52:35+00:00 | 114 | 8 | Dockerfile | 2 | [] |
 | acecilia/OpenWRTInvasion | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... | https://github.com/acecilia/OpenWRTInvasion | ['exploit'] | 1 | 2021-10-24 01:12:41+00:00 | 68352 | 567 | Lua | 119 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-24 01:51:03+00:00 | 897 | 244 | Rust | 13 | [] |
 | noob-hackers/m-wiz | Install Metasploit And Repair Metasploit In Termux With Easy Steps | https://github.com/noob-hackers/m-wiz | ['metasploit module OR payload'] | 1 | 2021-10-24 06:31:33+00:00 | 7887 | 297 | Shell | 67 | [] |
