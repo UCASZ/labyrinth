@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/23
     
-83 records found after deduplication
+84 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-23 00:06:36+00:00 | 646229 | 25399 | Ruby | 11681 | [] |
-| engkikarnando/cvengki.html-2021 | None | https://github.com/engkikarnando/cvengki.html-2021 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 03:01:42+00:00 | 0 | 0 | | 0 | [] |
+| LayarKacaSiber/CVE-2021-42013 | None | https://github.com/LayarKacaSiber/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:16:53+00:00 | 17 | 0 | Shell | 0 | ['CVE-2021-42013'] |
 | FurryVile/WindowsExploitGoodies | Exploit Repository For Windows Computers | https://github.com/FurryVile/WindowsExploitGoodies | ['exploit'] | 1 | 2021-10-23 01:49:57+00:00 | 0 | 0 | | 0 | [] |
 | Y4er/CVE-2021-35215 | SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE | https://github.com/Y4er/CVE-2021-35215 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-10-23 01:44:54+00:00 | 0 | 0 | | 0 | ['CVE-2021-35215'] |
 | I2rys/pw-metasploit | Advance version of MsfSearch kinda as well as a module. | https://github.com/I2rys/pw-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-23 00:04:46+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -15,8 +15,8 @@
 | cckuailong/CVE-2021-2471 | None | https://github.com/cckuailong/CVE-2021-2471 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 02:06:40+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-2471'] |
 | 0xAgun/Arbitrary-File-Upload-ZoomSounds | ZoomSounds < 6.05 allowing unauthenticated users to upload an arbitrary file anywhere on the web server. | https://github.com/0xAgun/Arbitrary-File-Upload-ZoomSounds | ['exploit'] | 1 | 2021-10-23 12:38:34+00:00 | 7 | 0 | Python | 0 | [] |
 | Lucijan2556/Fixed-WeAreDevs-exploit-template | None | https://github.com/Lucijan2556/Fixed-WeAreDevs-exploit-template | ['exploit'] | 1 | 2021-10-23 09:10:30+00:00 | 43 | 0 | | 0 | [] |
-| LayarKacaSiber/CVE-2021-42013 | None | https://github.com/LayarKacaSiber/CVE-2021-42013 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:16:53+00:00 | 17 | 0 | Shell | 0 | ['CVE-2021-42013'] |
 | LayarKacaSiber/CVE-2021-41773 | None | https://github.com/LayarKacaSiber/CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 13:15:48+00:00 | 20 | 0 | Shell | 0 | ['CVE-2021-41773'] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-23 05:07:50+00:00 | 271378 | 6553 | C | 1811 | [] |
 | Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-23 02:16:47+00:00 | 4 | 0 | | 0 | [] |
 | crtaylor315/PrintNightmare-Before-Halloween | OKU 2105 Capstone Research on PrintNightmare | https://github.com/crtaylor315/PrintNightmare-Before-Halloween | ['exploit'] | 1 | 2021-10-23 18:14:11+00:00 | 192 | 1 | Python | 0 | [] |
 | rbctee/Shellcode | Shellcode | https://github.com/rbctee/Shellcode | ['shellcode'] | 1 | 2021-10-23 08:11:38+00:00 | 3 | 0 | Assembly | 0 | [] |
@@ -24,9 +24,10 @@
 | r3kind1e/INE | The Exploit of INE CYBER SECURITY Learning Paths, authored by r3kind1e. Try to find better solutions beyond the official Solutions. | https://github.com/r3kind1e/INE | ['exploit'] | 1 | 2021-10-23 14:23:09+00:00 | 10 | 0 | C++ | 0 | [] |
 | PorryDepTrai/exploit | None | https://github.com/PorryDepTrai/exploit | ['exploit'] | 1 | 2021-10-23 02:29:11+00:00 | 339 | 0 | Lua | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-23 11:07:34+00:00 | 73 | 1 | Python | 0 | [] |
+| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-23 13:58:06+00:00 | 210 | 0 | Python | 1 | [] |
 | ZeroM3m0ry/Shellcode-Injector | shell code injector | https://github.com/ZeroM3m0ry/Shellcode-Injector | ['shellcode'] | 1 | 2021-10-23 02:33:53+00:00 | 0 | 2 | C++ | 0 | [] |
+| engkikarnando/cvengki.html-2021 | None | https://github.com/engkikarnando/cvengki.html-2021 | ['cve-2 OR cve_2'] | 1 | 2021-10-23 03:01:42+00:00 | 0 | 0 | | 0 | [] |
 | rcecilia1/rcecilia1 | Config files for my GitHub profile. | https://github.com/rcecilia1/rcecilia1 | ['rce'] | 1 | 2021-10-23 05:24:00+00:00 | 0 | 0 | | 0 | [] |
-| NotFoundHacker/KaliExploit | None | https://github.com/NotFoundHacker/KaliExploit | ['exploit'] | 1 | 2021-10-23 19:09:24+00:00 | 89 | 0 | Python | 0 | [] |
 | PewPewBoy/for-paid-exploits | None | https://github.com/PewPewBoy/for-paid-exploits | ['exploit'] | 1 | 2021-10-23 06:25:55+00:00 | 0 | 0 | | 0 | [] |
 | zgr2575/exploitv2 | None | https://github.com/zgr2575/exploitv2 | ['exploit'] | 1 | 2021-10-23 23:03:43+00:00 | 0 | 0 | Lua | 0 | [] |
 | TheLastVvV/CVE-2021-42013 | Poc CVE-2021-42013 - Apache 2.4.50 without CGI | https://github.com/TheLastVvV/CVE-2021-42013 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-10-23 22:00:34+00:00 | 0 | 0 | Shell | 0 | ['CVE-2021-42013'] |
@@ -45,9 +46,9 @@
 | here4thee/claircore-cnvd | nan | https://github.com/here4thee/claircore-cnvd | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-23 08:28:48+00:00 | 0 | 0 | nan | 0 | [] |
 | here4thee/claircore-cnvd | nan | https://github.com/here4thee/claircore-cnvd | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-23 07:22:07+00:00 | 0 | 0 | nan | 0 | [] |
 | XRSec/CobaltStrike-Update | Cobalt Strike is a powerful threat emulation tool that provides a post-exploitation agent and covert channels ideal for Adversary Simulations and Red Team exercises. With Cobalt Strike, companies can emulate the tactics and techniques of a quiet long-term | https://github.com/XRSec/CobaltStrike-Update | ['exploit'] | 1 | 2021-10-23 06:28:08+00:00 | 0 | 0 | | 0 | [] |
-| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-23 13:58:06+00:00 | 210 | 0 | Python | 1 | [] |
+| NotFoundHacker/KaliExploit | None | https://github.com/NotFoundHacker/KaliExploit | ['exploit'] | 1 | 2021-10-23 19:09:24+00:00 | 89 | 0 | Python | 0 | [] |
 | iikla/Vega-X-Source | Source of Vega X a free roblox exploit | https://github.com/iikla/Vega-X-Source | ['exploit'] | 1 | 2021-10-23 18:21:12+00:00 | 330 | 0 | C# | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-23 05:07:50+00:00 | 271378 | 6553 | C | 1811 | [] |
+| jravis-8520/h-sploit-paylod | H-SPLOIT-PAYLOAD IS A TOOL TO GENERATE A PAYLOAD IN 1 CLICK | https://github.com/jravis-8520/h-sploit-paylod | ['metasploit module OR payload', 'sploit'] | 2 | 2021-10-23 09:24:49+00:00 | 30 | 0 | Shell | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-23 00:03:22+00:00 | 432558 | 33 | | 19 | [] |
 | Am0rphous/Malware | CAUTION - Malicious files 💀 | https://github.com/Am0rphous/Malware | ['exploit'] | 1 | 2021-10-23 10:32:47+00:00 | 2006 | 19 | PHP | 8 | [] |
 | rcedror/rcedror.github.io | Personal Page | https://github.com/rcedror/rcedror.github.io | ['rce'] | 1 | 2021-10-23 01:11:37+00:00 | 26 | 0 | HTML | 0 | [] |
