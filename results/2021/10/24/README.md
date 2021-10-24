@@ -1,0 +1,11 @@
+
+# Summary for results/2021/10/24
+    
+4 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-24 00:16:59+00:00 | 163750 | 252 | Ruby | 77 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-24 00:03:20+00:00 | 403217 | 33 | | 19 | [] |
+| pizza-power/motioneye-authenticated-RCE | A Python 3 script that uploads a tasks.pickle file that enables RCE in MotionEye | https://github.com/pizza-power/motioneye-authenticated-RCE | ['rce'] | 1 | 2021-10-24 00:43:38+00:00 | 8 | 1 | Python | 0 | [] |
+| Exunys/Cookie-Clicker-Exploits | Infinite Cookies Script for Cookie Clicker | https://github.com/Exunys/Cookie-Clicker-Exploits | ['exploit'] | 1 | 2021-10-24 00:16:56+00:00 | 0 | 0 | JavaScript | 0 | [] |
