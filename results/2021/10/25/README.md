@@ -1,12 +1,14 @@
 
 # Summary for results/2021/10/25
     
-18 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-25 02:04:29+00:00 | 647703 | 25412 | Ruby | 11685 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-25 00:16:50+00:00 | 165273 | 252 | Ruby | 77 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-25 00:14:41+00:00 | 12376 | 4041 | Python | 584 | [] |
+| ZeroDayDaemon/ZeroDayDaemon | You were all about the dragon me to dungeon RPGs | https://github.com/ZeroDayDaemon/ZeroDayDaemon | ['zeroday'] | 1 | 2021-10-25 04:03:58+00:00 | 0 | 0 | | 0 | [] |
+| Jun-5heng/CVE-2021-26084 | nan | https://github.com/Jun-5heng/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 03:16:07+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-26084'] |
 | ArkAngeL43/SSH-Sploit-Ruby | Possess and troll ssh users with ssh-sploit Version 2.0 rewritten in ruby | https://github.com/ArkAngeL43/SSH-Sploit-Ruby | ['sploit'] | 1 | 2021-10-25 03:27:46+00:00 | 0 | 0 | Ruby | 0 | [] |
 | rafaelcaria/vulnhub-machines-exploit | None | https://github.com/rafaelcaria/vulnhub-machines-exploit | ['exploit'] | 1 | 2021-10-25 00:57:42+00:00 | 0 | 0 | | 0 | [] |
 | wangxb96/EODE | Paper Code : Exhaustive Exploitation of Nature-inspired Computation for Cancer Screening in an Ensemble Manner | https://github.com/wangxb96/EODE | ['exploit'] | 1 | 2021-10-25 00:22:33+00:00 | 1 | 0 | | 0 | [] |
@@ -21,5 +23,7 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-25 00:24:14+00:00 | 98408 | 216 | Python | 62 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-25 01:21:43+00:00 | 74 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-25 00:03:17+00:00 | 403281 | 33 | | 19 | [] |
+| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-10-25 04:07:02+00:00 | 73420 | 2543 | Python | 387 | [] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-10-25 02:11:19+00:00 | 2527 | 1339 | | 450 | [] |
-| Jun-5heng/CVE-2021-26084 | nan | https://github.com/Jun-5heng/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 03:16:07+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-26084'] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-25 00:16:50+00:00 | 165273 | 252 | Ruby | 77 | [] |
+| JoyGhoshs/dependency-confusion | Exploit For Npm Dependency confusion attac | https://github.com/JoyGhoshs/dependency-confusion | ['exploit'] | 1 | 2021-10-25 04:37:24+00:00 | 0 | 0 | | 0 | [] |
