@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/24
     
-98 records found after deduplication
+99 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -30,7 +30,7 @@
 | hac425xxx/heap-exploitation-in-real-world | None | https://github.com/hac425xxx/heap-exploitation-in-real-world | ['exploit'] | 1 | 2021-10-24 13:57:03+00:00 | 5512 | 158 | | 17 | [] |
 | whoismissing/full-chain-practice | practicing writing full chain exploits | https://github.com/whoismissing/full-chain-practice | ['exploit'] | 1 | 2021-10-24 15:02:48+00:00 | 9265 | 0 | | 0 | [] |
 | Exunys/Cookie-Clicker-Exploits | Infinite Cookies Script for Cookie Clicker | https://github.com/Exunys/Cookie-Clicker-Exploits | ['exploit'] | 1 | 2021-10-24 00:16:56+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| metasploit/metasploit.github.io | GitHub pages for great justice. Mostly for public resources associated with Metasploit Framework and friends. | https://github.com/metasploit/metasploit.github.io | ['metasploit module OR payload'] | 1 | 2021-10-24 12:34:36+00:00 | 13186 | 7 | HTML | 3 | [] |
+| alexprzt/Roblox-Exploiting | None | https://github.com/alexprzt/Roblox-Exploiting | ['exploit'] | 1 | 2021-10-24 20:28:59+00:00 | 39 | 0 | Lua | 0 | [] |
 | SleepTheGod/DiscorExploits | Twitter.com/ClumsyLulz | https://github.com/SleepTheGod/DiscorExploits | ['exploit'] | 1 | 2021-10-24 00:51:10+00:00 | 0 | 0 | Python | 0 | [] |
 | TiagoSergio/CVE-2021-22005 | None | https://github.com/TiagoSergio/CVE-2021-22005 | ['cve-2 OR cve_2'] | 1 | 2021-10-24 23:14:11+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-22005'] |
 | lordbaduk/exploits | None | https://github.com/lordbaduk/exploits | ['exploit'] | 1 | 2021-10-24 23:03:27+00:00 | 0 | 0 | | 0 | [] |
@@ -54,9 +54,9 @@
 | mshhlvxk/best-exploits-for-roblox | i guess so, these are some gud scripts, updating anytime | https://github.com/mshhlvxk/best-exploits-for-roblox | ['exploit'] | 1 | 2021-10-24 06:26:47+00:00 | 0 | 0 | | 0 | [] |
 | SrlmTexh/SSRF_THM_testScript | This is a Python Script that was used as a PoC of a SSRF vulnerability on TryHackMe Machine | https://github.com/SrlmTexh/SSRF_THM_testScript | ['vulnerability poc'] | 1 | 2021-10-24 04:56:26+00:00 | 0 | 0 | Python | 0 | [] |
 | fernandopaezmartin/SAD_2021--Metasploit | Ejercicio sobre Metasploit en el Módulo de Seguridad y Alta Disponibilidad - Punta del Verde 2021/2022 | https://github.com/fernandopaezmartin/SAD_2021--Metasploit | ['metasploit module OR payload'] | 1 | 2021-10-24 16:40:44+00:00 | 7112 | 0 | | 0 | [] |
-| alexprzt/Roblox-Exploiting | None | https://github.com/alexprzt/Roblox-Exploiting | ['exploit'] | 1 | 2021-10-24 20:28:59+00:00 | 39 | 0 | Lua | 0 | [] |
 | jravis-8520/h-sploit-paylod | H-SPLOIT-PAYLOAD IS A TOOL TO GENERATE A PAYLOAD IN 1 CLICK | https://github.com/jravis-8520/h-sploit-paylod | ['metasploit module OR payload', 'sploit'] | 2 | 2021-10-24 07:34:12+00:00 | 39 | 0 | Shell | 0 | [] |
-| vvinoth/HTBCustomExploits | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | ['exploit'] | 1 | 2021-10-24 14:35:22+00:00 | 32 | 0 | Python | 0 | [] |
+| metasploit/metasploit.github.io | GitHub pages for great justice. Mostly for public resources associated with Metasploit Framework and friends. | https://github.com/metasploit/metasploit.github.io | ['metasploit module OR payload'] | 1 | 2021-10-24 12:34:36+00:00 | 13186 | 7 | HTML | 3 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-24 00:03:20+00:00 | 403217 | 33 | | 19 | [] |
 | insightglacier/Dictionary-Of-Pentesting | Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。 | https://github.com/insightglacier/Dictionary-Of-Pentesting | ['rce'] | 1 | 2021-10-24 05:20:19+00:00 | 251244 | 907 | Shell | 202 | [] |
 | mishrasunny174/pwn-docker | Collection of docker images to be used for exploit development and testing | https://github.com/mishrasunny174/pwn-docker | ['exploit'] | 1 | 2021-10-24 07:52:35+00:00 | 114 | 8 | Dockerfile | 2 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-10-24 09:05:16+00:00 | 3340731 | 2 | Batchfile | 0 | [] |
@@ -79,20 +79,21 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-24 11:35:04+00:00 | 70448 | 10238 | Jupyter Notebook | 1753 | [] |
 | mgeeky/expdevBadChars | Bad Characters highlighter for exploit development purposes supporting multiple input formats while comparing. | https://github.com/mgeeky/expdevBadChars | ['exploit'] | 1 | 2021-10-24 21:14:44+00:00 | 3825 | 173 | Python | 52 | [] |
 | sketchyboi14/PhoneSploitGui | A GUI version of the PhoneSpoit CLI tool. | https://github.com/sketchyboi14/PhoneSploitGui | ['sploit'] | 1 | 2021-10-24 13:02:25+00:00 | 17752 | 1 | Python | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-24 00:03:20+00:00 | 403217 | 33 | | 19 | [] |
 | topcue/dact-exploit-poc | None | https://github.com/topcue/dact-exploit-poc | ['exploit'] | 1 | 2021-10-24 13:08:49+00:00 | 0 | 0 | Python | 0 | [] |
-| AristiPap/E-Class_PenTesting | Exploiting and fixing security vulnerabilities of an old version of E-Class. Project implemented as part of the class YS02 Cyber-Security. | https://github.com/AristiPap/E-Class_PenTesting | ['exploit'] | 1 | 2021-10-24 22:08:56+00:00 | 17059 | 0 | PHP | 0 | [] |
+| vvinoth/HTBCustomExploits | HackTheBox Custom Exploits | https://github.com/vvinoth/HTBCustomExploits | ['exploit'] | 1 | 2021-10-24 14:35:22+00:00 | 32 | 0 | Python | 0 | [] |
+| psauxx/Vulnnr | Vulnnr - Vulnerability Scanner And Mass Exploiter, created for pentesting. | https://github.com/psauxx/Vulnnr | ['exploit'] | 1 | 2021-10-24 22:34:45+00:00 | 464 | 98 | Python | 36 | [] |
 | Unknown3958/UnknownExploit | Roblox exploit under development | https://github.com/Unknown3958/UnknownExploit | ['exploit'] | 1 | 2021-10-24 18:04:00+00:00 | 27 | 0 | | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-24 02:18:18+00:00 | 2851 | 73 | JavaScript | 129 | [] |
 | MS-9web/shellcodes | None | https://github.com/MS-9web/shellcodes | ['shellcode'] | 1 | 2021-10-24 13:21:03+00:00 | 77 | 1 | Python | 1 | [] |
 | wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-24 01:03:53+00:00 | 105 | 0 | Go | 0 | [] |
 | Quark064/WiiUAutoGate | I DO NOT OWN NOR AM I RESPONSIBLE FOR THE EXPLOIT CODE USED HERE - Credit goes to the talented hackers of the Wii U Modding Scene - This is just a gate I made to automate launching the HBL when opening the internet browser because who can be bothered to ma | https://github.com/Quark064/WiiUAutoGate | ['exploit'] | 1 | 2021-10-24 20:53:29+00:00 | 22 | 0 | HTML | 0 | [] |
 | flashintv/funkyFriday-Menu | small project made by me and crybit (and some help from kad3n - he gave me the updatetag generated code) for the game Funky Friday on Roblox | https://github.com/flashintv/funkyFriday-Menu | ['exploit'] | 1 | 2021-10-24 21:47:13+00:00 | 28 | 0 | Lua | 0 | [] |
+| HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-10-24 23:40:55+00:00 | 75 | 0 | | 0 | [] |
 | AM-ops/MetasploitProject | Project for the ITRI625 (Computer Security II) module. Two scenarios are covered. | https://github.com/AM-ops/MetasploitProject | ['metasploit module OR payload'] | 1 | 2021-10-24 15:21:54+00:00 | 87616 | 1 | CSS | 0 | [] |
 | WizzzStark/AD-Notes | Recopilación de técnicas de explotación de Active Directory. | https://github.com/WizzzStark/AD-Notes | ['exploit'] | 1 | 2021-10-24 11:34:06+00:00 | 287 | 4 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-24 01:08:38+00:00 | 19866 | 2 | Python | 0 | [] |
+| AristiPap/E-Class_PenTesting | Exploiting and fixing security vulnerabilities of an old version of E-Class. Project implemented as part of the class YS02 Cyber-Security. | https://github.com/AristiPap/E-Class_PenTesting | ['exploit'] | 1 | 2021-10-24 22:08:56+00:00 | 17059 | 0 | PHP | 0 | [] |
 | HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-10-24 22:50:52+00:00 | 438 | 1 | Lua | 0 | [] |
-| psauxx/Vulnnr | Vulnnr - Vulnerability Scanner And Mass Exploiter, created for pentesting. | https://github.com/psauxx/Vulnnr | ['exploit'] | 1 | 2021-10-24 22:34:45+00:00 | 464 | 98 | Python | 36 | [] |
 | c0del1ar/Domaineer | Domain Engineer or Domaineer is Semi-Auto Bot to gaining data from domains | https://github.com/c0del1ar/Domaineer | ['exploit'] | 1 | 2021-10-24 23:13:51+00:00 | 196 | 5 | Python | 4 | [] |
 | rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2021-10-24 14:41:35+00:00 | 340 | 0 | HTML | 0 | [] |
 | zerodayrat/ZeroDayRAT | Config files for my GitHub profile. | https://github.com/zerodayrat/ZeroDayRAT | ['zeroday'] | 1 | 2021-10-24 12:45:35+00:00 | 1 | 0 | | 0 | [] |
