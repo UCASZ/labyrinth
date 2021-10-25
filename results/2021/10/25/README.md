@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/25
     
-48 records found after deduplication
+50 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-25 02:04:29+00:00 | 647703 | 25412 | Ruby | 11685 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-25 04:47:04+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
+| 0x727/SpringBootExploit | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | ['exploit'] | 1 | 2021-10-25 04:52:53+00:00 | 109 | 285 | Java | 44 | [] |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-10-25 06:40:10+00:00 | 75 | 0 | | 0 | [] |
 | ngovinhhuy/Exploit_old_vuln_apps | None | https://github.com/ngovinhhuy/Exploit_old_vuln_apps | ['exploit'] | 1 | 2021-10-25 09:15:20+00:00 | 561 | 0 | Python | 0 | [] |
 | BildaRcesid/BildaRcesid | Config files for my GitHub profile. | https://github.com/BildaRcesid/BildaRcesid | ['rce'] | 1 | 2021-10-25 00:00:38+00:00 | 0 | 0 | | 0 | [] |
@@ -17,10 +17,11 @@
 | r3kind1e/INE | The Exploit of INE CYBER SECURITY Learning Paths, authored by r3kind1e. Try to find better solutions beyond the official Solutions. | https://github.com/r3kind1e/INE | ['exploit'] | 1 | 2021-10-25 05:55:07+00:00 | 16 | 0 | C++ | 0 | [] |
 | NeonNetworks/FIVE | FIVE, Vulnerability Scanner And Mass Exploiter, made for pentesting. | https://github.com/NeonNetworks/FIVE | ['exploit'] | 1 | 2021-10-25 02:18:02+00:00 | 106 | 6 | Python | 2 | [] |
 | olivier-lemelin/ShellDrop | A Helper tool to help generate droppers containing encrypted shellcode. | https://github.com/olivier-lemelin/ShellDrop | ['shellcode'] | 1 | 2021-10-25 01:54:33+00:00 | 5 | 0 | Python | 0 | [] |
-| 0x727/SpringBootExploit | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 | https://github.com/0x727/SpringBootExploit | ['exploit'] | 1 | 2021-10-25 04:52:53+00:00 | 109 | 285 | Java | 44 | [] |
 | 0x727/JNDIExploit | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | ['exploit'] | 1 | 2021-10-25 04:57:04+00:00 | 85166 | 87 | Java | 16 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-25 04:47:04+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
 | GRIPPERTV/Green-Server | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | ['exploit'] | 1 | 2021-10-25 07:41:25+00:00 | 84 | 0 | Lua | 0 | [] |
 | darrenmartyn/zimbra-hinginx | zimbra nginx lpe exploit | https://github.com/darrenmartyn/zimbra-hinginx | ['exploit'] | 1 | 2021-10-25 10:01:28+00:00 | 1 | 0 | Shell | 0 | [] |
+| 4dmud/mud | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of | https://github.com/4dmud/mud | ['exploit'] | 1 | 2021-10-25 11:31:41+00:00 | 12714 | 2 | C++ | 1 | [] |
 | wangxb96/EODE | Paper Code : Exhaustive Exploitation of Nature-inspired Computation for Cancer Screening in an Ensemble Manner | https://github.com/wangxb96/EODE | ['exploit'] | 1 | 2021-10-25 00:22:33+00:00 | 1 | 0 | | 0 | [] |
 | rafaelcaria/vulnhub-machines-exploit | None | https://github.com/rafaelcaria/vulnhub-machines-exploit | ['exploit'] | 1 | 2021-10-25 00:57:42+00:00 | 0 | 0 | | 0 | [] |
 | ArkAngeL43/SSH-Sploit-Ruby | Possess and troll ssh users with ssh-sploit Version 2.0 rewritten in ruby | https://github.com/ArkAngeL43/SSH-Sploit-Ruby | ['sploit'] | 1 | 2021-10-25 03:27:46+00:00 | 0 | 0 | Ruby | 0 | [] |
@@ -28,10 +29,10 @@
 | ZeroDayDaemon/ZeroDayDaemon | You were all about the dragon me to dungeon RPGs | https://github.com/ZeroDayDaemon/ZeroDayDaemon | ['zeroday'] | 1 | 2021-10-25 04:03:58+00:00 | 0 | 0 | | 0 | [] |
 | JoyGhoshs/dependency-confusion | Exploit For Npm Dependency confusion attac | https://github.com/JoyGhoshs/dependency-confusion | ['exploit'] | 1 | 2021-10-25 04:37:24+00:00 | 0 | 0 | | 0 | [] |
 | hakivvi/CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-25 06:32:34+00:00 | 1736 | 0 | C++ | 1 | ['CVE-2021-40449'] |
+| iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-10-25 11:06:30+00:00 | 750 | 213 | Python | 34 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-10-25 00:05:02+00:00 | 295 | 11 | JavaScript | 8 | [] |
 | thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2021-10-25 01:18:44+00:00 | 21 | 1 | | 2 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-25 01:10:34+00:00 | 21084 | 2 | Python | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-25 00:03:17+00:00 | 403281 | 33 | | 19 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-25 00:14:41+00:00 | 12376 | 4041 | Python | 584 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-25 06:26:40+00:00 | 5556 | 2952 | Python | 652 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-25 00:16:50+00:00 | 165273 | 252 | Ruby | 77 | [] |
@@ -41,8 +42,8 @@
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-25 02:23:20+00:00 | 35639 | 5925 | Vue | 1240 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-10-25 09:15:31+00:00 | 24 | 0 | | 0 | [] |
 | phra/PEzor | Open-Source Shellcode & PE Packer | https://github.com/phra/PEzor | ['shellcode'] | 1 | 2021-10-25 01:35:00+00:00 | 285 | 997 | C | 203 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-25 00:03:17+00:00 | 403281 | 33 | | 19 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-25 01:21:43+00:00 | 74 | 0 | PHP | 0 | [] |
-| AristiPap/E-Class_PenTesting | Exploiting and fixing security vulnerabilities of an old version of E-Class. Project implemented as part of the class YS13 Cyber-Security. | https://github.com/AristiPap/E-Class_PenTesting | ['exploit'] | 1 | 2021-10-25 09:46:39+00:00 | 17062 | 3 | PHP | 0 | [] |
 | sl4cky/LumisXP-XXE---POC | LumisXP Blind XXE vulnerability POC | https://github.com/sl4cky/LumisXP-XXE---POC | ['vulnerability poc'] | 1 | 2021-10-25 07:42:35+00:00 | 4 | 0 | | 0 | [] |
 | spmonkey/cms_poc | Lionfish CMS vulnerability verification | https://github.com/spmonkey/cms_poc | ['vulnerability poc'] | 1 | 2021-10-25 08:32:31+00:00 | 10 | 0 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-25 00:24:14+00:00 | 98408 | 216 | Python | 62 | [] |
@@ -52,4 +53,5 @@
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-10-25 01:19:04+00:00 | 90 | 0 | Python | 0 | [] |
 | alone-skiddie/tmsfi | tmsfi (termux metasploit-framework installer ) is a simple python tool for complete beginners in termux and in linux commands who want to install metasploit in termux very easily .This is actually not a tool but full of linux basic commands for install bas | https://github.com/alone-skiddie/tmsfi | ['metasploit module OR payload'] | 1 | 2021-10-25 06:50:12+00:00 | 43 | 1 | Python | 0 | [] |
 | deadjakk/metasploit-rust | Rust shim for the metasploit-framework | https://github.com/deadjakk/metasploit-rust | ['metasploit module OR payload'] | 1 | 2021-10-25 06:30:10+00:00 | 32 | 2 | Rust | 0 | [] |
+| AristiPap/E-Class_PenTesting | Exploiting and fixing security vulnerabilities of an old version of E-Class. Project implemented as part of the class YS13 Cyber-Security. | https://github.com/AristiPap/E-Class_PenTesting | ['exploit'] | 1 | 2021-10-25 09:46:39+00:00 | 17062 | 3 | PHP | 0 | [] |
 | xx-demon/NoFileAtt | NoFileAtt-ShellCode | https://github.com/xx-demon/NoFileAtt | ['shellcode'] | 1 | 2021-10-25 08:20:18+00:00 | 0 | 0 | | 0 | [] |
