@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/25
     
-103 records found after deduplication
+104 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-25 02:04:29+00:00 | 647703 | 25412 | Ruby | 11685 | [] |
-| r3kind1e/INE | The Exploit of INE CYBER SECURITY Learning Paths, authored by r3kind1e. Try to find better solutions beyond the official Solutions. | https://github.com/r3kind1e/INE | ['exploit'] | 1 | 2021-10-25 05:55:07+00:00 | 16 | 0 | C++ | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-25 04:47:04+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
 | walnutsecurity/cve-2021-41773 | CVE-2021-41773 is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-10-25 17:31:39+00:00 | 21 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | GRIPPERTV/Green-Server | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | ['exploit'] | 1 | 2021-10-25 07:41:25+00:00 | 84 | 0 | Lua | 0 | [] |
 | 0x727/JNDIExploit | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | ['exploit'] | 1 | 2021-10-25 04:57:04+00:00 | 85166 | 87 | Java | 16 | [] |
@@ -17,8 +17,9 @@
 | tungdo0602/Discord-Token-Exploit | None | https://github.com/tungdo0602/Discord-Token-Exploit | ['exploit'] | 1 | 2021-10-25 13:22:27+00:00 | 2 | 1 | JavaScript | 0 | [] |
 | NeonNetworks/FIVE | FIVE, Vulnerability Scanner And Mass Exploiter, made for pentesting. | https://github.com/NeonNetworks/FIVE | ['exploit'] | 1 | 2021-10-25 02:18:02+00:00 | 106 | 6 | Python | 2 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-25 19:58:05+00:00 | 36 | 0 | Rust | 0 | [] |
+| r3kind1e/INE | The Exploit of INE CYBER SECURITY Learning Paths, authored by r3kind1e. Try to find better solutions beyond the official Solutions. | https://github.com/r3kind1e/INE | ['exploit'] | 1 | 2021-10-25 05:55:07+00:00 | 16 | 0 | C++ | 0 | [] |
 | zomy22/CVE-2020-16846-Saltstack-Salt-API | None | https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API | ['cve-2 OR cve_2'] | 1 | 2021-10-25 19:08:00+00:00 | 0 | 0 | Dockerfile | 0 | ['CVE-2020-16846'] |
-| 4dmud/mud | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of | https://github.com/4dmud/mud | ['exploit'] | 1 | 2021-10-25 11:31:41+00:00 | 12714 | 2 | C++ | 1 | [] |
+| nerap/McTrade | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-10-25 18:46:57+00:00 | 262 | 4 | Python | 0 | [] |
 | sxntixgo/metasploit-101-at-saintcon | None | https://github.com/sxntixgo/metasploit-101-at-saintcon | ['metasploit module OR payload'] | 1 | 2021-10-25 02:26:38+00:00 | 2857 | 0 | TeX | 0 | [] |
 | noahdoespython/Anti-Exploit | An Anti-Exploit made in LUA. | https://github.com/noahdoespython/Anti-Exploit | ['exploit'] | 1 | 2021-10-25 17:26:57+00:00 | 182 | 0 | Lua | 0 | [] |
 | jonesdaeshon/EXPLOITJUNGLE | Scrape all of the active youtube live videos from the unlisted playlist maintained by youtube. | https://github.com/jonesdaeshon/EXPLOITJUNGLE | ['exploit'] | 1 | 2021-10-25 23:17:08+00:00 | 3 | 0 | Python | 0 | [] |
@@ -30,8 +31,8 @@
 | v0d0/RBX_Scripts | Repository full of scripts made by me for ROBLOX exploiting. | https://github.com/v0d0/RBX_Scripts | ['exploit'] | 1 | 2021-10-25 18:03:53+00:00 | 2 | 1 | | 0 | [] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-25 22:22:04+00:00 | 68 | 122 | C# | 21 | [] |
 | darrenmartyn/zimbra-hinginx | zimbra nginx lpe exploit | https://github.com/darrenmartyn/zimbra-hinginx | ['exploit'] | 1 | 2021-10-25 10:01:28+00:00 | 1 | 0 | Shell | 0 | [] |
+| 4dmud/mud | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of | https://github.com/4dmud/mud | ['exploit'] | 1 | 2021-10-25 11:31:41+00:00 | 12714 | 2 | C++ | 1 | [] |
 | wangxb96/EODE | Paper Code : Exhaustive Exploitation of Nature-inspired Computation for Cancer Screening in an Ensemble Manner | https://github.com/wangxb96/EODE | ['exploit'] | 1 | 2021-10-25 00:22:33+00:00 | 1 | 0 | | 0 | [] |
-| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-25 22:34:35+00:00 | 2856 | 78 | JavaScript | 137 | [] |
 | cultureelerfgoed/datasets | datasets RCE | https://github.com/cultureelerfgoed/datasets | ['rce'] | 1 | 2021-10-25 14:26:35+00:00 | 0 | 0 | | 0 | [] |
 | stevenvegar/cve-2000-0649 | Script fo testing CVE-2000-0649 for Apache and MS ISS servers | https://github.com/stevenvegar/cve-2000-0649 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 23:32:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2000-0649'] |
 | vida00/Scanner-CVE-2021-41773 | A automatic scanner to apache 2.4.49 | https://github.com/vida00/Scanner-CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 22:17:21+00:00 | 9 | 0 | Go | 0 | ['CVE-2021-41773'] |
@@ -56,8 +57,8 @@
 | Jun-5heng/CVE-2021-26084 | None | https://github.com/Jun-5heng/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 03:16:07+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-26084'] |
 | ArkAngeL43/SSH-Sploit-Ruby | Possess and troll ssh users with ssh-sploit Version 2.0 rewritten in ruby | https://github.com/ArkAngeL43/SSH-Sploit-Ruby | ['sploit'] | 1 | 2021-10-25 03:27:46+00:00 | 0 | 0 | Ruby | 0 | [] |
 | Team8K/Web | Web exploits | https://github.com/Team8K/Web | ['exploit'] | 1 | 2021-10-25 14:27:38+00:00 | 574 | 0 | | 1 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-25 22:34:35+00:00 | 2856 | 78 | JavaScript | 137 | [] |
 | BildaRcesid/BildaRcesid | Config files for my GitHub profile. | https://github.com/BildaRcesid/BildaRcesid | ['rce'] | 1 | 2021-10-25 00:00:38+00:00 | 0 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-25 04:47:04+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-10-25 04:07:02+00:00 | 73420 | 2543 | Python | 387 | [] |
 | phra/PEzor | Open-Source Shellcode & PE Packer | https://github.com/phra/PEzor | ['shellcode'] | 1 | 2021-10-25 01:35:00+00:00 | 285 | 997 | C | 203 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-10-25 09:15:31+00:00 | 24 | 0 | | 0 | [] |
