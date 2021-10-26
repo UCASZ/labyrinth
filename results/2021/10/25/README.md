@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/25
     
-104 records found after deduplication
+105 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-25 02:04:29+00:00 | 647703 | 25412 | Ruby | 11685 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-25 04:47:04+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
+| Team8K/Web | Web exploits | https://github.com/Team8K/Web | ['exploit'] | 1 | 2021-10-25 14:27:38+00:00 | 574 | 0 | | 1 | [] |
+| darrenmartyn/zimbra-hinginx | zimbra nginx lpe exploit | https://github.com/darrenmartyn/zimbra-hinginx | ['exploit'] | 1 | 2021-10-25 10:01:28+00:00 | 1 | 0 | Shell | 0 | [] |
 | walnutsecurity/cve-2021-41773 | CVE-2021-41773 is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-10-25 17:31:39+00:00 | 21 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | GRIPPERTV/Green-Server | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | ['exploit'] | 1 | 2021-10-25 07:41:25+00:00 | 84 | 0 | Lua | 0 | [] |
 | 0x727/JNDIExploit | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 | https://github.com/0x727/JNDIExploit | ['exploit'] | 1 | 2021-10-25 04:57:04+00:00 | 85166 | 87 | Java | 16 | [] |
@@ -29,10 +30,9 @@
 | Mario-Kart-Felix/Build-exploits-packages | Exploit kits (or exploit packs) are automated programs used by attackers to exploit known vulnerabilities in systems or applications. | https://github.com/Mario-Kart-Felix/Build-exploits-packages | ['exploit'] | 1 | 2021-10-25 16:15:00+00:00 | 483 | 0 | Python | 0 | [] |
 | evilcater/XSsploit | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | ['exploit'] | 1 | 2021-10-25 18:35:10+00:00 | 2 | 1 | Python | 0 | [] |
 | v0d0/RBX_Scripts | Repository full of scripts made by me for ROBLOX exploiting. | https://github.com/v0d0/RBX_Scripts | ['exploit'] | 1 | 2021-10-25 18:03:53+00:00 | 2 | 1 | | 0 | [] |
-| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-25 22:22:04+00:00 | 68 | 122 | C# | 21 | [] |
-| darrenmartyn/zimbra-hinginx | zimbra nginx lpe exploit | https://github.com/darrenmartyn/zimbra-hinginx | ['exploit'] | 1 | 2021-10-25 10:01:28+00:00 | 1 | 0 | Shell | 0 | [] |
 | 4dmud/mud | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of | https://github.com/4dmud/mud | ['exploit'] | 1 | 2021-10-25 11:31:41+00:00 | 12714 | 2 | C++ | 1 | [] |
 | wangxb96/EODE | Paper Code : Exhaustive Exploitation of Nature-inspired Computation for Cancer Screening in an Ensemble Manner | https://github.com/wangxb96/EODE | ['exploit'] | 1 | 2021-10-25 00:22:33+00:00 | 1 | 0 | | 0 | [] |
+| rafaelcaria/vulnhub-machines-exploit | None | https://github.com/rafaelcaria/vulnhub-machines-exploit | ['exploit'] | 1 | 2021-10-25 00:57:42+00:00 | 0 | 0 | | 0 | [] |
 | cultureelerfgoed/datasets | datasets RCE | https://github.com/cultureelerfgoed/datasets | ['rce'] | 1 | 2021-10-25 14:26:35+00:00 | 0 | 0 | | 0 | [] |
 | stevenvegar/cve-2000-0649 | Script fo testing CVE-2000-0649 for Apache and MS ISS servers | https://github.com/stevenvegar/cve-2000-0649 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 23:32:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2000-0649'] |
 | vida00/Scanner-CVE-2021-41773 | A automatic scanner to apache 2.4.49 | https://github.com/vida00/Scanner-CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 22:17:21+00:00 | 9 | 0 | Go | 0 | ['CVE-2021-41773'] |
@@ -45,7 +45,7 @@
 | spyspy69/superAC | SuperAC is an anti cheat designed to protect servers from cheaters, exploiters and more | https://github.com/spyspy69/superAC | ['exploit'] | 1 | 2021-10-25 16:08:53+00:00 | 0 | 0 | Java | 0 | [] |
 | Fullmess/SuperSlayerExploits | None | https://github.com/Fullmess/SuperSlayerExploits | ['exploit'] | 1 | 2021-10-25 15:15:24+00:00 | 0 | 0 | | 0 | [] |
 | cultureelerfgoed/C7C452E9-B021-432c-B3A7-626EC7068BCB | dataset boeken bibliotheek rce | https://github.com/cultureelerfgoed/C7C452E9-B021-432c-B3A7-626EC7068BCB | ['rce'] | 1 | 2021-10-25 14:16:54+00:00 | 0 | 0 | | 0 | [] |
-| rafaelcaria/vulnhub-machines-exploit | None | https://github.com/rafaelcaria/vulnhub-machines-exploit | ['exploit'] | 1 | 2021-10-25 00:57:42+00:00 | 0 | 0 | | 0 | [] |
+| ArkAngeL43/SSH-Sploit-Ruby | Possess and troll ssh users with ssh-sploit Version 2.0 rewritten in ruby | https://github.com/ArkAngeL43/SSH-Sploit-Ruby | ['sploit'] | 1 | 2021-10-25 03:27:46+00:00 | 0 | 0 | Ruby | 0 | [] |
 | Anymousdis/Exploit-key | None | https://github.com/Anymousdis/Exploit-key | ['exploit'] | 1 | 2021-10-25 13:50:38+00:00 | 0 | 0 | | 0 | [] |
 | oxctdev/CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 13:28:01+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-30573'] |
 | RaiderZP/cnvd_fofa_gather | 通过公司名称，在fofa上搜索可能存在通用产品的公司；如果想挖掘cnvd证书，可导出注册资金大于5000w的公司到这个脚本中进行爬取。 | https://github.com/RaiderZP/cnvd_fofa_gather | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-25 12:25:53+00:00 | 0 | 0 | nan | 0 | [] |
@@ -53,13 +53,14 @@
 | xx-demon/NoFileAtt | NoFileAtt-ShellCode | https://github.com/xx-demon/NoFileAtt | ['shellcode'] | 1 | 2021-10-25 08:20:18+00:00 | 0 | 0 | | 0 | [] |
 | hakivvi/CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-25 06:32:34+00:00 | 1736 | 0 | C++ | 1 | ['CVE-2021-40449'] |
 | JoyGhoshs/dependency-confusion | Exploit For Npm Dependency confusion attac | https://github.com/JoyGhoshs/dependency-confusion | ['exploit'] | 1 | 2021-10-25 04:37:24+00:00 | 0 | 0 | | 0 | [] |
+| cheaterdxd/Auth0_CTF_2021 | Code exploit for pwn in Auth0_CTF 2021 and some funny challenges in misc, rev i tried | https://github.com/cheaterdxd/Auth0_CTF_2021 | ['exploit'] | 1 | 2021-10-25 07:27:08+00:00 | 1219 | 0 | Python | 0 | [] |
 | ZeroDayDaemon/ZeroDayDaemon | You were all about the dragon me to dungeon RPGs | https://github.com/ZeroDayDaemon/ZeroDayDaemon | ['zeroday'] | 1 | 2021-10-25 04:03:58+00:00 | 0 | 0 | | 0 | [] |
 | Jun-5heng/CVE-2021-26084 | None | https://github.com/Jun-5heng/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 03:16:07+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-26084'] |
-| ArkAngeL43/SSH-Sploit-Ruby | Possess and troll ssh users with ssh-sploit Version 2.0 rewritten in ruby | https://github.com/ArkAngeL43/SSH-Sploit-Ruby | ['sploit'] | 1 | 2021-10-25 03:27:46+00:00 | 0 | 0 | Ruby | 0 | [] |
-| Team8K/Web | Web exploits | https://github.com/Team8K/Web | ['exploit'] | 1 | 2021-10-25 14:27:38+00:00 | 574 | 0 | | 1 | [] |
+| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-25 22:22:04+00:00 | 68 | 122 | C# | 21 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-25 22:34:35+00:00 | 2856 | 78 | JavaScript | 137 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-25 04:47:04+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
 | BildaRcesid/BildaRcesid | Config files for my GitHub profile. | https://github.com/BildaRcesid/BildaRcesid | ['rce'] | 1 | 2021-10-25 00:00:38+00:00 | 0 | 0 | | 0 | [] |
-| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-10-25 04:07:02+00:00 | 73420 | 2543 | Python | 387 | [] |
+| pucarasec/zuthaka | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools. | https://github.com/pucarasec/zuthaka | ['exploit'] | 1 | 2021-10-25 16:40:14+00:00 | 27812 | 128 | Python | 16 | [] |
 | phra/PEzor | Open-Source Shellcode & PE Packer | https://github.com/phra/PEzor | ['shellcode'] | 1 | 2021-10-25 01:35:00+00:00 | 285 | 997 | C | 203 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-10-25 09:15:31+00:00 | 24 | 0 | | 0 | [] |
 | ZenasMukadom/Agriculture-Portal | A Web Application which will enable the farmer to sell his produce to the customer without any constraints and exploitation of the middleman, and encompasses varied features to help the farmer to transact efficiently and effectively using HTML5, PHP, CSS, | https://github.com/ZenasMukadom/Agriculture-Portal | ['exploit'] | 1 | 2021-10-25 17:50:31+00:00 | 24597 | 1 | PHP | 3 | [] |
@@ -70,8 +71,8 @@
 | Tounsi007/rce | None | https://github.com/Tounsi007/rce | ['rce'] | 1 | 2021-10-25 20:18:48+00:00 | 289 | 0 | HTML | 0 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-25 02:23:20+00:00 | 35639 | 5925 | Vue | 1240 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-10-25 20:59:49+00:00 | 517 | 104 | Julia | 22 | [] |
+| bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2021-10-25 04:07:02+00:00 | 73420 | 2543 | Python | 387 | [] |
 | parrotgeek1/TI-z80 | Programs, tools, information, and exploits for TI z80 calculators. No longer supported. | https://github.com/parrotgeek1/TI-z80 | ['exploit'] | 1 | 2021-10-25 06:09:04+00:00 | 10518 | 4 | Assembly | 3 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-25 00:03:17+00:00 | 403281 | 33 | | 19 | [] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-10-25 02:11:19+00:00 | 2527 | 1339 | | 450 | [] |
 | grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2021-10-25 16:55:32+00:00 | 379905 | 1 | C++ | 0 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-25 00:16:50+00:00 | 165273 | 252 | Ruby | 77 | [] |
@@ -82,10 +83,11 @@
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-25 00:05:53+00:00 | 1534763 | 1515 | Python | 521 | [] |
 | pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2021-10-25 00:14:41+00:00 | 12376 | 4041 | Python | 584 | [] |
 | metasploit/metasploit.github.io | GitHub pages for great justice. Mostly for public resources associated with Metasploit Framework and friends. | https://github.com/metasploit/metasploit.github.io | ['metasploit module OR payload'] | 1 | 2021-10-25 12:35:14+00:00 | 13197 | 7 | HTML | 3 | [] |
-| pucarasec/zuthaka | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools. | https://github.com/pucarasec/zuthaka | ['exploit'] | 1 | 2021-10-25 16:40:14+00:00 | 27812 | 128 | Python | 16 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-25 00:03:17+00:00 | 403281 | 33 | | 19 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-25 01:21:43+00:00 | 74 | 0 | PHP | 0 | [] |
+| sl4cky/LumisXP-XXE---POC | LumisXP Blind XXE vulnerability POC | https://github.com/sl4cky/LumisXP-XXE---POC | ['vulnerability poc'] | 1 | 2021-10-25 07:42:35+00:00 | 4 | 0 | | 0 | [] |
+| AristiPap/E-Class_PenTesting | Exploiting and fixing security vulnerabilities of an old version of E-Class. Project implemented as part of the class YS13 Cyber-Security. | https://github.com/AristiPap/E-Class_PenTesting | ['exploit'] | 1 | 2021-10-25 09:46:39+00:00 | 17062 | 3 | PHP | 0 | [] |
 | wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-25 14:45:09+00:00 | 311 | 0 | Go | 0 | [] |
-| deadjakk/metasploit-rust | Rust shim for the metasploit-framework | https://github.com/deadjakk/metasploit-rust | ['metasploit module OR payload'] | 1 | 2021-10-25 06:30:10+00:00 | 32 | 2 | Rust | 0 | [] |
 | ngovinhhuy/Exploit_old_vuln_apps | None | https://github.com/ngovinhhuy/Exploit_old_vuln_apps | ['exploit'] | 1 | 2021-10-25 09:15:20+00:00 | 561 | 0 | Python | 0 | [] |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-10-25 06:40:10+00:00 | 75 | 0 | | 0 | [] |
 | iframepm/FuckAV | python写的一款免杀工具（shellcode加载器）BypassAV，国内杀软全过（windows denfend）2021-9-13 | https://github.com/iframepm/FuckAV | ['shellcode'] | 1 | 2021-10-25 11:06:30+00:00 | 750 | 213 | Python | 34 | [] |
@@ -95,9 +97,9 @@
 | thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2021-10-25 01:18:44+00:00 | 21 | 1 | | 2 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-25 19:48:49+00:00 | 28614 | 0 | Python | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-25 01:10:34+00:00 | 21084 | 2 | Python | 0 | [] |
-| AristiPap/E-Class_PenTesting | Exploiting and fixing security vulnerabilities of an old version of E-Class. Project implemented as part of the class YS13 Cyber-Security. | https://github.com/AristiPap/E-Class_PenTesting | ['exploit'] | 1 | 2021-10-25 09:46:39+00:00 | 17062 | 3 | PHP | 0 | [] |
+| deadjakk/metasploit-rust | Rust shim for the metasploit-framework | https://github.com/deadjakk/metasploit-rust | ['metasploit module OR payload'] | 1 | 2021-10-25 06:30:10+00:00 | 32 | 2 | Rust | 0 | [] |
+| spmonkey/cms_poc | Lionfish CMS vulnerability verification | https://github.com/spmonkey/cms_poc | ['vulnerability poc'] | 1 | 2021-10-25 08:32:31+00:00 | 10 | 0 | Python | 0 | [] |
 | Professor-Puddle/Roblox-Dev | An awesome Roblox Exploit for Roblox | https://github.com/Professor-Puddle/Roblox-Dev | ['exploit'] | 1 | 2021-10-25 17:35:51+00:00 | 1079 | 0 | Lua | 0 | [] |
-| sl4cky/LumisXP-XXE---POC | LumisXP Blind XXE vulnerability POC | https://github.com/sl4cky/LumisXP-XXE---POC | ['vulnerability poc'] | 1 | 2021-10-25 07:42:35+00:00 | 4 | 0 | | 0 | [] |
 | alone-skiddie/tmsfi | tmsfi (termux metasploit-framework installer ) is a simple python tool for complete beginners in termux and in linux commands who want to install metasploit in termux very easily .This is actually not a tool but full of linux basic commands for install bas | https://github.com/alone-skiddie/tmsfi | ['metasploit module OR payload'] | 1 | 2021-10-25 06:50:12+00:00 | 43 | 1 | Python | 0 | [] |
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-10-25 01:19:04+00:00 | 90 | 0 | Python | 0 | [] |
 | ndanilo/assembly-codes | some assembly codes used to generate exploits or shellcodes | https://github.com/ndanilo/assembly-codes | ['exploit', 'shellcode'] | 2 | 2021-10-25 06:12:03+00:00 | 17 | 1 | Assembly | 0 | [] |
@@ -107,5 +109,4 @@
 | wjddnjs33/Exploit | Exploit Code | https://github.com/wjddnjs33/Exploit | ['exploit'] | 1 | 2021-10-25 10:14:11+00:00 | 17647 | 0 | CSS | 0 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2021-10-25 12:39:26+00:00 | 69 | 10 | Python | 6 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-25 00:24:14+00:00 | 98408 | 216 | Python | 62 | [] |
-| spmonkey/cms_poc | Lionfish CMS vulnerability verification | https://github.com/spmonkey/cms_poc | ['vulnerability poc'] | 1 | 2021-10-25 08:32:31+00:00 | 10 | 0 | Python | 0 | [] |
 | Gotenks-J/rack-attack-turbo | POC to diagnose Turbo & Rack-Attack issue | https://github.com/Gotenks-J/rack-attack-turbo | ['attack poc'] | 1 | 2021-10-25 23:39:20+00:00 | 144 | 0 | Ruby | 0 | [] |
