@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/25
     
-105 records found after deduplication
+106 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-25 02:04:29+00:00 | 647703 | 25412 | Ruby | 11685 | [] |
-| Team8K/Web | Web exploits | https://github.com/Team8K/Web | ['exploit'] | 1 | 2021-10-25 14:27:38+00:00 | 574 | 0 | | 1 | [] |
+| wangxb96/EODE | Paper Code : Exhaustive Exploitation of Nature-inspired Computation for Cancer Screening in an Ensemble Manner | https://github.com/wangxb96/EODE | ['exploit'] | 1 | 2021-10-25 00:22:33+00:00 | 1 | 0 | | 0 | [] |
 | darrenmartyn/zimbra-hinginx | zimbra nginx lpe exploit | https://github.com/darrenmartyn/zimbra-hinginx | ['exploit'] | 1 | 2021-10-25 10:01:28+00:00 | 1 | 0 | Shell | 0 | [] |
 | walnutsecurity/cve-2021-41773 | CVE-2021-41773 is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49 | https://github.com/walnutsecurity/cve-2021-41773 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-10-25 17:31:39+00:00 | 21 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | GRIPPERTV/Green-Server | A fast and lightweight non-skidded client to server environment emulator | https://github.com/GRIPPERTV/Green-Server | ['exploit'] | 1 | 2021-10-25 07:41:25+00:00 | 84 | 0 | Lua | 0 | [] |
@@ -31,9 +31,9 @@
 | evilcater/XSsploit | XSsploit is a tool to exploit xss and understand their impact in the world-wide-web | https://github.com/evilcater/XSsploit | ['exploit'] | 1 | 2021-10-25 18:35:10+00:00 | 2 | 1 | Python | 0 | [] |
 | v0d0/RBX_Scripts | Repository full of scripts made by me for ROBLOX exploiting. | https://github.com/v0d0/RBX_Scripts | ['exploit'] | 1 | 2021-10-25 18:03:53+00:00 | 2 | 1 | | 0 | [] |
 | 4dmud/mud | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of | https://github.com/4dmud/mud | ['exploit'] | 1 | 2021-10-25 11:31:41+00:00 | 12714 | 2 | C++ | 1 | [] |
-| wangxb96/EODE | Paper Code : Exhaustive Exploitation of Nature-inspired Computation for Cancer Screening in an Ensemble Manner | https://github.com/wangxb96/EODE | ['exploit'] | 1 | 2021-10-25 00:22:33+00:00 | 1 | 0 | | 0 | [] |
 | rafaelcaria/vulnhub-machines-exploit | None | https://github.com/rafaelcaria/vulnhub-machines-exploit | ['exploit'] | 1 | 2021-10-25 00:57:42+00:00 | 0 | 0 | | 0 | [] |
-| cultureelerfgoed/datasets | datasets RCE | https://github.com/cultureelerfgoed/datasets | ['rce'] | 1 | 2021-10-25 14:26:35+00:00 | 0 | 0 | | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-25 04:47:04+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
+| ArkAngeL43/SSH-Sploit-Ruby | Possess and troll ssh users with ssh-sploit Version 2.0 rewritten in ruby | https://github.com/ArkAngeL43/SSH-Sploit-Ruby | ['sploit'] | 1 | 2021-10-25 03:27:46+00:00 | 0 | 0 | Ruby | 0 | [] |
 | stevenvegar/cve-2000-0649 | Script fo testing CVE-2000-0649 for Apache and MS ISS servers | https://github.com/stevenvegar/cve-2000-0649 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 23:32:57+00:00 | 0 | 0 | Python | 0 | ['CVE-2000-0649'] |
 | vida00/Scanner-CVE-2021-41773 | A automatic scanner to apache 2.4.49 | https://github.com/vida00/Scanner-CVE-2021-41773 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 22:17:21+00:00 | 9 | 0 | Go | 0 | ['CVE-2021-41773'] |
 | ghost-nemesis/cve-2021-20837-poc | PoC for the CVE-2021-20837 : RCE in MovableType | https://github.com/ghost-nemesis/cve-2021-20837-poc | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-10-25 21:32:38+00:00 | 0 | 0 | Ruby | 0 | ['CVE-2021-20837'] |
@@ -44,11 +44,12 @@
 | alexphiliotis/ShellShock | A python script intended to automate the exploitation of the ShellSchock vulnerability (CVE-2014-6271) | https://github.com/alexphiliotis/ShellShock | ['exploit'] | 1 | 2021-10-25 16:15:42+00:00 | 0 | 0 | Python | 0 | ['CVE-2014-6271'] |
 | spyspy69/superAC | SuperAC is an anti cheat designed to protect servers from cheaters, exploiters and more | https://github.com/spyspy69/superAC | ['exploit'] | 1 | 2021-10-25 16:08:53+00:00 | 0 | 0 | Java | 0 | [] |
 | Fullmess/SuperSlayerExploits | None | https://github.com/Fullmess/SuperSlayerExploits | ['exploit'] | 1 | 2021-10-25 15:15:24+00:00 | 0 | 0 | | 0 | [] |
+| cultureelerfgoed/datasets | datasets RCE | https://github.com/cultureelerfgoed/datasets | ['rce'] | 1 | 2021-10-25 14:26:35+00:00 | 0 | 0 | | 0 | [] |
 | cultureelerfgoed/C7C452E9-B021-432c-B3A7-626EC7068BCB | dataset boeken bibliotheek rce | https://github.com/cultureelerfgoed/C7C452E9-B021-432c-B3A7-626EC7068BCB | ['rce'] | 1 | 2021-10-25 14:16:54+00:00 | 0 | 0 | | 0 | [] |
-| ArkAngeL43/SSH-Sploit-Ruby | Possess and troll ssh users with ssh-sploit Version 2.0 rewritten in ruby | https://github.com/ArkAngeL43/SSH-Sploit-Ruby | ['sploit'] | 1 | 2021-10-25 03:27:46+00:00 | 0 | 0 | Ruby | 0 | [] |
 | Anymousdis/Exploit-key | None | https://github.com/Anymousdis/Exploit-key | ['exploit'] | 1 | 2021-10-25 13:50:38+00:00 | 0 | 0 | | 0 | [] |
 | oxctdev/CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 | https://github.com/oxctdev/CVE-2021-30573 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 13:28:01+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-30573'] |
 | RaiderZP/cnvd_fofa_gather | 通过公司名称，在fofa上搜索可能存在通用产品的公司；如果想挖掘cnvd证书，可导出注册资金大于5000w的公司到这个脚本中进行爬取。 | https://github.com/RaiderZP/cnvd_fofa_gather | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-10-25 12:25:53+00:00 | 0 | 0 | nan | 0 | [] |
+| SECFORCE/CVE-2021-37748 | None | https://github.com/SECFORCE/CVE-2021-37748 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 12:57:55+00:00 | 6 | 0 | Python | 2 | ['CVE-2021-37748'] |
 | ic3s3137/NimShellcodeLoader | 几个nim写的shellcode加载器 | https://github.com/ic3s3137/NimShellcodeLoader | ['shellcode'] | 1 | 2021-10-25 11:43:40+00:00 | 0 | 0 | Nim | 0 | [] |
 | xx-demon/NoFileAtt | NoFileAtt-ShellCode | https://github.com/xx-demon/NoFileAtt | ['shellcode'] | 1 | 2021-10-25 08:20:18+00:00 | 0 | 0 | | 0 | [] |
 | hakivvi/CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-25 06:32:34+00:00 | 1736 | 0 | C++ | 1 | ['CVE-2021-40449'] |
@@ -57,8 +58,8 @@
 | ZeroDayDaemon/ZeroDayDaemon | You were all about the dragon me to dungeon RPGs | https://github.com/ZeroDayDaemon/ZeroDayDaemon | ['zeroday'] | 1 | 2021-10-25 04:03:58+00:00 | 0 | 0 | | 0 | [] |
 | Jun-5heng/CVE-2021-26084 | None | https://github.com/Jun-5heng/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-25 03:16:07+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-26084'] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-25 22:22:04+00:00 | 68 | 122 | C# | 21 | [] |
+| Team8K/Web | Web exploits | https://github.com/Team8K/Web | ['exploit'] | 1 | 2021-10-25 14:27:38+00:00 | 574 | 0 | | 1 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-25 22:34:35+00:00 | 2856 | 78 | JavaScript | 137 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-25 04:47:04+00:00 | 21881 | 6064 | JavaScript | 1447 | [] |
 | BildaRcesid/BildaRcesid | Config files for my GitHub profile. | https://github.com/BildaRcesid/BildaRcesid | ['rce'] | 1 | 2021-10-25 00:00:38+00:00 | 0 | 0 | | 0 | [] |
 | pucarasec/zuthaka | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools. | https://github.com/pucarasec/zuthaka | ['exploit'] | 1 | 2021-10-25 16:40:14+00:00 | 27812 | 128 | Python | 16 | [] |
 | phra/PEzor | Open-Source Shellcode & PE Packer | https://github.com/phra/PEzor | ['shellcode'] | 1 | 2021-10-25 01:35:00+00:00 | 285 | 997 | C | 203 | [] |
