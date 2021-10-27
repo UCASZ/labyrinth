@@ -1,13 +1,12 @@
 
 # Summary for results/2021/10/26
     
-129 records found after deduplication
+130 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-26 05:56:11+00:00 | 648180 | 25418 | Ruby | 11689 | [] |
-| vi11ain/phoenix-writeup | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | ['exploit'] | 1 | 2021-10-26 13:57:42+00:00 | 296 | 0 | | 0 | [] |
-| lleavesl/CVE-2021-26084 | CVE-2021-26084，Atlassian Confluence OGNL注入漏洞 | https://github.com/lleavesl/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-26 06:29:07+00:00 | 0 | 1 | Python | 1 | ['CVE-2021-26084'] |
+| mrperfect4599/js_exploit | None | https://github.com/mrperfect4599/js_exploit | ['exploit'] | 1 | 2021-10-26 07:59:49+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | StinkcatReal/StinkyExecute | A roblox exploit coded in C# By Stinkcat | https://github.com/StinkcatReal/StinkyExecute | ['exploit'] | 1 | 2021-10-26 05:57:40+00:00 | 0 | 0 | | 0 | [] |
 | R3zk0n/sploitations | Directory for random Infosec sploitations.. | https://github.com/R3zk0n/sploitations | ['sploit'] | 1 | 2021-10-26 04:53:33+00:00 | 0 | 0 | | 0 | [] |
 | stong/how-to-exploit-a-double-free | How to exploit a double free vulnerability in 2021. 'Use-After-Free for Dummies' | https://github.com/stong/how-to-exploit-a-double-free | ['exploit'] | 1 | 2021-10-26 04:27:45+00:00 | 0 | 1 | Python | 0 | [] |
@@ -36,10 +35,11 @@
 | murderjj/spellcaster | spellcaster admin panel for rblx (exploit) | https://github.com/murderjj/spellcaster | ['exploit'] | 1 | 2021-10-26 13:25:25+00:00 | 398 | 0 | | 0 | [] |
 | not-tobo/LagBeGone | Fix for a Lag Exploit for VRChat | https://github.com/not-tobo/LagBeGone | ['exploit'] | 1 | 2021-10-26 14:59:26+00:00 | 26 | 1 | C# | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-26 10:20:22+00:00 | 109 | 1 | Python | 0 | [] |
-| mrperfect4599/js_exploit | None | https://github.com/mrperfect4599/js_exploit | ['exploit'] | 1 | 2021-10-26 07:59:49+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-26 13:54:16+00:00 | 227 | 0 | Python | 1 | [] |
+| lleavesl/CVE-2021-26084 | CVE-2021-26084，Atlassian Confluence OGNL注入漏洞 | https://github.com/lleavesl/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-26 06:29:07+00:00 | 0 | 1 | Python | 1 | ['CVE-2021-26084'] |
 | kh4sh3i/CVE-2021-30573 | Google Chrome Vulnerabilities CVE-2021-30573 allowed a remote attacker to potentially exploit heap corruption | https://github.com/kh4sh3i/CVE-2021-30573 | ['attack poc', 'cve poc', 'cve-2 OR cve_2', 'exploit', 'vulnerability poc'] | 5 | 2021-10-26 08:55:41+00:00 | 0 | 0 | HTML | 0 | ['CVE-2021-30573'] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-26 13:23:41+00:00 | 21884 | 6068 | JavaScript | 1447 | [] |
 | fl45hER/Code-Runner-Server | Application server for a remote code execution engine | https://github.com/fl45hER/Code-Runner-Server | ['remote code execution'] | 1 | 2021-10-26 08:29:59+00:00 | 0 | 0 | JavaScript | 0 | [] |
-| mr-exo/HikvisionBackdoorExploit | None | https://github.com/mr-exo/HikvisionBackdoorExploit | ['exploit'] | 1 | 2021-10-26 18:11:58+00:00 | 0 | 0 | | 0 | [] |
 | RogueNPC/Jinja2-ExploitMe | None | https://github.com/RogueNPC/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-26 23:51:46+00:00 | 0 | 0 | HTML | 0 | [] |
 | asood92/Jinja2-ExploitMe | None | https://github.com/asood92/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-26 23:45:13+00:00 | 0 | 0 | | 0 | [] |
 | Aetrix27/Jinja2-ExploitMe | None | https://github.com/Aetrix27/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-26 23:43:44+00:00 | 0 | 0 | | 0 | [] |
@@ -53,8 +53,8 @@
 | beakerfm/expoit-lab | A simple Terraform exploit lab for testing | https://github.com/beakerfm/expoit-lab | ['exploit'] | 1 | 2021-10-26 21:04:35+00:00 | 0 | 0 | Shell | 0 | [] |
 | Balgogan/CVE-2021-41773 | Ce programme permet de détecter une faille RCE sur les serveurs Apache 2.4.49 et Apache 2.4.50 | https://github.com/Balgogan/CVE-2021-41773 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-10-26 19:15:04+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-41773'] |
 | tubobfav/payload-metasploit | None | https://github.com/tubobfav/payload-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-26 19:30:38+00:00 | 0 | 0 | Python | 0 | [] |
+| mr-exo/HikvisionBackdoorExploit | None | https://github.com/mr-exo/HikvisionBackdoorExploit | ['exploit'] | 1 | 2021-10-26 18:11:58+00:00 | 0 | 0 | | 0 | [] |
 | mr-exo/CVE-2021-41773 | Remote Code Execution exploit for Apache servers. Affected versions: Apache 2.4.49, Apache 2.4.50 | https://github.com/mr-exo/CVE-2021-41773 | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2021-10-26 18:04:43+00:00 | 0 | 0 | | 0 | ['CVE-2021-41773'] |
-| leeworry/MRefG | Wanli Li and Tieyun Qian: Exploit a Multi-head Reference Graph for Semi-supervised Relation Extraction, IJCNN 2021 | https://github.com/leeworry/MRefG | ['exploit'] | 1 | 2021-10-26 08:10:17+00:00 | 0 | 0 | | 0 | [] |
 | punyaslokdutta/Reverse-Shell-scripts | A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the local host. Attackers who successfully exploit a remote command execution vulnerability can use a reverse shell to obtain an interactive sh | https://github.com/punyaslokdutta/Reverse-Shell-scripts | ['exploit'] | 1 | 2021-10-26 17:29:33+00:00 | 0 | 0 | PHP | 0 | [] |
 | daxsoule/rces | Work on Research Computing | https://github.com/daxsoule/rces | ['rce'] | 1 | 2021-10-26 17:15:10+00:00 | 0 | 0 | | 0 | [] |
 | hemasphere/rces | Work on the Research Computing in Earth Science Text | https://github.com/hemasphere/rces | ['rce'] | 1 | 2021-10-26 17:15:08+00:00 | 0 | 0 | | 0 | [] |
@@ -68,11 +68,12 @@
 | EgeGursel/RCeSC | RCeSC Official Website | https://github.com/EgeGursel/RCeSC | ['rce'] | 1 | 2021-10-26 10:56:16+00:00 | 0 | 0 | HTML | 0 | [] |
 | Tarrylim/xss_exploit_code | None | https://github.com/Tarrylim/xss_exploit_code | ['exploit'] | 1 | 2021-10-26 09:46:28+00:00 | 0 | 0 | | 0 | [] |
 | volysandro/cve_2019-6447 | None | https://github.com/volysandro/cve_2019-6447 | ['cve-2 OR cve_2'] | 1 | 2021-10-26 18:52:08+00:00 | 15 | 0 | Python | 0 | ['CVE-2019-6447'] |
-| Dani-Hacker/EXPLOITER | This is the simple bot in discord that resembles lords mobile | https://github.com/Dani-Hacker/EXPLOITER | ['exploit'] | 1 | 2021-10-26 13:54:16+00:00 | 227 | 0 | Python | 1 | [] |
+| leeworry/MRefG | Wanli Li and Tieyun Qian: Exploit a Multi-head Reference Graph for Semi-supervised Relation Extraction, IJCNN 2021 | https://github.com/leeworry/MRefG | ['exploit'] | 1 | 2021-10-26 08:10:17+00:00 | 0 | 0 | | 0 | [] |
+| vi11ain/phoenix-writeup | Writeup for exploit.education/phoenix | https://github.com/vi11ain/phoenix-writeup | ['exploit'] | 1 | 2021-10-26 13:57:42+00:00 | 296 | 0 | | 0 | [] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-26 14:22:51+00:00 | 73 | 129 | C# | 23 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-26 13:23:41+00:00 | 21884 | 6068 | JavaScript | 1447 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-26 00:21:09+00:00 | 2943 | 78 | JavaScript | 138 | [] |
-| phra/PEzor | Open-Source Shellcode & PE Packer | https://github.com/phra/PEzor | ['shellcode'] | 1 | 2021-10-26 23:33:38+00:00 | 285 | 1001 | C | 204 | [] |
+| wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-26 13:35:59+00:00 | 325 | 0 | Go | 0 | [] |
+| Soulghost/iblessing | iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining. | https://github.com/Soulghost/iblessing | ['exploit'] | 1 | 2021-10-26 12:57:10+00:00 | 36567 | 421 | C++ | 62 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-10-26 08:05:04+00:00 | 25 | 0 | | 0 | [] |
 | stancld/MSc-Project | This thesis investigates the relationship between employee sentiment, proxied by Glassdoor reviews and ratings, and excessive returns on corresponding bonds. While sentiment analysis is well studied for probing into how companies are perceived by investors | https://github.com/stancld/MSc-Project | ['exploit'] | 1 | 2021-10-26 17:47:13+00:00 | 69676 | 1 | Jupyter Notebook | 1 | [] |
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-10-26 02:31:29+00:00 | 528 | 91 | Java | 21 | [] |
@@ -101,11 +102,10 @@
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-10-26 07:08:32+00:00 | 625252 | 9 | Python | 26 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-26 05:07:55+00:00 | 275513 | 6559 | C | 1813 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-10-26 22:52:39+00:00 | 3716 | 2515 | PowerShell | 729 | [] |
+| phra/PEzor | Open-Source Shellcode & PE Packer | https://github.com/phra/PEzor | ['shellcode'] | 1 | 2021-10-26 23:33:38+00:00 | 285 | 1001 | C | 204 | [] |
 | MarkoH17/StegArmory | StegArmory is an image-based steganography utility meant to embed and extract binary payloads using LSB and PVD techniques. | https://github.com/MarkoH17/StegArmory | ['shellcode'] | 1 | 2021-10-26 18:51:11+00:00 | 31774 | 1 | Python | 0 | [] |
 | pucarasec/zuthaka | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools. | https://github.com/pucarasec/zuthaka | ['exploit'] | 1 | 2021-10-26 19:42:12+00:00 | 27812 | 129 | Python | 16 | [] |
-| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-10-26 21:27:47+00:00 | 105 | 0 | Python | 0 | [] |
-| Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2021-10-26 17:50:41+00:00 | 14 | 0 | | 0 | [] |
-| wutka/exploits_6387 | Programs for exploring disassembling and buffer overflows for Vanderbilt CS 6387 | https://github.com/wutka/exploits_6387 | ['exploit'] | 1 | 2021-10-26 13:35:59+00:00 | 325 | 0 | Go | 0 | [] |
+| HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-10-26 20:27:05+00:00 | 439 | 1 | Lua | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-10-26 18:25:40+00:00 | 220 | 0 | TypeScript | 0 | [] |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-10-26 08:08:51+00:00 | 77 | 0 | HTML | 0 | [] |
 | N0el4kLs/Mylibrary | This rep is mainly used to record and collect some articles that i've encountered in the learning process.The content includes but is not limited to CTF,Vulnerability recurrence,Vulnerability exploitation. | https://github.com/N0el4kLs/Mylibrary | ['exploit'] | 1 | 2021-10-26 21:22:03+00:00 | 3 | 0 | | 0 | [] |
@@ -118,9 +118,9 @@
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-26 01:05:03+00:00 | 22636 | 2 | Python | 0 | [] |
 | TheSquanch-147/Rugpulls-Hacks-Exploits-List | None | https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List | ['exploit'] | 1 | 2021-10-26 21:58:06+00:00 | 45 | 25 | | 2 | [] |
 | idiap/distance-based-cnn | Automatic Dysarthric Speech Detection Exploiting Pairwise Distance-based Convolutional Neural Networks | https://github.com/idiap/distance-based-cnn | ['exploit'] | 1 | 2021-10-26 09:12:55+00:00 | 8550 | 0 | Python | 0 | [] |
-| HonestlyDex/DexHub | The Next-Gen Roblox Exploit Hub | https://github.com/HonestlyDex/DexHub | ['exploit'] | 1 | 2021-10-26 20:27:05+00:00 | 439 | 1 | Lua | 0 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-26 00:03:14+00:00 | 405757 | 33 | | 19 | [] |
+| Hmood511/NASA-Exploit | None | https://github.com/Hmood511/NASA-Exploit | ['exploit'] | 1 | 2021-10-26 17:50:41+00:00 | 14 | 0 | | 0 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-10-26 06:07:13+00:00 | 14736 | 220 | Go | 28 | [] |
+| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-10-26 21:27:47+00:00 | 105 | 0 | Python | 0 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-10-26 07:29:50+00:00 | 104276 | 0 | JavaScript | 0 | [] |
 | mauricelambert/PyWCGIshell | This package implement a WebShell for CGI and WSGI server. | https://github.com/mauricelambert/PyWCGIshell | ['exploit'] | 1 | 2021-10-26 17:51:26+00:00 | 73 | 1 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-26 01:05:15+00:00 | 101562 | 216 | Python | 62 | [] |
@@ -133,4 +133,5 @@
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-10-26 11:00:29+00:00 | 287847 | 706 | | 147 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-10-26 09:36:15+00:00 | 611 | 0 | Lua | 0 | [] |
 | ARPSyndicate/xlocate | the ultimate exploits/references finder | https://github.com/ARPSyndicate/xlocate | ['exploit'] | 1 | 2021-10-26 20:04:18+00:00 | 78620 | 12 | Python | 4 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-26 00:03:14+00:00 | 405757 | 33 | | 19 | [] |
 | TheVille415/Jinja2-ExploitMe | None | https://github.com/TheVille415/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-26 23:54:45+00:00 | 0 | 0 | | 0 | [] |
