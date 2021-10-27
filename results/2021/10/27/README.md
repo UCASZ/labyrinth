@@ -1,14 +1,11 @@
 
 # Summary for results/2021/10/27
     
-52 records found after deduplication
+61 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-27 05:38:05+00:00 | 649385 | 25429 | Ruby | 11692 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-27 05:07:56+00:00 | 277610 | 6563 | C | 1814 | [] |
-| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-27 00:53:39+00:00 | 28672 | 0 | Python | 0 | [] |
-| bstank/bstank.github.io | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | ['exploit'] | 1 | 2021-10-27 00:23:52+00:00 | 416 | 0 | C | 0 | [] |
 | HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-10-27 01:25:52+00:00 | 77 | 0 | | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-27 00:03:50+00:00 | 2975 | 79 | JavaScript | 144 | [] |
 | thuan2172001/Analyst_Induce_Benmark | Dataset for Exploring and exploiting the correlations between bug-inducing and bug-fixing commits | https://github.com/thuan2172001/Analyst_Induce_Benmark | ['exploit'] | 1 | 2021-10-27 02:49:12+00:00 | 61303 | 0 | Java | 0 | [] |
@@ -30,10 +27,17 @@
 | andnorack/CVE-2021-32789 | WooCommerce exploit | https://github.com/andnorack/CVE-2021-32789 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-27 04:18:58+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-32789'] |
 | ultrafinn122/Key | The Key for my exploit | https://github.com/ultrafinn122/Key | ['exploit'] | 1 | 2021-10-27 05:01:28+00:00 | 0 | 0 | | 0 | [] |
 | wyzmlr/AutoExploitSwagger | SwaggerAPI 自动利用工具 | https://github.com/wyzmlr/AutoExploitSwagger | ['exploit'] | 1 | 2021-10-27 08:28:12+00:00 | 0 | 3 | Python | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-27 01:04:50+00:00 | 24449 | 2 | Python | 0 | [] |
-| lperezmo/high-freq-forex-bot | Python-automated program for finding and exploiting arbitrage opportunities in international currency exchange market using high frequency forex trading (HFX). | https://github.com/lperezmo/high-freq-forex-bot | ['exploit'] | 1 | 2021-10-27 05:02:28+00:00 | 1094 | 1 | Jupyter Notebook | 1 | [] |
-| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-10-27 08:38:35+00:00 | 104279 | 0 | JavaScript | 0 | [] |
-| guldenolgun/NoRCE | Non-coding RNA sets Cis Enrichment Tool (NoRCE) | https://github.com/guldenolgun/NoRCE | ['rce'] | 1 | 2021-10-27 04:35:47+00:00 | 73923 | 1 | R | 1 | [] |
+| Jun-5heng/CVE-2021-22005 | None | https://github.com/Jun-5heng/CVE-2021-22005 | ['cve-2 OR cve_2'] | 1 | 2021-10-27 08:36:21+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
+| Trushal2004/CVE-2019-9053 | None | https://github.com/Trushal2004/CVE-2019-9053 | ['cve-2 OR cve_2'] | 1 | 2021-10-27 10:32:26+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-9053'] |
+| SourCode-Z/Exploiter-Config | Exploit-config : dump config.php File From Joomla And Wordpress Websites | https://github.com/SourCode-Z/Exploiter-Config | ['exploit'] | 1 | 2021-10-27 10:06:36+00:00 | 0 | 0 | Shell | 0 | [] |
+| ChilliRing/Ch1ll1s-sploit | This Roblox exploit is created to hack in, it runs by krnl api. Hope you enjoy! | https://github.com/ChilliRing/Ch1ll1s-sploit | ['exploit', 'sploit'] | 2 | 2021-10-27 10:07:54+00:00 | 0 | 0 | | 0 | [] |
+| SourCode-Z/Findlogin-v.1.5-meowproject- | This exploit serves to find a login gap from the system administrator to enter the dashboard page. This attack will usually work on websites that have the kcfinder extension. | https://github.com/SourCode-Z/Findlogin-v.1.5-meowproject- | ['exploit'] | 1 | 2021-10-27 10:15:24+00:00 | 0 | 0 | Python | 0 | [] |
+| ChilliRing/Chillis-sploit | None | https://github.com/ChilliRing/Chillis-sploit | ['sploit'] | 1 | 2021-10-27 10:16:19+00:00 | 0 | 0 | | 0 | [] |
+| leakedxd/exploit | A exploit that was found. | https://github.com/leakedxd/exploit | ['exploit'] | 1 | 2021-10-27 10:22:07+00:00 | 0 | 0 | | 0 | [] |
+| Babelscape/ner4el | Repository for the paper "Named Entity Recognition for Entity Linking: What Works and What's Next" accepted at Findings of EMNLP 2021. In this work, we look at how Named Entity Recognition can be exploited to narrow the gap between Entity Linking systems t | https://github.com/Babelscape/ner4el | ['exploit'] | 1 | 2021-10-27 08:36:13+00:00 | 2776 | 1 | Python | 0 | [] |
+| bstank/bstank.github.io | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | ['exploit'] | 1 | 2021-10-27 00:23:52+00:00 | 416 | 0 | C | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-27 05:07:56+00:00 | 277610 | 6563 | C | 1814 | [] |
+| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-27 00:53:39+00:00 | 28672 | 0 | Python | 0 | [] |
 | nullsecuritynet/tools | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | ['exploit', 'shellcode'] | 2 | 2021-10-27 01:35:33+00:00 | 36805 | 1502 | C | 482 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-27 00:05:55+00:00 | 1534763 | 1516 | Python | 521 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-27 06:03:55+00:00 | 5589 | 2954 | Python | 652 | [] |
@@ -44,8 +48,9 @@
 | mgeeky/Penetration-Testing-Tools | A collection of more than 160+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements. | https://github.com/mgeeky/Penetration-Testing-Tools | ['exploit'] | 1 | 2021-10-27 01:46:10+00:00 | 15889 | 952 | Python | 224 | [] |
 | threedr3am/learnjavabug | Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。 | https://github.com/threedr3am/learnjavabug | ['exploit'] | 1 | 2021-10-27 08:21:43+00:00 | 8381 | 1523 | Java | 362 | [] |
 | AlaBouali/bane | None | https://github.com/AlaBouali/bane | ['rce'] | 1 | 2021-10-27 09:10:01+00:00 | 605 | 65 | Python | 25 | [] |
+| guldenolgun/NoRCE | Non-coding RNA sets Cis Enrichment Tool (NoRCE) | https://github.com/guldenolgun/NoRCE | ['rce'] | 1 | 2021-10-27 04:35:47+00:00 | 73923 | 1 | R | 1 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-10-27 01:21:56+00:00 | 35817 | 5947 | Vue | 1246 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-27 04:01:58+00:00 | 105245 | 216 | Python | 63 | [] |
+| Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-10-27 10:02:55+00:00 | 1357625 | 3673 | PowerShell | 1266 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-10-27 02:41:00+00:00 | 64462 | 1260 | Python | 258 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-27 00:55:26+00:00 | 940 | 244 | Rust | 13 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-27 06:45:11+00:00 | 38641 | 24 | | 14 | [] |
@@ -56,4 +61,8 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-27 00:04:04+00:00 | 411015 | 33 | | 19 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-27 00:58:45+00:00 | 77 | 0 | PHP | 0 | [] |
 | topcue/dact-exploit-poc | None | https://github.com/topcue/dact-exploit-poc | ['exploit'] | 1 | 2021-10-27 05:45:21+00:00 | 2 | 0 | Python | 0 | [] |
-| Jun-5heng/CVE-2021-22005 | None | https://github.com/Jun-5heng/CVE-2021-22005 | ['cve-2 OR cve_2'] | 1 | 2021-10-27 08:36:21+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-27 04:01:58+00:00 | 105245 | 216 | Python | 63 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-10-27 08:38:35+00:00 | 104279 | 0 | JavaScript | 0 | [] |
+| lperezmo/high-freq-forex-bot | Python-automated program for finding and exploiting arbitrage opportunities in international currency exchange market using high frequency forex trading (HFX). | https://github.com/lperezmo/high-freq-forex-bot | ['exploit'] | 1 | 2021-10-27 05:02:28+00:00 | 1094 | 1 | Jupyter Notebook | 1 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-27 01:04:50+00:00 | 24449 | 2 | Python | 0 | [] |
+| raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-10-27 10:30:20+00:00 | 0 | 0 | HTML | 0 | [] |
