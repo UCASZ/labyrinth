@@ -1,13 +1,12 @@
 
 # Summary for results/2021/10/27
     
-61 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-27 05:38:05+00:00 | 649385 | 25429 | Ruby | 11692 | [] |
-| HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-10-27 01:25:52+00:00 | 77 | 0 | | 0 | [] |
-| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-27 00:03:50+00:00 | 2975 | 79 | JavaScript | 144 | [] |
+| Babelscape/ner4el | Repository for the paper "Named Entity Recognition for Entity Linking: What Works and What's Next" accepted at Findings of EMNLP 2021. In this work, we look at how Named Entity Recognition can be exploited to narrow the gap between Entity Linking systems t | https://github.com/Babelscape/ner4el | ['exploit'] | 1 | 2021-10-27 08:36:13+00:00 | 2776 | 1 | Python | 0 | [] |
 | thuan2172001/Analyst_Induce_Benmark | Dataset for Exploring and exploiting the correlations between bug-inducing and bug-fixing commits | https://github.com/thuan2172001/Analyst_Induce_Benmark | ['exploit'] | 1 | 2021-10-27 02:49:12+00:00 | 61303 | 0 | Java | 0 | [] |
 | bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-10-27 01:30:11+00:00 | 27 | 0 | Python | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-27 07:15:57+00:00 | 135 | 1 | Python | 0 | [] |
@@ -17,7 +16,9 @@
 | GeraBruhh/Msf-Tool | Script para crear payloads facil, solo los crea no habre metasploit framework para completarlo :). | https://github.com/GeraBruhh/Msf-Tool | ['metasploit module OR payload'] | 1 | 2021-10-27 02:36:31+00:00 | 8 | 0 | Python | 0 | [] |
 | WhitfieBad/MemLeakExploit | None | https://github.com/WhitfieBad/MemLeakExploit | ['exploit'] | 1 | 2021-10-27 04:04:52+00:00 | 816 | 0 | C | 0 | [] |
 | XRSec/CobaltStrike-Update | Cobalt Strike is a powerful threat emulation tool that provides a post-exploitation agent and covert channels ideal for Adversary Simulations and Red Team exercises. With Cobalt Strike, companies can emulate the tactics and techniques of a quiet long-term | https://github.com/XRSec/CobaltStrike-Update | ['exploit'] | 1 | 2021-10-27 07:29:55+00:00 | 5 | 0 | | 0 | [] |
+| 4dmud/mud | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of | https://github.com/4dmud/mud | ['exploit'] | 1 | 2021-10-27 11:06:52+00:00 | 12724 | 2 | C++ | 2 | [] |
 | lleavesl/CVE-2021-26084 | CVE-2021-26084，Atlassian Confluence OGNL注入漏洞 | https://github.com/lleavesl/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-27 02:30:40+00:00 | 28 | 4 | Python | 3 | ['CVE-2021-26084'] |
+| Justtryingtmakecode/true-reset | A useful reset button for anyone exploiting on r64 | https://github.com/Justtryingtmakecode/true-reset | ['exploit'] | 1 | 2021-10-27 10:50:17+00:00 | 0 | 0 | Lua | 0 | [] |
 | asood92/Jinja2-ExploitMe | None | https://github.com/asood92/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-27 02:05:52+00:00 | 0 | 0 | HTML | 0 | [] |
 | shearertzach/Jinja2-ExploitMe | None | https://github.com/shearertzach/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-27 00:08:19+00:00 | 0 | 0 | HTML | 0 | [] |
 | bangalia/Jinja2-ExploitMe | None | https://github.com/bangalia/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-27 00:12:38+00:00 | 0 | 0 | HTML | 0 | [] |
@@ -34,10 +35,11 @@
 | SourCode-Z/Findlogin-v.1.5-meowproject- | This exploit serves to find a login gap from the system administrator to enter the dashboard page. This attack will usually work on websites that have the kcfinder extension. | https://github.com/SourCode-Z/Findlogin-v.1.5-meowproject- | ['exploit'] | 1 | 2021-10-27 10:15:24+00:00 | 0 | 0 | Python | 0 | [] |
 | ChilliRing/Chillis-sploit | None | https://github.com/ChilliRing/Chillis-sploit | ['sploit'] | 1 | 2021-10-27 10:16:19+00:00 | 0 | 0 | | 0 | [] |
 | leakedxd/exploit | A exploit that was found. | https://github.com/leakedxd/exploit | ['exploit'] | 1 | 2021-10-27 10:22:07+00:00 | 0 | 0 | | 0 | [] |
-| Babelscape/ner4el | Repository for the paper "Named Entity Recognition for Entity Linking: What Works and What's Next" accepted at Findings of EMNLP 2021. In this work, we look at how Named Entity Recognition can be exploited to narrow the gap between Entity Linking systems t | https://github.com/Babelscape/ner4el | ['exploit'] | 1 | 2021-10-27 08:36:13+00:00 | 2776 | 1 | Python | 0 | [] |
-| bstank/bstank.github.io | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | ['exploit'] | 1 | 2021-10-27 00:23:52+00:00 | 416 | 0 | C | 0 | [] |
+| raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-10-27 10:30:20+00:00 | 0 | 0 | HTML | 0 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-27 00:03:50+00:00 | 2975 | 79 | JavaScript | 144 | [] |
+| HxDDD/CVE-PoC | CVE PoC Test | https://github.com/HxDDD/CVE-PoC | ['cve poc'] | 1 | 2021-10-27 01:25:52+00:00 | 77 | 0 | | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-27 05:07:56+00:00 | 277610 | 6563 | C | 1814 | [] |
-| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-27 00:53:39+00:00 | 28672 | 0 | Python | 0 | [] |
+| bstank/bstank.github.io | An introduction, explanation, and tutorial of various exploits for the heap of current and recent GNU libcs. | https://github.com/bstank/bstank.github.io | ['exploit'] | 1 | 2021-10-27 00:23:52+00:00 | 416 | 0 | C | 0 | [] |
 | nullsecuritynet/tools | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | ['exploit', 'shellcode'] | 2 | 2021-10-27 01:35:33+00:00 | 36805 | 1502 | C | 482 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-27 00:05:55+00:00 | 1534763 | 1516 | Python | 521 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-27 06:03:55+00:00 | 5589 | 2954 | Python | 652 | [] |
@@ -57,6 +59,7 @@
 | moom0o/AnarchyExploitFixes | Fix exploits on anarchy minecraft servers | https://github.com/moom0o/AnarchyExploitFixes | ['exploit'] | 1 | 2021-10-27 02:22:01+00:00 | 543 | 91 | Java | 21 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-10-27 07:46:18+00:00 | 27 | 0 | | 0 | [] |
 | tanmaysingha/FANet | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segm | https://github.com/tanmaysingha/FANet | ['exploit'] | 1 | 2021-10-27 06:53:43+00:00 | 4111 | 3 | Python | 2 | [] |
+| FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2021-10-27 10:44:17+00:00 | 1078 | 17 | Shell | 0 | [] |
 | Amansinghtech/shellcodeTemplate | None | https://github.com/Amansinghtech/shellcodeTemplate | ['shellcode'] | 1 | 2021-10-27 04:02:27+00:00 | 1 | 0 | C++ | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-27 00:04:04+00:00 | 411015 | 33 | | 19 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-27 00:58:45+00:00 | 77 | 0 | PHP | 0 | [] |
@@ -65,4 +68,5 @@
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-10-27 08:38:35+00:00 | 104279 | 0 | JavaScript | 0 | [] |
 | lperezmo/high-freq-forex-bot | Python-automated program for finding and exploiting arbitrage opportunities in international currency exchange market using high frequency forex trading (HFX). | https://github.com/lperezmo/high-freq-forex-bot | ['exploit'] | 1 | 2021-10-27 05:02:28+00:00 | 1094 | 1 | Jupyter Notebook | 1 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-27 01:04:50+00:00 | 24449 | 2 | Python | 0 | [] |
-| raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-10-27 10:30:20+00:00 | 0 | 0 | HTML | 0 | [] |
+| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-27 00:53:39+00:00 | 28672 | 0 | Python | 0 | [] |
+| waseeld/0day-on-chrome | nan | https://github.com/waseeld/0day-on-chrome | ['0day'] | 1 | 2021-10-27 11:31:54+00:00 | 0 | 0 | HTML | 0 | [] |
