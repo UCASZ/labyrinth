@@ -1,20 +1,25 @@
 
 # Summary for results/2021/10/28
     
-13 records found after deduplication
+18 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|-----------|
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-28 00:31:44+00:00 | 649395 | 25437 | Ruby | 11695 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-28 01:24:43+00:00 | 21889 | 6070 | JavaScript | 1448 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-28 00:17:03+00:00 | 166798 | 253 | Ruby | 77 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-28 00:03:20+00:00 | 415640 | 33 | | 19 | [] |
-| lunirae/roblox-exploits | literally exploiting gg | https://github.com/lunirae/roblox-exploits | ['exploit'] | 1 | 2021-10-28 01:03:04+00:00 | 2 | 0 | | 0 | [] |
-| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-10-28 01:34:55+00:00 | 287859 | 706 | | 147 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-28 01:31:00+00:00 | 78 | 0 | PHP | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-28 01:05:53+00:00 | 26203 | 2 | Python | 0 | [] |
-| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-28 00:32:26+00:00 | 28691 | 0 | Python | 0 | [] |
-| lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2021-10-28 00:01:12+00:00 | 203 | 0 | C | 0 | [] |
-| xiluna/Jinja2-ExploitMe | None | https://github.com/xiluna/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-28 00:38:52+00:00 | 0 | 0 | | 0 | [] |
 | sasaga/SHELLCODES-WINDOWS | This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform | https://github.com/sasaga/SHELLCODES-WINDOWS | ['exploit', 'shellcode'] | 2 | 2021-10-28 01:05:32+00:00 | 0 | 1 | Assembly | 0 | [] |
+| xiluna/Jinja2-ExploitMe | None | https://github.com/xiluna/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-28 00:38:52+00:00 | 0 | 0 | | 0 | [] |
+| cocomelonc/2021-10-26-windows-shellcoding-1 | Windows shellcoding part1. Simplest examples in C/C++ | https://github.com/cocomelonc/2021-10-26-windows-shellcoding-1 | ['shellcode'] | 1 | 2021-10-28 01:49:34+00:00 | 59 | 0 | C | 0 | [] |
+| lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2021-10-28 00:01:12+00:00 | 203 | 0 | C | 0 | [] |
+| thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-28 00:32:26+00:00 | 28691 | 0 | Python | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-28 01:05:53+00:00 | 26203 | 2 | Python | 0 | [] |
+| mr-r3bot/Gitlab-CVE-2021-22205 | nan | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-10-28 02:38:23+00:00 | 12 | 26 | Python | 8 | ['CVE-2021-22205'] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-28 01:31:00+00:00 | 78 | 0 | PHP | 0 | [] |
+| Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-10-28 01:34:55+00:00 | 287859 | 706 | | 147 | [] |
+| lunirae/roblox-exploits | literally exploiting gg | https://github.com/lunirae/roblox-exploits | ['exploit'] | 1 | 2021-10-28 01:03:04+00:00 | 2 | 0 | | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-28 00:03:20+00:00 | 415640 | 33 | | 19 | [] |
+| houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2021-10-28 02:03:40+00:00 | 227 | 153 | | 21 | [] |
+| masahiro331/CVE-2020-9484 | nan | https://github.com/masahiro331/CVE-2020-9484 | ['cve-2 OR cve_2'] | 1 | 2021-10-28 02:31:04+00:00 | 3930 | 114 | Dockerfile | 28 | ['CVE-2020-9484'] |
+| MalavVyas/ExploitDevelopment101 | Resources for Session Exploit Development 101 for Null Humla | https://github.com/MalavVyas/ExploitDevelopment101 | ['exploit'] | 1 | 2021-10-28 01:51:43+00:00 | 1 | 0 | | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-28 00:17:03+00:00 | 166798 | 253 | Ruby | 77 | [] |
 | warmilk/myVulHub | docker漏洞环境搭建大合集，每个文件夹对应一个漏洞，内含exploit代码，文档均在README.md | https://github.com/warmilk/myVulHub | ['exploit'] | 1 | 2021-10-28 01:26:01+00:00 | 0 | 0 | | 0 | [] |
