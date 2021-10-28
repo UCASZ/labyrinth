@@ -1,12 +1,13 @@
 
 # Summary for results/2021/10/28
     
-49 records found after deduplication
+50 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-28 00:31:44+00:00 | 649395 | 25437 | Ruby | 11695 | [] |
-| alone-skiddie/tmsfi | tmsfi (termux metasploit-framework installer ) is a simple python tool for complete beginners in termux and in linux commands who want to install metasploit in termux very easily .This is actually not a tool but full of linux basic commands for install bas | https://github.com/alone-skiddie/tmsfi | ['metasploit module OR payload'] | 1 | 2021-10-28 03:58:50+00:00 | 44 | 1 | Python | 0 | [] |
+| KaLendsi/CVE-2021-40449-Exploit | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-28 03:51:09+00:00 | 1965 | 59 | C++ | 27 | ['CVE-2021-40449'] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-28 01:05:53+00:00 | 26203 | 2 | Python | 0 | [] |
 | whaomi23/Update-Defender | Exploit Privado | https://github.com/whaomi23/Update-Defender | ['exploit'] | 1 | 2021-10-28 03:37:09+00:00 | 11378 | 0 | | 0 | [] |
 | thiagofigcosta/V-REx-v2 | Vulnerabilities' Risk of Exploitation | https://github.com/thiagofigcosta/V-REx-v2 | ['exploit'] | 1 | 2021-10-28 00:32:26+00:00 | 28691 | 0 | Python | 0 | [] |
 | RectangularObject/boblox | omg stupid script kiddie go lick a shower drain | https://github.com/RectangularObject/boblox | ['exploit'] | 1 | 2021-10-28 06:36:04+00:00 | 186 | 0 | Lua | 0 | [] |
@@ -16,8 +17,8 @@
 | corelight/CVE-2021-41773 | A Zeek package which raises notices for Path Traversal/RCE in Apache HTTP Server 2.4.49 (CVE-2021-41773) and 2.4.50 (CVE-2021-42013) | https://github.com/corelight/CVE-2021-41773 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-10-28 05:55:41+00:00 | 10 | 1 | Zeek | 2 | ['CVE-2021-41773', 'CVE-2021-42013'] |
 | lvlup456/polymorphicShellcode | None | https://github.com/lvlup456/polymorphicShellcode | ['shellcode'] | 1 | 2021-10-28 07:58:22+00:00 | 39 | 0 | Python | 0 | [] |
 | lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2021-10-28 00:01:12+00:00 | 203 | 0 | C | 0 | [] |
-| KaLendsi/CVE-2021-40449-Exploit | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-28 03:51:09+00:00 | 1965 | 59 | C++ | 27 | ['CVE-2021-40449'] |
 | XRSec/CobaltStrike-Update | Cobalt Strike is a powerful threat emulation tool that provides a post-exploitation agent and covert channels ideal for Adversary Simulations and Red Team exercises. With Cobalt Strike, companies can emulate the tactics and techniques of a quiet long-term | https://github.com/XRSec/CobaltStrike-Update | ['exploit'] | 1 | 2021-10-28 07:56:14+00:00 | 4801 | 2 | Shell | 1 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-28 01:24:43+00:00 | 21889 | 6070 | JavaScript | 1448 | [] |
 | Aiminsun/CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | ['command injection', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-10-28 06:36:34+00:00 | 11 | 7 | Python | 5 | ['CVE-2021-36260'] |
 | cocomelonc/2021-10-26-windows-shellcoding-1 | Windows shellcoding part1. Simplest examples in C/C++ | https://github.com/cocomelonc/2021-10-26-windows-shellcoding-1 | ['shellcode'] | 1 | 2021-10-28 01:49:34+00:00 | 59 | 0 | C | 0 | [] |
 | xiluna/Jinja2-ExploitMe | None | https://github.com/xiluna/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-28 00:38:52+00:00 | 0 | 0 | | 0 | [] |
@@ -28,10 +29,11 @@
 | ycdxsb/CVE-2020-0668 | Something about CVE-2020-0668 | https://github.com/ycdxsb/CVE-2020-0668 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-28 05:31:34+00:00 | 0 | 0 | C++ | 0 | ['CVE-2020-0668'] |
 | RedTeamWing/CVE-2021-22205 | Pocsuite3 For CVE-2021-22205 | https://github.com/RedTeamWing/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-10-28 06:35:38+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-22205'] |
 | RobertDra/CVE-2021-31862 | None | https://github.com/RobertDra/CVE-2021-31862 | ['cve-2 OR cve_2'] | 1 | 2021-10-28 07:22:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-31862'] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-28 01:05:53+00:00 | 26203 | 2 | Python | 0 | [] |
+| alone-skiddie/tmsfi | tmsfi (termux metasploit-framework installer ) is a simple python tool for complete beginners in termux and in linux commands who want to install metasploit in termux very easily .This is actually not a tool but full of linux basic commands for install bas | https://github.com/alone-skiddie/tmsfi | ['metasploit module OR payload'] | 1 | 2021-10-28 03:58:50+00:00 | 44 | 1 | Python | 0 | [] |
 | mr-r3bot/Gitlab-CVE-2021-22205 | None | https://github.com/mr-r3bot/Gitlab-CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-10-28 02:38:23+00:00 | 12 | 26 | Python | 8 | ['CVE-2021-22205'] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-28 01:24:43+00:00 | 21889 | 6070 | JavaScript | 1448 | [] |
 | nafees87n/codebox | codeBox RCE is a service that provides a remote environment to run your code in. Execution occurs in a containerized space. The API supports programming in 3 languages (Python, Javascript and C++), potentially extendable to support more. | https://github.com/nafees87n/codebox | ['rce', 'remote code execution'] | 2 | 2021-10-28 08:41:47+00:00 | 2575 | 1 | JavaScript | 8 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-28 04:01:44+00:00 | 107881 | 216 | Python | 63 | [] |
+| Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-10-28 10:27:46+00:00 | 625267 | 9 | Python | 26 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-28 06:47:17+00:00 | 5589 | 2957 | Python | 653 | [] |
 | kangarko/Confiscate | Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy. | https://github.com/kangarko/Confiscate | ['exploit'] | 1 | 2021-10-28 05:59:14+00:00 | 84 | 29 | | 8 | [] |
 | hugsy/gef-extras | Extra goodies for GEF: Open repository for unfiltered contributions to the project. | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2021-10-28 04:08:36+00:00 | 236 | 70 | Python | 29 | [] |
@@ -52,5 +54,4 @@
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-10-28 03:25:48+00:00 | 927 | 0 | Lua | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-10-28 01:34:55+00:00 | 287859 | 706 | | 147 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-28 01:31:00+00:00 | 78 | 0 | PHP | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-28 04:01:44+00:00 | 107881 | 216 | Python | 63 | [] |
 | sydjedd/rced | None | https://github.com/sydjedd/rced | ['rce'] | 1 | 2021-10-28 08:15:18+00:00 | 0 | 0 | JavaScript | 0 | [] |
