@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/27
     
-123 records found after deduplication
+124 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-10-27 05:38:05+00:00 | 649385 | 25429 | Ruby | 11692 | [] |
-| wyzmlr/AutoExploitSwagger | SwaggerAPI 自动利用工具 | https://github.com/wyzmlr/AutoExploitSwagger | ['exploit'] | 1 | 2021-10-27 08:28:12+00:00 | 0 | 3 | Python | 0 | [] |
+| stong/how-to-exploit-a-double-free | How to exploit a double free vulnerability in 2021. 'Use-After-Free for Dummies' | https://github.com/stong/how-to-exploit-a-double-free | ['exploit'] | 1 | 2021-10-27 19:58:43+00:00 | 19261 | 627 | Python | 35 | [] |
 | andnorack/CVE-2021-32789 | WooCommerce exploit | https://github.com/andnorack/CVE-2021-32789 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-27 04:18:58+00:00 | 0 | 0 | Go | 0 | ['CVE-2021-32789'] |
 | Alegarciy/SS-P1_Py_Exploit | Project 01- Softare Security, Eval Function Exploit | https://github.com/Alegarciy/SS-P1_Py_Exploit | ['exploit'] | 1 | 2021-10-27 03:21:13+00:00 | 0 | 0 | Dockerfile | 0 | [] |
 | rafaelcaria/drupalgeddon2-CVE-2018-7600 | None | https://github.com/rafaelcaria/drupalgeddon2-CVE-2018-7600 | ['cve-2 OR cve_2'] | 1 | 2021-10-27 03:32:40+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-7600'] |
@@ -20,8 +20,8 @@
 | p0dalirius/binaryexploitation | None | https://github.com/p0dalirius/binaryexploitation | ['exploit'] | 1 | 2021-10-27 12:24:36+00:00 | 150 | 4 | | 0 | [] |
 | EgeGursel/RCeSC | RCeSC Website | https://github.com/EgeGursel/RCeSC | ['rce'] | 1 | 2021-10-27 12:44:33+00:00 | 0 | 0 | HTML | 0 | [] |
 | lleavesl/CVE-2021-26084 | CVE-2021-26084，Atlassian Confluence OGNL注入漏洞 | https://github.com/lleavesl/CVE-2021-26084 | ['cve-2 OR cve_2'] | 1 | 2021-10-27 02:30:40+00:00 | 28 | 4 | Python | 3 | ['CVE-2021-26084'] |
-| stong/how-to-exploit-a-double-free | How to exploit a double free vulnerability in 2021. 'Use-After-Free for Dummies' | https://github.com/stong/how-to-exploit-a-double-free | ['exploit'] | 1 | 2021-10-27 19:58:43+00:00 | 19261 | 627 | Python | 35 | [] |
 | JowardBince/ShellShock | A python script intended to automate cgi-bin based exploitation of the ShellSchock vulnerability (CVE-2014-6271) | https://github.com/JowardBince/ShellShock | ['exploit'] | 1 | 2021-10-27 19:58:17+00:00 | 15 | 0 | Python | 0 | ['CVE-2014-6271'] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-27 13:15:54+00:00 | 21889 | 6070 | JavaScript | 1448 | [] |
 | cultureelerfgoed/datasets | datasets RCE | https://github.com/cultureelerfgoed/datasets | ['rce'] | 1 | 2021-10-27 12:38:31+00:00 | 11 | 0 | | 0 | [] |
 | KameleonReloaded/900Test | Sleirsgoevy: PoC for the FontFaceSet vulnerability, which was wrongly classified as a use-after-free. Works only on PC for now. Please check if this prints "failed to guess..." for you. Especially interested in reports from 9.00. | https://github.com/KameleonReloaded/900Test | ['vulnerability poc'] | 1 | 2021-10-27 17:01:44+00:00 | 18 | 0 | HTML | 0 | [] |
 | 4dmud/mud | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of | https://github.com/4dmud/mud | ['exploit'] | 1 | 2021-10-27 11:06:52+00:00 | 12724 | 2 | C++ | 2 | [] |
@@ -34,9 +34,10 @@
 | Exh2021108/Exploits-X-Bedwars-Script | None | https://github.com/Exh2021108/Exploits-X-Bedwars-Script | ['exploit'] | 1 | 2021-10-27 12:25:54+00:00 | 7 | 0 | | 0 | [] |
 | rabbitsafe/CVE-2021-36260 | CVE-2021-36260 | https://github.com/rabbitsafe/CVE-2021-36260 | ['cve-2 OR cve_2'] | 1 | 2021-10-27 15:40:38+00:00 | 4 | 1 | Python | 0 | ['CVE-2021-36260'] |
 | lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2021-10-27 18:42:09+00:00 | 189 | 0 | C | 0 | [] |
+| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-27 20:33:26+00:00 | 43 | 0 | Rust | 0 | [] |
 | ultrafinn122/Key | The Key for my exploit | https://github.com/ultrafinn122/Key | ['exploit'] | 1 | 2021-10-27 05:01:28+00:00 | 0 | 0 | | 0 | [] |
+| wyzmlr/AutoExploitSwagger | SwaggerAPI 自动利用工具 | https://github.com/wyzmlr/AutoExploitSwagger | ['exploit'] | 1 | 2021-10-27 08:28:12+00:00 | 0 | 3 | Python | 0 | [] |
 | Jun-5heng/CVE-2021-22005 | None | https://github.com/Jun-5heng/CVE-2021-22005 | ['cve-2 OR cve_2'] | 1 | 2021-10-27 08:36:21+00:00 | 0 | 0 | | 0 | ['CVE-2021-22005'] |
-| lvlup456/polymorphicShellcode | None | https://github.com/lvlup456/polymorphicShellcode | ['shellcode'] | 1 | 2021-10-27 07:26:34+00:00 | 34 | 0 | Python | 0 | [] |
 | Trushal2004/CVE-2019-9053 | None | https://github.com/Trushal2004/CVE-2019-9053 | ['cve-2 OR cve_2'] | 1 | 2021-10-27 10:32:26+00:00 | 0 | 0 | Python | 0 | ['CVE-2019-9053'] |
 | brennerhaverlock/Jinja2-ExploitMe | None | https://github.com/brennerhaverlock/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-27 20:23:35+00:00 | 0 | 0 | HTML | 0 | [] |
 | Dir0x/CVE-2021-41728 | Information about CVE-2021-41728, a reflected XSS in the search function. | https://github.com/Dir0x/CVE-2021-41728 | ['cve-2 OR cve_2'] | 1 | 2021-10-27 20:05:50+00:00 | 0 | 0 | | 0 | ['CVE-2021-41728'] |
@@ -65,11 +66,10 @@
 | SourCode-Z/Findlogin-v.1.5-meowproject- | This exploit serves to find a login gap from the system administrator to enter the dashboard page. This attack will usually work on websites that have the kcfinder extension. | https://github.com/SourCode-Z/Findlogin-v.1.5-meowproject- | ['exploit'] | 1 | 2021-10-27 10:15:24+00:00 | 0 | 0 | Python | 0 | [] |
 | ChilliRing/Ch1ll1s-sploit | This Roblox exploit is created to hack in, it runs by krnl api. Hope you enjoy! | https://github.com/ChilliRing/Ch1ll1s-sploit | ['exploit', 'sploit'] | 2 | 2021-10-27 10:07:54+00:00 | 0 | 0 | | 0 | [] |
 | SourCode-Z/Exploiter-Config | Exploit-config : dump config.php File From Joomla And Wordpress Websites | https://github.com/SourCode-Z/Exploiter-Config | ['exploit'] | 1 | 2021-10-27 10:06:36+00:00 | 0 | 0 | Shell | 0 | [] |
-| sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-10-27 20:33:26+00:00 | 43 | 0 | Rust | 0 | [] |
+| lvlup456/polymorphicShellcode | None | https://github.com/lvlup456/polymorphicShellcode | ['shellcode'] | 1 | 2021-10-27 07:26:34+00:00 | 34 | 0 | Python | 0 | [] |
 | thiennv57/metasploit_exploits | hacktoberfest | https://github.com/thiennv57/metasploit_exploits | ['exploit', 'metasploit module OR payload'] | 2 | 2021-10-27 07:44:46+00:00 | 6 | 0 | Ruby | 2 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-27 13:15:54+00:00 | 21889 | 6070 | JavaScript | 1448 | [] |
-| FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2021-10-27 10:44:17+00:00 | 1078 | 17 | Shell | 0 | [] |
-| phra/PEzor | Open-Source Shellcode & PE Packer | https://github.com/phra/PEzor | ['shellcode'] | 1 | 2021-10-27 11:41:25+00:00 | 307 | 1001 | C | 204 | [] |
+| in-future-world/GH-Hacking-Tools-Kit | Ethical and Unethical Hacking tools Kit (Perfectly arranged) with all important tools and books of hacking. More than 𝟏,𝟓𝟔𝟎 tools are included in this Kit. Tools, Practice Books, Source code and etc. Created by Professional Hacker Prant Keshari. | https://github.com/in-future-world/GH-Hacking-Tools-Kit | ['exploit'] | 1 | 2021-10-27 13:22:56+00:00 | 11808 | 4 | | 1 | [] |
+| FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-10-27 13:14:43+00:00 | 5349 | 30 | Shell | 5 | [] |
 | tanmaysingha/FANet | This is an optimized and efficient scene segmentation model which exploits multi-scale feature fusion technique for capturing contextual information from the scene. This model produces less parameters and FLOPS compare to many existing real-time scene segm | https://github.com/tanmaysingha/FANet | ['exploit'] | 1 | 2021-10-27 06:53:43+00:00 | 4111 | 3 | Python | 2 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-10-27 07:46:18+00:00 | 27 | 0 | | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-10-27 14:10:39+00:00 | 3359290 | 2 | Batchfile | 0 | [] |
@@ -89,6 +89,7 @@
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-27 01:36:32+00:00 | 2760534 | 357 | | 54 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-27 00:16:51+00:00 | 165274 | 252 | Ruby | 77 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-10-27 11:35:05+00:00 | 70845 | 10248 | Jupyter Notebook | 1757 | [] |
+| EgeBalci/amber | Reflective PE packer. | https://github.com/EgeBalci/amber | ['shellcode'] | 1 | 2021-10-27 09:51:10+00:00 | 6618 | 695 | Go | 158 | [] |
 | nsonaniya2010/testing | Ghostscript Exploits | https://github.com/nsonaniya2010/testing | ['exploit'] | 1 | 2021-10-27 05:50:35+00:00 | 67 | 0 | PostScript | 1 | [] |
 | xairy/linux-kernel-exploitation | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | ['exploit'] | 1 | 2021-10-27 06:54:49+00:00 | 368 | 3730 | | 795 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-10-27 06:03:55+00:00 | 5589 | 2954 | Python | 652 | [] |
@@ -96,11 +97,10 @@
 | nullsecuritynet/tools | Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. | https://github.com/nullsecuritynet/tools | ['exploit', 'shellcode'] | 2 | 2021-10-27 01:35:33+00:00 | 36805 | 1502 | C | 482 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-10-27 05:07:56+00:00 | 277610 | 6563 | C | 1814 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-10-27 21:37:18+00:00 | 3723 | 2514 | PowerShell | 729 | [] |
-| FabioDefilippo/linuxallremote | This bash scripts will help you to hack remote hosts. You can choose and run one of them. | https://github.com/FabioDefilippo/linuxallremote | ['exploit'] | 1 | 2021-10-27 13:14:43+00:00 | 5349 | 30 | Shell | 5 | [] |
-| Amansinghtech/shellcodeTemplate | None | https://github.com/Amansinghtech/shellcodeTemplate | ['shellcode'] | 1 | 2021-10-27 04:02:27+00:00 | 1 | 0 | C++ | 0 | [] |
-| in-future-world/GH-Hacking-Tools-Kit | Ethical and Unethical Hacking tools Kit (Perfectly arranged) with all important tools and books of hacking. More than 𝟏,𝟓𝟔𝟎 tools are included in this Kit. Tools, Practice Books, Source code and etc. Created by Professional Hacker Prant Keshari. | https://github.com/in-future-world/GH-Hacking-Tools-Kit | ['exploit'] | 1 | 2021-10-27 13:22:56+00:00 | 11808 | 4 | | 1 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-27 00:04:04+00:00 | 411015 | 33 | | 19 | [] |
+| phra/PEzor | Open-Source Shellcode & PE Packer | https://github.com/phra/PEzor | ['shellcode'] | 1 | 2021-10-27 11:41:25+00:00 | 307 | 1001 | C | 204 | [] |
+| FabioDefilippo/linuxallenum | this bash script is for remote linux and macos hosts hacked! | https://github.com/FabioDefilippo/linuxallenum | ['exploit'] | 1 | 2021-10-27 10:44:17+00:00 | 1078 | 17 | Shell | 0 | [] |
 | murderjj/spellcaster | spellcaster admin panel for rblx (exploit) | https://github.com/murderjj/spellcaster | ['exploit'] | 1 | 2021-10-27 05:48:19+00:00 | 813 | 0 | | 0 | [] |
+| Amansinghtech/shellcodeTemplate | None | https://github.com/Amansinghtech/shellcodeTemplate | ['shellcode'] | 1 | 2021-10-27 04:02:27+00:00 | 1 | 0 | C++ | 0 | [] |
 | mousepad01/python_binary_exploit_utilites | My own collection of usual functions that I use during binary exploitation training | https://github.com/mousepad01/python_binary_exploit_utilites | ['exploit'] | 1 | 2021-10-27 07:15:57+00:00 | 135 | 1 | Python | 0 | [] |
 | alexprzt/Roblox-Exploiting | None | https://github.com/alexprzt/Roblox-Exploiting | ['exploit'] | 1 | 2021-10-27 20:15:18+00:00 | 45 | 0 | Lua | 0 | [] |
 | bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-10-27 01:30:11+00:00 | 27 | 0 | Python | 0 | [] |
@@ -127,4 +127,5 @@
 | topcue/dact-exploit-poc | None | https://github.com/topcue/dact-exploit-poc | ['exploit'] | 1 | 2021-10-27 05:45:21+00:00 | 2 | 0 | Python | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-10-27 00:58:45+00:00 | 77 | 0 | PHP | 0 | [] |
 | macky168/sseopt | Stochastic Schemata Exploiter-based hyper-parameter optimization of Machine Learning | https://github.com/macky168/sseopt | ['exploit'] | 1 | 2021-10-27 18:13:57+00:00 | 36 | 0 | Python | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-27 00:04:04+00:00 | 411015 | 33 | | 19 | [] |
 | by7ebull3t/darkharvest | this is a work-in-progress windows remote access trojan written in python and c++, used for exploiting different attack vectors to deploy a payload | https://github.com/by7ebull3t/darkharvest | ['exploit'] | 1 | 2021-10-27 23:01:00+00:00 | 0 | 0 | | 0 | [] |
