@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/28
     
-101 records found after deduplication
+102 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -18,7 +18,7 @@
 | KaLendsi/CVE-2021-40449-Exploit | windows 10 14393 LPE | https://github.com/KaLendsi/CVE-2021-40449-Exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-10-28 03:51:09+00:00 | 1965 | 59 | C++ | 27 | ['CVE-2021-40449'] |
 | gh0x0st/OSEP-Breaking-Chains | A collection of code that I am using as I work through the PEN-300 course. | https://github.com/gh0x0st/OSEP-Breaking-Chains | ['shellcode'] | 1 | 2021-10-28 19:15:32+00:00 | 17 | 1 | C# | 0 | [] |
 | ErnestoCubo/autoexploit | Trabajo de fin de grado, esta tool permite al usuario realizar una pequeña auditoria a la hora de escalar privilegios en windows, la herramienta cuenta con un módulo automático, uno manual, y un módulo de búsqueda para encontrar exploits | https://github.com/ErnestoCubo/autoexploit | ['exploit'] | 1 | 2021-10-28 13:11:19+00:00 | 3 | 0 | PowerShell | 0 | [] |
-| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-28 04:47:44+00:00 | 2994 | 81 | JavaScript | 151 | [] |
+| chrismlee26/Jinja2-ExploitMe | None | https://github.com/chrismlee26/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-28 22:22:03+00:00 | 0 | 0 | HTML | 0 | [] |
 | Waveyyyy/exploit_rewrites | rewrites of existing exploits | https://github.com/Waveyyyy/exploit_rewrites | ['exploit'] | 1 | 2021-10-28 12:54:14+00:00 | 4 | 0 | Python | 0 | [] |
 | lvlup456/polymorphicShellcode | None | https://github.com/lvlup456/polymorphicShellcode | ['shellcode'] | 1 | 2021-10-28 07:58:22+00:00 | 39 | 0 | Python | 0 | [] |
 | Harleythetech/Exploit-6.72 | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | ['exploit'] | 1 | 2021-10-28 14:04:08+00:00 | 5413 | 0 | HTML | 0 | [] |
@@ -30,9 +30,10 @@
 | Zureno/CVE-_-POC_-Repository. | None | https://github.com/Zureno/CVE-_-POC_-Repository. | ['cve poc'] | 1 | 2021-10-28 16:58:37+00:00 | 339420 | 0 | | 0 | [] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-10-28 14:43:48+00:00 | 90 | 147 | C# | 25 | [] |
 | p0dalirius/binaryexploitation | None | https://github.com/p0dalirius/binaryexploitation | ['exploit'] | 1 | 2021-10-28 16:27:14+00:00 | 286 | 5 | | 0 | [] |
-| chrismlee26/Jinja2-ExploitMe | None | https://github.com/chrismlee26/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-28 22:22:03+00:00 | 0 | 0 | HTML | 0 | [] |
 | Aiminsun/CVE-2021-36260 | command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands. | https://github.com/Aiminsun/CVE-2021-36260 | ['command injection', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-10-28 06:36:34+00:00 | 11 | 7 | Python | 5 | ['CVE-2021-36260'] |
-| cocomelonc/2021-10-26-windows-shellcoding-1 | Windows shellcoding part1. Simplest examples in C/C++ | https://github.com/cocomelonc/2021-10-26-windows-shellcoding-1 | ['shellcode'] | 1 | 2021-10-28 01:49:34+00:00 | 59 | 0 | C | 0 | [] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-28 01:24:43+00:00 | 21889 | 6070 | JavaScript | 1448 | [] |
+| ArtikhackDeveloper/BowExploitFixer | This is plugin for 1.17 Spigot/Bukkit Minecraft's servers. This plugin fixes BowExploit(BowBomb) that found recently. Meteor Client developers released their fix, but the problem is that it fixes vanills arrow mechanics. Together I with https://github.com/ | https://github.com/ArtikhackDeveloper/BowExploitFixer | ['exploit'] | 1 | 2021-10-28 12:04:19+00:00 | 0 | 0 | | 0 | [] |
+| ArdXxX/New-World-Fast-Attack-Exploit | None | https://github.com/ArdXxX/New-World-Fast-Attack-Exploit | ['exploit'] | 1 | 2021-10-28 22:20:58+00:00 | 1 | 0 | Python | 0 | [] |
 | WhitfieBad/LearningExploiting | None | https://github.com/WhitfieBad/LearningExploiting | ['exploit'] | 1 | 2021-10-28 19:59:22+00:00 | 0 | 0 | C | 0 | [] |
 | aaa826/adminhax-admin-panel-not-an-exploit | release yay | https://github.com/aaa826/adminhax-admin-panel-not-an-exploit | ['exploit'] | 1 | 2021-10-28 19:26:41+00:00 | 0 | 0 | | 0 | [] |
 | 0xK4gura/CVE-2021-40444-POC | An attempt to reproduce Microsoft MSHTML Remote Code Execution (RCE) Vulnerability and using Metasploit Framework. | https://github.com/0xK4gura/CVE-2021-40444-POC | ['cve poc', 'cve-2 OR cve_2', 'metasploit module OR payload', 'rce', 'rce poc', 'remote code execution', 'vulnerability poc'] | 7 | 2021-10-28 15:07:39+00:00 | 0 | 2 | | 0 | ['CVE-2021-40444'] |
@@ -42,8 +43,8 @@
 | sdsdilqem/exploitdbapi | Exploitdb php api | https://github.com/sdsdilqem/exploitdbapi | ['exploit'] | 1 | 2021-10-28 13:26:12+00:00 | 0 | 0 | PHP | 0 | [] |
 | talhak08/shellcode_injection | None | https://github.com/talhak08/shellcode_injection | ['shellcode'] | 1 | 2021-10-28 13:20:39+00:00 | 0 | 0 | C | 0 | [] |
 | Spraten/TF_msfScanners.py | simple script to check metasploit auxiliary scanners and create consolesless commands to be used in TireFire | https://github.com/Spraten/TF_msfScanners.py | ['metasploit module OR payload'] | 1 | 2021-10-28 12:56:41+00:00 | 0 | 0 | Python | 1 | [] |
-| ArtikhackDeveloper/BowExploitFixer | This is plugin for 1.17 Spigot/Bukkit Minecraft's servers. This plugin fixes BowExploit(BowBomb) that found recently. Meteor Client developers released their fix, but the problem is that it fixes vanills arrow mechanics. Together I with https://github.com/ | https://github.com/ArtikhackDeveloper/BowExploitFixer | ['exploit'] | 1 | 2021-10-28 12:04:19+00:00 | 0 | 0 | | 0 | [] |
 | digitalinfopercept/Email-Phishing-Assessment | Phishing seeks to extract personal information or access from the end person by coercive communications. This type of interaction is especially efficient, since attackers will also exploit public information to generate convincing emails while impersonatin | https://github.com/digitalinfopercept/Email-Phishing-Assessment | ['exploit'] | 1 | 2021-10-28 11:59:00+00:00 | 0 | 0 | | 0 | [] |
+| cocomelonc/2021-10-26-windows-shellcoding-1 | Windows shellcoding part1. Simplest examples in C/C++ | https://github.com/cocomelonc/2021-10-26-windows-shellcoding-1 | ['shellcode'] | 1 | 2021-10-28 01:49:34+00:00 | 59 | 0 | C | 0 | [] |
 | BabyTeam1024/CVE-2021-40438 | None | https://github.com/BabyTeam1024/CVE-2021-40438 | ['cve-2 OR cve_2'] | 1 | 2021-10-28 11:52:54+00:00 | 0 | 0 | | 0 | ['CVE-2021-40438'] |
 | sydjedd/rced | None | https://github.com/sydjedd/rced | ['rce'] | 1 | 2021-10-28 08:15:18+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | RobertDra/CVE-2021-31862 | None | https://github.com/RobertDra/CVE-2021-31862 | ['cve-2 OR cve_2'] | 1 | 2021-10-28 07:22:03+00:00 | 0 | 0 | | 0 | ['CVE-2021-31862'] |
@@ -55,8 +56,8 @@
 | sasaga/SHELLCODES-WINDOWS | This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform | https://github.com/sasaga/SHELLCODES-WINDOWS | ['exploit', 'shellcode'] | 2 | 2021-10-28 01:05:32+00:00 | 0 | 1 | Assembly | 0 | [] |
 | xiluna/Jinja2-ExploitMe | None | https://github.com/xiluna/Jinja2-ExploitMe | ['exploit'] | 1 | 2021-10-28 00:38:52+00:00 | 0 | 0 | | 0 | [] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-10-28 03:23:19+00:00 | 15 | 1 | Zeek | 0 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-28 04:47:44+00:00 | 2994 | 81 | JavaScript | 151 | [] |
 | YTZirex/Zirexium-Exploit | None | https://github.com/YTZirex/Zirexium-Exploit | ['exploit'] | 1 | 2021-10-28 16:25:17+00:00 | 3 | 0 | | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-10-28 01:24:43+00:00 | 21889 | 6070 | JavaScript | 1448 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-10-28 08:32:41+00:00 | 294921 | 81 | Python | 13 | [] |
 | masahiro331/CVE-2020-9484 | None | https://github.com/masahiro331/CVE-2020-9484 | ['cve-2 OR cve_2'] | 1 | 2021-10-28 02:31:04+00:00 | 3930 | 114 | Dockerfile | 28 | ['CVE-2020-9484'] |
 | rng70/Hacking-Resources | This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources. | https://github.com/rng70/Hacking-Resources | ['exploit'] | 1 | 2021-10-28 15:48:39+00:00 | 2719721 | 10 | | 0 | [] |
