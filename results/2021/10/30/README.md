@@ -1,11 +1,16 @@
 
 # Summary for results/2021/10/30
     
-4 records found after deduplication
+9 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------|
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-30 00:05:59+00:00 | 1534763 | 1518 | Python | 521 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-30 00:16:47+00:00 | 168321 | 253 | Ruby | 78 | [] |
+| offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-30 01:36:31+00:00 | 2761089 | 357 | | 54 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-30 00:45:15+00:00 | 41003 | 24 | | 14 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-30 00:03:48+00:00 | 426907 | 34 | | 19 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-30 01:31:34+00:00 | 109998 | 221 | Python | 66 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-30 01:04:06+00:00 | 29886 | 2 | Python | 0 | [] |
 | lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2021-10-30 00:15:38+00:00 | 234 | 0 | C | 0 | [] |
+| OceanBagel/GMS-OGG-Sample-Rate-Exploit-Converter | A Python script for taking advantage of the GM:S OGG Sample Rate Exploit, allowing OGG files to be played back at the same pitch regardless of the game's attempts to change it. | https://github.com/OceanBagel/GMS-OGG-Sample-Rate-Exploit-Converter | ['exploit'] | 1 | 2021-10-30 01:37:11+00:00 | 0 | 0 | Python | 0 | [] |
