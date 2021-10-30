@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/30
     
-27 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -13,11 +13,13 @@
 | OceanBagel/GMS-OGG-Sample-Rate-Exploit-Converter | A Python script for taking advantage of the GM:S OGG Sample Rate Exploit, allowing OGG files to be played back at the same pitch regardless of the game's attempts to change it. | https://github.com/OceanBagel/GMS-OGG-Sample-Rate-Exploit-Converter | ['exploit'] | 1 | 2021-10-30 01:37:11+00:00 | 0 | 0 | Python | 0 | [] |
 | Crypto-Virus/cream-finance-exploit-example | None | https://github.com/Crypto-Virus/cream-finance-exploit-example | ['exploit'] | 1 | 2021-10-30 02:04:50+00:00 | 159 | 29 | Solidity | 3 | [] |
 | cshewmake2/cone-classification | The use of adaptive optics scanning laser ophthalmoscopy (AOSLO) to probe color perception at the individual cone level has become increasingly of interest in the vision science community. Such experiments are enabled by having individual subjects' cone cl | https://github.com/cshewmake2/cone-classification | ['exploit'] | 1 | 2021-10-30 03:18:08+00:00 | 4745 | 0 | Jupyter Notebook | 0 | [] |
+| sinjeanmin/cvedetails_2020 | For IS713 Project | https://github.com/sinjeanmin/cvedetails_2020 | ['cve-2 OR cve_2'] | 1 | 2021-10-30 08:17:57+00:00 | 21627 | 0 | | 0 | [] |
 | gh0x0st/OSEP-Breaking-Chains | A collection of code that I am using as I work through the PEN-300 course. | https://github.com/gh0x0st/OSEP-Breaking-Chains | ['shellcode'] | 1 | 2021-10-30 02:42:15+00:00 | 44 | 1 | C# | 0 | [] |
 | lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2021-10-30 00:15:38+00:00 | 234 | 0 | C | 0 | [] |
 | kingkirpal2000/CSE-111 | Database Systems - Principles of database design and operation. Relational data model. High-level data modeling representations. SQL database language. Active databases with constraints and triggers. Query optimization with views and indexes. Exploiting da | https://github.com/kingkirpal2000/CSE-111 | ['exploit'] | 1 | 2021-10-30 06:20:42+00:00 | 8020 | 1 | ReScript | 0 | [] |
 | glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-30 01:47:32+00:00 | 3140 | 86 | JavaScript | 180 | [] |
 | MrSharkSpamBot/GlidingSword | A full fledged exploitation framework written in pure python3. | https://github.com/MrSharkSpamBot/GlidingSword | ['exploit'] | 1 | 2021-10-30 05:24:05+00:00 | 77 | 8 | Python | 2 | [] |
+| lintstar/About-Attack | 一个旨在通过应用场景 / 标签对 Github 红队向工具 / 资源进行分类收集，降低红队技术门槛的手册【持续更新】 | https://github.com/lintstar/About-Attack | ['rce'] | 1 | 2021-10-30 08:01:54+00:00 | 20080 | 204 | nan | 41 | [] |
 | DH-AL/Dh-All | This is a package of all hacking tools., This tool contain over 300+ Advance and professional Hacking tools.it contain Phishing, Brute forcing, cloning, Vulnerability scanning, Information Gathering, Tracing and Tracking, Exploitation, Password cracking, W | https://github.com/DH-AL/Dh-All | ['exploit'] | 1 | 2021-10-30 06:23:12+00:00 | 560 | 7 | Python | 3 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-10-30 00:05:59+00:00 | 1534763 | 1518 | Python | 521 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-30 01:31:34+00:00 | 109998 | 221 | Python | 66 | [] |
@@ -27,8 +29,10 @@
 | therealdreg/x64dbg-exploiting | Do you want to use x64dbg instead of immunity debugger? | https://github.com/therealdreg/x64dbg-exploiting | ['exploit'] | 1 | 2021-10-30 04:04:50+00:00 | 421 | 21 | | 2 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-30 00:03:48+00:00 | 426907 | 34 | | 19 | [] |
 | therealdreg/drx_ptrace_shellcode_injector | drx ptrace shellcode injector | https://github.com/therealdreg/drx_ptrace_shellcode_injector | ['shellcode'] | 1 | 2021-10-30 04:01:10+00:00 | 183 | 5 | C | 3 | [] |
+| karma9874/AndroRAT | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | ['exploit'] | 1 | 2021-10-30 08:14:11+00:00 | 38339 | 356 | Java | 154 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-10-30 00:45:15+00:00 | 41003 | 24 | | 14 | [] |
 | io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-10-30 03:36:12+00:00 | 996 | 248 | Rust | 13 | [] |
+| telnet22/Kn0ck | Automated Tools Pentest | https://github.com/telnet22/Kn0ck | ['metasploit module OR payload'] | 1 | 2021-10-30 07:38:15+00:00 | 10057 | 49 | PHP | 21 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-10-30 01:36:31+00:00 | 2761089 | 357 | | 54 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-30 00:16:47+00:00 | 168321 | 253 | Ruby | 78 | [] |
 | hktalent/360.github.io | https://exploit-poc.com | https://github.com/hktalent/360.github.io | ['exploit'] | 1 | 2021-10-30 05:31:01+00:00 | 0 | 0 | HTML | 0 | [] |
