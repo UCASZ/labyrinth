@@ -1,12 +1,12 @@
 
 # Summary for results/2021/10/31
     
-18 records found after deduplication
+22 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-31 00:16:50+00:00 | 169846 | 253 | Ruby | 78 | [] |
-| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-10-31 03:09:46+00:00 | 128 | 0 | Python | 0 | [] |
+| mnakama/tarpit | A simple HTTP tarpit for catching PHP exploit scanners | https://github.com/mnakama/tarpit | ['exploit'] | 1 | 2021-10-31 05:50:15+00:00 | 6 | 2 | Go | 0 | [] |
 | NinjavaFilms/Plane-Crazy-INFINITE-MAP-exploit | Creates infinite maps in the roblox game Plane Crazy. Credits to Nexity for the script | https://github.com/NinjavaFilms/Plane-Crazy-INFINITE-MAP-exploit | ['exploit'] | 1 | 2021-10-31 05:20:01+00:00 | 0 | 0 | | 0 | [] |
 | AlarmClockCrusher/PythonHearthstone | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | ['exploit'] | 1 | 2021-10-31 04:29:36+00:00 | 0 | 0 | | 0 | [] |
 | Seals6/CVE-2021-22205 | CVE-2021-22205漏洞检测 | https://github.com/Seals6/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-10-31 04:15:30+00:00 | 0 | 0 | | 0 | ['CVE-2021-22205'] |
@@ -18,8 +18,12 @@
 | Foxxive/FoxSploit | simple roblox exploit made in C# by me, i made this to practice my C# coding | https://github.com/Foxxive/FoxSploit | ['exploit', 'sploit'] | 2 | 2021-10-31 00:40:46+00:00 | 0 | 0 | | 0 | [] |
 | plvhx/solaris-shellcode | SunOS Solaris shellcode | https://github.com/plvhx/solaris-shellcode | ['shellcode'] | 1 | 2021-10-31 00:11:31+00:00 | 0 | 0 | C | 0 | [] |
 | holdwyd/Hold | My Roblox Exploit | https://github.com/holdwyd/Hold | ['exploit'] | 1 | 2021-10-31 02:35:32+00:00 | 8383 | 0 | C# | 0 | [] |
+| learner-ing/redis-rce | redis主从复制windows和Linux 6.x | https://github.com/learner-ing/redis-rce | ['rce'] | 1 | 2021-10-31 05:56:54+00:00 | 15 | 0 | C | 0 | [] |
+| Harleythetech/Exploit-6.72 | PS4 Jailbreak by Karo and Re Designed by Me For Firmware 672 | https://github.com/Harleythetech/Exploit-6.72 | ['exploit'] | 1 | 2021-10-31 05:57:12+00:00 | 5424 | 0 | HTML | 0 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-10-31 05:56:39+00:00 | 3243 | 90 | JavaScript | 185 | [] |
 | Crystalware/CVE-2021-27965 | Proof of concept for CVE-2021-27965 (Stack-based Buffer Overflow) | https://github.com/Crystalware/CVE-2021-27965 | ['cve-2 OR cve_2'] | 1 | 2021-10-31 02:39:41+00:00 | 15 | 0 | C | 1 | ['CVE-2021-27965'] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-31 01:09:29+00:00 | 3681 | 2 | Python | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-31 00:03:12+00:00 | 111590 | 221 | Python | 66 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-31 00:03:09+00:00 | 417361 | 34 | | 19 | [] |
+| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-10-31 03:09:46+00:00 | 128 | 0 | Python | 0 | [] |
 | KameleonReloaded/672 | Sleirsgoevy New Exploit For 6.72 FW Plus GoldHEN 1.1 | https://github.com/KameleonReloaded/672 | ['exploit'] | 1 | 2021-10-31 05:31:37+00:00 | 0 | 0 | | 0 | [] |
