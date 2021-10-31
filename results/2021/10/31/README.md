@@ -1,10 +1,10 @@
 
 # Summary for results/2021/10/31
     
-14 records found after deduplication
+16 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
-|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-10-31 00:16:50+00:00 | 169846 | 253 | Ruby | 78 | [] |
 | brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-10-31 03:09:46+00:00 | 128 | 0 | Python | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-31 00:03:09+00:00 | 417361 | 34 | | 19 | [] |
@@ -19,3 +19,5 @@
 | ZakaryaRabaty/exploit | None | https://github.com/ZakaryaRabaty/exploit | ['exploit'] | 1 | 2021-10-31 01:35:53+00:00 | 0 | 0 | | 0 | [] |
 | ZakaryaRabaty/exploit99 | None | https://github.com/ZakaryaRabaty/exploit99 | ['exploit'] | 1 | 2021-10-31 01:37:46+00:00 | 0 | 0 | Python | 0 | [] |
 | ohnonoyesyes/CVE-2021-20837 | have a test | https://github.com/ohnonoyesyes/CVE-2021-20837 | ['cve-2 OR cve_2'] | 1 | 2021-10-31 01:37:11+00:00 | 0 | 0 | | 0 | ['CVE-2021-20837'] |
+| Seals6/CVE-2021-22205 | CVE-2021-22205漏洞检测 | https://github.com/Seals6/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-10-31 04:15:30+00:00 | 0 | 0 | | 0 | ['CVE-2021-22205'] |
+| AlarmClockCrusher/PythonHearthstone | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | ['exploit'] | 1 | 2021-10-31 04:29:36+00:00 | 0 | 0 | | 0 | [] |
