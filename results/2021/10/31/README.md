@@ -1,7 +1,7 @@
 
 # Summary for results/2021/10/31
     
-11 records found after deduplication
+12 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
@@ -9,6 +9,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-10-31 00:03:09+00:00 | 417361 | 34 | | 19 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-10-31 00:03:12+00:00 | 111590 | 221 | Python | 66 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-10-31 01:09:29+00:00 | 3681 | 2 | Python | 0 | [] |
+| holdwyd/Hold | My Roblox Exploit | https://github.com/holdwyd/Hold | ['exploit'] | 1 | 2021-10-31 02:35:32+00:00 | 8383 | 0 | C# | 0 | [] |
 | plvhx/solaris-shellcode | SunOS Solaris shellcode | https://github.com/plvhx/solaris-shellcode | ['shellcode'] | 1 | 2021-10-31 00:11:31+00:00 | 0 | 0 | C | 0 | [] |
 | Foxxive/FoxSploit | simple roblox exploit made in C# by me, i made this to practice my C# coding | https://github.com/Foxxive/FoxSploit | ['exploit', 'sploit'] | 2 | 2021-10-31 00:40:46+00:00 | 0 | 0 | nan | 0 | [] |
 | restarrt/location-finder | type in the object name and it will print out the location of any object with the name, every parents to reach it, useful if your exploit doesnt support dex or you used remotespy and struggle to find out where is the parameter object that was passed, this | https://github.com/restarrt/location-finder | ['exploit'] | 1 | 2021-10-31 00:43:49+00:00 | 0 | 0 | | 0 | [] |
