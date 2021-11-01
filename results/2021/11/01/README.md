@@ -1,13 +1,12 @@
 
 # Summary for results/2021/11/01
     
-46 records found after deduplication
+49 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-01 07:17:59+00:00 | 649688 | 25483 | Ruby | 11701 | [] |
-| b3tterm4n/CVE-2021-22205 | personal | https://github.com/b3tterm4n/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 03:37:56+00:00 | 2 | 0 | Python | 0 | ['CVE-2021-22205'] |
-| Deadpool2000/msf-termux | Install Metasploit on Termux | https://github.com/Deadpool2000/msf-termux | ['metasploit module OR payload'] | 1 | 2021-11-01 08:47:02+00:00 | 30 | 2 | Shell | 0 | [] |
+| antx-code/CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:28:19+00:00 | 293 | 5 | Python | 3 | ['CVE-2021-31166'] |
 | alikmli/HeapOverFlow-Detection | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | ['heap overflow'] | 1 | 2021-11-01 06:23:22+00:00 | 2977 | 0 | Python | 0 | [] |
 | nerap/McTrade | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-11-01 01:31:39+00:00 | 268 | 2 | Python | 0 | [] |
 | lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2021-11-01 01:26:31+00:00 | 324 | 0 | C | 0 | [] |
@@ -16,9 +15,10 @@
 | manansalsa/reANE | Reverse engineering the Apple Neural Engine to find exploits in iOS | https://github.com/manansalsa/reANE | ['exploit'] | 1 | 2021-11-01 01:16:53+00:00 | 0 | 1 | | 0 | [] |
 | WhitfieBad/LearningExploiting | None | https://github.com/WhitfieBad/LearningExploiting | ['exploit'] | 1 | 2021-11-01 08:10:03+00:00 | 6 | 0 | C | 0 | [] |
 | antx-code/CVE-2021-22205 | Gitlab CE/EE RCE 未授权远程代码执行漏洞 POC && EXP CVE-2021-22205 | https://github.com/antx-code/CVE-2021-22205 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-11-01 03:26:57+00:00 | 8 | 1 | Python | 1 | ['CVE-2021-22205'] |
+| b3tterm4n/CVE-2021-22205 | personal | https://github.com/b3tterm4n/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 03:37:56+00:00 | 2 | 0 | Python | 0 | ['CVE-2021-22205'] |
 | plvhx/solaris-shellcode | SunOS Solaris shellcode | https://github.com/plvhx/solaris-shellcode | ['shellcode'] | 1 | 2021-11-01 03:55:04+00:00 | 13 | 0 | C | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-01 09:02:46+00:00 | 46294 | 851 | Python | 201 | [] |
 | Seals6/CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:21:00+00:00 | 210 | 2 | Python | 1 | ['CVE-2021-22205'] |
+| Youheng-Lue/art-exploit | None | https://github.com/Youheng-Lue/art-exploit | ['exploit'] | 1 | 2021-11-01 10:32:29+00:00 | 1 | 0 | | 0 | [] |
 | WhoisNirvalu/MetasploitTermux | None | https://github.com/WhoisNirvalu/MetasploitTermux | ['metasploit module OR payload'] | 1 | 2021-11-01 01:07:02+00:00 | 0 | 0 | Python | 0 | [] |
 | antx-code/CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:29:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-22214'] |
 | devarajug/Tabnabbing_POC | This repository contains POC of tabnabbing vulnerability occurs in webapplication. | https://github.com/devarajug/Tabnabbing_POC | ['vulnerability poc'] | 1 | 2021-11-01 06:32:39+00:00 | 0 | 0 | CSS | 0 | [] |
@@ -27,10 +27,11 @@
 | GANG123gg/exploit | None | https://github.com/GANG123gg/exploit | ['exploit'] | 1 | 2021-11-01 06:57:06+00:00 | 0 | 0 | | 0 | [] |
 | Qclover/Gitlab_RCE_CVE_2021_2205 | None | https://github.com/Qclover/Gitlab_RCE_CVE_2021_2205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-01 07:41:51+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-2205'] |
 | a520ass/Exploit-HS8145C5V5-ONT | None | https://github.com/a520ass/Exploit-HS8145C5V5-ONT | ['exploit'] | 1 | 2021-11-01 08:19:10+00:00 | 0 | 0 | Shell | 0 | [] |
-| antx-code/CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:28:19+00:00 | 293 | 5 | Python | 3 | ['CVE-2021-31166'] |
+| parad0xer/Shellcode | None | https://github.com/parad0xer/Shellcode | ['shellcode'] | 1 | 2021-11-01 09:07:53+00:00 | 0 | 0 | Assembly | 0 | [] |
+| Deadpool2000/msf-termux | Install Metasploit on Termux | https://github.com/Deadpool2000/msf-termux | ['metasploit module OR payload'] | 1 | 2021-11-01 08:47:02+00:00 | 30 | 2 | Shell | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-11-01 09:25:06+00:00 | 309 | 0 | TypeScript | 0 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-01 09:02:46+00:00 | 46294 | 851 | Python | 201 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-01 01:09:06+00:00 | 5392 | 2 | Python | 0 | [] |
-| P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-11-01 04:08:11+00:00 | 12437 | 1 | nan | 0 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-11-01 02:37:08+00:00 | 3733 | 2515 | PowerShell | 730 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-11-01 06:26:39+00:00 | 5637 | 2960 | Python | 655 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-01 00:36:30+00:00 | 5469 | 4061 | Python | 559 | [] |
@@ -50,4 +51,6 @@
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-11-01 02:12:48+00:00 | 700 | 13 | Python | 3 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-01 04:01:59+00:00 | 114765 | 222 | Python | 66 | [] |
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2021-11-01 06:49:19+00:00 | 198 | 10 | Python | 6 | [] |
-| parad0xer/Shellcode | None | https://github.com/parad0xer/Shellcode | ['shellcode'] | 1 | 2021-11-01 09:07:53+00:00 | 0 | 0 | Assembly | 0 | [] |
+| veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-11-01 10:29:52+00:00 | 14740 | 237 | Go | 32 | [] |
+| P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-11-01 04:08:11+00:00 | 12437 | 1 | nan | 0 | [] |
+| Henrinnes/exploiting-securing-Docker-and-kubernetes | None | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | ['exploit'] | 1 | 2021-11-01 10:01:01+00:00 | 0 | 0 | | 0 | [] |
