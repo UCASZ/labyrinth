@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11
     
-60 records found after deduplication
+65 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-01 07:17:59+00:00 | 649688 | 25483 | Ruby | 11701 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-01 09:02:46+00:00 | 46294 | 851 | Python | 201 | [] |
+| Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-11-01 12:56:33+00:00 | 66 | 0 | Python | 0 | [] |
+| cr7pt0pl4gu3/Pestilence | Shellcode loader written in rust. Strives to evade modern EDR solutions. | https://github.com/cr7pt0pl4gu3/Pestilence | ['shellcode'] | 1 | 2021-11-01 15:13:02+00:00 | 39 | 3 | Rust | 1 | [] |
 | Deadpool2000/msf-termux | Install Metasploit on Termux | https://github.com/Deadpool2000/msf-termux | ['metasploit module OR payload'] | 1 | 2021-11-01 08:47:02+00:00 | 30 | 2 | Shell | 0 | [] |
 | alikmli/HeapOverFlow-Detection | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | ['heap overflow'] | 1 | 2021-11-01 06:23:22+00:00 | 2977 | 0 | Python | 0 | [] |
 | nerap/McTrade | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-11-01 01:31:39+00:00 | 268 | 2 | Python | 0 | [] |
@@ -34,10 +35,11 @@
 | DracoFAAD/exploit-lib-roblox | None | https://github.com/DracoFAAD/exploit-lib-roblox | ['exploit'] | 1 | 2021-11-01 11:17:10+00:00 | 4 | 0 | Lua | 0 | [] |
 | rcelebi/rcelebi.github.io | None | https://github.com/rcelebi/rcelebi.github.io | ['rce'] | 1 | 2021-11-01 12:25:00+00:00 | 0 | 0 | | 0 | [] |
 | shiomiyan/CVE-2021-42574 | None | https://github.com/shiomiyan/CVE-2021-42574 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 13:15:09+00:00 | 0 | 0 | Rust | 0 | ['CVE-2021-42574'] |
+| Cosemz/CVE-2021-20837 | MovableType XMLRPC - RCE | https://github.com/Cosemz/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-01 13:33:01+00:00 | 0 | 0 | | 0 | ['CVE-2021-20837'] |
 | antx-code/CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:28:19+00:00 | 293 | 5 | Python | 3 | ['CVE-2021-31166'] |
-| Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-11-01 12:56:33+00:00 | 66 | 0 | Python | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-11-01 09:25:06+00:00 | 309 | 0 | TypeScript | 0 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-01 12:45:16+00:00 | 41320 | 24 | | 14 | [] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-01 09:02:46+00:00 | 46294 | 851 | Python | 201 | [] |
+| thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2021-11-01 15:19:08+00:00 | 24 | 3 | | 2 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-11-01 02:37:08+00:00 | 3733 | 2515 | PowerShell | 730 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-11-01 06:26:39+00:00 | 5637 | 2960 | Python | 655 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-01 00:36:30+00:00 | 5469 | 4061 | Python | 559 | [] |
@@ -47,11 +49,12 @@
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-01 11:35:05+00:00 | 71337 | 10270 | Jupyter Notebook | 1761 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-01 00:16:49+00:00 | 171374 | 253 | Ruby | 78 | [] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-11-01 08:24:26+00:00 | 2720 | 1344 | | 452 | [] |
+| JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-11-01 15:13:03+00:00 | 522 | 106 | Julia | 22 | [] |
 | k8gege/k8gege.github.io | K8博客 | https://github.com/k8gege/k8gege.github.io | ['exploit'] | 1 | 2021-11-01 11:31:09+00:00 | 270239 | 18 | HTML | 7 | [] |
 | Deadpool2000/Paybag | Simple and easy Metasploit payload generator for Linux & Termux | https://github.com/Deadpool2000/Paybag | ['metasploit module OR payload'] | 1 | 2021-11-01 08:47:56+00:00 | 108 | 25 | Python | 3 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-01 02:59:36+00:00 | 64625 | 1267 | Python | 260 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-01 12:45:16+00:00 | 41320 | 24 | | 14 | [] |
 | cribdragg3r/Alaris | A protective and Low Level Shellcode Loader that defeats modern EDR systems. | https://github.com/cribdragg3r/Alaris | ['shellcode'] | 1 | 2021-11-01 05:00:43+00:00 | 1284 | 627 | C | 107 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-01 01:09:06+00:00 | 5392 | 2 | Python | 0 | [] |
 | TAbdiukov/Exploit-DB | Various scripts | https://github.com/TAbdiukov/Exploit-DB | ['exploit'] | 1 | 2021-11-01 00:56:06+00:00 | 18 | 0 | Python | 0 | [] |
 | SoulXHades/Shellcode | A repos of shellcodes I created for fun during my free time to learn. | https://github.com/SoulXHades/Shellcode | ['shellcode'] | 1 | 2021-11-01 01:44:01+00:00 | 37 | 3 | Assembly | 0 | [] |
 | cdk-team/CDK | CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency. It comes with penetration tools and many powerful PoCs/EXPs helps you to escape container and takeover K8s cluster | https://github.com/cdk-team/CDK | ['exploit'] | 1 | 2021-11-01 10:59:46+00:00 | 9796 | 1809 | Go | 282 | [] |
@@ -63,5 +66,7 @@
 | jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2021-11-01 06:49:19+00:00 | 198 | 10 | Python | 6 | [] |
 | Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | ['exploit'] | 1 | 2021-11-01 12:35:27+00:00 | 82965 | 0 | | 0 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-11-01 10:29:52+00:00 | 14740 | 237 | Go | 32 | [] |
-| P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-11-01 04:08:11+00:00 | 12437 | 1 | nan | 0 | [] |
-| Cosemz/CVE-2021-20837 | MovableType XMLRPC - RCE | https://github.com/Cosemz/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-01 13:33:01+00:00 | 0 | 0 | | 0 | ['CVE-2021-20837'] |
+| thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2021-11-01 15:23:46+00:00 | 92 | 3 | Python | 1 | [] |
+| P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-11-01 04:08:11+00:00 | 12437 | 1 | | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-01 01:09:06+00:00 | 5392 | 2 | Python | 0 | [] |
+| batuhan98/ExploitBufferOverflow | None | https://github.com/batuhan98/ExploitBufferOverflow | ['exploit'] | 1 | 2021-11-01 14:47:26+00:00 | 0 | 0 | Python | 0 | [] |
