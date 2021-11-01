@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/01
     
-24 records found after deduplication
+25 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-11-01 02:37:08+00:00 | 3733 | 2515 | PowerShell | 730 | [] |
-| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-01 00:36:30+00:00 | 5469 | 4061 | Python | 559 | [] |
+| P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-11-01 04:08:11+00:00 | 12437 | 1 | nan | 0 | [] |
 | WhoisNirvalu/MetasploitTermux | None | https://github.com/WhoisNirvalu/MetasploitTermux | ['metasploit module OR payload'] | 1 | 2021-11-01 01:07:02+00:00 | 0 | 0 | Python | 0 | [] |
 | Seals6/CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:21:00+00:00 | 210 | 2 | Python | 1 | ['CVE-2021-22205'] |
 | plvhx/solaris-shellcode | SunOS Solaris shellcode | https://github.com/plvhx/solaris-shellcode | ['shellcode'] | 1 | 2021-11-01 03:55:04+00:00 | 13 | 0 | C | 0 | [] |
@@ -17,8 +17,8 @@
 | nerap/McTrade | McTrade is a bot exploiting Binance API, open source! built in python ! | https://github.com/nerap/McTrade | ['exploit'] | 1 | 2021-11-01 01:31:39+00:00 | 268 | 2 | Python | 0 | [] |
 | antx-code/CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:28:19+00:00 | 293 | 5 | Python | 3 | ['CVE-2021-31166'] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-01 01:09:06+00:00 | 5392 | 2 | Python | 0 | [] |
-| P-DennyGamingYT/PDennSploit | This is where you can find the API's used and Download The Newest Version of PDennSploit | https://github.com/P-DennyGamingYT/PDennSploit | ['sploit'] | 1 | 2021-11-01 04:08:11+00:00 | 12437 | 1 | nan | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-01 04:01:59+00:00 | 114765 | 222 | Python | 66 | [] |
+| hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-01 00:36:30+00:00 | 5469 | 4061 | Python | 559 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-11-01 02:12:48+00:00 | 700 | 13 | Python | 3 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-01 01:10:55+00:00 | 79 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-01 00:04:12+00:00 | 418507 | 34 | | 19 | [] |
@@ -28,4 +28,5 @@
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-01 02:59:36+00:00 | 64625 | 1267 | Python | 260 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-01 00:16:49+00:00 | 171374 | 253 | Ruby | 78 | [] |
 | GuardedOperators/OpGuard | Spigot plugin that protects against op exploits & malicious plugins. | https://github.com/GuardedOperators/OpGuard | ['exploit'] | 1 | 2021-11-01 01:51:12+00:00 | 1353 | 9 | Java | 5 | [] |
+| shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2021-11-01 04:59:49+00:00 | 333 | 4937 | C | 956 | [] |
 | antx-code/CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:29:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-22214'] |
