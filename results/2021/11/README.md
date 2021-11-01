@@ -1,12 +1,14 @@
 
 # Summary for results/2021/11
     
-90 records found after deduplication
+94 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-01 07:17:59+00:00 | 649688 | 25483 | Ruby | 11701 | [] |
+| 4dmud/mud | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of | https://github.com/4dmud/mud | ['exploit'] | 1 | 2021-11-01 16:37:36+00:00 | 14206 | 2 | C++ | 3 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-01 17:27:12+00:00 | 169 | 13 | Ruby | 5 | ['CVE-2021-20837'] |
+| f0ns1/-Exploiting-BufferOverflow | None | https://github.com/f0ns1/-Exploiting-BufferOverflow | ['exploit'] | 1 | 2021-11-01 20:24:32+00:00 | 4 | 0 | Python | 0 | [] |
 | b3tterm4n/CVE-2021-22205 | personal | https://github.com/b3tterm4n/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 03:37:56+00:00 | 2 | 0 | Python | 0 | ['CVE-2021-22205'] |
 | Yolnan/24678_CVE_PS5 | None | https://github.com/Yolnan/24678_CVE_PS5 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 20:54:23+00:00 | 2714 | 0 | Python | 0 | [] |
 | antx-code/CVE-2021-22205 | Gitlab CE/EE RCE 未授权远程代码执行漏洞 POC && EXP CVE-2021-22205 | https://github.com/antx-code/CVE-2021-22205 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-11-01 03:26:57+00:00 | 8 | 1 | Python | 1 | ['CVE-2021-22205'] |
@@ -14,8 +16,8 @@
 | RobertDra/CVE-2021-31862 | None | https://github.com/RobertDra/CVE-2021-31862 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 12:56:12+00:00 | 2 | 0 | | 0 | ['CVE-2021-31862'] |
 | manansalsa/reANE | Reverse engineering the Apple Neural Engine to find exploits in iOS | https://github.com/manansalsa/reANE | ['exploit'] | 1 | 2021-11-01 01:16:53+00:00 | 0 | 1 | | 0 | [] |
 | punyaslokdutta/Reverse-Shell-scripts | A reverse shell is a shell session established on a connection that is initiated from a remote machine, not from the local host. Attackers who successfully exploit a remote command execution vulnerability can use a reverse shell to obtain an interactive sh | https://github.com/punyaslokdutta/Reverse-Shell-scripts | ['exploit'] | 1 | 2021-11-01 06:21:17+00:00 | 30 | 0 | Python | 0 | [] |
-| 4dmud/mud | The world has not been the same since the outbreak and ending of World War 3 in the same year, 2079, when the “Developing Countries” in Africa and Asia finally rebelled against the exploitation by the western “industrial countries”. A massive launching of | https://github.com/4dmud/mud | ['exploit'] | 1 | 2021-11-01 16:37:36+00:00 | 14206 | 2 | C++ | 3 | [] |
 | GeraBruhh/Msf-Tool | Script para crear payloads facil, solo los crea no habre metasploit framework para completarlo :). | https://github.com/GeraBruhh/Msf-Tool | ['metasploit module OR payload'] | 1 | 2021-11-01 16:12:04+00:00 | 13 | 0 | Python | 0 | [] |
+| Seals6/CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:21:00+00:00 | 210 | 2 | Python | 1 | ['CVE-2021-22205'] |
 | senhaxor/msf_shellcode | None | https://github.com/senhaxor/msf_shellcode | ['shellcode'] | 1 | 2021-11-01 06:26:28+00:00 | 43 | 0 | | 0 | [] |
 | rbctee/Shellcode | Shellcode | https://github.com/rbctee/Shellcode | ['shellcode'] | 1 | 2021-11-01 19:12:56+00:00 | 9 | 0 | Assembly | 0 | [] |
 | lb3361/gigatron-os | Gigatron program and operating-system level things to exploit a SD card attached to the SPI interface of a RAM & IO expansion board. | https://github.com/lb3361/gigatron-os | ['exploit'] | 1 | 2021-11-01 01:26:31+00:00 | 324 | 0 | C | 0 | [] |
@@ -25,19 +27,21 @@
 | alikmli/HeapOverFlow-Detection | An Adaptive Symbolic Execution Method For Detecting Heap Overflow Vulnerability Based On Vulnerability Specification | https://github.com/alikmli/HeapOverFlow-Detection | ['heap overflow'] | 1 | 2021-11-01 06:23:22+00:00 | 2977 | 0 | Python | 0 | [] |
 | oxctdev/CVE-2020-0796 | Remote Code Execution POC for CVE-2020-0796 | https://github.com/oxctdev/CVE-2020-0796 | ['cve poc', 'cve-2 OR cve_2', 'remote code execution'] | 3 | 2021-11-01 19:36:41+00:00 | 2534 | 3 | Assembly | 0 | ['CVE-2020-0796'] |
 | Deadpool2000/msf-termux | Install Metasploit on Termux | https://github.com/Deadpool2000/msf-termux | ['metasploit module OR payload'] | 1 | 2021-11-01 08:47:02+00:00 | 30 | 2 | Shell | 0 | [] |
-| cr7pt0pl4gu3/Pestilence | Shellcode loader written in rust. Strives to evade modern EDR solutions. | https://github.com/cr7pt0pl4gu3/Pestilence | ['shellcode'] | 1 | 2021-11-01 15:13:02+00:00 | 39 | 3 | Rust | 1 | [] |
-| f0ns1/-Exploiting-BufferOverflow | None | https://github.com/f0ns1/-Exploiting-BufferOverflow | ['exploit'] | 1 | 2021-11-01 20:24:32+00:00 | 4 | 0 | Python | 0 | [] |
 | plvhx/solaris-shellcode | SunOS Solaris shellcode | https://github.com/plvhx/solaris-shellcode | ['shellcode'] | 1 | 2021-11-01 03:55:04+00:00 | 13 | 0 | C | 0 | [] |
+| Youheng-Lue/art-exploit | None | https://github.com/Youheng-Lue/art-exploit | ['exploit'] | 1 | 2021-11-01 10:32:29+00:00 | 1 | 0 | | 0 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-01 09:02:46+00:00 | 46294 | 851 | Python | 201 | [] |
-| Seals6/CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:21:00+00:00 | 210 | 2 | Python | 1 | ['CVE-2021-22205'] |
+| rcelebi/rcelebi.github.io | None | https://github.com/rcelebi/rcelebi.github.io | ['rce'] | 1 | 2021-11-01 12:25:00+00:00 | 0 | 0 | | 0 | [] |
+| ZakaryaIT/-0Day-Auto-shel | None | https://github.com/ZakaryaIT/-0Day-Auto-shel | ['0day'] | 1 | 2021-11-01 21:52:11+00:00 | 0 | 0 | Python | 0 | [] |
+| Exploiterslol/AniSploit | None | https://github.com/Exploiterslol/AniSploit | ['sploit'] | 1 | 2021-11-01 21:40:39+00:00 | 0 | 0 | | 0 | [] |
+| ZakaryaIT/Mass-Exploit3r-main | None | https://github.com/ZakaryaIT/Mass-Exploit3r-main | ['exploit'] | 1 | 2021-11-01 21:23:24+00:00 | 0 | 0 | Python | 0 | [] |
 | hffaust/CVE-2021-42574_and_CVE-2021-42694 | None | https://github.com/hffaust/CVE-2021-42574_and_CVE-2021-42694 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 17:13:51+00:00 | 0 | 0 | | 0 | ['CVE-2021-42574', 'CVE-2021-42694'] |
 | batuhanakcay/evo-optim-flags | Class project for EECS583: Advanced Compilers: Evolutionary Optimization of Compiler Flag Selection by Learning and Exploiting Flags Interactions. | https://github.com/batuhanakcay/evo-optim-flags | ['exploit'] | 1 | 2021-11-01 16:23:39+00:00 | 0 | 0 | | 0 | [] |
 | sruthishiva/CyberSecurityAnalysis | Cluster And Predict exploits and vulnerabilities using Machine Learning | https://github.com/sruthishiva/CyberSecurityAnalysis | ['exploit'] | 1 | 2021-11-01 20:23:41+00:00 | 18031 | 0 | Jupyter Notebook | 0 | [] |
 | batuhan98/ExploitBufferOverflow | None | https://github.com/batuhan98/ExploitBufferOverflow | ['exploit'] | 1 | 2021-11-01 14:47:26+00:00 | 0 | 0 | Python | 0 | [] |
 | Cosemz/CVE-2021-20837 | MovableType XMLRPC - RCE | https://github.com/Cosemz/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-01 13:33:01+00:00 | 0 | 0 | | 0 | ['CVE-2021-20837'] |
 | shiomiyan/CVE-2021-42574 | None | https://github.com/shiomiyan/CVE-2021-42574 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 13:15:09+00:00 | 0 | 0 | Rust | 0 | ['CVE-2021-42574'] |
-| rcelebi/rcelebi.github.io | None | https://github.com/rcelebi/rcelebi.github.io | ['rce'] | 1 | 2021-11-01 12:25:00+00:00 | 0 | 0 | | 0 | [] |
 | DracoFAAD/exploit-lib-roblox | None | https://github.com/DracoFAAD/exploit-lib-roblox | ['exploit'] | 1 | 2021-11-01 11:17:10+00:00 | 4 | 0 | Lua | 0 | [] |
+| WhoisNirvalu/MetasploitTermux | None | https://github.com/WhoisNirvalu/MetasploitTermux | ['metasploit module OR payload'] | 1 | 2021-11-01 01:07:02+00:00 | 0 | 0 | Python | 0 | [] |
 | Henrinnes/exploiting-securing-Docker-and-kubernetes | None | https://github.com/Henrinnes/exploiting-securing-Docker-and-kubernetes | ['exploit'] | 1 | 2021-11-01 10:01:01+00:00 | 0 | 0 | | 0 | [] |
 | parad0xer/Shellcode | None | https://github.com/parad0xer/Shellcode | ['shellcode'] | 1 | 2021-11-01 09:07:53+00:00 | 0 | 0 | Assembly | 0 | [] |
 | a520ass/Exploit-HS8145C5V5-ONT | None | https://github.com/a520ass/Exploit-HS8145C5V5-ONT | ['exploit'] | 1 | 2021-11-01 08:19:10+00:00 | 0 | 0 | Shell | 0 | [] |
@@ -47,12 +51,10 @@
 | AkBanner/CVE-2021-22205 | None | https://github.com/AkBanner/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 05:47:27+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-22205'] |
 | devarajug/Tabnabbing_POC | This repository contains POC of tabnabbing vulnerability occurs in webapplication. | https://github.com/devarajug/Tabnabbing_POC | ['vulnerability poc'] | 1 | 2021-11-01 06:32:39+00:00 | 0 | 0 | CSS | 0 | [] |
 | antx-code/CVE-2021-22214 | Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214 | https://github.com/antx-code/CVE-2021-22214 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:29:00+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-22214'] |
-| WhoisNirvalu/MetasploitTermux | None | https://github.com/WhoisNirvalu/MetasploitTermux | ['metasploit module OR payload'] | 1 | 2021-11-01 01:07:02+00:00 | 0 | 0 | Python | 0 | [] |
-| Youheng-Lue/art-exploit | None | https://github.com/Youheng-Lue/art-exploit | ['exploit'] | 1 | 2021-11-01 10:32:29+00:00 | 1 | 0 | | 0 | [] |
+| cr7pt0pl4gu3/Pestilence | Shellcode loader written in rust. Strives to evade modern EDR solutions. | https://github.com/cr7pt0pl4gu3/Pestilence | ['shellcode'] | 1 | 2021-11-01 15:13:02+00:00 | 39 | 3 | Rust | 1 | [] |
 | RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | ['exploit'] | 1 | 2021-11-01 20:29:40+00:00 | 15491 | 0 | MATLAB | 0 | [] |
 | antx-code/CVE-2021-31166 | Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166 | https://github.com/antx-code/CVE-2021-31166 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 04:28:19+00:00 | 293 | 5 | Python | 3 | ['CVE-2021-31166'] |
-| Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-11-01 12:56:33+00:00 | 66 | 0 | Python | 0 | [] |
-| Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-11-01 09:25:06+00:00 | 309 | 0 | TypeScript | 0 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-01 00:16:49+00:00 | 171374 | 253 | Ruby | 78 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-01 12:45:16+00:00 | 41320 | 24 | | 14 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-01 02:59:36+00:00 | 64625 | 1267 | Python | 260 | [] |
 | C0nw0nk/Nginx-Lua-Anti-DDoS | A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigati | https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS | ['exploit'] | 1 | 2021-11-01 09:53:21+00:00 | 497 | 396 | Lua | 150 | [] |
@@ -62,10 +64,11 @@
 | CBIIT/rcellminerUtilsCDB | R package for cellminercdb | https://github.com/CBIIT/rcellminerUtilsCDB | ['rce'] | 1 | 2021-11-01 20:01:55+00:00 | 33835 | 0 | R | 0 | [] |
 | dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-11-01 16:17:24+00:00 | 294965 | 81 | Python | 13 | [] |
 | ExpLife0011/awesome-windows-kernel-security-development | windows kernel security development | https://github.com/ExpLife0011/awesome-windows-kernel-security-development | ['shellcode'] | 1 | 2021-11-01 08:24:26+00:00 | 2720 | 1344 | | 452 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-01 00:16:49+00:00 | 171374 | 253 | Ruby | 78 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-01 11:35:05+00:00 | 71337 | 10270 | Jupyter Notebook | 1761 | [] |
+| Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-11-01 12:56:33+00:00 | 66 | 0 | Python | 0 | [] |
 | techdivision/import-cli-simple | This the meta package for Pacemaker Community, a Symfony based CLI application that provides import functionality for products, categories, attributes, and attribute-sets. The default format is CSV, adapters for XML are also available. The application can | https://github.com/techdivision/import-cli-simple | ['command injection'] | 1 | 2021-11-01 18:52:06+00:00 | 9272 | 67 | PHP | 15 | [] |
 | dthuerck/mapmap_cpu | A high-performance general-purpose MRF MAP solver, heavily exploiting SIMD instructions. | https://github.com/dthuerck/mapmap_cpu | ['exploit'] | 1 | 2021-11-01 09:31:43+00:00 | 1032 | 66 | C++ | 33 | [] |
+| xairy/linux-kernel-exploitation | A collection of links related to Linux kernel security and exploitation | https://github.com/xairy/linux-kernel-exploitation | ['exploit'] | 1 | 2021-11-01 22:26:48+00:00 | 368 | 3736 | | 797 | [] |
 | GuardedOperators/OpGuard | Spigot plugin that protects against op exploits & malicious plugins. | https://github.com/GuardedOperators/OpGuard | ['exploit'] | 1 | 2021-11-01 01:51:12+00:00 | 1353 | 9 | Java | 5 | [] |
 | shellphish/how2heap | A repository for learning various heap exploitation techniques. | https://github.com/shellphish/how2heap | ['exploit'] | 1 | 2021-11-01 04:59:49+00:00 | 333 | 4937 | C | 956 | [] |
 | rapid7/metasploit-omnibus-cache | None | https://github.com/rapid7/metasploit-omnibus-cache | ['metasploit module OR payload'] | 1 | 2021-11-01 19:09:20+00:00 | 1343571 | 3 | Shell | 9 | [] |
@@ -75,7 +78,8 @@
 | cribdragg3r/Alaris | A protective and Low Level Shellcode Loader that defeats modern EDR systems. | https://github.com/cribdragg3r/Alaris | ['shellcode'] | 1 | 2021-11-01 05:00:43+00:00 | 1284 | 627 | C | 107 | [] |
 | TAbdiukov/Exploit-DB | Various scripts | https://github.com/TAbdiukov/Exploit-DB | ['exploit'] | 1 | 2021-11-01 00:56:06+00:00 | 18 | 0 | Python | 0 | [] |
 | darky/node-remote-repl | Node.js remote code execution via inspect protocol | https://github.com/darky/node-remote-repl | ['remote code execution'] | 1 | 2021-11-01 17:34:45+00:00 | 31 | 8 | TypeScript | 0 | [] |
-| jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2021-11-01 06:49:19+00:00 | 198 | 10 | Python | 6 | [] |
+| SoulXHades/Shellcode | A repos of shellcodes I created for fun during my free time to learn. | https://github.com/SoulXHades/Shellcode | ['shellcode'] | 1 | 2021-11-01 01:44:01+00:00 | 37 | 3 | Assembly | 0 | [] |
+| Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-11-01 09:25:06+00:00 | 309 | 0 | TypeScript | 0 | [] |
 | divanix/poc-workflow | This repository is used as PoC for repository attacks through workflows. For example, shell/command injection through workflow | https://github.com/divanix/poc-workflow | ['attack poc', 'command injection'] | 2 | 2021-11-01 17:29:13+00:00 | 24 | 0 | JavaScript | 0 | [] |
 | thelikes/ownlist | Weekly compilation of offensive security tools and write-ups | https://github.com/thelikes/ownlist | ['exploit'] | 1 | 2021-11-01 15:19:08+00:00 | 24 | 3 | | 2 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-01 01:09:06+00:00 | 5392 | 2 | Python | 0 | [] |
@@ -84,8 +88,8 @@
 | veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-11-01 10:29:52+00:00 | 14740 | 237 | Go | 32 | [] |
 | Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | ['exploit'] | 1 | 2021-11-01 12:35:27+00:00 | 82965 | 0 | | 0 | [] |
 | rcevulndev/rcevulndev.github.io | None | https://github.com/rcevulndev/rcevulndev.github.io | ['rce'] | 1 | 2021-11-01 16:08:17+00:00 | 369 | 0 | HTML | 0 | [] |
+| jopraveen/exploit-development | Gonna share my writeups and resources here | https://github.com/jopraveen/exploit-development | ['exploit'] | 1 | 2021-11-01 06:49:19+00:00 | 198 | 10 | Python | 6 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-01 04:01:59+00:00 | 114765 | 222 | Python | 66 | [] |
-| SoulXHades/Shellcode | A repos of shellcodes I created for fun during my free time to learn. | https://github.com/SoulXHades/Shellcode | ['shellcode'] | 1 | 2021-11-01 01:44:01+00:00 | 37 | 3 | Assembly | 0 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-11-01 02:12:48+00:00 | 700 | 13 | Python | 3 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-01 01:10:55+00:00 | 79 | 0 | PHP | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-01 00:04:12+00:00 | 418507 | 34 | | 19 | [] |
@@ -94,4 +98,4 @@
 | marcinguy/CVE-2020-15999 | CVE-2020-15999 | https://github.com/marcinguy/CVE-2020-15999 | ['cve-2 OR cve_2'] | 1 | 2021-11-01 19:13:18+00:00 | 1589 | 27 | CSS | 9 | ['CVE-2020-15999'] |
 | fanyao/branchspec | Proof of concept code for the BranchSpec exploit. | https://github.com/fanyao/branchspec | ['exploit'] | 1 | 2021-11-01 17:09:47+00:00 | 22603 | 2 | C | 4 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-11-01 18:06:49+00:00 | 3437344 | 2 | Batchfile | 0 | [] |
-| ZakaryaIT/Mass-Exploit3r-main | None | https://github.com/ZakaryaIT/Mass-Exploit3r-main | ['exploit'] | 1 | 2021-11-01 21:23:24+00:00 | 0 | 0 | Python | 0 | [] |
+| snoowl26/didactic-guacamole | a defi exploit | https://github.com/snoowl26/didactic-guacamole | ['exploit'] | 1 | 2021-11-01 22:09:26+00:00 | 0 | 0 | HTML | 0 | [] |
