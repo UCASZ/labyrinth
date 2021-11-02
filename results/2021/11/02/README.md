@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/02
     
-53 records found after deduplication
+54 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|-----------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-02 09:10:03+00:00 | 649914 | 25494 | Ruby | 11705 | [] |
-| veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-11-02 02:38:00+00:00 | 15157 | 241 | Go | 33 | [] |
+| Imptovskii/ExploitFixer | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | ['exploit'] | 1 | 2021-11-02 06:23:14+00:00 | 23 | 2 | Java | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-02 01:08:50+00:00 | 7327 | 2 | Python | 0 | [] |
 | V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-11-02 00:41:42+00:00 | 148 | 0 | | 4 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-11-02 09:29:13+00:00 | 306 | 19 | JavaScript | 9 | [] |
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-11-02 03:51:22+00:00 | 16 | 1 | Java | 0 | [] |
@@ -17,8 +18,8 @@
 | CrystalCL/BowExploitFixer | This is plugin for 1.17 Spigot/Bukkit Minecraft's servers. This plugin fixes BowExploit(BowBomb) that found recently. Meteor Client developers released their fix, but the problem is that it fixes vanills arrow mechanics. Together I with https://github.com/ | https://github.com/CrystalCL/BowExploitFixer | ['exploit'] | 1 | 2021-11-02 09:22:12+00:00 | 47 | 5 | Java | 1 | [] |
 | docfate111/CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-02 03:39:07+00:00 | 1536 | 0 | C | 0 | ['CVE-2021-42327'] |
 | mukund2201/Book-recommender-system | This projects include generating popular books list and exploiting users similarity for recommending them books. | https://github.com/mukund2201/Book-recommender-system | ['exploit'] | 1 | 2021-11-02 06:59:11+00:00 | 0 | 0 | Jupyter Notebook | 0 | [] |
-| Imptovskii/ExploitFixer | Небольшой плагин для исправления некоторых багов. | https://github.com/Imptovskii/ExploitFixer | ['exploit'] | 1 | 2021-11-02 06:23:14+00:00 | 23 | 2 | Java | 0 | [] |
 | AlarmClockCrusher/PythonHearthstone | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | ['exploit'] | 1 | 2021-11-02 07:26:01+00:00 | 348779 | 0 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-02 05:08:03+00:00 | 279034 | 6573 | C | 1816 | [] |
 | GANG123gg/exploit | None | https://github.com/GANG123gg/exploit | ['exploit'] | 1 | 2021-11-02 05:59:20+00:00 | 3 | 0 | Python | 0 | [] |
 | Qclover/Gitlab_RCE_CVE_2021_22205 | None | https://github.com/Qclover/Gitlab_RCE_CVE_2021_22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-02 04:19:55+00:00 | 4 | 0 | Python | 0 | ['CVE-2021-22205'] |
 | Cosemz/CVE-2021-20837 | MovableType XMLRPC - RCE | https://github.com/Cosemz/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-02 09:10:16+00:00 | 1 | 0 | | 0 | ['CVE-2021-20837'] |
@@ -30,16 +31,17 @@
 | shartware-rbx/shartware | A Roblox cheat fully made by an artificial intelligence (GitHub Copilot). | https://github.com/shartware-rbx/shartware | ['exploit'] | 1 | 2021-11-02 03:45:28+00:00 | 0 | 0 | | 0 | [] |
 | ProIntegritate/ExtractC2FromShellcode | Tool to extract C2 ip adresses from shellcode | https://github.com/ProIntegritate/ExtractC2FromShellcode | ['shellcode'] | 1 | 2021-11-02 05:18:07+00:00 | 0 | 0 | Visual Basic .NET | 0 | [] |
 | Devang-Solanki/Oauth-SAML-Exploits | None | https://github.com/Devang-Solanki/Oauth-SAML-Exploits | ['exploit'] | 1 | 2021-11-02 06:23:29+00:00 | 0 | 0 | Ruby | 0 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-02 01:08:50+00:00 | 7327 | 2 | Python | 0 | [] |
+| veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-11-02 02:38:00+00:00 | 15157 | 241 | Go | 33 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-11-02 03:29:04+00:00 | 104279 | 0 | JavaScript | 0 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-02 05:08:03+00:00 | 279034 | 6573 | C | 1816 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-02 04:02:01+00:00 | 116885 | 223 | Python | 66 | [] |
+| E-Team-Sec/ExploitDepository | None | https://github.com/E-Team-Sec/ExploitDepository | ['exploit'] | 1 | 2021-11-02 09:22:08+00:00 | 88 | 0 | Python | 0 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-11-02 07:05:03+00:00 | 637587 | 9 | Python | 26 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-11-02 05:44:57+00:00 | 5645 | 2960 | Python | 655 | [] |
 | wofeiwo/webcgi-exploits | Multi-language web CGI interfaces exploits. | https://github.com/wofeiwo/webcgi-exploits | ['exploit'] | 1 | 2021-11-02 03:17:42+00:00 | 34 | 295 | PHP | 57 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-02 00:17:01+00:00 | 171375 | 253 | Ruby | 78 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-11-02 01:36:25+00:00 | 2761090 | 357 | JavaScript | 54 | [] |
 | grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2021-11-02 00:45:38+00:00 | 380443 | 1 | C++ | 0 | [] |
+| dcs4cop/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/dcs4cop/xcube | ['exploit'] | 1 | 2021-11-02 10:27:35+00:00 | 294966 | 81 | Python | 13 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-11-02 00:57:45+00:00 | 527 | 106 | Julia | 22 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-02 03:15:38+00:00 | 35843 | 5983 | Vue | 1250 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-02 02:18:50+00:00 | 64637 | 1269 | Python | 261 | [] |
@@ -56,5 +58,4 @@
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-02 01:13:30+00:00 | 80 | 0 | PHP | 0 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-02 05:01:25+00:00 | 40 | 0 | C | 0 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-11-02 02:15:49+00:00 | 708 | 15 | Python | 3 | [] |
-| E-Team-Sec/ExploitDepository | None | https://github.com/E-Team-Sec/ExploitDepository | ['exploit'] | 1 | 2021-11-02 09:22:08+00:00 | 88 | 0 | Python | 0 | [] |
 | mukund2201/Book-recommendation | In this project by exploiting similarities between users the model suggest book and also we tried some exploration on data to find popular books. | https://github.com/mukund2201/Book-recommendation | ['exploit'] | 1 | 2021-11-02 06:38:58+00:00 | 0 | 0 | | 0 | [] |
