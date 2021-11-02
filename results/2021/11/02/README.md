@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/02
     
-55 records found after deduplication
+59 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|-----------------------------|
@@ -12,6 +12,7 @@
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-11-02 09:29:13+00:00 | 306 | 19 | JavaScript | 9 | [] |
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-11-02 03:51:22+00:00 | 16 | 1 | Java | 0 | [] |
 | Offensive-Cyber/Binary-Exploitation | CPU Functionality Content For Binary Exploitation | https://github.com/Offensive-Cyber/Binary-Exploitation | ['exploit'] | 1 | 2021-11-02 05:21:07+00:00 | 346 | 4 | | 0 | [] |
+| Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-11-02 11:46:14+00:00 | 72 | 0 | Python | 0 | [] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-11-02 03:26:56+00:00 | 28 | 1 | Zeek | 0 | [] |
 | einzbernnn/CVE-2020-1938Scan | -H 192.168.1.1-192.168.5.255 | https://github.com/einzbernnn/CVE-2020-1938Scan | ['cve-2 OR cve_2'] | 1 | 2021-11-02 09:28:04+00:00 | 6 | 0 | Python | 0 | ['CVE-2020-1938'] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-02 03:24:17+00:00 | 1415 | 0 | JavaScript | 0 | [] |
@@ -31,12 +32,15 @@
 | shartware-rbx/shartware | A Roblox cheat fully made by an artificial intelligence (GitHub Copilot). | https://github.com/shartware-rbx/shartware | ['exploit'] | 1 | 2021-11-02 03:45:28+00:00 | 0 | 0 | | 0 | [] |
 | ProIntegritate/ExtractC2FromShellcode | Tool to extract C2 ip adresses from shellcode | https://github.com/ProIntegritate/ExtractC2FromShellcode | ['shellcode'] | 1 | 2021-11-02 05:18:07+00:00 | 0 | 0 | Visual Basic .NET | 0 | [] |
 | Devang-Solanki/Oauth-SAML-Exploits | None | https://github.com/Devang-Solanki/Oauth-SAML-Exploits | ['exploit'] | 1 | 2021-11-02 06:23:29+00:00 | 0 | 0 | Ruby | 0 | [] |
+| mukund2201/Book-recommendation | In this project by exploiting similarities between users the model suggest book and also we tried some exploration on data to find popular books. | https://github.com/mukund2201/Book-recommendation | ['exploit'] | 1 | 2021-11-02 06:38:58+00:00 | 0 | 0 | | 0 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-02 01:08:50+00:00 | 7327 | 2 | Python | 0 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-11-02 03:29:04+00:00 | 104279 | 0 | JavaScript | 0 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-02 05:08:03+00:00 | 279034 | 6573 | C | 1816 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-02 00:45:16+00:00 | 41343 | 24 | | 14 | [] |
+| io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-11-02 06:42:13+00:00 | 1029 | 249 | Rust | 14 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-11-02 07:05:03+00:00 | 637587 | 9 | Python | 26 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-11-02 05:44:57+00:00 | 5645 | 2960 | Python | 655 | [] |
+| dthuerck/mapmap_cpu | A high-performance general-purpose MRF MAP solver, heavily exploiting SIMD instructions. | https://github.com/dthuerck/mapmap_cpu | ['exploit'] | 1 | 2021-11-02 12:34:34+00:00 | 1068 | 66 | C++ | 33 | [] |
+| The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-02 11:35:05+00:00 | 71436 | 10274 | Jupyter Notebook | 1763 | [] |
 | wofeiwo/webcgi-exploits | Multi-language web CGI interfaces exploits. | https://github.com/wofeiwo/webcgi-exploits | ['exploit'] | 1 | 2021-11-02 03:17:42+00:00 | 34 | 295 | PHP | 57 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-02 00:17:01+00:00 | 171375 | 253 | Ruby | 78 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-11-02 01:36:25+00:00 | 2761090 | 357 | JavaScript | 54 | [] |
@@ -45,9 +49,9 @@
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-11-02 00:57:45+00:00 | 527 | 106 | Julia | 22 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-02 03:15:38+00:00 | 35843 | 5983 | Vue | 1250 | [] |
 | Ascotbe/Medusa | :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 | https://github.com/Ascotbe/Medusa | ['cve poc'] | 1 | 2021-11-02 02:18:50+00:00 | 64637 | 1269 | Python | 261 | [] |
-| io12/pwninit | pwninit - automate starting binary exploit challenges | https://github.com/io12/pwninit | ['exploit'] | 1 | 2021-11-02 06:42:13+00:00 | 1029 | 249 | Rust | 14 | [] |
-| TAbdiukov/Exploit-DB | Various scripts | https://github.com/TAbdiukov/Exploit-DB | ['exploit'] | 1 | 2021-11-02 08:09:42+00:00 | 19 | 0 | Python | 0 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-02 00:45:16+00:00 | 41343 | 24 | | 14 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-02 04:02:01+00:00 | 116885 | 223 | Python | 66 | [] |
+| TAbdiukov/Exploit-DB | Various scripts | https://github.com/TAbdiukov/Exploit-DB | ['exploit'] | 1 | 2021-11-02 08:09:42+00:00 | 19 | 0 | Python | 0 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2021-11-02 04:51:11+00:00 | 451 | 9 | Python | 4 | [] |
 | bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2021-11-02 09:30:22+00:00 | 4621 | 636 | C | 82 | [] |
 | ARPSyndicate/freakerdb | exploits & fingerprints for freaker framework | https://github.com/ARPSyndicate/freakerdb | ['exploit'] | 1 | 2021-11-02 02:16:05+00:00 | 34706 | 2 | Python | 2 | [] |
@@ -59,4 +63,4 @@
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-02 05:01:25+00:00 | 40 | 0 | C | 0 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-11-02 02:15:49+00:00 | 708 | 15 | Python | 3 | [] |
 | E-Team-Sec/ExploitDepository | None | https://github.com/E-Team-Sec/ExploitDepository | ['exploit'] | 1 | 2021-11-02 09:22:08+00:00 | 88 | 0 | Python | 0 | [] |
-| mukund2201/Book-recommendation | In this project by exploiting similarities between users the model suggest book and also we tried some exploration on data to find popular books. | https://github.com/mukund2201/Book-recommendation | ['exploit'] | 1 | 2021-11-02 06:38:58+00:00 | 0 | 0 | | 0 | [] |
+| m3hr44n/Simple-CTF-Exploit | None | https://github.com/m3hr44n/Simple-CTF-Exploit | ['exploit'] | 1 | 2021-11-02 11:54:48+00:00 | 0 | 1 | Python | 0 | [] |
