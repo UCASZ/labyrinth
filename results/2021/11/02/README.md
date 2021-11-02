@@ -1,22 +1,27 @@
 
 # Summary for results/2021/11/02
     
-26 records found after deduplication
+31 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-----------------------------|
 | wofeiwo/webcgi-exploits | Multi-language web CGI interfaces exploits. | https://github.com/wofeiwo/webcgi-exploits | ['exploit'] | 1 | 2021-11-02 03:17:42+00:00 | 34 | 295 | PHP | 57 | [] |
-| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-02 00:17:01+00:00 | 171375 | 253 | Ruby | 78 | [] |
+| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-11-02 03:29:04+00:00 | 104279 | 0 | JavaScript | 0 | [] |
+| plvhx/freebsd-shellcode | FreeBSD (x86 / x86-64) shellcode | https://github.com/plvhx/freebsd-shellcode | ['shellcode'] | 1 | 2021-11-02 02:19:11+00:00 | 0 | 0 | C | 0 | [] |
 | Stoneless1337/Fortnite-exploits-always-updating | Some fortnite exploits always updating from android1337 | https://github.com/Stoneless1337/Fortnite-exploits-always-updating | ['exploit'] | 1 | 2021-11-02 02:06:23+00:00 | 0 | 1 | | 0 | [] |
 | chronoss09/sleirsgoevy755 | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | ['exploit'] | 1 | 2021-11-02 01:44:45+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | ale106106106/lol | for e,l in pairs({(function(l,...)_d3da9feab22b06ab="This file was obfuscated using PSU Obfuscator 4.5.A _ https://www.psu.dev/ & discord.gg/psu";local T=_d3da9feab22b06ab local B=l["hFIGO"];local Z=l[((163996723-#("perth is sus")))];local a=l[(190845429)] | https://github.com/ale106106106/lol | ['sploit'] | 1 | 2021-11-02 01:15:42+00:00 | 0 | 0 | nan | 0 | ['VU#36', 'VU#37', 'VU#38'] |
 | HausemasterIssue/TickShift | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | ['exploit'] | 1 | 2021-11-02 00:43:17+00:00 | 0 | 0 | Java | 0 | [] |
+| Qclover/Gitlab_RCE_CVE_2021_22205 | None | https://github.com/Qclover/Gitlab_RCE_CVE_2021_22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-02 04:19:55+00:00 | 4 | 0 | Python | 0 | ['CVE-2021-22205'] |
+| docfate111/CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-02 03:39:07+00:00 | 1536 | 0 | C | 0 | ['CVE-2021-42327'] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-02 03:24:17+00:00 | 1415 | 0 | JavaScript | 0 | [] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-11-02 03:26:56+00:00 | 28 | 1 | Zeek | 0 | [] |
+| KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-11-02 03:51:22+00:00 | 16 | 1 | Java | 0 | [] |
 | V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-11-02 00:41:42+00:00 | 148 | 0 | | 4 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-02 01:08:50+00:00 | 7327 | 2 | Python | 0 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-11-02 02:38:00+00:00 | 15157 | 241 | Go | 33 | [] |
-| xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2021-11-02 03:29:04+00:00 | 104279 | 0 | JavaScript | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-02 04:02:01+00:00 | 116885 | 223 | Python | 66 | [] |
+| hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-02 00:17:01+00:00 | 171375 | 253 | Ruby | 78 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-11-02 02:15:49+00:00 | 708 | 15 | Python | 3 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-02 01:13:30+00:00 | 80 | 0 | PHP | 0 | [] |
 | Anonymous-ghost/AttackWebFrameworkTools | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8 漏洞利用工具所有Exp并对他们的exp进行优化和修复此工具的所集成漏洞全部是基于平时实战中所得到的经验从而写入到 | https://github.com/Anonymous-ghost/AttackWebFrameworkTools | ['rce'] | 1 | 2021-11-02 01:04:50+00:00 | 288849 | 714 | | 147 | [] |
@@ -30,4 +35,4 @@
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2021-11-02 00:57:45+00:00 | 527 | 106 | Julia | 22 | [] |
 | grantdadams/Rceattle | TMB based CEATTLE model | https://github.com/grantdadams/Rceattle | ['rce'] | 1 | 2021-11-02 00:45:38+00:00 | 380443 | 1 | C++ | 0 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-11-02 01:36:25+00:00 | 2761090 | 357 | JavaScript | 54 | [] |
-| plvhx/freebsd-shellcode | FreeBSD (x86 / x86-64) shellcode | https://github.com/plvhx/freebsd-shellcode | ['shellcode'] | 1 | 2021-11-02 02:19:11+00:00 | 0 | 0 | C | 0 | [] |
+| shartware-rbx/shartware | A Roblox cheat fully made by an artificial intelligence (GitHub Copilot). | https://github.com/shartware-rbx/shartware | ['exploit'] | 1 | 2021-11-02 03:45:28+00:00 | 0 | 0 | | 0 | [] |
