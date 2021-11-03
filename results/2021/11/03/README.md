@@ -1,12 +1,14 @@
 
 # Summary for results/2021/11/03
     
-95 records found after deduplication
+99 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-03 00:04:28+00:00 | 649940 | 25498 | Ruby | 11708 | [] |
-| r0lh/gwntools | a simple pwntools-like framework for exploit development | https://github.com/r0lh/gwntools | ['exploit'] | 1 | 2021-11-03 19:28:53+00:00 | 4 | 0 | Go | 0 | [] |
+| 7gh/hakie-exploit | idk why i made this but it took me like 1 min to make xd | https://github.com/7gh/hakie-exploit | ['exploit'] | 1 | 2021-11-03 04:46:30+00:00 | 0 | 0 | Python | 0 | [] |
+| ChrisTheCoolHut/bcheck | Find command injection and format string bugs in binaries | https://github.com/ChrisTheCoolHut/bcheck | ['command injection'] | 1 | 2021-11-03 03:48:49+00:00 | 0 | 1 | Python | 0 | [] |
+| ShootFirstAskQuestionsLater/KrnlMonacoBase | A Roblox exploit UI (UI only, no code) that uses CefSharp and Krnl Monaco | https://github.com/ShootFirstAskQuestionsLater/KrnlMonacoBase | ['exploit'] | 1 | 2021-11-03 03:29:48+00:00 | 0 | 0 | | 0 | [] |
 | coolp972/tripex | tripex is the best roblox exploit | https://github.com/coolp972/tripex | ['exploit'] | 1 | 2021-11-03 01:37:12+00:00 | 0 | 0 | | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-03 00:23:33+00:00 | 0 | 0 | | 0 | [] |
 | js-on/CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 18:32:32+00:00 | 4 | 6 | Python | 4 | ['CVE-2021-42694'] |
@@ -16,8 +18,8 @@
 | DracoFAAD/exploit-lib-roblox | None | https://github.com/DracoFAAD/exploit-lib-roblox | ['exploit'] | 1 | 2021-11-03 19:21:29+00:00 | 6 | 0 | Lua | 0 | [] |
 | parad0xer/Shellcode | None | https://github.com/parad0xer/Shellcode | ['shellcode'] | 1 | 2021-11-03 15:48:45+00:00 | 5 | 0 | Assembly | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-03 17:07:35+00:00 | 172 | 13 | Ruby | 6 | ['CVE-2021-20837'] |
+| r0lh/gwntools | a simple pwntools-like framework for exploit development | https://github.com/r0lh/gwntools | ['exploit'] | 1 | 2021-11-03 19:28:53+00:00 | 4 | 0 | Go | 0 | [] |
 | antx-code/CVE-2021-22205 | Gitlab CE/EE RCE 未授权远程代码执行漏洞 POC && EXP CVE-2021-22205 | https://github.com/antx-code/CVE-2021-22205 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-11-03 06:15:09+00:00 | 10 | 1 | Python | 1 | ['CVE-2021-22205'] |
-| ChrisTheCoolHut/bcheck | Find command injection and format string bugs in binaries | https://github.com/ChrisTheCoolHut/bcheck | ['command injection'] | 1 | 2021-11-03 03:48:49+00:00 | 0 | 1 | Python | 0 | [] |
 | docfate111/CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-03 03:33:40+00:00 | 1536 | 0 | C | 0 | ['CVE-2021-42327'] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-03 06:57:43+00:00 | 1826 | 0 | JavaScript | 0 | [] |
 | raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-11-03 12:30:16+00:00 | 22138 | 0 | HTML | 0 | [] |
@@ -26,11 +28,13 @@
 | nop-tech/learning-resources | Collection of resources for learning pentesting, exploit development, obfuscation & much more. | https://github.com/nop-tech/learning-resources | ['exploit'] | 1 | 2021-11-03 11:32:13+00:00 | 29 | 1 | | 0 | [] |
 | iilegacyyii/PoC-CVE-2021-41773 | None | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-03 10:02:26+00:00 | 11 | 34 | Python | 30 | ['CVE-2021-41773'] |
 | IxZZZ/Lab_SecureCoding_ExploitSystem | None | https://github.com/IxZZZ/Lab_SecureCoding_ExploitSystem | ['exploit'] | 1 | 2021-11-03 07:21:48+00:00 | 17 | 0 | | 0 | [] |
-| RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | ['exploit'] | 1 | 2021-11-03 16:33:15+00:00 | 15811 | 0 | MATLAB | 0 | [] |
-| ShootFirstAskQuestionsLater/KrnlMonacoBase | A Roblox exploit UI (UI only, no code) that uses CefSharp and Krnl Monaco | https://github.com/ShootFirstAskQuestionsLater/KrnlMonacoBase | ['exploit'] | 1 | 2021-11-03 03:29:48+00:00 | 0 | 0 | | 0 | [] |
 | Trushal2004/CVE-2018-16763 | fuel CMS 1.4.1 - Remote Code Execution | https://github.com/Trushal2004/CVE-2018-16763 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-03 05:19:15+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-16763'] |
-| bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-11-03 02:53:21+00:00 | 31 | 0 | Python | 0 | [] |
-| dorkerdevil/CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 14:32:14+00:00 | 0 | 0 | | 0 | ['CVE-2021-26294'] |
+| dnr6419/CVE-2021-24545 | WordPress Plugin HTML Author Bio description XSS | https://github.com/dnr6419/CVE-2021-24545 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 05:49:45+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-24545'] |
+| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-11-03 17:35:20+00:00 | 91 | 184 | C# | 36 | [] |
+| Aviksaikat/CVE-2020-3452 | Test vulnerability of CVE-2020-3452 | https://github.com/Aviksaikat/CVE-2020-3452 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 07:31:51+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-3452'] |
+| talhak08/shellcode_in_resource | None | https://github.com/talhak08/shellcode_in_resource | ['shellcode'] | 1 | 2021-11-03 20:14:19+00:00 | 0 | 0 | C | 0 | [] |
+| Adel-kaka-dz/CVE-2006-3392 | It is a simple tool to exploit local file include . vulnerabilities | https://github.com/Adel-kaka-dz/CVE-2006-3392 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-03 20:25:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2006-3392'] |
+| ezequiassam/RCemC | None | https://github.com/ezequiassam/RCemC | ['rce'] | 1 | 2021-11-03 17:54:16+00:00 | 0 | 0 | C | 0 | [] |
 | Dir0x/CVE-2021-43141 | Information about CVE-2021-43141, a reflected XSS in the plan_application section. | https://github.com/Dir0x/CVE-2021-43141 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 17:57:30+00:00 | 0 | 0 | | 0 | ['CVE-2021-43141'] |
 | Dir0x/CVE-2021-43140 | SQL injection vulnerability in login exists in Sourcecodester Simple Subscription Website. | https://github.com/Dir0x/CVE-2021-43140 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 17:49:27+00:00 | 0 | 0 | | 0 | ['CVE-2021-43140'] |
 | robotsense1337/CVE-2021-42013 | Exploit Apache 2.4.50(CVE-2021-42013) | https://github.com/robotsense1337/CVE-2021-42013 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-03 17:34:27+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-42013'] |
@@ -40,8 +44,8 @@
 | rcetani74/rcetani74 | None | https://github.com/rcetani74/rcetani74 | ['rce'] | 1 | 2021-11-03 15:18:00+00:00 | 0 | 0 | | 0 | [] |
 | Its-Vichy/Crash-Call-Discord | Crash discord dm / group vocal | https://github.com/Its-Vichy/Crash-Call-Discord | ['exploit'] | 1 | 2021-11-03 15:09:03+00:00 | 0 | 4 | | 0 | [] |
 | nksf7/CVE-2015-1635 | PoC for CVE-2015-1635 / MS15-034 - HTTP.sys Allows Remote Code Execution / Check & DOS | https://github.com/nksf7/CVE-2015-1635 | ['cve poc', 'cve-2 OR cve_2', 'remote code execution'] | 3 | 2021-11-03 15:06:40+00:00 | 0 | 0 | Go | 0 | ['CVE-2015-1635', 'MS15-034'] |
+| dorkerdevil/CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 14:32:14+00:00 | 0 | 0 | | 0 | ['CVE-2021-26294'] |
 | guidepointsecurity/CVE-2021-29156 | None | https://github.com/guidepointsecurity/CVE-2021-29156 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 13:21:51+00:00 | 0 | 0 | | 0 | ['CVE-2021-29156'] |
-| 7gh/hakie-exploit | idk why i made this but it took me like 1 min to make xd | https://github.com/7gh/hakie-exploit | ['exploit'] | 1 | 2021-11-03 04:46:30+00:00 | 0 | 0 | Python | 0 | [] |
 | Crypto-Virus/rari-fuse-vesper-pool-exploit-example | None | https://github.com/Crypto-Virus/rari-fuse-vesper-pool-exploit-example | ['exploit'] | 1 | 2021-11-03 13:21:58+00:00 | 0 | 0 | Solidity | 0 | [] |
 | nksf7/CVE-2020-14181 | PoC for CVE-2020-14181 - Jira User Enumeration via /ViewUserHover.jspa | https://github.com/nksf7/CVE-2020-14181 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-03 11:06:25+00:00 | 0 | 0 | Go | 0 | ['CVE-2020-14181'] |
 | sinjeanmin/cvedetails_2020_final | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | ['cve-2 OR cve_2'] | 1 | 2021-11-03 11:17:03+00:00 | 0 | 0 | | 0 | [] |
@@ -49,12 +53,11 @@
 | ColdFusionX/CVE-2021-34429 | POC for CVE-2021-34429 | https://github.com/ColdFusionX/CVE-2021-34429 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-03 09:16:02+00:00 | 0 | 0 | | 0 | ['CVE-2021-34429'] |
 | orangecertcc/ecdummy | Exploiting dummy codes in Elliptic Curve Cryptography implementations | https://github.com/orangecertcc/ecdummy | ['exploit'] | 1 | 2021-11-03 08:38:51+00:00 | 0 | 0 | Python | 0 | [] |
 | TaroballzChen/CVE-2021-36260-metasploit | the metasploit script(POC) about CVE-2021-36260 | https://github.com/TaroballzChen/CVE-2021-36260-metasploit | ['cve poc', 'cve-2 OR cve_2', 'metasploit module OR payload'] | 3 | 2021-11-03 08:26:24+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-36260'] |
-| Aviksaikat/CVE-2020-3452 | Test vulnerability of CVE-2020-3452 | https://github.com/Aviksaikat/CVE-2020-3452 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 07:31:51+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-3452'] |
-| dnr6419/CVE-2021-24545 | WordPress Plugin HTML Author Bio description XSS | https://github.com/dnr6419/CVE-2021-24545 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 05:49:45+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-24545'] |
-| snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-11-03 17:35:20+00:00 | 91 | 184 | C# | 36 | [] |
-| Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-11-03 13:19:44+00:00 | 74 | 0 | Python | 0 | [] |
+| RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | ['exploit'] | 1 | 2021-11-03 16:33:15+00:00 | 15811 | 0 | MATLAB | 0 | [] |
+| bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-11-03 02:53:21+00:00 | 31 | 0 | Python | 0 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-03 15:53:54+00:00 | 46294 | 851 | Python | 201 | [] |
-| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-03 03:26:51+00:00 | 35855 | 5989 | Vue | 1254 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-03 00:03:30+00:00 | 434527 | 34 | | 19 | [] |
+| hvmi/hvmi | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | ['exploit'] | 1 | 2021-11-03 17:36:49+00:00 | 14281 | 489 | C | 42 | [] |
 | aegoe/MAB | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | ['exploit'] | 1 | 2021-11-03 11:26:17+00:00 | 61412 | 0 | HTML | 1 | [] |
 | bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2021-11-03 07:34:11+00:00 | 4878 | 636 | C | 82 | [] |
 | infosecjunky/FreePBX-2.10.0---Elastix-2.2.0---Remote-Code-Execution | Modified version of the original one for HackTheBox Beep | https://github.com/infosecjunky/FreePBX-2.10.0---Elastix-2.2.0---Remote-Code-Execution | ['remote code execution'] | 1 | 2021-11-03 15:53:08+00:00 | 5 | 1 | Python | 3 | [] |
@@ -64,8 +67,8 @@
 | TAbdiukov/Exploit-DB | Various scripts | https://github.com/TAbdiukov/Exploit-DB | ['exploit'] | 1 | 2021-11-03 05:29:14+00:00 | 22 | 0 | Python | 0 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-03 00:45:17+00:00 | 42288 | 24 | | 14 | [] |
 | Mr-xn/Penetration_Testing_POC | 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms | https://github.com/Mr-xn/Penetration_Testing_POC | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2021-11-03 13:24:45+00:00 | 1447864 | 3697 | PowerShell | 1275 | [] |
+| chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-03 03:26:51+00:00 | 35855 | 5989 | Vue | 1254 | [] |
 | remo7777/Termux-Metasploit | metasploit-framework version 5.0.53-dev for termux specially for android version 5 and 6 | https://github.com/remo7777/Termux-Metasploit | ['metasploit module OR payload'] | 1 | 2021-11-03 11:33:55+00:00 | 52 | 58 | Shell | 19 | [] |
-| mjwhitta/runsc | Simple shellcode injector | https://github.com/mjwhitta/runsc | ['shellcode'] | 1 | 2021-11-03 03:20:29+00:00 | 40 | 3 | Go | 5 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-03 00:16:42+00:00 | 171376 | 252 | Ruby | 78 | [] |
 | The-Art-of-Hacking/h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, | https://github.com/The-Art-of-Hacking/h4cker | ['exploit'] | 1 | 2021-11-03 11:35:05+00:00 | 71535 | 10279 | Jupyter Notebook | 1765 | [] |
 | rapid7/metasploit-omnibus-cache | None | https://github.com/rapid7/metasploit-omnibus-cache | ['metasploit module OR payload'] | 1 | 2021-11-03 17:31:27+00:00 | 1347030 | 3 | Shell | 9 | [] |
@@ -75,10 +78,11 @@
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-03 05:08:04+00:00 | 280688 | 6576 | C | 1817 | [] |
 | leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-11-03 15:17:13+00:00 | 3745 | 2518 | PowerShell | 730 | [] |
 | Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-03 18:51:25+00:00 | 27085 | 8451 | Python | 1454 | [] |
-| hvmi/hvmi | Hypervisor Memory Introspection Core Library | https://github.com/hvmi/hvmi | ['exploit'] | 1 | 2021-11-03 17:36:49+00:00 | 14281 | 489 | C | 42 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-03 00:03:30+00:00 | 434527 | 34 | | 19 | [] |
+| mjwhitta/runsc | Simple shellcode injector | https://github.com/mjwhitta/runsc | ['shellcode'] | 1 | 2021-11-03 03:20:29+00:00 | 40 | 3 | Go | 5 | [] |
+| Vyper-Dev/p0tion | Depreciated WIP Jailbreak using the Cicuta Virosa exploit | https://github.com/Vyper-Dev/p0tion | ['exploit'] | 1 | 2021-11-03 20:25:02+00:00 | 68304 | 2 | Swift | 0 | [] |
+| Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-11-03 13:19:44+00:00 | 74 | 0 | Python | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-03 01:16:16+00:00 | 80 | 0 | PHP | 0 | [] |
 | Symbux/Turbo | Turbo is a powerful command engine using internal event scheduling, dependency injection, and ORM for creating scalable and powerful REST API / WebSocket based platforms. | https://github.com/Symbux/Turbo | ['command injection'] | 1 | 2021-11-03 14:49:49+00:00 | 332 | 0 | TypeScript | 0 | [] |
-| ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2021-11-03 02:22:10+00:00 | 39 | 9 | | 4 | [] |
 | ngovinhhuy/Exploit_old_vuln_apps | None | https://github.com/ngovinhhuy/Exploit_old_vuln_apps | ['exploit'] | 1 | 2021-11-03 14:32:51+00:00 | 562 | 0 | Python | 0 | [] |
 | SapienzaNLP/neural-pagerank-wsd | Exploiting the global WordNet graph to perform WSD | https://github.com/SapienzaNLP/neural-pagerank-wsd | ['exploit'] | 1 | 2021-11-03 13:49:24+00:00 | 356 | 0 | Python | 0 | [] |
 | aesophor/requiem | 🎻 Requiem: Modular exploit generation using symbolic execution | https://github.com/aesophor/requiem | ['exploit'] | 1 | 2021-11-03 03:22:50+00:00 | 9457 | 14 | C++ | 3 | [] |
@@ -88,8 +92,8 @@
 | scmanjarrez/CVEScannerV2 | Nmap script that searches for probable vulnerabilities based on services discovered in open ports. | https://github.com/scmanjarrez/CVEScannerV2 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 16:24:37+00:00 | 5529 | 5 | Python | 2 | [] |
 | V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-11-03 00:12:56+00:00 | 160 | 0 | | 4 | [] |
 | noobone123/my_CTF_challenges | Record some topics and exploits in my learning of PWN | https://github.com/noobone123/my_CTF_challenges | ['exploit'] | 1 | 2021-11-03 14:38:06+00:00 | 19817 | 0 | Python | 0 | [] |
+| ImLorio/All-Discord-Exploits | This is a list of Discord console scripts, bugs and exploits. | https://github.com/ImLorio/All-Discord-Exploits | ['exploit'] | 1 | 2021-11-03 02:22:10+00:00 | 39 | 9 | | 4 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-03 01:06:26+00:00 | 9267 | 2 | Python | 0 | [] |
-| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-03 01:16:16+00:00 | 80 | 0 | PHP | 0 | [] |
 | veo/vscan | 开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) | https://github.com/veo/vscan | ['0day'] | 1 | 2021-11-03 04:52:13+00:00 | 15873 | 244 | Go | 33 | [] |
 | Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers | https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks | ['exploit'] | 1 | 2021-11-03 09:34:02+00:00 | 82965 | 4 | | 0 | [] |
 | ehsaanqazi/Mind-Maps | Vulnerabilities in Web Application and How to test and exploit for them. | https://github.com/ehsaanqazi/Mind-Maps | ['exploit'] | 1 | 2021-11-03 14:56:46+00:00 | 2187 | 32 | | 3 | [] |
@@ -99,4 +103,4 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-03 04:02:04+00:00 | 120062 | 223 | Python | 66 | [] |
 | mosecorg/mosec | A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine | https://github.com/mosecorg/mosec | ['exploit'] | 1 | 2021-11-03 14:28:36+00:00 | 710 | 15 | Python | 3 | [] |
 | renxida/iseedeaduops-poc | Proof-of-concept for I See Dead Micro-Ops transient execution attack | https://github.com/renxida/iseedeaduops-poc | ['attack poc'] | 1 | 2021-11-03 12:36:13+00:00 | 58 | 4 | HTML | 0 | [] |
-| ezequiassam/RCemC | None | https://github.com/ezequiassam/RCemC | ['rce'] | 1 | 2021-11-03 17:54:16+00:00 | 0 | 0 | C | 0 | [] |
+| alexplaygithub/CharaSploit-3.1 | a roblox exploit made on c# | https://github.com/alexplaygithub/CharaSploit-3.1 | ['exploit', 'sploit'] | 2 | 2021-11-03 20:24:19+00:00 | 0 | 0 | | 0 | [] |
