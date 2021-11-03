@@ -1,13 +1,12 @@
 
 # Summary for results/2021/11/02
     
-113 records found after deduplication
+114 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|-----------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-02 09:10:03+00:00 | 649914 | 25494 | Ruby | 11705 | [] |
-| V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-11-02 00:41:42+00:00 | 148 | 0 | | 4 | [] |
-| Qclover/Gitlab_RCE_CVE_2021_22205 | None | https://github.com/Qclover/Gitlab_RCE_CVE_2021_22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-02 04:19:55+00:00 | 4 | 0 | Python | 0 | ['CVE-2021-22205'] |
+| DracoFAAD/exploit-lib-roblox | None | https://github.com/DracoFAAD/exploit-lib-roblox | ['exploit'] | 1 | 2021-11-02 14:42:04+00:00 | 4 | 0 | Lua | 0 | [] |
 | GANG123gg/exploit | None | https://github.com/GANG123gg/exploit | ['exploit'] | 1 | 2021-11-02 05:59:20+00:00 | 3 | 0 | Python | 0 | [] |
 | AlarmClockCrusher/PythonHearthstone | A simulation Hearthstone, written in Python 3.8 and exploiting Panda3D, an open-source game engine. | https://github.com/AlarmClockCrusher/PythonHearthstone | ['exploit'] | 1 | 2021-11-02 07:26:01+00:00 | 348779 | 0 | Python | 0 | [] |
 | Seals6/CVE-2021-22205 | CVE-2021-22205未授权漏洞批量检测 | https://github.com/Seals6/CVE-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-02 16:27:25+00:00 | 212 | 5 | Python | 3 | ['CVE-2021-22205'] |
@@ -25,6 +24,7 @@
 | einzbernnn/CVE-2020-1938Scan | -H 192.168.1.1-192.168.5.255 | https://github.com/einzbernnn/CVE-2020-1938Scan | ['cve-2 OR cve_2'] | 1 | 2021-11-02 09:28:04+00:00 | 6 | 0 | Python | 0 | ['CVE-2020-1938'] |
 | nturley3/zeek-http-rce | A Zeek package to detect potential remote code execution attempts over HTTP. | https://github.com/nturley3/zeek-http-rce | ['rce', 'remote code execution'] | 2 | 2021-11-02 03:26:56+00:00 | 28 | 1 | Zeek | 0 | [] |
 | weak1337/BE-Shellcode | Code for Battleyes shellcode | https://github.com/weak1337/BE-Shellcode | ['shellcode'] | 1 | 2021-11-02 18:31:19+00:00 | 21 | 64 | C++ | 32 | [] |
+| glixzzy/blooket-hack | Multiple hacks that breaks the game | https://github.com/glixzzy/blooket-hack | ['exploit'] | 1 | 2021-11-02 14:04:27+00:00 | 3246 | 90 | JavaScript | 201 | [] |
 | MS-9web/shellcodes | None | https://github.com/MS-9web/shellcodes | ['shellcode'] | 1 | 2021-11-02 13:16:34+00:00 | 79 | 1 | Python | 1 | [] |
 | Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-11-02 11:46:14+00:00 | 72 | 0 | Python | 0 | [] |
 | Offensive-Cyber/Binary-Exploitation | CPU Functionality Content For Binary Exploitation | https://github.com/Offensive-Cyber/Binary-Exploitation | ['exploit'] | 1 | 2021-11-02 05:21:07+00:00 | 346 | 4 | | 0 | [] |
@@ -32,10 +32,10 @@
 | KRYMZ0N/SimpleExploitFixer | A Simple Exploit Fixer plugin that aims to fix most lag machines | https://github.com/KRYMZ0N/SimpleExploitFixer | ['exploit'] | 1 | 2021-11-02 03:51:22+00:00 | 16 | 1 | Java | 0 | [] |
 | Luigit12/coordinate-exploit-cool-mann-txt-generator | Press Q to quit | https://github.com/Luigit12/coordinate-exploit-cool-mann-txt-generator | ['exploit'] | 1 | 2021-11-02 20:28:35+00:00 | 4 | 0 | Python | 0 | [] |
 | I2rys/ODiscord | Collection of Discord hacking tools/fun stuff/exploits that is completely made using NodeJS. | https://github.com/I2rys/ODiscord | ['exploit'] | 1 | 2021-11-02 09:29:13+00:00 | 306 | 19 | JavaScript | 9 | [] |
-| DracoFAAD/exploit-lib-roblox | None | https://github.com/DracoFAAD/exploit-lib-roblox | ['exploit'] | 1 | 2021-11-02 14:42:04+00:00 | 4 | 0 | Lua | 0 | [] |
+| Qclover/Gitlab_RCE_CVE_2021_22205 | None | https://github.com/Qclover/Gitlab_RCE_CVE_2021_22205 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-02 04:19:55+00:00 | 4 | 0 | Python | 0 | ['CVE-2021-22205'] |
 | Cosemz/CVE-2021-20837 | MovableType XMLRPC - RCE | https://github.com/Cosemz/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-02 09:10:16+00:00 | 1 | 0 | | 0 | ['CVE-2021-20837'] |
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-11-02 18:15:43+00:00 | 3743 | 2516 | PowerShell | 730 | [] |
 | HausemasterIssue/TickShift | The code for the TickShift exploit | https://github.com/HausemasterIssue/TickShift | ['exploit'] | 1 | 2021-11-02 00:43:17+00:00 | 0 | 0 | Java | 0 | [] |
-| mari6274/oauth-client-exploit | Applications that reproduce CVE-2021-22119 | https://github.com/mari6274/oauth-client-exploit | ['exploit'] | 1 | 2021-11-02 15:17:26+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-22119'] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-02 22:05:26+00:00 | 0 | 0 | | 0 | [] |
 | js-on/CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | ['cve-2 OR cve_2'] | 1 | 2021-11-02 20:40:17+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-42694'] |
 | eipdope/ShellCodersHandbookCodes | None | https://github.com/eipdope/ShellCodersHandbookCodes | ['shellcode'] | 1 | 2021-11-02 20:14:03+00:00 | 0 | 0 | | 0 | [] |
@@ -47,8 +47,8 @@
 | Nerkho/MS08-067 | Updated MS08-067 Python exploit script for Python 3 | https://github.com/Nerkho/MS08-067 | ['exploit'] | 1 | 2021-11-02 16:39:01+00:00 | 0 | 0 | Python | 0 | ['MS08-067'] |
 | pmalmsten/trenchcoat | Trenchcoat is an interactive security brainstorming guide website that helps software engineers brainstorm things attackers might try to do to exploit a software system and ways to defend against them. | https://github.com/pmalmsten/trenchcoat | ['exploit'] | 1 | 2021-11-02 15:59:50+00:00 | 0 | 0 | | 0 | [] |
 | js-on/CVE-2021-42574 | Generate malicious files using recently published bidi-attack (CVE-2021-42574) | https://github.com/js-on/CVE-2021-42574 | ['cve-2 OR cve_2'] | 1 | 2021-11-02 15:33:40+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-42574'] |
+| mari6274/oauth-client-exploit | Applications that reproduce CVE-2021-22119 | https://github.com/mari6274/oauth-client-exploit | ['exploit'] | 1 | 2021-11-02 15:17:26+00:00 | 0 | 0 | Java | 0 | ['CVE-2021-22119'] |
 | NineRiver7/Leviathan_Simple_Wargame_System | A simple Wargame system , the target of exploitation is satisfying the needs of my QQ group Wargame party. | https://github.com/NineRiver7/Leviathan_Simple_Wargame_System | ['exploit'] | 1 | 2021-11-02 14:32:44+00:00 | 0 | 0 | | 0 | [] |
-| ale106106106/lol | for e,l in pairs({(function(l,...)_d3da9feab22b06ab="This file was obfuscated using PSU Obfuscator 4.5.A _ https://www.psu.dev/ & discord.gg/psu";local T=_d3da9feab22b06ab local B=l["hFIGO"];local Z=l[((163996723-#("perth is sus")))];local a=l[(190845429)] | https://github.com/ale106106106/lol | ['sploit'] | 1 | 2021-11-02 01:15:42+00:00 | 0 | 0 | nan | 0 | ['VU#36', 'VU#37', 'VU#38'] |
 | jessicascarborough/cissig | The public repository including all code to recreate the analysis and figures from, "Exploiting convergent evolution to derive a pan-cancer cisplatin sensitivity gene expression signature." | https://github.com/jessicascarborough/cissig | ['exploit'] | 1 | 2021-11-02 14:05:00+00:00 | 0 | 0 | | 0 | [] |
 | YASOMASO/exploitation.github.io | None | https://github.com/YASOMASO/exploitation.github.io | ['exploit'] | 1 | 2021-11-02 13:09:00+00:00 | 0 | 0 | | 0 | [] |
 | m3hr44n/Simple-CTF-Exploit | None | https://github.com/m3hr44n/Simple-CTF-Exploit | ['exploit'] | 1 | 2021-11-02 11:54:48+00:00 | 0 | 1 | Python | 0 | [] |
@@ -60,9 +60,10 @@
 | plvhx/freebsd-shellcode | FreeBSD (x86 / x86-64) shellcode | https://github.com/plvhx/freebsd-shellcode | ['shellcode'] | 1 | 2021-11-02 02:19:11+00:00 | 0 | 0 | C | 0 | [] |
 | Stoneless1337/Fortnite-exploits-always-updating | Some fortnite exploits always updating from android1337 | https://github.com/Stoneless1337/Fortnite-exploits-always-updating | ['exploit'] | 1 | 2021-11-02 02:06:23+00:00 | 0 | 1 | | 0 | [] |
 | chronoss09/sleirsgoevy755 | 7.5x Sleirsgoevy exploit | https://github.com/chronoss09/sleirsgoevy755 | ['exploit'] | 1 | 2021-11-02 01:44:45+00:00 | 0 | 0 | JavaScript | 0 | [] |
+| ale106106106/lol | for e,l in pairs({(function(l,...)_d3da9feab22b06ab="This file was obfuscated using PSU Obfuscator 4.5.A _ https://www.psu.dev/ & discord.gg/psu";local T=_d3da9feab22b06ab local B=l["hFIGO"];local Z=l[((163996723-#("perth is sus")))];local a=l[(190845429)] | https://github.com/ale106106106/lol | ['sploit'] | 1 | 2021-11-02 01:15:42+00:00 | 0 | 0 | nan | 0 | ['VU#36', 'VU#37', 'VU#38'] |
 | PanosAntoniadis/emotion-gcn | [IEEE FG 2021] Official implementation: Exploiting Emotional Dependencies with Graph Convolutional Networks for Facial Expression Recognition | https://github.com/PanosAntoniadis/emotion-gcn | ['exploit'] | 1 | 2021-11-02 11:26:39+00:00 | 5425 | 4 | Python | 0 | [] |
+| V0lk3n/OSED-CheatSheet | Exploit Development CheatSheet. | https://github.com/V0lk3n/OSED-CheatSheet | ['exploit'] | 1 | 2021-11-02 00:41:42+00:00 | 148 | 0 | | 4 | [] |
 | Operational-Sciences-Group/Project-Beewolf | Beewolf is a PowerShell script that exploits HiveNightmare/SeriousSAM | https://github.com/Operational-Sciences-Group/Project-Beewolf | ['exploit'] | 1 | 2021-11-02 15:12:23+00:00 | 91 | 0 | PowerShell | 0 | [] |
-| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2021-11-02 18:15:43+00:00 | 3743 | 2516 | PowerShell | 730 | [] |
 | HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-02 01:08:50+00:00 | 7327 | 2 | Python | 0 | [] |
 | lsst-uk/lsst-ir-fusion | Development of code to exploit LSST and VISTA imaging | https://github.com/lsst-uk/lsst-ir-fusion | ['exploit'] | 1 | 2021-11-02 15:49:36+00:00 | 249154 | 0 | Jupyter Notebook | 0 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2021-11-02 04:51:11+00:00 | 451 | 9 | Python | 4 | [] |
