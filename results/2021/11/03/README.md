@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/03
     
-107 records found after deduplication
+108 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-03 00:04:28+00:00 | 649940 | 25498 | Ruby | 11708 | [] |
-| Trushal2004/CVE-2018-16763 | fuel CMS 1.4.1 - Remote Code Execution | https://github.com/Trushal2004/CVE-2018-16763 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-03 05:19:15+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-16763'] |
+| r0lh/gwntools | a simple pwntools-like framework for exploit development | https://github.com/r0lh/gwntools | ['exploit'] | 1 | 2021-11-03 19:28:53+00:00 | 4 | 0 | Go | 0 | [] |
+| ChrisTheCoolHut/bcheck | Find command injection and format string bugs in binaries | https://github.com/ChrisTheCoolHut/bcheck | ['command injection'] | 1 | 2021-11-03 03:48:49+00:00 | 0 | 1 | Python | 0 | [] |
 | ShootFirstAskQuestionsLater/KrnlMonacoBase | A Roblox exploit UI (UI only, no code) that uses CefSharp and Krnl Monaco | https://github.com/ShootFirstAskQuestionsLater/KrnlMonacoBase | ['exploit'] | 1 | 2021-11-03 03:29:48+00:00 | 0 | 0 | | 0 | [] |
 | coolp972/tripex | tripex is the best roblox exploit | https://github.com/coolp972/tripex | ['exploit'] | 1 | 2021-11-03 01:37:12+00:00 | 0 | 0 | | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-03 00:23:33+00:00 | 0 | 0 | | 0 | [] |
@@ -17,8 +18,8 @@
 | DracoFAAD/exploit-lib-roblox | None | https://github.com/DracoFAAD/exploit-lib-roblox | ['exploit'] | 1 | 2021-11-03 19:21:29+00:00 | 6 | 0 | Lua | 0 | [] |
 | parad0xer/Shellcode | None | https://github.com/parad0xer/Shellcode | ['shellcode'] | 1 | 2021-11-03 15:48:45+00:00 | 5 | 0 | Assembly | 0 | [] |
 | oxctdev/CVE-2021-20837 | XMLRPC - RCE in MovableTypePoC | https://github.com/oxctdev/CVE-2021-20837 | ['cve-2 OR cve_2', 'rce'] | 2 | 2021-11-03 17:07:35+00:00 | 172 | 13 | Ruby | 6 | ['CVE-2021-20837'] |
-| r0lh/gwntools | a simple pwntools-like framework for exploit development | https://github.com/r0lh/gwntools | ['exploit'] | 1 | 2021-11-03 19:28:53+00:00 | 4 | 0 | Go | 0 | [] |
 | antx-code/CVE-2021-22205 | Gitlab CE/EE RCE 未授权远程代码执行漏洞 POC && EXP CVE-2021-22205 | https://github.com/antx-code/CVE-2021-22205 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2021-11-03 06:15:09+00:00 | 10 | 1 | Python | 1 | ['CVE-2021-22205'] |
+| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-03 15:53:54+00:00 | 46294 | 851 | Python | 201 | [] |
 | docfate111/CVE-2021-42327 | WIP kernel exploit for minor bug i found in amd gpu driver | https://github.com/docfate111/CVE-2021-42327 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-03 03:33:40+00:00 | 1536 | 0 | C | 0 | ['CVE-2021-42327'] |
 | tjonty/exploit | None | https://github.com/tjonty/exploit | ['exploit'] | 1 | 2021-11-03 06:57:43+00:00 | 1826 | 0 | JavaScript | 0 | [] |
 | raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-11-03 12:30:16+00:00 | 22138 | 0 | HTML | 0 | [] |
@@ -30,10 +31,10 @@
 | iilegacyyii/PoC-CVE-2021-41773 | None | https://github.com/iilegacyyii/PoC-CVE-2021-41773 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-03 10:02:26+00:00 | 11 | 34 | Python | 30 | ['CVE-2021-41773'] |
 | IxZZZ/Lab_SecureCoding_ExploitSystem | None | https://github.com/IxZZZ/Lab_SecureCoding_ExploitSystem | ['exploit'] | 1 | 2021-11-03 07:21:48+00:00 | 17 | 0 | | 0 | [] |
 | RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | Robotics semester project at LASA, EPFL | https://github.com/RaphaelUebersax/Incrementally_Learning_and_Exploiting_Inverse_Dynamics | ['exploit'] | 1 | 2021-11-03 16:33:15+00:00 | 15811 | 0 | MATLAB | 0 | [] |
-| ChrisTheCoolHut/bcheck | Find command injection and format string bugs in binaries | https://github.com/ChrisTheCoolHut/bcheck | ['command injection'] | 1 | 2021-11-03 03:48:49+00:00 | 0 | 1 | Python | 0 | [] |
+| Trushal2004/CVE-2018-16763 | fuel CMS 1.4.1 - Remote Code Execution | https://github.com/Trushal2004/CVE-2018-16763 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2021-11-03 05:19:15+00:00 | 0 | 0 | Python | 0 | ['CVE-2018-16763'] |
 | 7gh/hakie-exploit | idk why i made this but it took me like 1 min to make xd | https://github.com/7gh/hakie-exploit | ['exploit'] | 1 | 2021-11-03 04:46:30+00:00 | 0 | 0 | Python | 0 | [] |
-| bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-11-03 02:53:21+00:00 | 31 | 0 | Python | 0 | [] |
 | dnr6419/CVE-2021-24545 | WordPress Plugin HTML Author Bio description XSS | https://github.com/dnr6419/CVE-2021-24545 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 05:49:45+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-24545'] |
+| Aviksaikat/CVE-2020-3452 | Test vulnerability of CVE-2020-3452 | https://github.com/Aviksaikat/CVE-2020-3452 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 07:31:51+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-3452'] |
 | talhak08/shellcode_in_resource | None | https://github.com/talhak08/shellcode_in_resource | ['shellcode'] | 1 | 2021-11-03 20:14:19+00:00 | 0 | 0 | C | 0 | [] |
 | Adel-kaka-dz/CVE-2006-3392 | It is a simple tool to exploit local file include . vulnerabilities | https://github.com/Adel-kaka-dz/CVE-2006-3392 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-03 20:25:39+00:00 | 0 | 0 | Python | 0 | ['CVE-2006-3392'] |
 | ezequiassam/RCemC | None | https://github.com/ezequiassam/RCemC | ['rce'] | 1 | 2021-11-03 17:54:16+00:00 | 0 | 0 | C | 0 | [] |
@@ -47,19 +48,19 @@
 | rcetani74/rcetani74 | None | https://github.com/rcetani74/rcetani74 | ['rce'] | 1 | 2021-11-03 15:18:00+00:00 | 0 | 0 | | 0 | [] |
 | Its-Vichy/Crash-Call-Discord | Crash discord dm / group vocal | https://github.com/Its-Vichy/Crash-Call-Discord | ['exploit'] | 1 | 2021-11-03 15:09:03+00:00 | 0 | 4 | | 0 | [] |
 | nksf7/CVE-2015-1635 | PoC for CVE-2015-1635 / MS15-034 - HTTP.sys Allows Remote Code Execution / Check & DOS | https://github.com/nksf7/CVE-2015-1635 | ['cve poc', 'cve-2 OR cve_2', 'remote code execution'] | 3 | 2021-11-03 15:06:40+00:00 | 0 | 0 | Go | 0 | ['CVE-2015-1635', 'MS15-034'] |
+| synacktiv/CVE-2021-40539 | Exploitation code for CVE-2021-40539 | https://github.com/synacktiv/CVE-2021-40539 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-03 14:52:06+00:00 | 2 | 0 | Python | 0 | ['CVE-2021-40539'] |
 | dorkerdevil/CVE-2021-26294 | Directory Traversal in Afterlogic webmail aurora and pro | https://github.com/dorkerdevil/CVE-2021-26294 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 14:32:14+00:00 | 0 | 0 | | 0 | ['CVE-2021-26294'] |
 | guidepointsecurity/CVE-2021-29156 | None | https://github.com/guidepointsecurity/CVE-2021-29156 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 13:21:51+00:00 | 0 | 0 | | 0 | ['CVE-2021-29156'] |
 | Crypto-Virus/rari-fuse-vesper-pool-exploit-example | None | https://github.com/Crypto-Virus/rari-fuse-vesper-pool-exploit-example | ['exploit'] | 1 | 2021-11-03 13:21:58+00:00 | 0 | 0 | Solidity | 0 | [] |
 | nksf7/CVE-2020-14181 | PoC for CVE-2020-14181 - Jira User Enumeration via /ViewUserHover.jspa | https://github.com/nksf7/CVE-2020-14181 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-03 11:06:25+00:00 | 0 | 0 | Go | 0 | ['CVE-2020-14181'] |
 | sinjeanmin/cvedetails_2020_final | redoing cve_2020 repository | https://github.com/sinjeanmin/cvedetails_2020_final | ['cve-2 OR cve_2'] | 1 | 2021-11-03 11:17:03+00:00 | 0 | 0 | | 0 | [] |
 | imojne/CVE-2018-6574-POC | None | https://github.com/imojne/CVE-2018-6574-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-03 09:15:52+00:00 | 0 | 0 | | 0 | ['CVE-2018-6574'] |
-| ColdFusionX/CVE-2021-34429 | POC for CVE-2021-34429 | https://github.com/ColdFusionX/CVE-2021-34429 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-03 09:16:02+00:00 | 0 | 0 | | 0 | ['CVE-2021-34429'] |
+| ColdFusionX/CVE-2021-34429 | POC for CVE-2021-34429 | https://github.com/ColdFusionX/CVE-2021-34429 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2021-11-03 09:16:02+00:00 | 0 | 0 | | 0 | ['CVE-2021-34429'] |
 | orangecertcc/ecdummy | Exploiting dummy codes in Elliptic Curve Cryptography implementations | https://github.com/orangecertcc/ecdummy | ['exploit'] | 1 | 2021-11-03 08:38:51+00:00 | 0 | 0 | Python | 0 | [] |
 | TaroballzChen/CVE-2021-36260-metasploit | the metasploit script(POC) about CVE-2021-36260 | https://github.com/TaroballzChen/CVE-2021-36260-metasploit | ['cve poc', 'cve-2 OR cve_2', 'metasploit module OR payload'] | 3 | 2021-11-03 08:26:24+00:00 | 0 | 0 | Python | 0 | ['CVE-2021-36260'] |
-| Aviksaikat/CVE-2020-3452 | Test vulnerability of CVE-2020-3452 | https://github.com/Aviksaikat/CVE-2020-3452 | ['cve-2 OR cve_2'] | 1 | 2021-11-03 07:31:51+00:00 | 0 | 0 | Python | 0 | ['CVE-2020-3452'] |
 | snovvcrash/DInjector | Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL | https://github.com/snovvcrash/DInjector | ['shellcode'] | 1 | 2021-11-03 17:35:20+00:00 | 91 | 184 | C# | 36 | [] |
+| bo-zhang-cs/CGS-Pytorch | Unofficial PyTorch implementation of "Composing Good Shots by Exploiting Mutual Relations" | https://github.com/bo-zhang-cs/CGS-Pytorch | ['exploit'] | 1 | 2021-11-03 02:53:21+00:00 | 31 | 0 | Python | 0 | [] |
 | Athis-Offsec/Exploits-I-Made | None | https://github.com/Athis-Offsec/Exploits-I-Made | ['exploit'] | 1 | 2021-11-03 13:19:44+00:00 | 74 | 0 | Python | 0 | [] |
-| buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2021-11-03 15:53:54+00:00 | 46294 | 851 | Python | 201 | [] |
 | mjwhitta/runsc | Simple shellcode injector | https://github.com/mjwhitta/runsc | ['shellcode'] | 1 | 2021-11-03 03:20:29+00:00 | 40 | 3 | Go | 5 | [] |
 | aegoe/MAB | Exploration-Exploitation using MAB | https://github.com/aegoe/MAB | ['exploit'] | 1 | 2021-11-03 11:26:17+00:00 | 61412 | 0 | HTML | 1 | [] |
 | bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2021-11-03 07:34:11+00:00 | 4878 | 636 | C | 82 | [] |
