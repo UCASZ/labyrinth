@@ -1,12 +1,13 @@
 
 # Summary for results/2021/11/04
     
-41 records found after deduplication
+44 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-04 01:35:35+00:00 | 649754 | 25506 | Ruby | 11708 | [] |
-| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-04 01:06:15+00:00 | 10972 | 2 | Python | 0 | [] |
+| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-04 05:08:03+00:00 | 283420 | 6581 | C | 1817 | [] |
+| albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. About the paper title: Improving Multi-hop Embedded Knowledge Graph Question Answering by Introducing Relational Chain Reasoning | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-11-04 05:41:06+00:00 | 253 | 3 | Python | 0 | [] |
 | ngovinhhuy/Exploit_old_vuln_apps | None | https://github.com/ngovinhhuy/Exploit_old_vuln_apps | ['exploit'] | 1 | 2021-11-04 06:13:56+00:00 | 1620 | 0 | Python | 0 | [] |
 | Nwqda/Sashimi-Evil-OctoBot-Tentacle | Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to an arbitrary code execution. | https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle | ['exploit', 'vulnerability poc'] | 2 | 2021-11-04 00:05:10+00:00 | 4 | 0 | Python | 0 | [] |
 | 0bfxgh0st/lxd-privesc-exploit | lxd privilege escalation exploit | https://github.com/0bfxgh0st/lxd-privesc-exploit | ['exploit'] | 1 | 2021-11-04 00:11:34+00:00 | 3571 | 2 | Shell | 1 | [] |
@@ -24,25 +25,27 @@
 | HonestlyDex/CaffieneHub | Coffee + Exploiting | https://github.com/HonestlyDex/CaffieneHub | ['exploit'] | 1 | 2021-11-04 01:19:29+00:00 | 0 | 0 | | 0 | [] |
 | zkhalidul/GrabberWP-CVE-2017-5487 | None | https://github.com/zkhalidul/GrabberWP-CVE-2017-5487 | ['cve-2 OR cve_2'] | 1 | 2021-11-04 02:32:21+00:00 | 0 | 0 | Python | 0 | ['CVE-2017-5487'] |
 | oSumAtrIX/dinkleberg | Find out who is pretending to be offline | https://github.com/oSumAtrIX/dinkleberg | ['exploit'] | 1 | 2021-11-04 04:57:27+00:00 | 222 | 0 | Rust | 0 | [] |
-| albert-jin/Rce-KGQA | A novel pipeline framework for multi-hop complex KGQA task. About the paper title: Improving Multi-hop Embedded Knowledge Graph Question Answering by Introducing Relational Chain Reasoning | https://github.com/albert-jin/Rce-KGQA | ['rce'] | 1 | 2021-11-04 05:41:06+00:00 | 253 | 3 | Python | 0 | [] |
+| F-Masood/PHPLiteAdmin-1.9.3---Exploit-PoC | None | https://github.com/F-Masood/PHPLiteAdmin-1.9.3---Exploit-PoC | ['exploit'] | 1 | 2021-11-04 06:19:30+00:00 | 0 | 0 | | 0 | [] |
+| HeiTang/Zrss | RSS feeds for HITCON ZeroDay’s vulnerability list | https://github.com/HeiTang/Zrss | ['zeroday'] | 1 | 2021-11-04 01:06:15+00:00 | 10972 | 2 | Python | 0 | [] |
 | ehsaanqazi/Mind-Maps | Vulnerabilities in Web Application and How to test and exploit for them. | https://github.com/ehsaanqazi/Mind-Maps | ['exploit'] | 1 | 2021-11-04 05:51:42+00:00 | 2332 | 33 | | 3 | [] |
-| offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-04 05:08:03+00:00 | 283420 | 6581 | C | 1817 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-04 04:01:51+00:00 | 122718 | 224 | Python | 67 | [] |
+| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-04 00:45:18+00:00 | 43438 | 24 | | 14 | [] |
 | offensive-security/exploitdb-bin-sploits | Exploit Database binary exploits located in the /sploits directory | https://github.com/offensive-security/exploitdb-bin-sploits | ['exploit', 'sploit'] | 2 | 2021-11-04 00:06:03+00:00 | 1534764 | 1520 | Python | 521 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2021-11-04 06:43:56+00:00 | 5688 | 2961 | Python | 655 | [] |
 | hahwul/mad-metasploit | Metasploit custom modules, plugins, resource script and.. awesome metasploit collection | https://github.com/hahwul/mad-metasploit | ['metasploit module OR payload'] | 1 | 2021-11-04 00:16:48+00:00 | 172901 | 252 | Ruby | 78 | [] |
 | offensive-security/exploitdb-papers | exploit-database-papers | https://github.com/offensive-security/exploitdb-papers | ['exploit'] | 1 | 2021-11-04 01:36:28+00:00 | 2761190 | 357 | JavaScript | 55 | [] |
 | Maxul/Awesome-SGX-Open-Source | Open Source Projects that helps exploit Intel SGX technology | https://github.com/Maxul/Awesome-SGX-Open-Source | ['exploit'] | 1 | 2021-11-04 03:02:15+00:00 | 136 | 99 | | 17 | [] |
 | aria-tools/ARIA-tools | Tools for exploiting ARIA standard products | https://github.com/aria-tools/ARIA-tools | ['exploit'] | 1 | 2021-11-04 00:04:53+00:00 | 1282 | 46 | Python | 23 | [] |
 | chaitin/xray | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc _ 使用之前务必先阅读文档 | https://github.com/chaitin/xray | ['vulnerability poc'] | 1 | 2021-11-04 01:34:32+00:00 | 35880 | 5992 | Vue | 1256 | [] |
 | bsauce/kernel-security-learning | Anything about kernel security. CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug. | https://github.com/bsauce/kernel-security-learning | ['exploit'] | 1 | 2021-11-04 01:12:06+00:00 | 15726 | 265 | C | 37 | [] |
-| nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2021-11-04 00:45:18+00:00 | 43438 | 24 | | 14 | [] |
 | sepehrdaddev/packetstorm-exploits | None | https://github.com/sepehrdaddev/packetstorm-exploits | ['exploit'] | 1 | 2021-11-04 00:38:06+00:00 | 1597425 | 19 | C# | 9 | [] |
+| E-Team-Sec/ExploitDepository | 一个花里胡哨的Exploit运行框架 | https://github.com/E-Team-Sec/ExploitDepository | ['exploit'] | 1 | 2021-11-04 03:54:39+00:00 | 10545 | 0 | Python | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-11-04 04:49:27+00:00 | 3502558 | 2 | Batchfile | 0 | [] |
 | azwisec/linuxpriv | Linux Privilege Escalation Resourses. Aswin Govind Aswin Govind Sep 8·1 min read Linux Privilege Escalation tactics and techniques Resourses designed to help you improve your privilege escalation game. Links and Resourses: Enjoy 😃 https://blog.g0tmi1k.c | https://github.com/azwisec/linuxpriv | ['exploit'] | 1 | 2021-11-04 02:18:07+00:00 | 6 | 2 | | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-04 00:04:35+00:00 | 440846 | 35 | | 19 | [] |
 | subn0de/Roblox_Exploits | [Roblox] Downtown RP ESP (Gun Crates, Printers) -- genta | https://github.com/subn0de/Roblox_Exploits | ['exploit'] | 1 | 2021-11-04 03:10:24+00:00 | 1225 | 0 | Lua | 0 | [] |
+| macky168/sseopt | Stochastic Schemata Exploiter-based hyper-parameter optimization of Machine Learning | https://github.com/macky168/sseopt | ['exploit'] | 1 | 2021-11-04 07:25:52+00:00 | 44 | 0 | Python | 0 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2021-11-04 00:48:33+00:00 | 81 | 0 | PHP | 0 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-04 05:19:19+00:00 | 41 | 0 | C | 0 | [] |
 | dylanmeca/labsecurity | labsecurity is a framework and its use is for ethical hacking and computer security | https://github.com/dylanmeca/labsecurity | ['exploit'] | 1 | 2021-11-04 02:39:21+00:00 | 784 | 8 | Python | 5 | [] |
-| E-Team-Sec/ExploitDepository | 一个花里胡哨的Exploit运行框架 | https://github.com/E-Team-Sec/ExploitDepository | ['exploit'] | 1 | 2021-11-04 03:54:39+00:00 | 10545 | 0 | Python | 0 | [] |
-| F-Masood/PHPLiteAdmin-1.9.3---Exploit-PoC | None | https://github.com/F-Masood/PHPLiteAdmin-1.9.3---Exploit-PoC | ['exploit'] | 1 | 2021-11-04 06:19:30+00:00 | 0 | 0 | | 0 | [] |
+| H3rmesk1t/CNVD | CNVD | https://github.com/H3rmesk1t/CNVD | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2021-11-04 07:21:20+00:00 | 0 | 0 | nan | 0 | [] |
