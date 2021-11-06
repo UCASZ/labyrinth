@@ -1,12 +1,12 @@
 
 # Summary for results/2021/11/05
     
-99 records found after deduplication
+100 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2021-11-05 02:42:11+00:00 | 649777 | 25511 | Ruby | 11711 | [] |
-| maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc | None | https://github.com/maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-05 03:18:48+00:00 | 0 | 3 | JavaScript | 2 | ['CVE-2021-38001'] |
+| dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-05 23:29:59+00:00 | 2 | 0 | | 0 | [] |
 | kingbiagio/exploit | None | https://github.com/kingbiagio/exploit | ['exploit'] | 1 | 2021-11-05 09:56:38+00:00 | 7 | 0 | Python | 0 | [] |
 | jnajwhdanbiwduanwdioayuhbou2qgybroq/HSploit | HSploit - Open Source | https://github.com/jnajwhdanbiwduanwdioayuhbou2qgybroq/HSploit | ['exploit'] | 1 | 2021-11-05 07:54:37+00:00 | 15 | 0 | | 0 | [] |
 | xcihad/brutej | FTP Bruteforce attack automation with Metasploit | https://github.com/xcihad/brutej | ['metasploit module OR payload'] | 1 | 2021-11-05 15:22:08+00:00 | 6 | 0 | Shell | 0 | [] |
@@ -17,8 +17,8 @@
 | TheHackingRabbi/CVE-2021-42663 | CVE-2021-42663 - HTML Injection vulnerability in the Online event booking and reservation system. | https://github.com/TheHackingRabbi/CVE-2021-42663 | ['cve-2 OR cve_2'] | 1 | 2021-11-05 10:53:29+00:00 | 3 | 0 | | 1 | ['CVE-2021-42663'] |
 | TheHackingRabbi/CVE-2021-42662 | CVE-2021-42662 - Stored Cross-Site Scripting vulnerability in the Online event booking and reservation system. | https://github.com/TheHackingRabbi/CVE-2021-42662 | ['cve-2 OR cve_2'] | 1 | 2021-11-05 10:51:04+00:00 | 6 | 2 | | 1 | ['CVE-2021-42662'] |
 | leonz12345/Currency_Exchange_Arbitrage_Detection | This repo is for exploiting arbitrage in currency exchanging using the Bellman-Ford algorithm. | https://github.com/leonz12345/Currency_Exchange_Arbitrage_Detection | ['exploit'] | 1 | 2021-11-05 15:29:03+00:00 | 3 | 0 | Python | 0 | [] |
-| dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-05 23:29:59+00:00 | 2 | 0 | | 0 | [] |
 | js-on/CVE-2021-42694 | Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694) | https://github.com/js-on/CVE-2021-42694 | ['cve-2 OR cve_2'] | 1 | 2021-11-05 20:46:04+00:00 | 6 | 10 | Python | 6 | ['CVE-2021-42694'] |
+| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-05 02:15:22+00:00 | 21891 | 6103 | JavaScript | 1457 | [] |
 | pwn4all/exploit | None | https://github.com/pwn4all/exploit | ['exploit'] | 1 | 2021-11-05 06:12:35+00:00 | 24 | 0 | | 0 | [] |
 | js-on/CVE-2021-42574 | Generate malicious files using recently published bidi-attack (CVE-2021-42574) | https://github.com/js-on/CVE-2021-42574 | ['cve-2 OR cve_2'] | 1 | 2021-11-05 16:51:02+00:00 | 115 | 2 | Python | 2 | ['CVE-2021-42574'] |
 | Youheng-Lue/art-exploit | None | https://github.com/Youheng-Lue/art-exploit | ['exploit'] | 1 | 2021-11-05 21:25:29+00:00 | 11 | 0 | | 0 | [] |
@@ -28,9 +28,10 @@
 | openwrt-xiaomi/xmir-patcher | Firmware patcher for Xiaomi routers | https://github.com/openwrt-xiaomi/xmir-patcher | ['exploit'] | 1 | 2021-11-05 06:54:01+00:00 | 12001 | 2 | Python | 0 | [] |
 | raniceyue/cafe-exploitation | A blog where I write about exploiting cafes around Singapore | https://github.com/raniceyue/cafe-exploitation | ['exploit'] | 1 | 2021-11-05 13:26:02+00:00 | 22382 | 0 | HTML | 0 | [] |
 | YieldingExploiter/YieldingExploiter | None | https://github.com/YieldingExploiter/YieldingExploiter | ['exploit'] | 1 | 2021-11-05 14:34:16+00:00 | 49 | 0 | HTML | 0 | [] |
+| Leovalcante/wcs_scanner | Oracle WebCenter Sites Vulnerability Scanner | https://github.com/Leovalcante/wcs_scanner | ['exploit'] | 1 | 2021-11-05 23:10:52+00:00 | 13 | 1 | Python | 0 | [] |
 | ShootFirstAskQuestionsLater/ImGui_ExploitBase | C++ ImGui Roblox exploit base powered by WeAreDevs API - https://wearedevs.net/exploits/ | https://github.com/ShootFirstAskQuestionsLater/ImGui_ExploitBase | ['exploit'] | 1 | 2021-11-05 02:11:33+00:00 | 0 | 0 | | 0 | [] |
+| maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc | None | https://github.com/maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-05 03:18:48+00:00 | 0 | 3 | JavaScript | 2 | ['CVE-2021-38001'] |
 | Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc | None | https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2021-11-05 03:17:58+00:00 | 0 | 0 | | 5 | ['CVE-2021-38001'] |
-| hakivvi/CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-05 06:54:10+00:00 | 1739 | 18 | C++ | 7 | ['CVE-2021-40449'] |
 | photonepoch/modern-windows-exploitdev | None | https://github.com/photonepoch/modern-windows-exploitdev | ['exploit'] | 1 | 2021-11-05 04:38:30+00:00 | 0 | 0 | | 0 | [] |
 | System-CTL/Get-Exploits | My mentor tells me about his journey of OSCP and one python script that helps him alot . The script is about enumerate the target services with NMAP then get exploits of each enumerated service from searchsploit . The whole process done by few lines of Bas | https://github.com/System-CTL/Get-Exploits | ['exploit'] | 1 | 2021-11-05 22:50:10+00:00 | 0 | 0 | | 0 | [] |
 | SnyckTryx/Pirate-Exploits | None | https://github.com/SnyckTryx/Pirate-Exploits | ['exploit'] | 1 | 2021-11-05 22:44:51+00:00 | 0 | 0 | JavaScript | 0 | [] |
@@ -53,11 +54,10 @@
 | xinleizhao/K2-scripts | Sample exploit examples | https://github.com/xinleizhao/K2-scripts | ['exploit'] | 1 | 2021-11-05 07:12:28+00:00 | 0 | 0 | Shell | 0 | [] |
 | hihiben/exploit_simulation_template | None | https://github.com/hihiben/exploit_simulation_template | ['exploit'] | 1 | 2021-11-05 08:06:05+00:00 | 0 | 0 | TypeScript | 0 | [] |
 | hh-hunter/cve-2021-22205 | None | https://github.com/hh-hunter/cve-2021-22205 | ['cve-2 OR cve_2'] | 1 | 2021-11-05 05:35:11+00:00 | 0 | 0 | | 0 | ['CVE-2021-22205'] |
-| Leovalcante/wcs_scanner | Oracle WebCenter Sites Vulnerability Scanner | https://github.com/Leovalcante/wcs_scanner | ['exploit'] | 1 | 2021-11-05 23:10:52+00:00 | 13 | 1 | Python | 0 | [] |
+| hakivvi/CVE-2021-40449 | My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal. | https://github.com/hakivvi/CVE-2021-40449 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2021-11-05 06:54:10+00:00 | 1739 | 18 | C++ | 7 | ['CVE-2021-40449'] |
 | HonestlyDex/CaffieneHubWeb | None | https://github.com/HonestlyDex/CaffieneHubWeb | ['exploit'] | 1 | 2021-11-05 00:39:17+00:00 | 101 | 0 | SCSS | 0 | [] |
-| beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2021-11-05 02:15:22+00:00 | 21891 | 6103 | JavaScript | 1457 | [] |
-| pucarasec/zuthaka | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools. | https://github.com/pucarasec/zuthaka | ['exploit'] | 1 | 2021-11-05 18:15:37+00:00 | 27929 | 129 | Python | 16 | [] |
-| houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2021-11-05 07:41:53+00:00 | 244 | 158 | | 21 | [] |
+| Henry4E36/dedecms_5.8.1_RCE | dedecms_5.8.1代码执行漏洞 | https://github.com/Henry4E36/dedecms_5.8.1_RCE | ['rce'] | 1 | 2021-11-05 00:27:09+00:00 | 5 | 5 | Python | 1 | [] |
+| SecuProject/ADenum | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | ['exploit'] | 1 | 2021-11-05 16:52:48+00:00 | 87 | 14 | Python | 7 | [] |
 | edoardottt/edoardottt | Hey! I'm edoardottt! 🏴‍☠️👹 | https://github.com/edoardottt/edoardottt | ['exploit'] | 1 | 2021-11-05 15:07:44+00:00 | 31 | 0 | | 0 | [] |
 | th3ken-dev/TH3KEN-EDITION | None | https://github.com/th3ken-dev/TH3KEN-EDITION | ['exploit'] | 1 | 2021-11-05 20:32:43+00:00 | 3517762 | 2 | Batchfile | 0 | [] |
 | aryanguenthner/365 | OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting | https://github.com/aryanguenthner/365 | ['exploit'] | 1 | 2021-11-05 05:30:49+00:00 | 457 | 9 | Python | 4 | [] |
@@ -78,11 +78,11 @@
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers ☢ | https://github.com/hugsy/gef | ['exploit'] | 1 | 2021-11-05 10:36:29+00:00 | 5590 | 4071 | Python | 562 | [] |
 | Terradue/doc-tep-geohazards | Geohazards Thematic Exploitation guide | https://github.com/Terradue/doc-tep-geohazards | ['exploit'] | 1 | 2021-11-05 14:30:07+00:00 | 643786 | 9 | Python | 26 | [] |
 | offensive-security/exploitdb | The official Exploit Database repository | https://github.com/offensive-security/exploitdb | ['exploit'] | 1 | 2021-11-05 05:08:03+00:00 | 284034 | 6584 | C | 1817 | [] |
-| SecuProject/ADenum | AD Enum is a pentesting tool that allows to find misconfiguration through the the protocol LDAP and exploit some of those weaknesses with kerberos. | https://github.com/SecuProject/ADenum | ['exploit'] | 1 | 2021-11-05 16:52:48+00:00 | 87 | 14 | Python | 7 | [] |
-| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-11-05 02:19:42+00:00 | 136 | 0 | Python | 0 | [] |
-| Henry4E36/dedecms_5.8.1_RCE | dedecms_5.8.1代码执行漏洞 | https://github.com/Henry4E36/dedecms_5.8.1_RCE | ['rce'] | 1 | 2021-11-05 00:27:09+00:00 | 5 | 5 | Python | 1 | [] |
-| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-05 00:03:47+00:00 | 446139 | 35 | | 19 | [] |
+| Gallopsled/pwntools | CTF framework and exploit development library | https://github.com/Gallopsled/pwntools | ['exploit', 'shellcode'] | 2 | 2021-11-05 23:43:23+00:00 | 27085 | 8459 | Python | 1456 | [] |
+| houjingyi233/macOS-iOS-system-security | macos/ios exploit writeup | https://github.com/houjingyi233/macOS-iOS-system-security | ['exploit'] | 1 | 2021-11-05 07:41:53+00:00 | 244 | 158 | | 21 | [] |
+| pucarasec/zuthaka | Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools. | https://github.com/pucarasec/zuthaka | ['exploit'] | 1 | 2021-11-05 18:15:37+00:00 | 27929 | 129 | Python | 16 | [] |
 | gh0x0st/OSEP-Breaking-Chains | A collection of code that I am using as I work through the PEN-300 course. | https://github.com/gh0x0st/OSEP-Breaking-Chains | ['shellcode'] | 1 | 2021-11-05 15:50:05+00:00 | 45 | 1 | C# | 0 | [] |
+| brerodrigues/exploit_drafts | Drafts of exploits made for studying and consultation purposes | https://github.com/brerodrigues/exploit_drafts | ['exploit'] | 1 | 2021-11-05 02:19:42+00:00 | 136 | 0 | Python | 0 | [] |
 | 0x0021h/exploitsearch | pwnwiki's command-line query program | https://github.com/0x0021h/exploitsearch | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2021-11-05 06:18:11+00:00 | 13 | 0 | Python | 1 | [] |
 | sha0coder/scemu | shellcode emulator | https://github.com/sha0coder/scemu | ['shellcode'] | 1 | 2021-11-05 17:56:14+00:00 | 1025 | 0 | Rust | 0 | [] |
 | rssmith33/3-armed_bandit_task_model | Scripts for building and simulating data using an active inference model of the three-armed bandit task used in: Smith, R., Schwartenbeck, P., Stewart, J. L., Kuplicki, R., Ekhtiari, H., Paulus, M. P., & Tulsa 1000 Investigators. (2020). Imprecise action s | https://github.com/rssmith33/3-armed_bandit_task_model | ['exploit'] | 1 | 2021-11-05 16:29:35+00:00 | 2 | 0 | MATLAB | 0 | [] |
@@ -103,4 +103,5 @@
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2021-11-05 04:01:48+00:00 | 125376 | 225 | Python | 67 | [] |
 | gittina/expressyouRcell | None | https://github.com/gittina/expressyouRcell | ['rce'] | 1 | 2021-11-05 16:16:34+00:00 | 4006 | 0 | R | 0 | [] |
 | giovannyortegon/SocketsShellcodePortingAndCoding | Reverse Engineering Exploit and Tool coding for Security Professionals by James C. Foster with Mike Price | https://github.com/giovannyortegon/SocketsShellcodePortingAndCoding | ['exploit', 'shellcode'] | 2 | 2021-11-05 04:40:11+00:00 | 42 | 0 | C | 0 | [] |
+| Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2021-11-05 00:03:47+00:00 | 446139 | 35 | | 19 | [] |
 | Kerago/Shellcode-Exec-CPP | None | https://github.com/Kerago/Shellcode-Exec-CPP | ['shellcode'] | 1 | 2021-11-05 23:31:07+00:00 | 0 | 0 | C++ | 0 | [] |
