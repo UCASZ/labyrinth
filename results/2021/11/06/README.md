@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/06
     
-13 records found after deduplication
+14 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|------------|---------------|--------------------|
@@ -18,3 +18,4 @@
 | pwn4all/exploit | None | https://github.com/pwn4all/exploit | ['exploit'] | 1 | 2021-11-06 00:02:40+00:00 | 29 | 0 | | 0 | [] |
 | dyllan500/Exploit-Education-Write-Up | A collection of write ups on how I solved each exploit challenge on Exploit Education | https://github.com/dyllan500/Exploit-Education-Write-Up | ['exploit'] | 1 | 2021-11-06 00:13:08+00:00 | 11 | 0 | | 0 | [] |
 | oSumAtrIX/dinkleberg | Find out who is pretending to be offline | https://github.com/oSumAtrIX/dinkleberg | ['exploit'] | 1 | 2021-11-06 00:32:54+00:00 | 294 | 5 | Rust | 0 | [] |
+| mrippey/CisaGovRSSFeedParser | Query the CISA RSS feed for information on newly identified vulnerabilities being exploited. | https://github.com/mrippey/CisaGovRSSFeedParser | ['exploit'] | 1 | 2021-11-06 02:34:46+00:00 | 5 | 0 | Python | 0 | [] |
