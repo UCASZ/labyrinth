@@ -1,7 +1,7 @@
 
 # Summary for results/2021/11/07
     
-13 records found after deduplication
+15 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|----------------------------------|-----------------|---------------------------|--------|--------------------|-------------|---------------|--------------------|
@@ -18,3 +18,5 @@
 | eblair2/ios0day-poc | an ios zero day exploit | https://github.com/eblair2/ios0day-poc | ['exploit'] | 1 | 2021-11-07 01:16:25+00:00 | 224 | 0 | Objective-C | 0 | [] |
 | eblair2/webkitexploit-poc | a webkit exploit on ios 12 | https://github.com/eblair2/webkitexploit-poc | ['exploit'] | 1 | 2021-11-07 01:15:30+00:00 | 513 | 0 | C | 0 | [] |
 | shellcode-club/LiveTerm | Stream or share your Terminal on the web. Work for https://term.shellcode.sh. | https://github.com/shellcode-club/LiveTerm | ['shellcode'] | 1 | 2021-11-07 02:30:14+00:00 | 0 | 1 | nan | 0 | [] |
+| koharin/kernel_exploit | None | https://github.com/koharin/kernel_exploit | ['exploit'] | 1 | 2021-11-07 03:25:43+00:00 | 0 | 0 | Shell | 0 | [] |
+| 1amTylersMind/HowToBE | Learning Binary Exploitation | https://github.com/1amTylersMind/HowToBE | ['exploit'] | 1 | 2021-11-07 03:22:17+00:00 | 0 | 0 | C | 0 | [] |
